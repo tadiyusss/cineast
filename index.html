@@ -6,12 +6,10 @@
         <title>Cineast</title>
         <script src="utils/tailwind.js"></script>
         <script src="utils/alpine.js" defer></script>
-        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
         <script src="components/navigation.js"></script>
         <script src="components/actor-image.js"></script>
         <script src="components/movie-card-full.js"></script>
         <link rel="stylesheet" href="./css/fonts.css">
-        <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
     </head>
     <body class="font-montserrat" x-data="{items: [1,2,3,4,5,6,7,8,9,10,11,12]}">
         <top-navigation></top-navigation>
@@ -88,37 +86,42 @@
                 </div>
             </div>
 
+            <div class="max-w-7xl p-4 mx-auto space-y-12">
+                <div>
+                    <h1 class="text-3xl font-semibold text-center">Testemonials</h1>
+                    <p class="text-center mx-auto text-gray-600 max-w-lg">Lorem ipsum dolor, sit amet consectetur adipisicing elit autem explicabo incidunt dolor.</p> 
+                </div>
+                <div class="max-w-2xl mx-auto space-y-4">
+                    <h2 class="text-2xl">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit veniam explicabo veritatis! Molestiae cum rerum itaque possimus odit veniam eligendi a periam, praesentium facilis laboriosam cumque architecto. Officia unde eligendi praesentium?</h2>
+                    <div class="flex items-center space-x-4">
+                        <img src="https://placehold.co/250x250" alt="Testemonial Image" class="size-16 rounded">
+                        <div class="">
+                            <h4 class="font-semibold">John Doe</h4>
+                            <p class="text-sm">User</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="space-y-8 max-w-7xl p-4 mx-auto">
                 <div>
                     <h1 class="text-3xl font-semibold text-center">Frequenty Asked Questions</h1>
                     <p class="text-center mx-auto text-gray-600 max-w-lg">Find quick answers to common questions about our movie information platform.</p> 
                 </div>
-                <div class="border">
-                    <div class="collapse collapse-arrow bg-base-100 border border-base-300">
-                        <input type="radio" name="my-accordion-2" checked="checked" />
-                        <div class="collapse-title font-semibold">How do I create an account?</div>
-                        <div class="collapse-content text-sm">Click the "Sign Up" button in the top right corner and follow the registration process.</div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="space-y-2 max-w-7xl p-4 mx-auto">
-                <h1 class="text-lg font-semibold">Featured Today</h1>
-                <div class="grid md:grid-cols-4 grid-cols-2 gap-4">
-                    <template x-for="item in items">
-                        <movie-card-full></movie-card-full>
+                <div class="space-y-2">
+                    <template x-for="item in [1,2,3,4,5]">
+                        <div class="border rounded shadow-sm" x-data="{is_open: false}">
+                            <div class="px-4 py-3 cursor-pointer" @click="is_open = !is_open">
+                                <p class="font-medium text-lg">this is a question</p>
+                            </div>
+                            <div class="px-4 py-2 border-t" x-show="is_open" x-transition>
+                                <p class="text-gray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aperiam obcaecati, delectus corporis debitis maiores sit, perspiciatis sed cupiditate suscipit voluptate quae iure veniam aut ipsum voluptas assumenda eius repudiandae.</p>
+                            </div>
+                        </div>
                     </template>
                 </div>
             </div>
 
-            <div class="space-y-2 max-w-7xl p-4 mx-auto ">
-                <h1 class="text-lg font-semibold">Actors</h1>
-                <div class="grid lg:grid-cols-5 md:grid-cols-4 grid-cols-2 gap-4">
-                    <template x-for="item in items">
-                        <actor-image></actor-image>
-                    </template>
-                </div>
-            </div>
             <div class="w-full border px-4 py-10 bg-gray-200">
                 <div class="max-w-7xl mx-auto text-center space-y-2">
                     <div>
@@ -126,7 +129,7 @@
                         <p class="text-gray-700">Stay up to date with our latest news and products.</p>
                     </div>
                     <div class="flex items-center space-x-2 max-w-lg mx-auto">
-                        <input type="email" class="w-full border border-gray-300 px-2 py-1 rounded focus:outline-gray-500/40" placeholder="Enter your email here...">
+                        <input type="email" class="w-full bg-white border border-gray-300 px-2 py-1 rounded focus:outline-gray-500/40" placeholder="Enter your email here...">
                         <button class="text-sm bg-gray-500 hover:bg-gray-600 ease duration-200 text-white px-2 py-1 rounded">Subscribe</button>
                     </div>
                 </div>
