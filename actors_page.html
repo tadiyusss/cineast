@@ -1,11 +1,160 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+    <title>Cineast</title>
+    <script src="utils/tailwind.js"></script>
+    <script src="utils/alpine.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <script src="components/navigation.js"></script>
+    <script src="components/actor-image.js"></script>
+    <script src="components/movie-card-full.js"></script>
+    <link rel="stylesheet" href="./css/fonts.css">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://kit.fontawesome.com/a2e0e9e6f6.js" crossorigin="anonymous"></script>
+  </head>
+  <body class="">
+    <top-navigation></top-navigation>
+    <section class="max-w-7xl mx-auto px-4 md:pt-12">
+      <h1 class="font-light text-3xl md:text-5xl">Thaddeus Toledo</h1>
+      <p class="text-gray-400 text-base md:text-lg font-medium">Description</p>
+    </section>
+    <section class="max-w-7xl mx-auto px-4 py-6">
+      <div class="grid grid-cols-12 gap-4 items-stretch">
+        <div class="col-span-3 bg-gray-700 rounded-lg h-80 flex items-center justify-center text-gray-300">
+          <span class="text-sm">240 × 320</span>
+        </div>
+        <div class="col-span-6 bg-gray-600 rounded-lg h-80 flex items-center justify-center text-gray-300">
+          <span class="text-sm">480 × 320</span>
+        </div>
+        <div class="col-span-3 grid grid-rows-2 gap-4">
+          <div class="bg-gray-700 rounded-lg flex items-center justify-center text-gray-300">
+            <span class="text-xs uppercase tracking-wide">180 × 144</span>
+          </div>
+          <div class="bg-gray-700 rounded-lg flex items-center justify-center text-gray-300">
+            <span class="text-xs uppercase tracking-wide">180 × 144</span>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="max-w-7xl mx-auto px-4">
+      <p class="text-gray-400"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae orci sed lorem tincidunt gravida. Mauris nec dignissim magna. Curabitur elementum, velit a gravida ultrices, lacus turpis porttitor eros, a ultricies ex nisl a magna. </p>
+    </section>
+    <section class="max-w-7xl mx-auto px-6 py-10">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-2xl font-semibold flex items-center gap-2">
+          <span class="pl-4">Photos</span>
+        </h2>
+        <span class="text-gray-400 cursor-pointer text-sm hover:underline">›</span>
+      </div>
+      <div class="grid grid-cols-5 gap-4">
+        <div class="w-full h-40 bg-gray-700 rounded-lg flex items-center justify-center text-gray-400 text-xs">Photo</div>
+        <div class="w-full h-40 bg-gray-700 rounded-lg flex items-center justify-center text-gray-400 text-xs">Photo</div>
+        <div class="w-full h-40 bg-gray-700 rounded-lg flex items-center justify-center text-gray-400 text-xs">Photo</div>
+        <div class="w-full h-40 bg-gray-700 rounded-lg flex items-center justify-center text-gray-400 text-xs">Photo</div>
+        <div class="w-full h-40 bg-gray-700 rounded-lg flex items-center justify-center text-gray-400 text-xs">Photo</div>
+      </div>
+    </section>
+    <section class="max-w-7xl mx-auto px-6 py-10">
+      <h2 class="text-2xl font-semibold flex items-center gap-2 mb-6">
+        <span class="pl-4">Known For</span>
+      </h2>
+      <div class="grid md:grid-cols-2 gap-6">
+        <div class="flex gap-4 bg-gray-800 rounded-xl p-4">
+          <div class="w-24 h-32 bg-gray-700 rounded-md flex items-center justify-center text-gray-400 text-xs">Poster</div>
+          <div class="flex flex-col justify-between">
+            <div>
+              <h3 class="text-white text-lg font-medium">Movie Name</h3>
+              <p class="text-yellow-400 text-sm">Rating</p>
+              <p class="text-gray-400 text-sm">Year</p>
+            </div>
+          </div>
+        </div>
+        <div class="flex gap-4 bg-gray-800 rounded-xl p-4">
+          <div class="w-24 h-32 bg-gray-700 rounded-md flex items-center justify-center text-gray-400 text-xs">Poster</div>
+          <div class="flex flex-col justify-between">
+            <div>
+              <h3 class="text-white text-lg font-medium">Movie Name</h3>
+              <p class="text-yellow-400 text-sm">Rating</p>
+              <p class="text-gray-400 text-sm">Year</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="max-w-7xl mx-auto px-6 py-10">
+      <h2 class="text-2xl font-semibold mb-6 flex items-center gap-2">
+        <span class="pl-4">Personal Details</span>
+      </h2>
+      <div class="rounded-xl p-6 text-gray-900 divide-y divide-gray-700">
+        <div class="grid grid-cols-3 py-3">
+          <span class="font-semibold text-black">Height</span>
+          <span class="col-span-2">5' 10" (1.78 m)</span>
+        </div>
+        <div class="grid grid-cols-3 py-3">
+          <span class="font-semibold text-black">Born</span>
+          <span class="col-span-2">
+            <a href="#" class="text-blue-400 hover:underline">January 1, 1990</a> · <a href="#" class="text-blue-400 hover:underline">Lorem City, Ipsumland</a>
+          </span>
+        </div>
+        <div class="grid grid-cols-3 py-3">
+          <span class="font-semibold text-black">Spouse</span>
+          <span class="col-span-2">
+            <a href="#" class="text-blue-400 hover:underline">John Doe</a>
+            <span class="text-gray-400">2015 – present (2 children)</span>
+          </span>
+        </div>
+        <div class="grid grid-cols-3 py-3">
+          <span class="font-semibold text-black">Children</span>
+          <span class="col-span-2">Jane, Alex</span>
+        </div>
+        <div class="grid grid-cols-3 py-3">
+          <span class="font-semibold text-black">Parents</span>
+          <span class="col-span-2">Lorem & Ipsum</span>
+        </div>
+        <div class="grid grid-cols-3 py-3">
+          <span class="font-semibold text-black">Relatives</span>
+          <span class="col-span-2">
+            <a href="#" class="text-blue-400 hover:underline">Dolor Sit</a>
+            <span class="text-gray-400">(Grandparent)</span>
+          </span>
+        </div>
+        <div class="grid grid-cols-3 py-3">
+          <span class="font-semibold text-black">Publicity listings</span>
+          <span class="col-span-2">
+            <a href="#" class="text-blue-400 hover:underline">3 Articles</a>
+          </span>
+        </div>
+      </div>
+    </section>
+    <section class="max-w-7xl mx-auto px-6 py-10">
+      <h2 class="text-2xl font-semibold mb-6 flex items-center gap-2">
+        <span class="pl-4">Related Actors</span>
+      </h2>
+      <div class="grid md:grid-cols-3 gap-6">
+        <div class="flex gap-4 bg-gray-800 rounded-xl p-4 items-center">
+          <div class="w-20 h-24 bg-gray-700 rounded-md flex items-center justify-center text-gray-400 text-xs"> Photo </div>
+          <div>
+            <h3 class="text-white text-lg font-medium">Actor Name</h3>
+            <p class="text-gray-400 text-sm">Relation: Spouse</p>
+          </div>
+        </div>
+        <div class="flex gap-4 bg-gray-800 rounded-xl p-4 items-center">
+          <div class="w-20 h-24 bg-gray-700 rounded-md flex items-center justify-center text-gray-400 text-xs"> Photo </div>
+          <div>
+            <h3 class="text-white text-lg font-medium">Actor Name</h3>
+            <p class="text-gray-400 text-sm">Relation: Son/Daughter</p>
+          </div>
+        </div>
+        <div class="flex gap-4 bg-gray-800 rounded-xl p-4 items-center">
+          <div class="w-20 h-24 bg-gray-700 rounded-md flex items-center justify-center text-gray-400 text-xs"> Photo </div>
+          <div>
+            <h3 class="text-white text-lg font-medium">Actor Name</h3>
+            <p class="text-gray-400 text-sm">Relation: Cousin</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </body>
 </html>
