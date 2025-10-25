@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Cineast</title>
-        <script src="utils/tailwind.js"></script>
-        <script src="utils/alpine.js" defer></script>
-        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-        <script src="components/navigation.js"></script>
-        <script src="components/actor-image.js"></script>
-        <script src="components/movie-card-full.js"></script>
-        <link rel="stylesheet" href="./css/fonts.css">
-        <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cineast</title>
+    <script src="utils/tailwind.js"></script>
+    <script src="utils/alpine.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <script src="components/navigation.js"></script>
+    <script src="components/actor-image.js"></script>
+    <script src="components/movie-card-full.js"></script>
+    <link rel="stylesheet" href="./css/fonts.css">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+</head>
 <body class="font-montserrat" x-data="{items: [1,2,3,4,5,6,7,8,9,10,11,12]}">
     <top-navigation></top-navigation>
     <section x-data="{ show: false }" x-init="setTimeout(() => show = true, 200)" class="relative flex items-start min-h-screen overflow-hidden pb-24">
         <div class="absolute inset-0 bg-cover bg-center brightness-50 bg-gray-400"></div>
 
-        <div x-show="show" x-transition:enter="transition ease-out duration-1000" x-transition:enter-start="opacity-0 translate-y-6" x-transition:enter-end="opacity-100 translate-y-0" class="relative z-10 max-w-6xl px-8 pt-32 pb-16 ml-8">
+        <div x-show="show" x-transition:enter="transition ease-out duration-1000" x-transition:enter-start="opacity-0 translate-y-6" x-transition:enter-end="opacity-100 translate-y-0" class="relative z-10 max-w-6xl mx-auto px-8 pt-32 pb-16">
             <div class="flex justify-between items-start mb-6">
                 <div>
-                    <h1 class="text-4xl md:text-5xl text-white font-bold mb-2">The Delivery Rider</h1>
-                    <div class="flex items-center gap-4 text-gray-300">
+                    <h1 class="text-4xl md:text-5xl text-white font-bold mb-2 text-center">The Delivery Rider</h1>
+                    <div class="flex items-center justify-center gap-4 text-gray-300">
                         <span>2025</span>
                         <span>•</span>
                         <span>PG</span>
@@ -67,7 +67,7 @@
                 </div>
                 <div class="mb-4">
                     <span class="font-semibold">Writers:</span>
-                    <span class="text-blue-400 hover:underline cursor-pointer">Myleen OngkikoHenry </span>
+                    <span class="text-blue-400 hover:underline cursor-pointer">Myleen OngkikoHenry</span>
                     <span>•</span>
                     <span class="text-blue-400 hover:underline cursor-pointer">King Quitain</span>
                 </div>
@@ -82,27 +82,65 @@
             </div>
         </div>
     </section>
-    <section>
-        <div class="space-y-2 max-w-7xl p-4 mx-auto ">
-                <h1 class="text-lg font-semibold">Actors</h1>
-                <div class="grid lg:grid-cols-5 md:grid-cols-4 grid-cols-2 gap-4">
-                    <template x-for="item in items">
-                        <actor-image></actor-image>
-                    </template>
+
+    <section class="bg-white text-black py-10">
+        <div class="max-w-6xl mx-auto px-8 text-center">
+            <h2 class="text-3xl font-bold mb-6">Photos</h2>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+                <div class="text-center">
+                    <img src="https://placehold.co/150x200" alt="Baron Geisler" class="w-full h-auto rounded-lg mb-2">
+                </div>
+                <div class="text-center">
+                    <img src="https://placehold.co/150x200" alt="Jake Cuenca" class="w-full h-auto rounded-lg mb-2">
+                </div>
+                <div class="text-center">
+                    <img src="https://placehold.co/150x200" alt="Euwenn Mikaell" class="w-full h-auto rounded-lg mb-2">
+                </div>
+                <div class="text-center">
+                    <img src="https://placehold.co/150x200" alt="Additional Cast" class="w-full h-auto rounded-lg mb-2">
                 </div>
             </div>
+        </div>
     </section>
-    <div class="w-full border px-8 py-16 bg-gray-200">
-        <div class="max-w-7xl mx-auto text-center space-y-4">
-            <div class="mb-8">
-                <h4 class="text-2xl font-semibold mb-4">Newsletter</h4>
-                <p class="text-gray-700">Stay up to date with our latest news and products.</p>
-            </div>
-            <div class="flex items-center space-x-4 max-w-lg mx-auto">
-                <input type="email" class="w-full border border-gray-300 px-4 py-2 rounded focus:outline-gray-500/40" placeholder="Enter your email here...">
-                <button class="text-sm bg-gray-500 hover:bg-gray-600 ease duration-200 text-white px-6 py-2 rounded">Subscribe</button>
+
+    <section class="bg-white text-black py-10">
+        <div class="max-w-6xl mx-auto px-8">
+            <h2 class="text-3xl font-bold mb-6 text-center">Cast</h2>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-x-6 gap-y-8">
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Baron Geisler" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Baron Geisler</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Jake Cuenca" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Jake Cuenca</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Euwenn Mikaell" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Euwenn Mikaell</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Cyril Laugo" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Cyril Laugo</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Jayverson Castro" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Jayverson Castro</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Jess Pat Paguel" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Jess Pat Paguel</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Van Patrick Moya" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Van Patrick Moya</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Quinjoa Pangilinan" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Quinjoa Pangilinan</p>
+                </div>
             </div>
         </div>
-    </div>
+    </section>
 </body>
 </html>
