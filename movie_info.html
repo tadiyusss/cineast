@@ -18,11 +18,11 @@
     <section x-data="{ show: false }" x-init="setTimeout(() => show = true, 200)" class="relative flex items-start min-h-screen overflow-hidden pb-24">
         <div class="absolute inset-0 bg-cover bg-center brightness-50 bg-gray-400"></div>
 
-        <div x-show="show" x-transition:enter="transition ease-out duration-1000" x-transition:enter-start="opacity-0 translate-y-6" x-transition:enter-end="opacity-100 translate-y-0" class="relative z-10 max-w-6xl mx-auto px-8 pt-32 pb-16">
-            <div class="flex justify-between items-start mb-6">
-                <div>
-                    <h1 class="text-4xl md:text-5xl text-white font-bold mb-2 text-center">The Delivery Rider</h1>
-                    <div class="flex items-center gap-4 text-gray-300">
+        <div x-show="show" x-transition:enter="transition ease-out duration-1000" x-transition:enter-start="opacity-0 translate-y-6" x-transition:enter-end="opacity-100 translate-y-0" class="relative z-10 w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 sm:pt-24 lg:pt-32 pb-8 sm:pb-12 lg:pb-16">
+            <div class="flex flex-col lg:flex-row justify-between items-center mb-6 space-y-4 lg:space-y-0">
+                <div class="text-center lg:text-left w-full lg:w-auto">
+                    <h1 class="text-3xl sm:text-4xl lg:text-5xl text-white font-bold mb-2">Title</h1>
+                    <div class="flex flex-wrap justify-center lg:justify-start items-center gap-2 sm:gap-4 text-gray-300">
                         <span>2025</span>
                         <span>•</span>
                         <span>PG</span>
@@ -30,83 +30,90 @@
                         <span>2h 18m</span>
                     </div>
                 </div>
-                <div class="flex items-center gap-2">
-                    <div class="text-center">
-                        <div class="bg-green-500 rounded px-3 py-1">
-                            <span class="text-2xl font-bold text-white">101</span>
-                        </div>
-                        <p class="text-sm text-gray-300 mt-1">POPULARITY</p>
+                <div class="text-center">
+                    <div class="bg-green-500 rounded px-3 py-1">
+                        <span class="text-2xl font-bold text-white">101</span>
                     </div>
+                    <p class="text-sm text-gray-300 mt-1">POPULARITY</p>
                 </div>
             </div>
 
-            <div class="grid grid-cols-3 gap-6 mb-10">
-                <div class="col-span-2">
-                    <img src="https://placehold.co/1000x500" alt="Movie Hero Image" class="w-full h-[400px] object-cover rounded-lg shadow-lg">
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-4 sm:gap-6 mb-8 sm:mb-10">
+                <div class="lg:col-span-2">
+                    <img src="https://placehold.co/1000x500" alt="Movie Hero Image" 
+                         class="w-full h-48 sm:h-64 md:h-[300px] lg:h-[400px] xl:h-[500px] object-cover rounded-lg shadow-lg">
                 </div>
-                <div class="flex flex-col gap-4">
-                    <img src="https://placehold.co/500x250" alt="Movie Image" class="w-full h-48 object-cover rounded-lg shadow-lg">
-                    <img src="https://placehold.co/500x250" alt="Movie Image" class="w-full h-48 object-cover rounded-lg shadow-lg">
+                <div class="grid grid-cols-2 lg:grid-cols-1 gap-4">
+                    <img src="https://placehold.co/500x250" alt="Movie Image" 
+                         class="w-full h-40 sm:h-48 md:h-56 lg:h-48 xl:h-60 object-cover rounded-lg shadow-lg">
+                    <img src="https://placehold.co/500x250" alt="Movie Image" 
+                         class="w-full h-40 sm:h-48 md:h-56 lg:h-48 xl:h-60 object-cover rounded-lg shadow-lg">
                 </div>
             </div>
 
-            <div class="mb-8">
-                <div class="flex gap-4 mb-4">
+            <div class="mb-8 text-center lg:text-left">
+                <div class="flex flex-wrap justify-center lg:justify-start gap-2 sm:gap-4 mb-4">
                     <span class="px-4 py-1 bg-gray-800 rounded-full text-sm text-gray-300">Action</span>
                     <span class="px-4 py-1 bg-gray-800 rounded-full text-sm text-gray-300">Drama</span>
                 </div>
-                <p class="text-lg text-gray-300">A delivery driver accidentally witnesses a crime on the job with his eight-years-old surrogate son. Now, he must protect the child from violent forces.</p>
+                <p class="text-base sm:text-lg text-gray-300 max-w-prose">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             </div>
-            
-            <div class="text-gray-300">
-                <div class="mb-4">
+
+            <div class="text-gray-300 space-y-4 text-center lg:text-left">
+                <div class="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
                     <span class="font-semibold">Director:</span>
-                    <span class="text-blue-400 hover:underline cursor-pointer">Wang Yan</span>
-                    <span>•</span>
-                    <span class="text-blue-400 hover:underline cursor-pointer">BinLester Pimentel</span>
+                    <div class="flex flex-wrap justify-center gap-2">
+                        <span class="text-blue-400 hover:underline cursor-pointer">Wang Yan</span>
+                        <span>•</span>
+                        <span class="text-blue-400 hover:underline cursor-pointer">BinLester Pimentel</span>
+                    </div>
                 </div>
-                <div class="mb-4">
+                <div class="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
                     <span class="font-semibold">Writers:</span>
-                    <span class="text-blue-400 hover:underline cursor-pointer">Myleen OngkikoHenry</span>
-                    <span>•</span>
-                    <span class="text-blue-400 hover:underline cursor-pointer">King Quitain</span>
+                    <div class="flex flex-wrap justify-center gap-2">
+                        <span class="text-blue-400 hover:underline cursor-pointer">Myleen OngkikoHenry</span>
+                        <span>•</span>
+                        <span class="text-blue-400 hover:underline cursor-pointer">King Quitain</span>
+                    </div>
                 </div>
-                <div class="mb-4">
+                <div class="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
                     <span class="font-semibold">Stars:</span>
-                    <span class="text-blue-400 hover:underline cursor-pointer">Baron Geisler</span>
-                    <span>•</span>
-                    <span class="text-blue-400 hover:underline cursor-pointer">Jake Cuenca</span>
-                    <span>•</span>
-                    <span class="text-blue-400 hover:underline cursor-pointer">Euwenn Mikaell</span>
+                    <div class="flex flex-wrap justify-center gap-2">
+                        <span class="text-blue-400 hover:underline cursor-pointer">Baron Geisler</span>
+                        <span>•</span>
+                        <span class="text-blue-400 hover:underline cursor-pointer">Jake Cuenca</span>
+                        <span>•</span>
+                        <span class="text-blue-400 hover:underline cursor-pointer">Euwenn Mikaell</span>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="bg-white text-black py-10">
-        <div class="max-w-6xl mx-auto px-8 text-center">
-            <h2 class="text-3xl font-bold mb-6">Photos</h2>
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+    <section class="bg-white text-black py-8 sm:py-10">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6 text-center">Photos</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
                 <div class="text-center">
-                    <img src="https://placehold.co/150x200" alt="Baron Geisler" class="w-full h-auto rounded-lg mb-2">
+                    <img src="https://placehold.co/150x200" alt="Photo 1" class="w-full h-auto rounded-lg mb-2">
                 </div>
                 <div class="text-center">
-                    <img src="https://placehold.co/150x200" alt="Jake Cuenca" class="w-full h-auto rounded-lg mb-2">
+                    <img src="https://placehold.co/150x200" alt="Photo 2" class="w-full h-auto rounded-lg mb-2">
                 </div>
                 <div class="text-center">
-                    <img src="https://placehold.co/150x200" alt="Euwenn Mikaell" class="w-full h-auto rounded-lg mb-2">
+                    <img src="https://placehold.co/150x200" alt="Photo 3" class="w-full h-auto rounded-lg mb-2">
                 </div>
                 <div class="text-center">
-                    <img src="https://placehold.co/150x200" alt="Additional Cast" class="w-full h-auto rounded-lg mb-2">
+                    <img src="https://placehold.co/150x200" alt="Photo 4" class="w-full h-auto rounded-lg mb-2">
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="bg-white text-black py-10">
-        <div class="max-w-6xl mx-auto px-8">
-            <h2 class="text-3xl font-bold mb-6 text-center">Cast</h2>
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-x-6 gap-y-8">
+    <section class="bg-white text-black py-8 sm:py-10">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6 text-center">Cast</h2>
+            <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-4 sm:gap-x-6 gap-y-6 sm:gap-y-8">
                 <div class="flex flex-col items-center">
                     <img src="https://placehold.co/150x150" alt="Baron Geisler" class="w-36 h-36 object-cover rounded-full mb-3">
                     <p class="font-semibold text-center">Baron Geisler</p>
