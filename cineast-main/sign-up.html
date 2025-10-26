@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>CinEast Registration</title>
+		<script src="https://cdn.tailwindcss.com"></script>
+	</head>
+	<body class="bg-gradient-to-b from-gray-100 to-gray-300 flex items-center justify-center min-h-screen text-gray-900 font-sans">
+		<div class="flex flex-col md:flex-row items-center justify-center gap-12 p-6 w-full max-w-6xl">
+
+			<div class="relative z-10 bg-white border border-gray-300 rounded-2xl p-8 w-full md:w-[540px] shadow-2xl shadow-gray-400/30">
+				<div class="flex flex-col items-center mb-5">
+					<div class="w-12 h-12 bg-red-600 rounded-full flex items-center justify-center">
+						<span class="text-xs font-bold tracking-widest text-white">LOGO</span>
+					</div>
+					<h1 class="mt-3 text-3xl font-extrabold text-gray-900 tracking-tight">
+						<span class="text-red-800">Cin</span>
+						<span class="text-gray-900">East</span>
+					</h1>
+				</div>
+
+				<h2 class="text-center text-xl font-semibold text-gray-800 mb-1">Create Your Account</h2>
+				<p class="text-center text-gray-600 text-sm mb-5">
+					Already have an account?
+					<a href="login.html" class="text-blue-600 font-medium hover:underline">Login</a>
+				</p>
+
+				<form>
+					<div class="mb-3">
+						<label class="block text-sm mb-1 text-gray-600">Full Name</label>
+						<input type="text" placeholder="Enter your full name" class="w-full px-4 py-2 rounded-lg bg-gray-100 text-gray-900 border border-gray-300 focus:outline-none focus:border-blue-500" required />
+					</div>
+					<div class="mb-3">
+						<label class="block text-sm mb-1 text-gray-600">Email Address</label>
+						<input type="email" placeholder="Enter your email" class="w-full px-4 py-2 rounded-lg bg-gray-100 text-gray-900 border border-gray-300 focus:outline-none focus:border-blue-500" required />
+					</div>
+					<div class="mb-3">
+						<label class="block text-sm mb-1 text-gray-600">Password</label>
+						<input type="password" placeholder="Create a password" class="w-full px-4 py-2 rounded-lg bg-gray-100 text-gray-900 border border-gray-300 focus:outline-none focus:border-blue-500" required />
+					</div>
+					<div class="mb-5">
+						<label class="block text-sm mb-1 text-gray-600">Confirm Password</label>
+						<input type="password" placeholder="Confirm your password" class="w-full px-4 py-2 rounded-lg bg-gray-100 text-gray-900 border border-gray-300 focus:outline-none focus:border-blue-500" required />
+					</div>
+
+					<button type="submit" class="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 rounded-lg font-semibold transition">Sign Up</button>
+				</form>
+
+				<div class="flex items-center my-5">
+					<div class="flex-1 h-px bg-gray-300"></div>
+					<span class="px-2 text-gray-500 text-sm">OR</span>
+					<div class="flex-1 h-px bg-gray-300"></div>
+				</div>
+
+				<div class="flex gap-3">
+					<button class="flex-1 bg-gray-100 border border-gray-300 py-2 rounded-lg hover:bg-gray-200 transition">
+						<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/814px-Apple_logo_black.svg.png" alt="Apple" class="mx-auto w-5">
+					</button>
+					<button class="flex-1 bg-gray-100 border border-gray-300 py-2 rounded-lg hover:bg-gray-200 transition">
+						<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/2048px-Google_%22G%22_logo.svg.png" alt="Google" class="mx-auto w-5">
+					</button>
+					<button class="flex-1 bg-gray-100 border border-gray-300 py-2 rounded-lg hover:bg-gray-200 transition">
+						<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/500px-X_logo_2023_%28white%29.png" alt="X" class="mx-auto w-5 invert">
+					</button>
+				</div>
+			</div>
+
+			<div class="text-left max-w-md">
+				<h3 class="text-3xl font-bold mb-4 text-red-700">Join the Cineast Community</h3>
+				<ul class="space-y-3 text-gray-700 text-base leading-relaxed">
+					<li><span class="text-gray-900 font-semibold">Discover More:</span> Explore thousands of movies, series, and reviews.</li>
+					<li><span class="text-gray-900 font-semibold">Rate & Review:</span> Share your thoughts and shape movie rankings.</li>
+					<li><span class="text-gray-900 font-semibold">Build Your Watchlist:</span> Keep track of films you want to see and what you’ve finished.</li>
+					<li><span class="text-gray-900 font-semibold">Personalized For You:</span> Get the best recommendations based on your taste.</li>
+					<li><span class="text-gray-900 font-semibold">Connect & Contribute:</span> Join a growing film-loving community.</li>
+				</ul>
+			</div>
+		</div>
+	</body>
+</html>

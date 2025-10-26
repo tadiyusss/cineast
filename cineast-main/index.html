@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Cineast</title>
+		<script src="utils/tailwind.js"></script>
+		<script src="utils/alpine.js" defer></script>
+		<script src="components/navigation.js"></script>
+		<script src="components/actor-image.js"></script>
+		<script src="components/movie-card-full.js"></script>
+		<link rel="stylesheet" href="./css/fonts.css">
+	</head>
+	<body class="font-montserrat" x-data="{items: [1,2,3,4,5,6,7,8,9,10,11,12]}">
+		<top-navigation></top-navigation>
+		<section x-data="{ show: false }" x-init="setTimeout(() => show = true, 200)" class="relative flex items-center justify-center h-screen overflow-hidden">
+			<div class="absolute inset-0 bg-cover bg-center brightness-50 bg-gray-400"></div>
+			<div x-show="show" x-transition:enter="transition ease-out duration-1000" x-transition:enter-start="opacity-0 translate-y-6" x-transition:enter-end="opacity-100 translate-y-0" class="relative z-10 max-w-3xl text-center px-6">
+				<h1 class="text-5xl md:text-6xl text-white font-bold mb-4 drop-shadow-lg">Discover Your Next Favorite Movie</h1>
+				<p class="text-lg md:text-xl text-gray-300 mb-8"> Explore detailed information, ratings, and trailers of the latest blockbusters and hidden gems. </p>
+				<button class="bg-zinc-800 hover:bg-zinc-900 text-white px-6 py-3 rounded-full font-semibold transition">Browse Movies</button>
+			</div>
+		</section>
+		<main class="space-y-16 my-12">
+			<div class="space-y-8 max-w-7xl p-4 mx-auto">
+				<div>
+					<h1 class="text-3xl font-semibold text-center">Our Pricing</h1>
+					<p class="text-center mx-auto text-gray-600 max-w-lg">Unlock more features, deeper insights, and exclusive content choose a plan that matches your passion for film.</p>
+				</div>
+				<div class="grid md:grid-cols-3 grid-cols-1 gap-4 max-w-5xl mx-auto">
+					<template x-for="item in [1,2,3]">
+						<div class="border rounded shadow-sm p-4 space-y-4">
+							<h4>Free</h4>
+							<h3 class="text-4xl font-medium">₱0.00</h3>
+							<div class="space-y-2 py-4">
+								<h6 class="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h6>
+								<ul class="text-sm" x-data="{features: [1,2,3,4]}">
+									<template x-for="feature in features">
+										<li class="flex items-center space-x-2">
+											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-4 text-green-600">
+												<path fill-rule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clip-rule="evenodd" />
+											</svg>
+											<p x-text="'Feature ' + feature"></p>
+										</li>
+									</template>
+								</ul>
+							</div>
+							<button class="w-full border border-gray-300 rounded shadow-inner hover:bg-gray-100 shadow text-sm py-2 transition">Get Started with NAME</button>
+						</div>
+					</template>
+				</div>
+			</div>
+			<div class="space-y-8 max-w-7xl p-4 mx-auto">
+				<div>
+					<h1 class="text-3xl font-semibold text-center">Our Services</h1>
+					<p class="text-center mx-auto text-gray-600 max-w-lg">Unlock more features, deeper insights, and exclusive content choose a plan that matches your passion for film.</p>
+				</div>
+				<div class="grid md:grid-cols-3 grid-cols-1 gap-4">
+					<template x-for="item in [1,2,3]">
+						<div class="border border-base-300 p-4 space-y-2 rounded-lg bg-white shadow-xs">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-9 bg-zinc-900 text-white rounded p-2">
+								<path d="M2 3a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1H2Z"></path>
+								<path fill-rule="evenodd" d="M2 7.5h16l-.811 7.71a2 2 0 0 1-1.99 1.79H4.802a2 2 0 0 1-1.99-1.79L2 7.5ZM7 11a1 1 0 0 1 1-1h4a1 1 0 1 1 0 2H8a1 1 0 0 1-1-1Z" clip-rule="evenodd"></path>
+							</svg>
+							<h4 class="font-semibold text-lg" x-text="'Service Name ' + item"></h4>
+							<p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium officia voluptates reiciendis dolores.</p>
+						</div>
+					</template>
+				</div>
+				<div class="grid md:grid-cols-4 grid-cols-1 gap-4">
+					<template x-for="item in [4,5,6,7]">
+						<div class="border border-base-300 p-4 space-y-2 rounded-lg bg-white shadow-xs">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-9 bg-zinc-900 text-white rounded p-2">
+								<path d="M2 3a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1H2Z"></path>
+								<path fill-rule="evenodd" d="M2 7.5h16l-.811 7.71a2 2 0 0 1-1.99 1.79H4.802a2 2 0 0 1-1.99-1.79L2 7.5ZM7 11a1 1 0 0 1 1-1h4a1 1 0 1 1 0 2H8a1 1 0 0 1-1-1Z" clip-rule="evenodd"></path>
+							</svg>
+							<h4 class="font-semibold text-lg" x-text="'Service Name ' + item"></h4>
+							<p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium officia voluptates reiciendis dolores.</p>
+						</div>
+					</template>
+				</div>
+			</div>
+			<div x-data="{
+                    active: 0,
+                    visible: true,
+                    interval: 2000,
+                    leaveMs: 400,
+                    items: [
+                    {
+                        text: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit veniam explicabo veritatis! Molestiae cum rerum itaque possimus odit veniam eligendi a periam, praesentium facilis laboriosam cumque architecto. Officia unde eligendi praesentium?',
+                        img: 'https://placehold.co/250x250',
+                        name: 'John Doe',
+                        role: 'User'
+                    },
+                    {
+                        text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita culpa quasi, maiores voluptatibus molestiae veniam ducimus architecto eius rerum, voluptatem blanditiis reprehenderit!',
+                        img: 'https://placehold.co/250x250',
+                        name: 'Jane Smith',
+                        role: 'Designer'
+                    },
+                    {
+                        text: 'Velit veniam explicabo veritatis! Molestiae cum rerum itaque possimus odit veniam eligendi a periam praesentium facilis laboriosam cumque architecto.',
+                        img: 'https://placehold.co/250x250',
+                        name: 'Alex Johnson',
+                        role: 'Developer'
+                    }
+                    ],
+                    timer: null,
+                    start() {
+                    this.stop();
+                    this.timer = setInterval(() => this.next(), this.interval);
+                    },
+                    stop() {
+                    clearInterval(this.timer);
+                    this.timer = null;
+                    },
+                    next() {
+                    this.visible = false;
+                    setTimeout(() => {
+                        this.active = (this.active + 1) % this.items.length;
+                        this.visible = true;
+                    }, this.leaveMs);
+                    }
+                }" x-init="start()" @mouseenter="stop()" @mouseleave="start()" class="w-full p-4 py-16 mx-auto bg-gray-100">
+				<template x-for="(t, i) in items" :key="i">
+					<div x-show="visible && active === i" x-transition:enter.opacity.duration.300ms x-transition:leave.opacity.duration.300ms class="max-w-2xl mx-auto space-y-4">
+						<h2 class="text-2xl" x-text="t.text"></h2>
+						<div class="flex items-center space-x-4">
+							<img :src="t.img" alt="Testimonial Image" class="size-16 rounded">
+							<div>
+								<h4 class="font-semibold" x-text="t.name"></h4>
+								<p class="text-sm" x-text="t.role"></p>
+							</div>
+						</div>
+					</div>
+				</template>
+			</div>
+			<div class="space-y-8 max-w-7xl p-4 mx-auto">
+				<div>
+					<h1 class="text-3xl font-semibold text-center">Frequenty Asked Questions</h1>
+					<p class="text-center mx-auto text-gray-600 max-w-lg">Find quick answers to common questions about our movie information platform.</p>
+				</div>
+				<div class="space-y-2">
+					<template x-for="item in [1,2,3,4,5]">
+						<div class="border rounded shadow-sm" x-data="{is_open: false}">
+							<div class="px-4 py-3 cursor-pointer" @click="is_open = !is_open">
+								<p class="font-medium text-lg">this is a question</p>
+							</div>
+							<div class="px-4 py-2 border-t" x-show="is_open" x-transition>
+								<p class="text-gray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum aperiam obcaecati, delectus corporis debitis maiores sit, perspiciatis sed cupiditate suscipit voluptate quae iure veniam aut ipsum voluptas assumenda eius repudiandae.</p>
+							</div>
+						</div>
+					</template>
+				</div>
+			</div>
+			<div class="w-full border px-4 py-12 bg-gray-200">
+				<div class="max-w-7xl mx-auto text-center space-y-2">
+					<div>
+						<h4 class="text-2xl font-semibold">Newsletter</h4>
+						<p class="text-gray-700">Stay up to date with our latest news and products.</p>
+					</div>
+					<div class="flex items-center space-x-2 max-w-lg mx-auto">
+						<input type="email" class="w-full bg-white border border-gray-300 px-2 py-1 rounded focus:outline-gray-500/40" placeholder="Enter your email here...">
+						<button class="text-sm bg-gray-500 hover:bg-gray-600 ease duration-200 text-white px-2 py-1 rounded">Subscribe</button>
+					</div>
+				</div>
+			</div>
+		</main>
+	</body>
+</html>
