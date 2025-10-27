@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cineast</title>
+    <script src="utils/tailwind.js"></script>
+    <script src="utils/alpine.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <script src="components/navigation.js"></script>
+    <script src="components/actor-image.js"></script>
+    <script src="components/movie-card-full.js"></script>
+    <link rel="stylesheet" href="./css/fonts.css">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+</head>
+<body class="font-montserrat" x-data="{items: [1,2,3,4,5,6,7,8,9,10,11,12]}">
+    <top-navigation></top-navigation>
+    <section x-data="{ show: false }" x-init="setTimeout(() => show = true, 200)" class="relative flex items-start min-h-screen overflow-hidden pb-24">
+        <div class="absolute inset-0 bg-cover bg-center brightness-50 bg-gray-400"></div>
+
+        <div x-show="show" x-transition:enter="transition ease-out duration-1000" x-transition:enter-start="opacity-0 translate-y-6" x-transition:enter-end="opacity-100 translate-y-0" class="relative z-10 w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 sm:pt-24 lg:pt-32 pb-8 sm:pb-12 lg:pb-16">
+            <div class="flex flex-col lg:flex-row justify-between items-center mb-6 space-y-4 lg:space-y-0">
+                <div class="text-center lg:text-left w-full lg:w-auto">
+                    <h1 class="text-3xl sm:text-4xl lg:text-5xl text-white font-bold mb-2">Title</h1>
+                    <div class="flex flex-wrap justify-center lg:justify-start items-center gap-2 sm:gap-4 text-gray-300">
+                        <span>2025</span>
+                        <span>•</span>
+                        <span>PG</span>
+                        <span>•</span>
+                        <span>2h 18m</span>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <div class="bg-green-500 rounded px-3 py-1">
+                        <span class="text-2xl font-bold text-white">101</span>
+                    </div>
+                    <p class="text-sm text-gray-300 mt-1">POPULARITY</p>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-4 sm:gap-6 mb-8 sm:mb-10">
+                <div class="lg:col-span-2">
+                    <img src="https://placehold.co/1000x500" alt="Movie Hero Image" 
+                         class="w-full h-48 sm:h-64 md:h-[300px] lg:h-[400px] xl:h-[500px] object-cover rounded-lg shadow-lg">
+                </div>
+                <div class="grid grid-cols-2 lg:grid-cols-1 gap-4">
+                    <img src="https://placehold.co/500x250" alt="Movie Image" 
+                         class="w-full h-40 sm:h-48 md:h-56 lg:h-48 xl:h-60 object-cover rounded-lg shadow-lg">
+                    <img src="https://placehold.co/500x250" alt="Movie Image" 
+                         class="w-full h-40 sm:h-48 md:h-56 lg:h-48 xl:h-60 object-cover rounded-lg shadow-lg">
+                </div>
+            </div>
+
+            <div class="mb-8 text-center lg:text-left">
+                <div class="flex flex-wrap justify-center lg:justify-start gap-2 sm:gap-4 mb-4">
+                    <span class="px-4 py-1 bg-gray-800 rounded-full text-sm text-gray-300">Action</span>
+                    <span class="px-4 py-1 bg-gray-800 rounded-full text-sm text-gray-300">Drama</span>
+                </div>
+                <p class="text-base sm:text-lg text-gray-300 max-w-prose">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+
+            <div class="text-gray-300 space-y-4 text-center lg:text-left">
+                <div class="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
+                    <span class="font-semibold">Director:</span>
+                    <div class="flex flex-wrap justify-center gap-2">
+                        <span class="text-blue-400 hover:underline cursor-pointer">Wang Yan</span>
+                        <span>•</span>
+                        <span class="text-blue-400 hover:underline cursor-pointer">BinLester Pimentel</span>
+                    </div>
+                </div>
+                <div class="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
+                    <span class="font-semibold">Writers:</span>
+                    <div class="flex flex-wrap justify-center gap-2">
+                        <span class="text-blue-400 hover:underline cursor-pointer">Myleen OngkikoHenry</span>
+                        <span>•</span>
+                        <span class="text-blue-400 hover:underline cursor-pointer">King Quitain</span>
+                    </div>
+                </div>
+                <div class="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
+                    <span class="font-semibold">Stars:</span>
+                    <div class="flex flex-wrap justify-center gap-2">
+                        <span class="text-blue-400 hover:underline cursor-pointer">Baron Geisler</span>
+                        <span>•</span>
+                        <span class="text-blue-400 hover:underline cursor-pointer">Jake Cuenca</span>
+                        <span>•</span>
+                        <span class="text-blue-400 hover:underline cursor-pointer">Euwenn Mikaell</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-white text-black py-8 sm:py-10">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6 text-center">Photos</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
+                <div class="text-center">
+                    <img src="https://placehold.co/150x200" alt="Photo 1" class="w-full h-auto rounded-lg mb-2">
+                </div>
+                <div class="text-center">
+                    <img src="https://placehold.co/150x200" alt="Photo 2" class="w-full h-auto rounded-lg mb-2">
+                </div>
+                <div class="text-center">
+                    <img src="https://placehold.co/150x200" alt="Photo 3" class="w-full h-auto rounded-lg mb-2">
+                </div>
+                <div class="text-center">
+                    <img src="https://placehold.co/150x200" alt="Photo 4" class="w-full h-auto rounded-lg mb-2">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-white text-black py-8 sm:py-10">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6 text-center">Cast</h2>
+            <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-4 sm:gap-x-6 gap-y-6 sm:gap-y-8">
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Baron Geisler" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Baron Geisler</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Jake Cuenca" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Jake Cuenca</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Euwenn Mikaell" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Euwenn Mikaell</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Cyril Laugo" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Cyril Laugo</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Jayverson Castro" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Jayverson Castro</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Jess Pat Paguel" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Jess Pat Paguel</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Van Patrick Moya" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Van Patrick Moya</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <img src="https://placehold.co/150x150" alt="Quinjoa Pangilinan" class="w-36 h-36 object-cover rounded-full mb-3">
+                    <p class="font-semibold text-center">Quinjoa Pangilinan</p>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
