@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Checkout - Movie Subscription</title>
+		<script src="https://cdn.tailwindcss.com"></script>
+	</head>
+	<body class="bg-gray-50 text-gray-900">
+		<div class="max-w-6xl mx-auto p-8">
+			<!-- Header -->
+			<h1 class="text-2xl font-semibold mb-6">Checkout</h1>
+			<div class="grid grid-cols-3 gap-6">
+				<!-- Left Column -->
+				<div class="col-span-2 space-y-6">
+					<!-- Subscription Information -->
+					<div class="bg-white border rounded-lg shadow-sm p-6">
+						<h2 class="text-lg font-semibold mb-4">Subscription Info</h2>
+						<p class="text-sm mb-4 text-gray-700">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus debitis consectetur hic doloribus unde amet perspiciatis cumque aliquam. Itaque laudantium explicabo quae! Doloribus enim, harum quasi maxime asperiores quae quod?</p>
+						<div class="grid grid-cols-3 gap-4 text-sm">
+							<div>
+								<p class="text-gray-500">Full Name</p>
+								<p class="font-medium">Juan Dela Cruz</p>
+							</div>
+							<div>
+								<p class="text-gray-500">Email</p>
+								<p class="font-medium">juan.delacruz@email.com</p>
+							</div>
+							<div>
+								<p class="text-gray-500">Phone Number</p>
+								<p class="font-medium">+63 912 345 6789</p>
+							</div>
+						</div>
+					</div>
+					<!-- Payment Detail -->
+					<div class="bg-white border rounded-lg shadow-sm p-6">
+						<h2 class="text-lg font-semibold mb-4">Payment Detail</h2>
+						<p class="text-sm text-gray-700 mb-4">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Totam mollitia iste fugiat qui quis, similique asperiores exercitationem quibusdam libero repellendus temporibus, sapiente porro laborum, adipisci enim labore unde ipsam. Temporibus?</p>
+						<div class="space-y-4">
+							<label for="payment" class="block text-sm font-medium text-gray-700">Payment Method</label>
+							<select id="payment" name="payment" class="border border-gray-300 rounded-lg p-2 w-full focus:outline-none focus:ring-1 focus:ring-gray-400">
+								<option>Select Payment Method</option>
+								<option>GCash Payment</option>
+								<option>Card Payment</option>
+								<option>PayMaya Payment</option>
+							</select>
+						</div>
+					</div>
+					<!-- Cancellation Policy -->
+					<div class="bg-white border rounded-lg shadow-sm p-6">
+						<h2 class="text-lg font-semibold mb-2">Cancellation Policy</h2>
+						<p class="text-sm text-gray-700"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam dolore magni illo voluptates voluptatum. Voluptatum nam blanditiis soluta rerum fugit, eligendi in possimus exercitationem et repellat totam quidem harum asperiores? </p>
+						<a href="#" class="text-sm underline text-gray-600 mt-2 inline-block">See more details</a>
+					</div>
+				</div>
+				<!-- Right Column -->
+				<div class="space-y-6">
+					<div class="bg-white border rounded-lg shadow-sm p-6">
+						<h2 class="text-lg font-semibold mb-4">Summary</h2>
+						<div class="space-y-3 text-sm">
+							<div class="flex justify-between">
+								<p class="text-gray-500">Plan</p>
+								<p class="font-medium">Premium</p>
+							</div>
+							<div class="flex justify-between">
+								<p class="text-gray-500">Duration</p>
+								<p class="font-medium">1 Month</p>
+							</div>
+							<div class="flex justify-between">
+								<p class="text-gray-500">Price</p>
+								<p class="font-medium">₱499</p>
+							</div>
+							<hr>
+							<div class="flex justify-between text-base font-semibold">
+								<p>Total</p>
+								<p>₱499</p>
+							</div>
+						</div>
+					</div>
+					<div class="bg-white border rounded-lg shadow-sm p-6 space-y-4">
+						<label class="flex items-center space-x-2 text-sm">
+							<input type="checkbox" class="w-4 h-4 border-gray-300 rounded" />
+							<span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate deleniti fugiat suscipit minima necessitatibus esse excepturi consequuntur aperiam culpa consequatur, voluptas cumque quam nisi architecto, ipsum voluptatibus? Totam, dolores fugiat.</span>
+						</label>
+						<button class="w-full bg-gray-900 text-white py-2 rounded-lg hover:bg-gray-800 transition">Pay for Subscription</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
