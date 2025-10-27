@@ -2,7 +2,7 @@ class SiteHeader extends HTMLElement {
     connectedCallback() {
 
         this.innerHTML = `
-        <div class="w-full border-b border-base-300">
+        <div class="w-full border-b border-base-300 mr-0 md:mr-4">
             <nav class="container mx-auto p-4 flex items-center justify-between flex-wrap" x-data="{ open_nav: false }">
                 <div class="flex items-center justify-between w-full md:w-auto">
                     <a href="#" class="text-lg flex items-center space-x-2">
@@ -15,8 +15,11 @@ class SiteHeader extends HTMLElement {
                     </button>
                 </div>
                 <ul class="w-full md:w-auto md:flex md:items-center mt-4 md:mt-0 md:space-y-0 text-sm md:space-x-4 space-y-2" :class="{ 'hidden': !open_nav }" class="md:flex">
-                    <ul>
-                        <li><a href="#">Home</a></li>
+                    <ul class="flex flex-col md:flex-row md:space-x-4 space-y-2 md:space-y-0">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="movie_list.html">Movies</a></li>
+                        <li><a href="#">Actors</a></li>
+                        <li><a href="login.html">Login</a></li>
                     </ul>
                 </ul>
             </nav>

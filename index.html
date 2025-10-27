@@ -18,7 +18,7 @@
 			<div x-show="show" x-transition:enter="transition ease-out duration-1000" x-transition:enter-start="opacity-0 translate-y-6" x-transition:enter-end="opacity-100 translate-y-0" class="relative z-10 max-w-3xl text-center px-6">
 				<h1 class="text-5xl md:text-6xl text-white font-bold mb-4 drop-shadow-lg">Discover Your Next Favorite Movie</h1>
 				<p class="text-lg md:text-xl text-gray-300 mb-8"> Explore detailed information, ratings, and trailers of the latest blockbusters and hidden gems. </p>
-				<button class="bg-zinc-800 hover:bg-zinc-900 text-white px-6 py-3 rounded-full font-semibold transition">Browse Movies</button>
+				<a href="movie_list.html" class="bg-zinc-800 hover:bg-zinc-900 text-white px-6 py-3 rounded-full font-semibold ease duration-200">Browse Movies</a>
 			</div>
 		</section>
 		<main class="space-y-16 my-12">
@@ -28,26 +28,62 @@
 					<p class="text-center mx-auto text-gray-600 max-w-lg">Unlock more features, deeper insights, and exclusive content choose a plan that matches your passion for film.</p>
 				</div>
 				<div class="grid md:grid-cols-3 grid-cols-1 gap-4 max-w-5xl mx-auto">
-					<template x-for="item in [1,2,3]">
-						<div class="border rounded shadow-sm p-4 space-y-4">
-							<h4>Free</h4>
-							<h3 class="text-4xl font-medium">₱0.00</h3>
-							<div class="space-y-2 py-4">
-								<h6 class="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h6>
-								<ul class="text-sm" x-data="{features: [1,2,3,4]}">
-									<template x-for="feature in features">
-										<li class="flex items-center space-x-2">
-											<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-4 text-green-600">
-												<path fill-rule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clip-rule="evenodd" />
-											</svg>
-											<p x-text="'Feature ' + feature"></p>
-										</li>
-									</template>
-								</ul>
-							</div>
-							<button class="w-full border border-gray-300 rounded shadow-inner hover:bg-gray-100 shadow text-sm py-2 transition">Get Started with NAME</button>
+					<div class="border rounded shadow-sm p-4 space-y-4">
+						<h4>Free</h4>
+						<h3 class="text-4xl font-medium">₱0.00</h3>
+						<div class="space-y-2 py-4">
+							<h6 class="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h6>
+							<ul class="text-sm" x-data="{features: [1,2,3,4]}">
+								<template x-for="feature in features">
+									<li class="flex items-center space-x-2">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-4 text-green-600">
+											<path fill-rule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clip-rule="evenodd" />
+										</svg>
+										<p x-text="'Feature ' + feature"></p>
+									</li>
+								</template>
+							</ul>
 						</div>
-					</template>
+						<button class="w-full border border-gray-300 rounded shadow-inner hover:bg-gray-100 shadow text-sm py-2 transition">Get Started with NAME</button>
+					</div>
+
+					<div class="border rounded shadow-sm p-4 space-y-4">
+						<h4>Free</h4>
+						<h3 class="text-4xl font-medium">₱0.00</h3>
+						<div class="space-y-2 py-4">
+							<h6 class="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h6>
+							<ul class="text-sm" x-data="{features: [1,2,3,4]}">
+								<template x-for="feature in features">
+									<li class="flex items-center space-x-2">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-4 text-green-600">
+											<path fill-rule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clip-rule="evenodd" />
+										</svg>
+										<p x-text="'Feature ' + feature"></p>
+									</li>
+								</template>
+							</ul>
+						</div>
+						<button class="w-full border border-gray-300 rounded shadow-inner hover:bg-gray-100 shadow text-sm py-2 transition">Get Started with NAME</button>
+					</div>
+
+					<div class="border rounded shadow-sm p-4 space-y-4">
+						<h4>Free</h4>
+						<h3 class="text-4xl font-medium">₱0.00</h3>
+						<div class="space-y-2 py-4">
+							<h6 class="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h6>
+							<ul class="text-sm" x-data="{features: [1,2,3,4]}">
+								<template x-for="feature in features">
+									<li class="flex items-center space-x-2">
+										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-4 text-green-600">
+											<path fill-rule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clip-rule="evenodd" />
+										</svg>
+										<p x-text="'Feature ' + feature"></p>
+									</li>
+								</template>
+							</ul>
+						</div>
+						<button class="w-full border border-gray-300 rounded shadow-inner hover:bg-gray-100 shadow text-sm py-2 transition">Get Started with NAME</button>
+					</div>
 				</div>
 			</div>
 			<div class="space-y-8 max-w-7xl p-4 mx-auto">
