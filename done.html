@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You!</title>
+    <script src="https://cdn.tailwindcss.com/"></script>
+    <script src="components/navigation.js"></script>
+    <link rel="stylesheet" href="css/fonts.css">
+</head>
+<body class="bg-gray-100 font-montserrat">
+    <top-navigation></top-navigation>
+
+    <div class="max-w-xl border mx-auto my-24 rounded shadow-sm p-6 bg-white space-y-4 text-center">
+        <!-- Success Icon -->
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
+            class="size-24 text-green-600 mx-auto">
+            <path fill-rule="evenodd"
+                d="M16.403 12.652a3 3 0 0 0 0-5.304 3 3 0 0 0-3.75-3.751 3 3 0 0 0-5.305 0 3 3 0 0 0-3.751 3.75 3 3 0 0 0 0 5.305 3 3 0 0 0 3.75 3.751 3 3 0 0 0 5.305 0 3 3 0 0 0 3.751-3.75Zm-2.546-4.46a.75.75 0 0 0-1.214-.883l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z"
+                clip-rule="evenodd" />
+        </svg>
+
+        <!-- Title -->
+        <h4 class="text-center text-2xl font-semibold">Thank you for your purchase!</h4>
+
+        <!-- Message -->
+        <p class="text-gray-600 text-sm font-medium">
+            Your plan has been successfully upgraded and will reflect on your account shortly.
+        </p>
+        <p class="text-gray-600 text-sm font-medium">
+            You can continue exploring while we finalize your update.
+        </p>
+
+        <!-- Tracking ID -->
+        <p class="text-center text-gray-600 text-sm font-medium" id="tracking-id"></p>
+
+        <!-- Button -->
+        <div class="flex justify-center pt-4">
+            <a href="index.html"
+               class="px-5 py-2 bg-zinc-800 hover:bg-zinc-900 text-white text-sm font-medium rounded transition duration-150">
+               Return to Dashboard
+            </a>
+        </div>
+    </div>
+
+    <script>
+        // Get plan from URL: ?plan=Advanced
+        const params = new URLSearchParams(window.location.search);
+        document.getElementById('plan-name').textContent = plan;
+
+        // Generate a random tracking ID
+        const trackingId = '#' + Math.floor(100000 + Math.random() * 900000);
+        document.getElementById('tracking-id').textContent = trackingId;
+    </script>
+</body>
+</html>

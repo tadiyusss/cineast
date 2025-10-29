@@ -2,7 +2,7 @@ class SiteHeader extends HTMLElement {
     connectedCallback() {
 
         this.innerHTML = `
-        <div class="w-full border-b border-base-300 mr-0 md:mr-4">
+        <div class="w-full border-b border-base-300 mr-0 md:mr-4 bg-white">
             <nav class="container mx-auto p-4 flex items-center justify-between flex-wrap" x-data="{ open_nav: false }">
                 <div class="flex items-center justify-between w-full md:w-auto">
                     <a href="#" class="text-lg flex items-center space-x-2">
