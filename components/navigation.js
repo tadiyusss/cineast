@@ -6,7 +6,7 @@ class SiteHeader extends HTMLElement {
             <nav class="container mx-auto p-4 flex items-center justify-between flex-wrap" x-data="{ open_nav: false }">
                 <div class="flex items-center justify-between w-full md:w-auto">
                     <a href="#" class="text-lg flex items-center space-x-2">
-                        <h1>LOGO DITO</h1>
+                        <h1>CinEast</h1>
                     </a>
                     <button class="md:hidden block btn" @click="open_nav = !open_nav" aria-label="Toggle Navigation">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20" class="size-5">
