@@ -1,153 +1,213 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cineast</title>
-    <script src="utils/tailwind.js"></script>
-    <script src="utils/alpine.js" defer></script>
-    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-    <script src="components/navigation.js"></script>
-    <script src="components/actor-image.js"></script>
-    <script src="components/movie-card-full.js"></script>
-    <link rel="stylesheet" href="./css/fonts.css">
-    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cineast</title>
+  <script src="utils/tailwind.js"></script>
+  <script src="utils/alpine.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <script src="components/navigation.js"></script>
+  <script src="components/actor-image.js"></script>
+  <script src="components/movie-card-full.js"></script>
+  <link rel="stylesheet" href="./css/fonts.css">
+  <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
 </head>
 <body class="font-montserrat" x-data="{items: [1,2,3,4,5,6,7,8,9,10,11,12]}">
-    <top-navigation></top-navigation>
-    <section x-data="{ show: false }" x-init="setTimeout(() => show = true, 200)" class="relative flex items-start min-h-screen overflow-hidden pb-24">
-        <div class="absolute inset-0 bg-cover bg-center brightness-50 bg-gray-400"></div>
+  <top-navigation></top-navigation>
 
-        <div x-show="show" x-transition:enter="transition ease-out duration-1000" x-transition:enter-start="opacity-0 translate-y-6" x-transition:enter-end="opacity-100 translate-y-0" class="relative z-10 w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 sm:pt-24 lg:pt-32 pb-8 sm:pb-12 lg:pb-16">
-            <div class="flex flex-col lg:flex-row justify-between items-center mb-6 space-y-4 lg:space-y-0">
-                <div class="text-center lg:text-left w-full lg:w-auto">
-                    <h1 class="text-3xl sm:text-4xl lg:text-5xl text-white font-bold mb-2">Title</h1>
-                    <div class="flex flex-wrap justify-center lg:justify-start items-center gap-2 sm:gap-4 text-gray-300">
-                        <span>2025</span>
-                        <span>•</span>
-                        <span>PG</span>
-                        <span>•</span>
-                        <span>2h 18m</span>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <div class="bg-green-500 rounded px-3 py-1">
-                        <span class="text-2xl font-bold text-white">101</span>
-                    </div>
-                    <p class="text-sm text-gray-300 mt-1">POPULARITY</p>
-                </div>
-            </div>
+  <!-- Hero Section -->
+  <section x-data="{ show: false }"
+           x-init="setTimeout(() => show = true, 200)"
+           class="relative flex items-start min-h-screen overflow-hidden pb-24">
+    <div class="absolute inset-0 bg-cover bg-center bg-gray-100"></div>
 
-            <div class="grid grid-cols-1 lg:grid-cols-3 gap-4 sm:gap-6 mb-8 sm:mb-10">
-                <div class="lg:col-span-2">
-                    <img src="https://placehold.co/1000x500" alt="Movie Hero Image" 
-                         class="w-full h-48 sm:h-64 md:h-[300px] lg:h-[400px] xl:h-[500px] object-cover rounded-lg shadow-lg">
-                </div>
-                <div class="grid grid-cols-2 lg:grid-cols-1 gap-4">
-                    <img src="https://placehold.co/500x250" alt="Movie Image" 
-                         class="w-full h-40 sm:h-48 md:h-56 lg:h-48 xl:h-60 object-cover rounded-lg shadow-lg">
-                    <img src="https://placehold.co/500x250" alt="Movie Image" 
-                         class="w-full h-40 sm:h-48 md:h-56 lg:h-48 xl:h-60 object-cover rounded-lg shadow-lg">
-                </div>
-            </div>
+    <div x-show="show"
+         x-transition:enter="transition ease-out duration-1000"
+         x-transition:enter-start="opacity-0 translate-y-6"
+         x-transition:enter-end="opacity-100 translate-y-0"
+         class="relative z-10 w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 sm:pt-24 lg:pt-32 pb-8 sm:pb-12 lg:pb-16">
 
-            <div class="mb-8 text-center lg:text-left">
-                <div class="flex flex-wrap justify-center lg:justify-start gap-2 sm:gap-4 mb-4">
-                    <span class="px-4 py-1 bg-gray-800 rounded-full text-sm text-gray-300">Action</span>
-                    <span class="px-4 py-1 bg-gray-800 rounded-full text-sm text-gray-300">Drama</span>
-                </div>
-                <p class="text-base sm:text-lg text-gray-300 max-w-prose">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </div>
-
-            <div class="text-gray-300 space-y-4 text-center lg:text-left">
-                <div class="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
-                    <span class="font-semibold">Director:</span>
-                    <div class="flex flex-wrap justify-center gap-2">
-                        <span class="text-blue-400 hover:underline cursor-pointer">Wang Yan</span>
-                        <span>•</span>
-                        <span class="text-blue-400 hover:underline cursor-pointer">BinLester Pimentel</span>
-                    </div>
-                </div>
-                <div class="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
-                    <span class="font-semibold">Writers:</span>
-                    <div class="flex flex-wrap justify-center gap-2">
-                        <span class="text-blue-400 hover:underline cursor-pointer">Myleen OngkikoHenry</span>
-                        <span>•</span>
-                        <span class="text-blue-400 hover:underline cursor-pointer">King Quitain</span>
-                    </div>
-                </div>
-                <div class="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
-                    <span class="font-semibold">Stars:</span>
-                    <div class="flex flex-wrap justify-center gap-2">
-                        <span class="text-blue-400 hover:underline cursor-pointer">Baron Geisler</span>
-                        <span>•</span>
-                        <span class="text-blue-400 hover:underline cursor-pointer">Jake Cuenca</span>
-                        <span>•</span>
-                        <span class="text-blue-400 hover:underline cursor-pointer">Euwenn Mikaell</span>
-                    </div>
-                </div>
-            </div>
+      <!-- Title + Rating -->
+      <div class="flex flex-col lg:flex-row justify-between items-center mb-6 space-y-4 lg:space-y-0">
+        <div class="text-center lg:text-left w-full lg:w-auto">
+          <h1 id="movie-title" class="text-3xl sm:text-4xl lg:text-5xl font-bold mb-2">Title</h1>
+          <div id="movie-info" class="flex flex-wrap justify-center lg:justify-start items-center gap-2 sm:gap-4 text-gray-600 font-medium">
+            <span>Year</span>
+            <span>•</span>
+            <span>Rating</span>
+            <span>•</span>
+            <span>Runtime</span>
+          </div>
         </div>
-    </section>
-
-    <section class="bg-white text-black py-8 sm:py-10">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6 text-center">Photos</h2>
-            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
-                <div class="text-center">
-                    <img src="https://placehold.co/150x200" alt="Photo 1" class="w-full h-auto rounded-lg mb-2">
-                </div>
-                <div class="text-center">
-                    <img src="https://placehold.co/150x200" alt="Photo 2" class="w-full h-auto rounded-lg mb-2">
-                </div>
-                <div class="text-center">
-                    <img src="https://placehold.co/150x200" alt="Photo 3" class="w-full h-auto rounded-lg mb-2">
-                </div>
-                <div class="text-center">
-                    <img src="https://placehold.co/150x200" alt="Photo 4" class="w-full h-auto rounded-lg mb-2">
-                </div>
-            </div>
+        <div class="text-center">
+          <div class="bg-green-500 rounded px-3 py-1">
+            <span id="movie-popularity" class="text-2xl font-bold text-white">--</span>
+          </div>
+          <p class="text-sm text-gray-600 mt-1">POPULARITY</p>
         </div>
-    </section>
+      </div>
 
-    <section class="bg-white text-black py-8 sm:py-10">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6 text-center">Cast</h2>
-            <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-4 sm:gap-x-6 gap-y-6 sm:gap-y-8">
-                <div class="flex flex-col items-center">
-                    <img src="https://placehold.co/150x150" alt="Baron Geisler" class="w-36 h-36 object-cover rounded-full mb-3">
-                    <p class="font-semibold text-center">Baron Geisler</p>
-                </div>
-                <div class="flex flex-col items-center">
-                    <img src="https://placehold.co/150x150" alt="Jake Cuenca" class="w-36 h-36 object-cover rounded-full mb-3">
-                    <p class="font-semibold text-center">Jake Cuenca</p>
-                </div>
-                <div class="flex flex-col items-center">
-                    <img src="https://placehold.co/150x150" alt="Euwenn Mikaell" class="w-36 h-36 object-cover rounded-full mb-3">
-                    <p class="font-semibold text-center">Euwenn Mikaell</p>
-                </div>
-                <div class="flex flex-col items-center">
-                    <img src="https://placehold.co/150x150" alt="Cyril Laugo" class="w-36 h-36 object-cover rounded-full mb-3">
-                    <p class="font-semibold text-center">Cyril Laugo</p>
-                </div>
-                <div class="flex flex-col items-center">
-                    <img src="https://placehold.co/150x150" alt="Jayverson Castro" class="w-36 h-36 object-cover rounded-full mb-3">
-                    <p class="font-semibold text-center">Jayverson Castro</p>
-                </div>
-                <div class="flex flex-col items-center">
-                    <img src="https://placehold.co/150x150" alt="Jess Pat Paguel" class="w-36 h-36 object-cover rounded-full mb-3">
-                    <p class="font-semibold text-center">Jess Pat Paguel</p>
-                </div>
-                <div class="flex flex-col items-center">
-                    <img src="https://placehold.co/150x150" alt="Van Patrick Moya" class="w-36 h-36 object-cover rounded-full mb-3">
-                    <p class="font-semibold text-center">Van Patrick Moya</p>
-                </div>
-                <div class="flex flex-col items-center">
-                    <img src="https://placehold.co/150x150" alt="Quinjoa Pangilinan" class="w-36 h-36 object-cover rounded-full mb-3">
-                    <p class="font-semibold text-center">Quinjoa Pangilinan</p>
-                </div>
-            </div>
+      <!-- Images -->
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-4 sm:gap-6 mb-8 sm:mb-10">
+        <div class="lg:col-span-2">
+          <img id="hero-image" src="https://placehold.co/1000x500" alt="Movie Hero Image"
+               class="w-full h-48 sm:h-64 md:h-[300px] lg:h-[400px] xl:h-[500px] object-cover rounded-lg shadow-lg">
         </div>
-    </section>
+        <div id="side-images" class="grid grid-cols-2 lg:grid-cols-1 gap-4">
+          <img src="https://placehold.co/500x250" class="w-full h-40 sm:h-48 md:h-56 lg:h-48 xl:h-60 object-cover rounded-lg shadow-lg">
+          <img src="https://placehold.co/500x250" class="w-full h-40 sm:h-48 md:h-56 lg:h-48 xl:h-60 object-cover rounded-lg shadow-lg">
+        </div>
+      </div>
+
+      <!-- Genres and Plot -->
+      <div class="mb-8 text-center lg:text-left">
+        <div id="movie-genres" class="flex flex-wrap justify-center lg:justify-start gap-2 sm:gap-4 mb-4">
+          <span class="px-4 py-1 bg-gray-800 rounded-full text-sm text-gray-300">Genre</span>
+        </div>
+        <p id="movie-plot" class="text-base sm:text-lg max-w-prose">Plot...</p>
+      </div>
+
+      <!-- Credits -->
+      <div class="space-y-4 text-center lg:text-left">
+        <div class="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
+          <span class="font-semibold">Director:</span>
+          <div id="movie-directors" class="flex flex-wrap justify-center gap-2">
+            <span class="text-blue-400 hover:underline cursor-pointer">Name</span>
+          </div>
+        </div>
+
+        <div class="flex flex-col sm:flex-row items-center gap-2 sm:gap-4">
+          <span class="font-semibold">Stars:</span>
+          <div id="movie-actors" class="flex flex-wrap justify-center gap-2">
+            <span class="text-blue-400 hover:underline cursor-pointer">Actor</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Trailer -->
+      <div id="trailer-section" class="mt-10 hidden">
+        <h2 class="text-2xl font-bold mb-4">Watch Trailer</h2>
+        <div class="aspect-w-16 aspect-h-9">
+          <iframe id="movie-trailer" class="w-full h-[400px] rounded-lg shadow-lg" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Photos -->
+  <section class="bg-white text-black py-8 sm:py-10">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6 text-center">Photos</h2>
+      <div id="movie-photos" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6"></div>
+    </div>
+  </section>
+
+  <!-- Cast -->
+  <section class="bg-white text-black py-8 sm:py-10">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="text-2xl sm:text-3xl font-bold mb-4 sm:mb-6 text-center">Cast</h2>
+      <div id="movie-cast" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-4 sm:gap-x-6 gap-y-6 sm:gap-y-8"></div>
+    </div>
+  </section>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", async () => {
+      const params = new URLSearchParams(window.location.search);
+      const filename = params.get("id");
+      if (!filename) return console.error("Missing ?id parameter");
+
+      try {
+        const res = await fetch(`movies_data/${filename}`);
+        if (!res.ok) throw new Error("Movie data not found");
+        const movie = await res.json();
+
+        // --- Hero Section ---
+        document.getElementById("movie-title").textContent = movie.Title;
+        document.getElementById("movie-info").innerHTML = `
+          <span>${movie.Year || "N/A"}</span>
+          <span>•</span>
+          <span>${movie.Rated || "N/A"}</span>
+          <span>•</span>
+          <span>${movie.Runtime || "N/A"}</span>`;
+        document.getElementById("movie-popularity").textContent = movie.TMDb_Rating ? (movie.TMDb_Rating * 10).toFixed(0) : "--";
+        document.getElementById("hero-image").src = movie.Poster_TMDb || movie.Poster_OMDb;
+
+        // --- Side Images ---
+        const side = document.getElementById("side-images");
+        side.innerHTML = "";
+        movie.Backdrops?.slice(1, 3).forEach(img => {
+          const el = document.createElement("img");
+          el.src = img;
+          el.className = "w-full h-40 sm:h-48 md:h-56 lg:h-48 xl:h-60 object-cover rounded-lg shadow-lg";
+          side.appendChild(el);
+        });
+
+        // --- Genres ---
+        const genres = movie.Genre?.split(",") || [];
+        const genreContainer = document.getElementById("movie-genres");
+        genreContainer.innerHTML = "";
+        genres.forEach(g => {
+          const span = document.createElement("span");
+          span.className = "px-4 py-1 bg-gray-800 rounded-full text-sm text-gray-300";
+          span.textContent = g.trim();
+          genreContainer.appendChild(span);
+        });
+
+        // --- Plot ---
+        document.getElementById("movie-plot").textContent = movie.Plot;
+
+        // --- Directors ---
+        const directorsContainer = document.getElementById("movie-directors");
+        directorsContainer.innerHTML = (movie.Directors || [])
+          .map(d => `<span class="text-blue-400 hover:underline cursor-pointer">${d}</span>`)
+          .join("<span>•</span>");
+
+        // --- Actors ---
+        const actorsContainer = document.getElementById("movie-actors");
+        const actors = movie.Actors?.split(",") || [];
+        actorsContainer.innerHTML = actors
+          .map(a => `<span class="text-blue-400 hover:underline cursor-pointer">${a.trim()}</span>`)
+          .join("<span>•</span>");
+
+        // --- Trailer ---
+        if (movie.Trailer) {
+          const trailer = document.getElementById("movie-trailer");
+          document.getElementById("trailer-section").classList.remove("hidden");
+          const videoId = movie.Trailer.includes("v=")
+            ? movie.Trailer.split("v=")[1].split("&")[0]
+            : movie.Trailer.split("/").pop();
+          trailer.src = `https://www.youtube.com/embed/${videoId}`;
+        }
+
+        // --- Photos ---
+        const photos = document.getElementById("movie-photos");
+        photos.innerHTML = "";
+        (movie.Backdrops || []).forEach(img => {
+          const div = document.createElement("div");
+          div.className = "text-center";
+          div.innerHTML = `<img src="${img}" class="w-full h-auto rounded-lg mb-2">`;
+          photos.appendChild(div);
+        });
+
+        // --- Cast ---
+        const cast = document.getElementById("movie-cast");
+        cast.innerHTML = "";
+        (movie.Cast || []).forEach(actor => {
+          const div = document.createElement("div");
+          div.className = "flex flex-col items-center";
+          div.innerHTML = `
+            <img src="${actor.profile_url || 'https://placehold.co/150x150'}"
+                 alt="${actor.name}" class="w-36 h-36 object-cover rounded-full mb-3">
+            <p class="font-semibold text-center">${actor.name}</p>
+            <p class="text-sm text-gray-500 text-center">${actor.character || ''}</p>`;
+          cast.appendChild(div);
+        });
+
+      } catch (err) {
+        console.error("Error loading movie:", err);
+      }
+    });
+  </script>
 </body>
 </html>

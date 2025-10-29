@@ -51,14 +51,14 @@
 							.then(response => response.json())
 							.then(movieData => {
 								const movieCard = document.createElement("mc-vertical");
-								movieCard.setAttribute("image", movieData.Poster);
+								movieCard.setAttribute("image", movieData.Poster_OMDb || movieData.Poster_TMDb);
 								movieCard.setAttribute("name", movieData.Title);
 								movieCard.setAttribute("year", movieData.Year);
 								movieCard.setAttribute("genre", movieData.Genre);
 								movieCard.setAttribute("duration", movieData.Runtime);
-								movieCard.setAttribute("rating", movieData.Ratings[0].Value);
+								movieCard.setAttribute("rating", movieData.imdbRating);
 								movieCard.setAttribute("description", movieData.Plot);
-								movieCard.setAttribute("link", "#");
+								movieCard.setAttribute("link", `movie_info.html?id=${movie}`);
 								movies_containers[i].appendChild(movieCard);
 							});
 						});
