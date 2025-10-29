@@ -21,8 +21,8 @@ class MovieCardFull extends HTMLElement {
                         <span class="inline-flex items-center gap-1 rounded-md bg-white px-2 py-1 text-[10px] font-semibold text-black">
                             <svg class="h-3.5 w-3.5" viewBox="0 0 24 24" fill="currentColor">
                                 <path d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" />
-                            </svg> ${rating} </span>
-                        <button class="rounded-md border border-zinc-700 px-2 py-1 text-[10px] text-white hover:bg-zinc-900">Watchlist</button>
+                            </svg> ${rating} 
+                        </span>
                     </div>
                 </div>
             </article>
