@@ -27,7 +27,7 @@ class ActorImage extends HTMLElement {
                             ${featuresList}
                         </ul>
                     </div>
-                    <button class="w-full border border-gray-300 rounded shadow-inner hover:bg-gray-100 shadow text-sm py-2 transition">Get Started with ${title}</button>
+                    <a href="checkout.html?plan=${title}" class="w-full border border-gray-300 px-2 rounded shadow-inner hover:bg-gray-100 shadow text-sm py-2 transition">Get Started with ${title}</a>
                 </div>
                 `;
     }
