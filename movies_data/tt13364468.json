@@ -1,32 +1,79 @@
 {
     "Title": "Love Hostel",
     "Year": "2022",
-    "Rated": "N/A",
-    "Released": "25 Feb 2022",
-    "Runtime": "100 min",
-    "Genre": "Action, Crime, Romance",
-    "Director": "Shanker Raman",
-    "Writer": "Mehak Jamal, Shanker Raman, Kunal Sharma",
-    "Actors": "Bobby Deol, Vikrant Massey, Sanya Malhotra",
     "Plot": "Set against the pulsating backdrop of rustic North India, Love Hostel traces the volatile journey of a spirited young couple, being hunted by a ruthless mercenary.",
     "Language": "Hindi",
     "Country": "India",
+    "Rated": "N/A",
+    "Runtime": "100 min",
+    "Genre": "Action, Crime, Romance",
+    "Director": "Shanker Raman",
+    "Actors": "Bobby Deol, Vikrant Massey, Sanya Malhotra",
     "Awards": "3 wins & 5 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNmViZjNlOGYtNDNiMy00MzU5LWFiNzQtMjlhYTc0Y2YzMDE1XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt13364468",
+    "imdbRating": "5.8",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.063,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNmViZjNlOGYtNDNiMy00MzU5LWFiNzQtMjlhYTc0Y2YzMDE1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/gjp2tU35OCLErpIG5pKqgBc9Ch7.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/dERyRJqr3u9X7wGU5D4dUl7sFv8.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.8/10"
+            "name": "Vikrant Massey",
+            "character": "Ashu Shokeen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zvpP52P7CtVXYONmvWrH1aOcRTx.jpg"
+        },
+        {
+            "name": "Sanya Malhotra",
+            "character": "Jyoti Dilawar",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sQ0VIqGLecfpwYayO05Z7NC32yN.jpg"
+        },
+        {
+            "name": "Bobby Deol",
+            "character": "Viraj Singh Dagar",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+        },
+        {
+            "name": "Raj Arjun",
+            "character": "DSP Sushil Rathi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3lW4MxXhkeBavAkvPLpYdExFIZ.jpg"
+        },
+        {
+            "name": "Swaroopa Ghosh",
+            "character": "Kamala Dilawar (Dadi)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/12p3p0GMDagVZvelK4RgZfZ3pJt.jpg"
+        },
+        {
+            "name": "Aditi Vasudev",
+            "character": "Nidhi Dahiya",
+            "profile_url": null
+        },
+        {
+            "name": "Sidharth Bhardwaj",
+            "character": "Chaudhary",
+            "profile_url": "https://image.tmdb.org/t/p/w500/42TZeix1jGwlEPKIYFJk3jFyZbj.jpg"
+        },
+        {
+            "name": "Yogi Singha",
+            "character": "Constable Jhakkad",
+            "profile_url": null
+        },
+        {
+            "name": "Yudhvir Ahlawat",
+            "character": "Rakesh (Jyoti's Brother)",
+            "profile_url": null
+        },
+        {
+            "name": "Simran Rawal",
+            "character": "Babli Dilawar",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.8",
-    "imdbVotes": "11,408",
-    "imdbID": "tt13364468",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Shanker Raman"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 828901
 }

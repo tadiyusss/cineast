@@ -1,36 +1,79 @@
 {
     "Title": "Hero",
     "Year": "2002",
-    "Rated": "PG-13",
-    "Released": "27 Aug 2004",
-    "Runtime": "107 min",
-    "Genre": "Action, Adventure, Drama",
-    "Director": "Yimou Zhang",
-    "Writer": "Feng Li, Yimou Zhang, Bin Wang",
-    "Actors": "Jet Li, Tony Leung Chiu-wai, Maggie Cheung",
     "Plot": "A defense officer, Nameless, was summoned by the King of Qin regarding his success of terminating three warriors.",
     "Language": "Mandarin",
     "Country": "Hong Kong, China",
+    "Rated": "PG-13",
+    "Runtime": "107 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Yimou Zhang",
+    "Actors": "Jet Li, Tony Leung Chiu-wai, Maggie Cheung",
     "Awards": "Nominated for 1 Oscar. 46 wins & 48 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTlkZWVjYzQtZmI1My00MGM2LTlmZjEtNjU1M2Y1MTRkNmZjXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0299977",
+    "imdbRating": "7.9",
+    "BoxOffice": "$53,710,019",
+    "TMDb_Rating": 6.287,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYTlkZWVjYzQtZmI1My00MGM2LTlmZjEtNjU1M2Y1MTRkNmZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/wD7D0B9U9ooanxyhtgLKaqM7www.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/mB1ew7LzBSMTcNTU7pEZNuthvhj.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.9/10"
+            "name": "Dustin Hoffman",
+            "character": "Bernard 'Bernie' Laplante",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "85/100"
+            "name": "Geena Davis",
+            "character": "Gale Gayley",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bx9ufx5cS7FfHDFFeT71syBh428.jpg"
+        },
+        {
+            "name": "Andy García",
+            "character": "John Bubber",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9EivXoBlczZcFBet96WOoFbDsfF.jpg"
+        },
+        {
+            "name": "Joan Cusack",
+            "character": "Evelyn Laplante",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ytjiXEqnaEYtS7XkYmoUXPrZCm5.jpg"
+        },
+        {
+            "name": "Kevin J. O'Connor",
+            "character": "Chucky",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9ZO0QYkxjhThd8IVqSJw7gHyQ68.jpg"
+        },
+        {
+            "name": "Chevy Chase",
+            "character": "Deke - Channel 4 News Director",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xmAcHXakDi0elKsCl2sRjtobQnx.jpg"
+        },
+        {
+            "name": "Maury Chaykin",
+            "character": "Winston",
+            "profile_url": "https://image.tmdb.org/t/p/w500/Aqmsu1UHo40Md4RlLGfotSt8Lrr.jpg"
+        },
+        {
+            "name": "Stephen Tobolowsky",
+            "character": "Wallace",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
+        },
+        {
+            "name": "Christian Clemenson",
+            "character": "James Conklin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uki9bmhoR4V4x0E7uVTCj9iZwNy.jpg"
+        },
+        {
+            "name": "Tom Arnold",
+            "character": "Chick",
+            "profile_url": "https://image.tmdb.org/t/p/w500/z2ajL1ozVCS4Ug04zOGCNH06OPP.jpg"
         }
     ],
-    "Metascore": "85",
-    "imdbRating": "7.9",
-    "imdbVotes": "192,049",
-    "imdbID": "tt0299977",
-    "Type": "movie",
-    "DVD": "06 Jan 2004",
-    "BoxOffice": "$53,710,019",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Stephen Frears"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 10699
 }

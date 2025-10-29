@@ -1,32 +1,67 @@
 {
     "Title": "Wolves of War",
     "Year": "2022",
-    "Rated": "N/A",
-    "Released": "13 Sep 2022",
-    "Runtime": "87 min",
-    "Genre": "Action, Thriller, War",
-    "Director": "Giles Alderson",
-    "Writer": "Ben Mole, Toby Kearton, Sam Ellis",
-    "Actors": "Rupert Graves, Ed Westwick, Jack Parr",
     "Plot": "At the end of WWII, a tough British officer leads a band of Allied commandos into enemy territory in Bavaria on one last impossible mission to extract an American held hostage by the Germans.",
     "Language": "English",
     "Country": "United Kingdom",
+    "Rated": "N/A",
+    "Runtime": "87 min",
+    "Genre": "Action, Thriller, War",
+    "Director": "Giles Alderson",
+    "Actors": "Rupert Graves, Ed Westwick, Jack Parr",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOGRmNTRmY2EtMjM5ZS00NTVjLThkZWMtZDM1NDIxYWIwNDAxXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt14618028",
+    "imdbRating": "4.0",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.5,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BOGRmNTRmY2EtMjM5ZS00NTVjLThkZWMtZDM1NDIxYWIwNDAxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/k4xPHr0DGiaeg4rIWSF1HW9Vwi6.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "4.0/10"
+            "name": "Ed Westwick",
+            "character": "Jack Wallace",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sI2M7uu76HUkJk562siAK8vt50.jpg"
+        },
+        {
+            "name": "Matt Willis",
+            "character": "Captain Norwood",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oWgpRkWLCWCuhxgYKhNoTZU4Uia.jpg"
+        },
+        {
+            "name": "Sam Gittins",
+            "character": "Deegan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ofqq4fxHXxo2bmku9ATP67CsRIq.jpg"
+        },
+        {
+            "name": "Éva Magyar",
+            "character": "Elsa",
+            "profile_url": "https://image.tmdb.org/t/p/w500/r6l5CydyL3nQebzhYWlUomzlPMV.jpg"
+        },
+        {
+            "name": "Anastasia Martin",
+            "character": "Hannah",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wCq7yNDlBZNcxXmHJ3kWhleTlKB.jpg"
+        },
+        {
+            "name": "Rupert Graves",
+            "character": "Professor Hopper",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6tS8XMuTS04xXTfeWFjJED6SFBF.jpg"
+        },
+        {
+            "name": "Scott Rose-Marsh",
+            "character": "Becker",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4RGAzQRdgyV0l6BdCDutKvQY9aS.jpg"
+        },
+        {
+            "name": "Leroy Kincaide",
+            "character": "Bomber Pilot",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "4.0",
-    "imdbVotes": "666",
-    "imdbID": "tt14618028",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Giles Alderson"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=Dn8Vyp0_fjA",
+    "TMDb_ID": 843399
 }

@@ -1,32 +1,77 @@
 {
     "Title": "Forgotten Love",
     "Year": "2023",
-    "Rated": "TV-MA",
-    "Released": "27 Sep 2023",
-    "Runtime": "140 min",
-    "Genre": "Drama, Romance",
-    "Director": "Michal Gazda",
-    "Writer": "Marcin Baczynski, Mariusz Kuczewski, Tadeusz Dolega-Mostowicz",
-    "Actors": "Leszek Lichota, Maria Kowalska, Ignacy Liss",
     "Plot": "A once-respected surgeon professor Rafal Wilczur who's lost his family and his memory gets a chance at redemption when he reconnects with someone from his forgotten past who can help him find the answers he needs.",
     "Language": "Polish",
     "Country": "Poland",
+    "Rated": "TV-MA",
+    "Runtime": "140 min",
+    "Genre": "Drama, Romance",
+    "Director": "Michal Gazda",
+    "Actors": "Leszek Lichota, Maria Kowalska, Ignacy Liss",
     "Awards": "8 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjA3MGFiZGMtNmIwYi00OTVjLWJmMGYtYzRlY2Q3NmQ2YjZkXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt26596953",
+    "imdbRating": "7.5",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.842,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNjA3MGFiZGMtNmIwYi00OTVjLWJmMGYtYzRlY2Q3NmQ2YjZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/8mHfCmc2dt6wk2DNc0NXlYXOzVj.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.5/10"
+            "name": "Leszek Lichota",
+            "character": "Rafał Wilczur / Antoni Kosiba",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4jLHDFGiD1hMjLCiSc0pGH5rC6Q.jpg"
+        },
+        {
+            "name": "Maria Kowalska",
+            "character": "Marysia Wilczur",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7TeVx1wvJYs0CQgv0VaGkj2Fk6L.jpg"
+        },
+        {
+            "name": "Ignacy Liss",
+            "character": "Leszek Czyński",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3fK3RMdqBoLrgl0FjFORKjS3rLb.jpg"
+        },
+        {
+            "name": "Anna Szymańczyk",
+            "character": "Zośka",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7855u4AOw6QlnU9yAYluurpyD37.jpg"
+        },
+        {
+            "name": "Izabela Kuna",
+            "character": "Eleonora Czyńska",
+            "profile_url": null
+        },
+        {
+            "name": "Mikołaj Grabowski",
+            "character": "Stanisław Czyński",
+            "profile_url": "https://image.tmdb.org/t/p/w500/afgYu49wSZrJm4EzONRsxKUSEeP.jpg"
+        },
+        {
+            "name": "Mirosław Haniszewski",
+            "character": "Jerzy Dobraniecki",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dSaVma6MiyR1OfZuwUQs7bcciXt.jpg"
+        },
+        {
+            "name": "Artur Barciś",
+            "character": "Butler",
+            "profile_url": "https://image.tmdb.org/t/p/w500/n6DVAasjjJA6TtXygonn7GRcziB.jpg"
+        },
+        {
+            "name": "Małgorzata Mikołajczak",
+            "character": "Beata Wilczur",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xEgnWxiByQNUddKXWDOsIwrSCvz.jpg"
+        },
+        {
+            "name": "Jarosław Gruda",
+            "character": "Lesien",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zVHgfbE4a3KyYQnA2YWvbw6Ftt1.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.5",
-    "imdbVotes": "11,606",
-    "imdbID": "tt26596953",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Michał Gazda"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 1081676
 }

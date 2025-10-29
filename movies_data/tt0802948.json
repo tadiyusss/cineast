@@ -1,36 +1,80 @@
 {
     "Title": "An American Crime",
     "Year": "2007",
-    "Rated": "R",
-    "Released": "07 Dec 2007",
-    "Runtime": "98 min",
-    "Genre": "Biography, Crime, Drama",
-    "Director": "Tommy O'Haver",
-    "Writer": "Tommy O'Haver, Irene Turner",
-    "Actors": "Elliot Page, Hayley McFarland, Nick Searcy",
     "Plot": "The true story of suburban housewife Gertrude Baniszewski, who kept a teenage girl locked in the basement of her Indiana home during the 1960s.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "R",
+    "Runtime": "98 min",
+    "Genre": "Biography, Crime, Drama",
+    "Director": "Tommy O'Haver",
+    "Actors": "Elliot Page, Hayley McFarland, Nick Searcy",
     "Awards": "Nominated for 1 Primetime Emmy. 3 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOGExMjY3YzctY2Y1Yi00ZWU3LTg1ODktODAxNDQ1ZTAxMjIzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0802948",
+    "imdbRating": "7.2",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.306,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BOGExMjY3YzctY2Y1Yi00ZWU3LTg1ODktODAxNDQ1ZTAxMjIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/bLsE0sMI1bycBxZX7QNYghy5iyi.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/e53j9OUWh5pGYpkSIc0of2rCAsW.jpg",
+        "https://image.tmdb.org/t/p/w500/nQnSvhWnCnHT9Rj1LCX7Kl1pFqR.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.2/10"
+            "name": "Elliot Page",
+            "character": "Sylvia Likens",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eCeFgzS8dYHnMfWQT0oQitCrsSz.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "40%"
+            "name": "Catherine Keener",
+            "character": "Gertrude Baniszewski",
+            "profile_url": "https://image.tmdb.org/t/p/w500/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+        },
+        {
+            "name": "Hayley McFarland",
+            "character": "Jennifer Faye 'Jennie' Likens",
+            "profile_url": "https://image.tmdb.org/t/p/w500/x2JAEC10XI6Ie2sArUzMbe4l2Mh.jpg"
+        },
+        {
+            "name": "Nick Searcy",
+            "character": "Lester Likens",
+            "profile_url": "https://image.tmdb.org/t/p/w500/AnqbYGdLLaUaMfCtE0zYiRiI7E6.jpg"
+        },
+        {
+            "name": "Romy Rosemont",
+            "character": "Betty Likens",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dzhrqpUa7W6lVjuigj0G28WrHQz.jpg"
+        },
+        {
+            "name": "Ari Graynor",
+            "character": "Paula Baniszewski",
+            "profile_url": "https://image.tmdb.org/t/p/w500/evAMlS0LdoVtdWdSjlnVPDgX9Vv.jpg"
+        },
+        {
+            "name": "Scout Taylor-Compton",
+            "character": "Stephanie Baniszewski",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2QmUKgO6Vsaz38CqXUsHINV8aZR.jpg"
+        },
+        {
+            "name": "Tristan Jarred",
+            "character": "Johnny Baniszewski",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tvSxu5wxI6yDogKekprZWTORWrH.jpg"
+        },
+        {
+            "name": "Hannah Leigh",
+            "character": "Shirley Baniszewski",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yqATrpoKQWNJ3U3QedJSyAjFG3l.jpg"
+        },
+        {
+            "name": "Bradley Whitford",
+            "character": "Prosecutor",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oeDv2qZWTxELLaNtOIoeG72leNY.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.2",
-    "imdbVotes": "38,430",
-    "imdbID": "tt0802948",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Tommy O'Haver"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=Yn-RqhFl3Xs",
+    "TMDb_ID": 13008
 }

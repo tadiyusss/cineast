@@ -1,40 +1,81 @@
 {
     "Title": "Small Town Crime",
     "Year": "2017",
-    "Rated": "R",
-    "Released": "19 Jan 2018",
-    "Runtime": "91 min",
-    "Genre": "Action, Crime, Drama",
-    "Director": "Eshom Nelms, Ian Nelms",
-    "Writer": "Eshom Nelms, Ian Nelms",
-    "Actors": "John Hawkes, Anthony Anderson, Octavia Spencer",
     "Plot": "An alcoholic ex-cop finds a woman on the roadside who was left for dead. He offers to find the killer pro bono as a private investigator. Her granddad hires him. Things get nasty.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "R",
+    "Runtime": "91 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Eshom Nelms, Ian Nelms",
+    "Actors": "John Hawkes, Anthony Anderson, Octavia Spencer",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTdmOTUxNGYtNDQ5MS00YTQzLWFkYWItMzNiNzNhNWFmNTc4XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt5751998",
+    "imdbRating": "6.6",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.365,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZTdmOTUxNGYtNDQ5MS00YTQzLWFkYWItMzNiNzNhNWFmNTc4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/scaazdj3prZ5H9YyKYqPM47GulO.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/zR2Vtn3teP6ZHyGz0YbyOUz3MzY.jpg",
+        "https://image.tmdb.org/t/p/w500/bvXK8ca4f2IkvencORN8T2jzZRW.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.6/10"
+            "name": "John Hawkes",
+            "character": "Mike Kendall",
+            "profile_url": "https://image.tmdb.org/t/p/w500/c0mDB6TApVcJ3LLM1gicjyUeD5A.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "82%"
+            "name": "Anthony Anderson",
+            "character": "Teddy Banks",
+            "profile_url": "https://image.tmdb.org/t/p/w500/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "68/100"
+            "name": "Octavia Spencer",
+            "character": "Kelly Banks",
+            "profile_url": "https://image.tmdb.org/t/p/w500/35SOy4yQZ9xRSJ0q1L5RLhXfhqN.jpg"
+        },
+        {
+            "name": "Robert Forster",
+            "character": "Steve Yendel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vGDifxN2PnO69rnpg6FoWkocFCD.jpg"
+        },
+        {
+            "name": "Clifton Collins Jr.",
+            "character": "Mood",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qG3doVXFax1EmYR1EqMvLbx5wwz.jpg"
+        },
+        {
+            "name": "Michael Vartan",
+            "character": "Detective Crawford",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5HCb1CxwIgiZAjKMe9BG8VtHE80.jpg"
+        },
+        {
+            "name": "Caity Lotz",
+            "character": "Heidi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nagw4Y9EVjCjw2r9BaXa67KjJsi.jpg"
+        },
+        {
+            "name": "James Lafferty",
+            "character": "Tony Lama",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lvUyG8wwYPUl8x5byd1g5Y2A0ia.jpg"
+        },
+        {
+            "name": "Stefanie Scott",
+            "character": "Ivy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mBRaixP8IVGGo3pPXXDHErZP6wt.jpg"
+        },
+        {
+            "name": "Daniel Sunjata",
+            "character": "Detective Whitman",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tyhz6ABcGao9r98sb94bsYWYz4M.jpg"
         }
     ],
-    "Metascore": "68",
-    "imdbRating": "6.6",
-    "imdbVotes": "13,084",
-    "imdbID": "tt5751998",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Eshom Nelms",
+        "Ian Nelms"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=c63I7rjWcYw",
+    "TMDb_ID": 412000
 }

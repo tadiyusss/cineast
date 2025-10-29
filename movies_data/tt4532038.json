@@ -1,40 +1,81 @@
 {
     "Title": "The War with Grandpa",
     "Year": "2020",
-    "Rated": "PG",
-    "Released": "09 Oct 2020",
-    "Runtime": "94 min",
-    "Genre": "Comedy, Drama, Family",
-    "Director": "Tim Hill",
-    "Writer": "Tom J. Astle, Matt Ember, Robert Kimmel Smith",
-    "Actors": "Robert De Niro, Uma Thurman, Rob Riggle",
     "Plot": "Upset that he has to share the room he loves with his grandfather, Peter decides to declare war in an attempt to get it back.",
     "Language": "English",
     "Country": "United States, United Kingdom, Canada",
+    "Rated": "PG",
+    "Runtime": "94 min",
+    "Genre": "Comedy, Drama, Family",
+    "Director": "Tim Hill",
+    "Actors": "Robert De Niro, Uma Thurman, Rob Riggle",
     "Awards": "1 win total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTJhYWYyYWEtMGZjOC00YzEyLWJkMzgtMmFiZWI1MzJiZDE4XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt4532038",
+    "imdbRating": "5.7",
+    "BoxOffice": "$21,277,892",
+    "TMDb_Rating": 6.432,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZTJhYWYyYWEtMGZjOC00YzEyLWJkMzgtMmFiZWI1MzJiZDE4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/ltyARDw2EFXZ2H2ERnlEctXPioP.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/xZLmPDzYBya21I2byGY5vqCBL3J.jpg",
+        "https://image.tmdb.org/t/p/w500/oUcMA3oHN0LPUjLSmshjPYQJJX2.jpg",
+        "https://image.tmdb.org/t/p/w500/iHkJl1vvl1vYjcf8FgpvYLNRHC2.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.7/10"
+            "name": "Robert De Niro",
+            "character": "Ed",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "29%"
+            "name": "Uma Thurman",
+            "character": "Sally",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "34/100"
+            "name": "Rob Riggle",
+            "character": "Arthur",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+        },
+        {
+            "name": "Oakes Fegley",
+            "character": "Peter",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jDiuzOh12xmrkwtnZWBPEEjpNva.jpg"
+        },
+        {
+            "name": "Laura Marano",
+            "character": "Mia",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fpW1Swq6BfAoAw88ZhKf1pssu30.jpg"
+        },
+        {
+            "name": "Cheech Marin",
+            "character": "Danny",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+        },
+        {
+            "name": "Jane Seymour",
+            "character": "Diane",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5ATnv4BV9FZbL6hsqH40TijIINK.jpg"
+        },
+        {
+            "name": "Christopher Walken",
+            "character": "Jerry",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+        },
+        {
+            "name": "Juliocesar Chavez",
+            "character": "Billy",
+            "profile_url": null
+        },
+        {
+            "name": "Isaac Kragten",
+            "character": "Steve",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7i9jUc77ol1zf7cse86UulWKx79.jpg"
         }
     ],
-    "Metascore": "34",
-    "imdbRating": "5.7",
-    "imdbVotes": "27,213",
-    "imdbID": "tt4532038",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$21,277,892",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Tim Hill"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=EohVvIWg-Oc",
+    "TMDb_ID": 425001
 }

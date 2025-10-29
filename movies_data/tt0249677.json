@@ -1,36 +1,81 @@
 {
     "Title": "Lady and the Tramp 2: Scamp's Adventure",
     "Year": "2001",
-    "Rated": "G",
-    "Released": "27 Feb 2001",
-    "Runtime": "69 min",
-    "Genre": "Animation, Adventure, Family, Musical, Romance",
-    "Director": "Darrell Rooney, Jeannine Roussel(co-director)",
-    "Writer": "Bill Motz (screenplay), Bob Roth (screenplay), Tom Rogers (additional screenplay material), Flip Kobler (additional screenplay material), Cindy Marcus (additional screenplay material), Ward Greene (characters)",
-    "Actors": "Scott Wolf, Alyssa Milano, Chazz Palminteri, Jeff Bennett",
     "Plot": "Seeking the freedom to be a wild dog, the son of Lady and the Tramp runs away to join a gang of junkyard dogs.",
     "Language": "English",
     "Country": "USA, Australia",
+    "Rated": "G",
+    "Runtime": "69 min",
+    "Genre": "Animation, Adventure, Family, Musical, Romance",
+    "Director": "Darrell Rooney, Jeannine Roussel(co-director)",
+    "Actors": "Scott Wolf, Alyssa Milano, Chazz Palminteri, Jeff Bennett",
     "Awards": "1 win & 7 nominations.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTFlNTI4MjgtNmU3Mi00ODQwLTg5MWYtMjAyNDVjMDM3NWY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTEwMTkwOTI@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0249677",
+    "imdbRating": "5.9",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.342,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYTFlNTI4MjgtNmU3Mi00ODQwLTg5MWYtMjAyNDVjMDM3NWY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTEwMTkwOTI@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/Wrae7kKu7AQQhGfk22OtRVQ8Sk.jpg",
+        "https://image.tmdb.org/t/p/w500/neYYHTQaHv4Gz9hca8RjDBiYcLF.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.9/10"
+            "name": "Scott Wolf",
+            "character": "Scamp (speaking) (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pg1K2DNuX5LWZ1KqYpX6ykdeLYa.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "45%"
+            "name": "Alyssa Milano",
+            "character": "Angel (speaking) (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/q5RAaX57dLvlpigAhbX3lCb2dkZ.jpg"
+        },
+        {
+            "name": "Chazz Palminteri",
+            "character": "Buster (speaking) (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mCbjKVyE5B2tleshbJw44tw3ktZ.jpg"
+        },
+        {
+            "name": "Jeff Bennett",
+            "character": "Tramp / Jock / Trusty / Dogcatcher (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+        },
+        {
+            "name": "Jodi Benson",
+            "character": "Lady (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4mxtuq3mXLZwPKbI7t0KFxf0PRW.jpg"
+        },
+        {
+            "name": "Bill Fagerbakke",
+            "character": "Mooch (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zntKKc1uT53BnIihmzbq601eWKZ.jpg"
+        },
+        {
+            "name": "Mickey Rooney",
+            "character": "Sparky (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eYuayEC3xhXQf3Z1Cy6AVMEcgZb.jpg"
+        },
+        {
+            "name": "Bronson Pinchot",
+            "character": "Francois (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oBQE58X65ANq4jY1d8iMDohl72w.jpg"
+        },
+        {
+            "name": "Cathy Moriarty",
+            "character": "Ruby (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4PpU94fDxjjrqaSg9io9yM56znd.jpg"
+        },
+        {
+            "name": "Mary Kay Bergman",
+            "character": "Si (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/heTLLKqi4g7QqFa2JtOfoOGNpWh.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.9",
-    "imdbVotes": "10,962",
-    "imdbID": "tt0249677",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Darrell Rooney",
+        "Jeannine Roussel"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=MIr-Y6kKEMw",
+    "TMDb_ID": 18269
 }

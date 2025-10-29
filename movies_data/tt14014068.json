@@ -1,40 +1,79 @@
 {
     "Title": "Book of Love",
     "Year": "2022",
-    "Rated": "N/A",
-    "Released": "04 Feb 2022",
-    "Runtime": "106 min",
-    "Genre": "Comedy, Romance",
-    "Director": "Analeine Cal y Mayor",
-    "Writer": "Analeine Cal y Mayor, Geoff Deane, David Quantick",
-    "Actors": "Sam Claflin, Remmie Milner, Antonia Clarke",
     "Plot": "A British writer realizes that his novel is a success in Mexico because a peculiar translation of it.",
     "Language": "English",
     "Country": "United Kingdom, United States, Mexico",
+    "Rated": "N/A",
+    "Runtime": "106 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Analeine Cal y Mayor",
+    "Actors": "Sam Claflin, Remmie Milner, Antonia Clarke",
     "Awards": "1 win & 1 nomination total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjYTdmZDktNzYyZC00MGRiLTkyNGUtYzQyYzgxNWZhODE4XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt14014068",
+    "imdbRating": "5.5",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.574,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYzdjYTdmZDktNzYyZC00MGRiLTkyNGUtYzQyYzgxNWZhODE4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/eLrXzWWGlCQ9V2iNGyhVz7nMTTU.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/78ra6TSHPkpZlOrWSuAyMpBoSVM.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.5/10"
+            "name": "Sam Claflin",
+            "character": "Henry",
+            "profile_url": "https://image.tmdb.org/t/p/w500/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "51%"
+            "name": "Verónica Echegui",
+            "character": "Maria",
+            "profile_url": "https://image.tmdb.org/t/p/w500/A6bHIHnDlmKY6pWOlgLNsUf60W5.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "44/100"
+            "name": "Antonia Clarke",
+            "character": "Alison",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yxJw7V4uz8pPgblbFOUfweWPBfh.jpg"
+        },
+        {
+            "name": "Horacio García Rojas",
+            "character": "Antonio",
+            "profile_url": "https://image.tmdb.org/t/p/w500/75Yo3FmhEOZhMzP0ImYQIoalurn.jpg"
+        },
+        {
+            "name": "Melissa Pino",
+            "character": "Helena",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vMItPXKwRBkvzyOwyyUTiBgXOmf.jpg"
+        },
+        {
+            "name": "Galya Vidal",
+            "character": "Francisca",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4ca10Ryg2JR2ah7crVjIWT5zFXl.jpg"
+        },
+        {
+            "name": "Fernando Becerril",
+            "character": "Max Rodríguez",
+            "profile_url": "https://image.tmdb.org/t/p/w500/p9YeNC1CBR1gNoHq6KfE9jdgHEw.jpg"
+        },
+        {
+            "name": "Ruy Gaytan",
+            "character": "Diego",
+            "profile_url": null
+        },
+        {
+            "name": "Horacio Villalobos",
+            "character": "Pedro",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zwp404o6Mi9YYgFEDLX79nxgOMZ.jpg"
+        },
+        {
+            "name": "Lucy Punch",
+            "character": "Jen Spencer",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jxNfHATSByLV89DysCMxYJPXJfE.jpg"
         }
     ],
-    "Metascore": "44",
-    "imdbRating": "5.5",
-    "imdbVotes": "4,151",
-    "imdbID": "tt14014068",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Analeine Cal y Mayor"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=7pJ394c64UI",
+    "TMDb_ID": 892835
 }

@@ -1,32 +1,83 @@
 {
     "Title": "To End All War: Oppenheimer & the Atomic Bomb",
     "Year": "2023",
-    "Rated": "N/A",
-    "Released": "10 Jul 2023",
-    "Runtime": "87 min",
-    "Genre": "Documentary, Biography, History",
-    "Director": "Christopher Cassel",
-    "Writer": "N/A",
-    "Actors": "J. Robert Oppenheimer, Kai Bird, Ellen Bradbury",
     "Plot": "Exploring how one man's brilliance, hubris and relentless drive changed the nature of war forever.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "N/A",
+    "Runtime": "87 min",
+    "Genre": "Documentary, Biography, History",
+    "Director": "Christopher Cassel",
+    "Actors": "J. Robert Oppenheimer, Kai Bird, Ellen Bradbury",
     "Awards": "1 win & 1 nomination total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjViMzZiNGQtNTRjMC00ZmRhLThmYjgtNmI3NDU1NzIzZDI4XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt28240284",
+    "imdbRating": "7.4",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.74,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYjViMzZiNGQtNTRjMC00ZmRhLThmYjgtNmI3NDU1NzIzZDI4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/yjwERg94CdAusAb7BdHhWV69Ref.jpg",
+        "https://image.tmdb.org/t/p/w500/d9rbDRE3OJIRL15k136RgvEQQKq.jpg",
+        "https://image.tmdb.org/t/p/w500/8FtqBr9xOjzcNsBvfOJ8rIJxYDq.jpg",
+        "https://image.tmdb.org/t/p/w500/4DCf1t4HZReubFItt2NEk9lC0rp.jpg",
+        "https://image.tmdb.org/t/p/w500/gmv0cEMCdCm9Xgmhtk1V1Jq3DIC.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.4/10"
+            "name": "J. Robert Oppenheimer",
+            "character": "Self (archive footage)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9FaAqdF4LiowhOpHUhBAsnNfArS.jpg"
+        },
+        {
+            "name": "Ellen Bradbury Reid",
+            "character": "Self - Daughter of Los Alamos Scientist",
+            "profile_url": null
+        },
+        {
+            "name": "Christopher Nolan",
+            "character": "Self - Writer / Director, \"Oppenheimer\"",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+        },
+        {
+            "name": "Jon Else",
+            "character": "Self - Filmmaker, \"The Day After Trinity\"",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yGhdZGBPGDy0rwNn7Lj9Epnilrd.jpg"
+        },
+        {
+            "name": "Kai Bird",
+            "character": "Self - Co-Author, \"American Prometheus\"",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mhuRxNJaYleFVqhaWjhPoFdY1pn.jpg"
+        },
+        {
+            "name": "Bill Nye",
+            "character": "Self - Science Educator",
+            "profile_url": "https://image.tmdb.org/t/p/w500/HfEBnQuiCMPjcsONf9FCpnEyJL.jpg"
+        },
+        {
+            "name": "Richard Rhodes",
+            "character": "Self - Author, \"The Making of the Atomic Bomb\"",
+            "profile_url": null
+        },
+        {
+            "name": "Mareena Robinson Snowden",
+            "character": "Self - Nuclear Security Expert",
+            "profile_url": null
+        },
+        {
+            "name": "Alan B. Carr",
+            "character": "Self - Senior Historian, Los Alamos National Laboratory",
+            "profile_url": null
+        },
+        {
+            "name": "Gregg Herken",
+            "character": "Self - Author, \"Brotherhood of the Bomb\"",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.4",
-    "imdbVotes": "2,811",
-    "imdbID": "tt28240284",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Christopher Cassel"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=fnEOGMMLHCQ",
+    "TMDb_ID": 1149947
 }

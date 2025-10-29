@@ -1,40 +1,81 @@
 {
     "Title": "The Life Aquatic with Steve Zissou",
     "Year": "2004",
-    "Rated": "R",
-    "Released": "25 Dec 2004",
-    "Runtime": "119 min",
-    "Genre": "Action, Adventure, Comedy",
-    "Director": "Wes Anderson",
-    "Writer": "Wes Anderson, Noah Baumbach",
-    "Actors": "Bill Murray, Owen Wilson, Anjelica Huston",
     "Plot": "With a plan to exact revenge on a legendary shark that killed his partner, oceanographer Steve Zissou (Bill Murray) rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.",
     "Language": "English, Icelandic, Filipino, Portuguese, French, Tagalog, German, Italian",
     "Country": "United States",
+    "Rated": "R",
+    "Runtime": "119 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Wes Anderson",
+    "Actors": "Bill Murray, Owen Wilson, Anjelica Huston",
     "Awards": "3 wins & 10 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzNzg2MF5BMl5BanBnXkFtZTcwMTkzOTQzMw@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0362270",
+    "imdbRating": "7.2",
+    "BoxOffice": "$24,020,403",
+    "TMDb_Rating": 7.1,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTYzODYzNzg2MF5BMl5BanBnXkFtZTcwMTkzOTQzMw@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/AsdT6Mzl1mfqYeVy53xIHNBUFvA.jpg",
+        "https://image.tmdb.org/t/p/w500/bClC5hZLZYXHk0TI8NDmpXgbQ7u.jpg",
+        "https://image.tmdb.org/t/p/w500/haqTa1lgxF1BXFC5zkXwC7sBRh.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.2/10"
+            "name": "Bill Murray",
+            "character": "Steve Zissou",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "73%"
+            "name": "Owen Wilson",
+            "character": "Ned Plimpton",
+            "profile_url": "https://image.tmdb.org/t/p/w500/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "62/100"
+            "name": "Cate Blanchett",
+            "character": "Jane Winslett-Richardson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mXpe59YDxcvAJS6EtshsvsRvLZP.jpg"
+        },
+        {
+            "name": "Anjelica Huston",
+            "character": "Eleanor Zissou",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": "Klaus Daimler",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+        },
+        {
+            "name": "Jeff Goldblum",
+            "character": "Alistair Hennessey",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+        },
+        {
+            "name": "Michael Gambon",
+            "character": "Oseary Drakoulias",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+        },
+        {
+            "name": "Noah Taylor",
+            "character": "Vladimir Wolodarsky",
+            "profile_url": "https://image.tmdb.org/t/p/w500/i6yQ74pzjmQKE1f3br1LeZloWN1.jpg"
+        },
+        {
+            "name": "Bud Cort",
+            "character": "Bill Ubell",
+            "profile_url": "https://image.tmdb.org/t/p/w500/t3ncccw3yAk69FYDdG9RkvT0qpC.jpg"
+        },
+        {
+            "name": "Seu Jorge",
+            "character": "Pelé dos Santos",
+            "profile_url": "https://image.tmdb.org/t/p/w500/p8VUk0ZSzfAF9uWjWg2jEVpPtTy.jpg"
         }
     ],
-    "Metascore": "62",
-    "imdbRating": "7.2",
-    "imdbVotes": "217,440",
-    "imdbID": "tt0362270",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$24,020,403",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Wes Anderson"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=XVRXYnGz-Mo",
+    "TMDb_ID": 421
 }

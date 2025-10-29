@@ -1,40 +1,82 @@
 {
     "Title": "The Poseidon Adventure",
     "Year": "1972",
-    "Rated": "PG",
-    "Released": "13 Dec 1972",
-    "Runtime": "117 min",
-    "Genre": "Action, Adventure, Drama",
-    "Director": "Ronald Neame",
-    "Writer": "Stirling Silliphant, Wendell Mayes, Paul Gallico",
-    "Actors": "Gene Hackman, Ernest Borgnine, Shelley Winters",
     "Plot": "A group of passengers must embark on a harrowing struggle for survival after a rogue wave capsizes their cruise ship at sea.",
     "Language": "English, Hebrew",
     "Country": "United States",
+    "Rated": "PG",
+    "Runtime": "117 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Ronald Neame",
+    "Actors": "Gene Hackman, Ernest Borgnine, Shelley Winters",
     "Awards": "Won 1 Oscar. 5 wins & 13 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNmMyNWRlMDgtMjg4ZS00ZTg3LTkxOWItMjVhMjEyZWJjOGYxXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0069113",
+    "imdbRating": "7.1",
+    "BoxOffice": "$84,563,118",
+    "TMDb_Rating": 7.1,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNmMyNWRlMDgtMjg4ZS00ZTg3LTkxOWItMjVhMjEyZWJjOGYxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/6RGiA5BfhelU9zoD0b1GAG4GWWf.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/vGPbl556z6fN2o6yINjb4ceSam.jpg",
+        "https://image.tmdb.org/t/p/w500/5xfJPlUEmGak5Vipu0Zn1La0QgA.jpg",
+        "https://image.tmdb.org/t/p/w500/8CjwfiII6pQ539gtxhv7iWuKtqD.jpg",
+        "https://image.tmdb.org/t/p/w500/obmXINcak20q9k44se1eMGAX5oH.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.1/10"
+            "name": "Gene Hackman",
+            "character": "Reverend Scott",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xPmETCv0APDoIK5CvIIJwbTcjPA.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "81%"
+            "name": "Ernest Borgnine",
+            "character": "Mike Rogo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/JSHX01ZFEkIvt17HoeedsvCz1.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "70/100"
+            "name": "Red Buttons",
+            "character": "James Martin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bZYvuKzOnF181Tz0wqT4sbPZLnc.jpg"
+        },
+        {
+            "name": "Carol Lynley",
+            "character": "Nonnie Parry",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kIs3zLyRkIFvcsWXlOzoExx4UDI.jpg"
+        },
+        {
+            "name": "Roddy McDowall",
+            "character": "Acres",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mGO0pDPi5p91k2Og09HTf270rxL.jpg"
+        },
+        {
+            "name": "Stella Stevens",
+            "character": "Linda Rogo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lrDwWo1bymKbIQMlWqOa2RqWAUF.jpg"
+        },
+        {
+            "name": "Shelley Winters",
+            "character": "Belle Rosen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nCWHQ21r83JmcEVEvOAIzUyiuBh.jpg"
+        },
+        {
+            "name": "Jack Albertson",
+            "character": "Manny Rosen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4Gw04zWMM6EpEJZqiZnVDMDNsZ3.jpg"
+        },
+        {
+            "name": "Leslie Nielsen",
+            "character": "Captain Harrison",
+            "profile_url": "https://image.tmdb.org/t/p/w500/u5vWl5dw69Nf89f905Qb5JqEVL3.jpg"
+        },
+        {
+            "name": "Pamela Sue Martin",
+            "character": "Susan Shelby",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mXv4146mU7pWic8hrkeh1NuTpqS.jpg"
         }
     ],
-    "Metascore": "70",
-    "imdbRating": "7.1",
-    "imdbVotes": "52,489",
-    "imdbID": "tt0069113",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$84,563,118",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Ronald Neame"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=H_5w-WmSdz0",
+    "TMDb_ID": 551
 }

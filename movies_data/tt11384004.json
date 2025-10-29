@@ -1,32 +1,80 @@
 {
     "Title": "Love Story",
     "Year": "2021",
-    "Rated": "N/A",
-    "Released": "24 Sep 2021",
-    "Runtime": "155 min",
-    "Genre": "Romance",
-    "Director": "Sekhar Kammula",
-    "Writer": "Sekhar Kammula",
-    "Actors": "Naga Chaitanya Akkineni, Sai Pallavi, Rajeev Kanakala",
     "Plot": "A Zumba instructor who falls in love with a girl from an upper-caste Hindu family. Their love faces numerous challenges due to caste differences.",
     "Language": "Telugu",
     "Country": "India",
+    "Rated": "N/A",
+    "Runtime": "155 min",
+    "Genre": "Romance",
+    "Director": "Sekhar Kammula",
+    "Actors": "Naga Chaitanya Akkineni, Sai Pallavi, Rajeev Kanakala",
     "Awards": "2 wins & 12 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzgxMGJmMjktNWY1MS00NzM0LTkzNjktY2NmMjgwODk0NjFhXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt11384004",
+    "imdbRating": "6.8",
+    "BoxOffice": "$971,000",
+    "TMDb_Rating": 6.824,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNzgxMGJmMjktNWY1MS00NzM0LTkzNjktY2NmMjgwODk0NjFhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/5A7SGcT1GlhWfHsCRQQtGe0TpJB.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/axzm1XFxNc4r1t5KT95j5vkBmwq.jpg",
+        "https://image.tmdb.org/t/p/w500/unO7GrQmKpJ0altzDc9f65HSzzv.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.8/10"
+            "name": "Ali MacGraw",
+            "character": "Jennifer Cavilleri",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cng3cjxhfA4xNomdN9cIoipryne.jpg"
+        },
+        {
+            "name": "Ryan O'Neal",
+            "character": "Oliver Barrett IV",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qqzLcwme60ENV8PEcdWkS2zctMx.jpg"
+        },
+        {
+            "name": "John Marley",
+            "character": "Phil Cavilleri",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xyzwd0CiBjXfowH3HcPhvuWcV5B.jpg"
+        },
+        {
+            "name": "Ray Milland",
+            "character": "Oliver Barrett III",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nqZGSLa9jS92hYlmkacFXxYwB2Y.jpg"
+        },
+        {
+            "name": "Russell Nype",
+            "character": "Dean Thompson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2mIBx308LZR3PNolqaY4Rji7JRu.jpg"
+        },
+        {
+            "name": "Tommy Lee Jones",
+            "character": "Hank - Oliver's Roommate",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rdKKuq8zWCDYlKSxIfwGo2RUjpN.jpg"
+        },
+        {
+            "name": "Sydney Walker",
+            "character": "Dr. Shapeley",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1cpTr6tdsJYsdxExkIyoukZuVKb.jpg"
+        },
+        {
+            "name": "Robert Modica",
+            "character": "Dr. Addison",
+            "profile_url": null
+        },
+        {
+            "name": "Katherine Balfour",
+            "character": "Oliver's mother",
+            "profile_url": null
+        },
+        {
+            "name": "Sudie Bond",
+            "character": "Woman buying Christmas tree",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yTPywMNctmFSTemPsFUyi4Yezbj.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.8",
-    "imdbVotes": "4,562",
-    "imdbID": "tt11384004",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$971,000",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Arthur Hiller"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=fgfy2guZu58",
+    "TMDb_ID": 9062
 }

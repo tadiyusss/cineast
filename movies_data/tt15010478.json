@@ -1,32 +1,80 @@
 {
     "Title": "9/11: Inside the President's War Room",
     "Year": "2021",
-    "Rated": "TV-14",
-    "Released": "01 Sep 2021",
-    "Runtime": "90 min",
-    "Genre": "Documentary, History",
-    "Director": "Adam Wishart",
-    "Writer": "N/A",
-    "Actors": "Richard Keil, George W. Bush, Andrew Card",
     "Plot": "9/11 from the President's perspective, with exclusive access to information from the one's that had to take decisions during the World Trade Center's attack.",
     "Language": "English",
     "Country": "United States, United Kingdom",
+    "Rated": "TV-14",
+    "Runtime": "90 min",
+    "Genre": "Documentary, History",
+    "Director": "Adam Wishart",
+    "Actors": "Richard Keil, George W. Bush, Andrew Card",
     "Awards": "Won 1 BAFTA Award3 wins & 10 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjIwZDYxMGMtMTNmZS00OThiLTg1NzUtNGMwYmU0MmZkZjA1XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt15010478",
+    "imdbRating": "7.5",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.784,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYjIwZDYxMGMtMTNmZS00OThiLTg1NzUtNGMwYmU0MmZkZjA1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/t9otj0gqMwum9AzWslKNWhnQ5Mn.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/b3yYH24QOqA08I0w6UFPc4Jfwpk.jpg",
+        "https://image.tmdb.org/t/p/w500/5LZP5WrNDYb9XSerOyXBRyz0YB.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.5/10"
+            "name": "George W. Bush",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6u9fUB5p0ugbMrPoQ5GF7baERiA.jpg"
+        },
+        {
+            "name": "Dick Cheney",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/b29c9ALFbeDWdmX48SkcLPZnLaY.jpg"
+        },
+        {
+            "name": "Condoleezza Rice",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/66iXDVu5m64UfFMsBNyMK4BXY9d.jpg"
+        },
+        {
+            "name": "Colin Powell",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hT2Hxkjy7p7XZzD0jQnz831e1H.jpg"
+        },
+        {
+            "name": "Norman Mineta",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Ari Fleischer",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5WPWopUnUSmOWhfPhar2MTXjGgd.jpg"
+        },
+        {
+            "name": "Joshua Bolten",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Theodore Olson",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Mary Matalin",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Jeff Daniels",
+            "character": "Self - Narrator (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.5",
-    "imdbVotes": "4,006",
-    "imdbID": "tt15010478",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Adam Wishart"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=4BcKbOCYOpA",
+    "TMDb_ID": 848981
 }

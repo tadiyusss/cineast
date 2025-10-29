@@ -1,32 +1,79 @@
 {
     "Title": "The Vaccine War",
     "Year": "2023",
-    "Rated": "N/A",
-    "Released": "28 Sep 2023",
-    "Runtime": "161 min",
-    "Genre": "Drama, Thriller",
-    "Director": "Vivek Agnihotri",
-    "Writer": "Vivek Agnihotri",
-    "Actors": "Anupam Kher, Nana Patekar, Sapthami Gowda",
     "Plot": "Based on India's battle against Covid-19, and the efforts the medical department took to overcome the global crisis.",
     "Language": "Hindi",
     "Country": "India",
+    "Rated": "N/A",
+    "Runtime": "161 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Vivek Agnihotri",
+    "Actors": "Anupam Kher, Nana Patekar, Sapthami Gowda",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOWRkMGRlZmQtMjZhNy00NzMxLTk1MTctMGU0ZmUwOTFlMTNmXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt23554840",
+    "imdbRating": "7.1",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.063,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BOWRkMGRlZmQtMjZhNy00NzMxLTk1MTctMGU0ZmUwOTFlMTNmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/ceWCWvbEogkXU1It8gH1l2rcfEJ.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/5mHHvukFGmmRtEmqrlUDl1Y4Gny.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.1/10"
+            "name": "Nana Patekar",
+            "character": "Dr. Balram Bhargava",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gnhcslE2k2pgZK9xi1XFNZvZiEs.jpg"
+        },
+        {
+            "name": "Pallavi Joshi",
+            "character": "Dr. Priya Abraham",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bufY8EQxMnqvStvwEatRI78Kjej.jpg"
+        },
+        {
+            "name": "Sapthami Gowda",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kmWJZ7Fz2RCvOcMTuaqIxOhzKGd.jpg"
+        },
+        {
+            "name": "Raima Sen",
+            "character": "Rohini Singh Dhulia",
+            "profile_url": "https://image.tmdb.org/t/p/w500/d4aDUJ5YBIjLbDvkzKaalGT8McQ.jpg"
+        },
+        {
+            "name": "Girija Oak",
+            "character": "Dr. Nivedita Gupta",
+            "profile_url": "https://image.tmdb.org/t/p/w500/f10HPTExCVQ8mZXShctpWPsxxaw.jpg"
+        },
+        {
+            "name": "Mohan Kapur",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lL0J5DBOwN1pwLCvuo7uQ0ApjF.jpg"
+        },
+        {
+            "name": "Nivedita Bhattacharya",
+            "character": "Dr. Pragya D. Yadav",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6mkx7TV07nPyKbsL65Fg0rSTGgK.jpg"
+        },
+        {
+            "name": "Anupam Kher",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg"
+        },
+        {
+            "name": "Aanchal Dwivedi",
+            "character": "",
+            "profile_url": null
+        },
+        {
+            "name": "Arvind Paswan",
+            "character": "",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.1",
-    "imdbVotes": "25,067",
-    "imdbID": "tt23554840",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Vivek Agnihotri"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 1046620
 }

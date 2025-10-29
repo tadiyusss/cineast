@@ -1,40 +1,83 @@
 {
     "Title": "Back to the Future",
     "Year": "1985",
-    "Rated": "PG",
-    "Released": "03 Jul 1985",
-    "Runtime": "116 min",
-    "Genre": "Adventure, Comedy, Sci-Fi",
-    "Director": "Robert Zemeckis",
-    "Writer": "Robert Zemeckis, Bob Gale",
-    "Actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
     "Plot": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG",
+    "Runtime": "116 min",
+    "Genre": "Adventure, Comedy, Sci-Fi",
+    "Director": "Robert Zemeckis",
+    "Actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
     "Awards": "Won 1 Oscar. 27 wins & 25 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0088763",
+    "imdbRating": "8.5",
+    "BoxOffice": "$214,553,307",
+    "TMDb_Rating": 8.321,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/wkcGb8ZiOF27T9OLqGr9CHQ3ooC.jpg",
+        "https://image.tmdb.org/t/p/w500/4rPDCsbZBGD8l9rBflmJt42NleV.jpg",
+        "https://image.tmdb.org/t/p/w500/r6uvRozSY7DITG48ndFHvTjh8hc.jpg",
+        "https://image.tmdb.org/t/p/w500/exxBtPghfz2arHqEGlhACjBjU2v.jpg",
+        "https://image.tmdb.org/t/p/w500/xrMfju0BNhwIHQD4IcdFBP2q3vs.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "8.5/10"
+            "name": "Michael J. Fox",
+            "character": "Marty McFly",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "93%"
+            "name": "Christopher Lloyd",
+            "character": "Emmett Brown",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "87/100"
+            "name": "Crispin Glover",
+            "character": "George McFly",
+            "profile_url": "https://image.tmdb.org/t/p/w500/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+        },
+        {
+            "name": "Lea Thompson",
+            "character": "Lorraine Baines",
+            "profile_url": "https://image.tmdb.org/t/p/w500/85E9NTEfkRdUdK4kTrrnk5of25w.jpg"
+        },
+        {
+            "name": "Claudia Wells",
+            "character": "Jennifer Parker",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2VOsPvoV2vmEUd1O2KjW3kcN8JD.jpg"
+        },
+        {
+            "name": "Thomas F. Wilson",
+            "character": "Biff Tannen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg"
+        },
+        {
+            "name": "Marc McClure",
+            "character": "Dave McFly",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uscpMlkuwi3sgGJ6Hz8FhwvsrRk.jpg"
+        },
+        {
+            "name": "Wendie Jo Sperber",
+            "character": "Linda McFly",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dufqiCvSBQUxuHmMXcH6U8fZG4k.jpg"
+        },
+        {
+            "name": "George DiCenzo",
+            "character": "Sam Baines",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8L9fr5601BbUs3UzoCEELnxEKVm.jpg"
+        },
+        {
+            "name": "Frances Lee McCain",
+            "character": "Stella Baines",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cpG16FA90mQ4xC6xxTsUu1p2yRr.jpg"
         }
     ],
-    "Metascore": "87",
-    "imdbRating": "8.5",
-    "imdbVotes": "1,403,603",
-    "imdbID": "tt0088763",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$214,553,307",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Robert Zemeckis"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=ez6WQ7IX72U",
+    "TMDb_ID": 105
 }

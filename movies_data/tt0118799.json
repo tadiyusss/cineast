@@ -1,40 +1,80 @@
 {
     "Title": "Life Is Beautiful",
     "Year": "1997",
-    "Rated": "PG-13",
-    "Released": "20 Dec 1997",
-    "Runtime": "116 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Roberto Benigni",
-    "Writer": "Vincenzo Cerami, Roberto Benigni",
-    "Actors": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",
     "Plot": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
     "Language": "Italian, German, English",
     "Country": "Italy",
+    "Rated": "PG-13",
+    "Runtime": "116 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Roberto Benigni",
+    "Actors": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",
     "Awards": "Won 3 Oscars. 72 wins & 52 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTBhOGYzZjQtYzE0Mi00MGIwLWE0MWYtNzMxNTM2OTFkM2NjXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0118799",
+    "imdbRating": "8.6",
+    "BoxOffice": "$57,563,264",
+    "TMDb_Rating": 8.44,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZTBhOGYzZjQtYzE0Mi00MGIwLWE0MWYtNzMxNTM2OTFkM2NjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/uF51dshysGir7YnWdfCNRPhirIv.jpg",
+        "https://image.tmdb.org/t/p/w500/tbJlC4u4qgsjg54M062dCptqtfq.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "8.6/10"
+            "name": "Roberto Benigni",
+            "character": "Guido",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ba1Sg02XxCphu6E1dWDMAH1GzeE.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "80%"
+            "name": "Nicoletta Braschi",
+            "character": "Dora",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9IeE3Iz9HXZVTrvhjSCKlR4FLxB.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "58/100"
+            "name": "Giorgio Cantarini",
+            "character": "Giosué",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1tKZHpVTYcw8EP3naVTZFlrOkhQ.jpg"
+        },
+        {
+            "name": "Giustino Durano",
+            "character": "Zio",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5VbG50qZNUnpx6UW7594RUlX7SZ.jpg"
+        },
+        {
+            "name": "Sergio Bini Bustric",
+            "character": "Ferruccio",
+            "profile_url": "https://image.tmdb.org/t/p/w500/crnlLn1SxP2LqbsXNr8CQrvaiNc.jpg"
+        },
+        {
+            "name": "Marisa Paredes",
+            "character": "Dora's Mother",
+            "profile_url": "https://image.tmdb.org/t/p/w500/71esuRUCyeSyib35mTFPkR24zH7.jpg"
+        },
+        {
+            "name": "Horst Buchholz",
+            "character": "Doctor Lessing",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9V38Di9T0qsjKBl2dR7sZMN1N0i.jpg"
+        },
+        {
+            "name": "Lidia Alfonsi",
+            "character": "Mrs. Guicciardini",
+            "profile_url": "https://image.tmdb.org/t/p/w500/85BrcBOeIcfV9XkV523wN0VGNRR.jpg"
+        },
+        {
+            "name": "Giuliana Lojodice",
+            "character": "School Principal",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cACsY8JyWaR3WeX7w1D09YssXbq.jpg"
+        },
+        {
+            "name": "Amerigo Fontani",
+            "character": "Rodolfo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uRQn3gGNPGQzG6XNli1b1TiEu6G.jpg"
         }
     ],
-    "Metascore": "58",
-    "imdbRating": "8.6",
-    "imdbVotes": "791,721",
-    "imdbID": "tt0118799",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$57,563,264",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Roberto Benigni"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=pAYEQP8gx3w",
+    "TMDb_ID": 637
 }

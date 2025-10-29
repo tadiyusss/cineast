@@ -1,40 +1,77 @@
 {
     "Title": "The Oogieloves in the Big Balloon Adventure",
     "Year": "2012",
-    "Rated": "G",
-    "Released": "29 Aug 2012",
-    "Runtime": "88 min",
-    "Genre": "Adventure, Family, Fantasy",
-    "Director": "Matthew Diamond",
-    "Writer": "Scott Stabile, Kenn Viselman, Alex J Greene",
-    "Actors": "Jaime Pressly, Cloris Leachman, Christopher Lloyd",
     "Plot": "The Oogieloves, Goobie, Zoozie, and Toofie, set out to find five magical balloons that will make their good friend Schluufy's surprise birthday party extra special.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "G",
+    "Runtime": "88 min",
+    "Genre": "Adventure, Family, Fantasy",
+    "Director": "Matthew Diamond",
+    "Actors": "Jaime Pressly, Cloris Leachman, Christopher Lloyd",
     "Awards": "2 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0ODM0MzA0OV5BMl5BanBnXkFtZTcwODUyODc3Nw@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt1520498",
+    "imdbRating": "1.7",
+    "BoxOffice": "$1,065,907",
+    "TMDb_Rating": 2.4,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTk0ODM0MzA0OV5BMl5BanBnXkFtZTcwODUyODc3Nw@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/qb6KVMsqljMnqYNLtOUfOIJrS6A.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "1.7/10"
+            "name": "Misty Miller",
+            "character": "Goobie",
+            "profile_url": null
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "32%"
+            "name": "Stephanie Renz",
+            "character": "Zoozie",
+            "profile_url": null
         },
         {
-            "Source": "Metacritic",
-            "Value": "32/100"
+            "name": "Malerie Grady",
+            "character": "Toofie",
+            "profile_url": null
+        },
+        {
+            "name": "Randy Carfagno",
+            "character": "Ruffy",
+            "profile_url": null
+        },
+        {
+            "name": "Taras Los",
+            "character": "Schluuffy (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2PKeM3FY2fEbhQ4VjSnKAVTJ0iB.jpg"
+        },
+        {
+            "name": "Maya Stange",
+            "character": "Windy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4LnkpvHqTMAidrzQALnj9NkQZJ1.jpg"
+        },
+        {
+            "name": "Nick Drago",
+            "character": "J. Edgar",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vMWL0yJFAp0oHpge6azZREJhIMo.jpg"
+        },
+        {
+            "name": "Kylie O'Brien",
+            "character": "Jubilee Rounder",
+            "profile_url": null
+        },
+        {
+            "name": "Cloris Leachman",
+            "character": "Dotty Rounder",
+            "profile_url": "https://image.tmdb.org/t/p/w500/o8pnV9urjuHZDAR2u4UjPy2CR1u.jpg"
+        },
+        {
+            "name": "Jeffrey Viselman",
+            "character": "Diner Patron",
+            "profile_url": null
         }
     ],
-    "Metascore": "32",
-    "imdbRating": "1.7",
-    "imdbVotes": "15,639",
-    "imdbID": "tt1520498",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$1,065,907",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Matthew Diamond"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=Z2zgHbFE4lg",
+    "TMDb_ID": 112937
 }

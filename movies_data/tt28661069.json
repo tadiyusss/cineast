@@ -1,32 +1,67 @@
 {
     "Title": "Rose's War",
     "Year": "2023",
-    "Rated": "N/A",
-    "Released": "01 Mar 2024",
-    "Runtime": "98 min",
-    "Genre": "Thriller",
-    "Director": "Joe Lawlor, Christine Molloy",
-    "Writer": "Joe Lawlor, Christine Molloy",
-    "Actors": "Imogen Poots, Tom Vaughan-Lawlor, Lewis Brophy",
     "Plot": "Amongst the political turmoil of the 1970s, a rebellious English heiress joins the Irish Republican Army and takes part in an armed raid on an estate with three comrades that eventually takes a violent turn.",
     "Language": "English",
     "Country": "Ireland, United Kingdom",
+    "Rated": "N/A",
+    "Runtime": "98 min",
+    "Genre": "Thriller",
+    "Director": "Joe Lawlor, Christine Molloy",
+    "Actors": "Imogen Poots, Tom Vaughan-Lawlor, Lewis Brophy",
     "Awards": "1 win & 6 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTI4ZGRiYWYtMDdjYS00MTRiLWExYzYtY2RiYjk0ODE0YzAzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt28661069",
+    "imdbRating": "5.6",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.0,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYTI4ZGRiYWYtMDdjYS00MTRiLWExYzYtY2RiYjk0ODE0YzAzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/p2evhAKMQ9PqeH7xE7zINKTD3Qp.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.6/10"
+            "name": "Xie Na",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lwJSetRUdOlGwHAmoVYRBNWuL48.jpg"
+        },
+        {
+            "name": "Nathan Lee",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9AVoEqlArzaRav6AK5lWcOF5AUW.jpg"
+        },
+        {
+            "name": "Ren Zhengbin",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kZg7x5oaPfWbv3IbwOktwmRY63Q.jpg"
+        },
+        {
+            "name": "Ma Ling",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pAnycT934FjIS36lebZobN2TiIu.jpg"
+        },
+        {
+            "name": "Yu Entai",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2fLBOWx6hw9jLZLDzg2aKZW4btk.jpg"
+        },
+        {
+            "name": "Weijia Li",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tiKfIJKocQsYNGuvyVErcLtBENG.jpg"
+        },
+        {
+            "name": "Du Haitao",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kPIvdQ2klfW13pppR2mQF2Zei2E.jpg"
+        },
+        {
+            "name": "Wang Xinyu",
+            "character": "",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.6",
-    "imdbVotes": "1,149",
-    "imdbID": "tt28661069",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Dai Xiaozhe"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 567855
 }

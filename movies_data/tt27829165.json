@@ -1,32 +1,80 @@
 {
     "Title": "Fog of War",
     "Year": "2025",
-    "Rated": "N/A",
-    "Released": "04 Apr 2025",
-    "Runtime": "102 min",
-    "Genre": "Thriller",
-    "Director": "Michael Day",
-    "Writer": "Luke Langsdale",
-    "Actors": "Jake Abel, Brianna Hildebrand, Géza Röhrig",
     "Plot": "An injured American pilot Gene, and his OSS agent fiancee Penny, who retreat to a remote estate in Massachusetts to visit her extended family. The OSS has recruited Gene to spy on the family and the surrounding community.",
     "Language": "English",
     "Country": "N/A",
+    "Rated": "N/A",
+    "Runtime": "102 min",
+    "Genre": "Thriller",
+    "Director": "Michael Day",
+    "Actors": "Jake Abel, Brianna Hildebrand, Géza Röhrig",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ0MTEzYTYtN2JkMy00OTI0LWJiYzYtMTA4M2Q3NDhlOTkyXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt27829165",
+    "imdbRating": "4.2",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.559,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMzQ0MTEzYTYtN2JkMy00OTI0LWJiYzYtMTA4M2Q3NDhlOTkyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/cvKfxdKaV20YikapsiYA23ETXG.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/1AA1xNcwWiJ5N5Y6nuaigjBrvDA.jpg",
+        "https://image.tmdb.org/t/p/w500/vO6Mn3t3mz7muqPWWSr4JOfXfXB.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "4.2/10"
+            "name": "Jake Abel",
+            "character": "Gene Lewis",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ijog1BFmm4BgZGnScwoYJKkwAcO.jpg"
+        },
+        {
+            "name": "Brianna Hildebrand",
+            "character": "Penny Duncolm",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8lGwV4rMQReWMlsXhLBYMRTYzTA.jpg"
+        },
+        {
+            "name": "Géza Röhrig",
+            "character": "Viktor",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3XrYcL5wC1wQnmqJautgZK3XuiM.jpg"
+        },
+        {
+            "name": "John Cusack",
+            "character": "Bob Duncolm",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+        },
+        {
+            "name": "Mira Sorvino",
+            "character": "Maude Duncolm",
+            "profile_url": "https://image.tmdb.org/t/p/w500/11raFiNo7QfisH44v3NIfpVvIz5.jpg"
+        },
+        {
+            "name": "David B. Meadows",
+            "character": "Jock",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2kWOtDlmXi76UDVTd5GYFnejhgW.jpg"
+        },
+        {
+            "name": "Sal Rendino",
+            "character": "Captain Quinn",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dwoMI6i0i8oGC08JkVFo6PynSeo.jpg"
+        },
+        {
+            "name": "David Gere",
+            "character": "Sergeant Collins",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gSqF3mVYmYh3RheHA8ldJ7t267H.jpg"
+        },
+        {
+            "name": "Greg Nutcher",
+            "character": "J.F. McVean",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2RZ0isfPBOKKC5BCNPeE913av02.jpg"
+        },
+        {
+            "name": "Paul Logan",
+            "character": "Sergeant Major",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ahVtxgcNuQm1js7gmbVR6tQYhTE.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "4.2",
-    "imdbVotes": "508",
-    "imdbID": "tt27829165",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Michael Day"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=XU7-mfmIOzM",
+    "TMDb_ID": 1138621
 }

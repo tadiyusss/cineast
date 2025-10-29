@@ -1,32 +1,79 @@
 {
     "Title": "Alex's War",
     "Year": "2022",
-    "Rated": "N/A",
-    "Released": "29 Jul 2022",
-    "Runtime": "135 min",
-    "Genre": "Documentary, Biography, History",
-    "Director": "Alex Lee Moyer",
-    "Writer": "N/A",
-    "Actors": "Ali Alexander, Rob Dew, Mike Hanson",
     "Plot": "Who is Alex Jones? Looking past caricature to a human character study, Alex's War uses unprecedented access to examine the rollercoaster career of America's most infamous, charismatic and divisive public figure.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "N/A",
+    "Runtime": "135 min",
+    "Genre": "Documentary, Biography, History",
+    "Director": "Alex Lee Moyer",
+    "Actors": "Ali Alexander, Rob Dew, Mike Hanson",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNGQwNGJhOWMtMWE1Zi00NmRjLWE1NmItNDQ0ZjU5Y2FiZmYzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt15637862",
+    "imdbRating": "5.3",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.375,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNGQwNGJhOWMtMWE1Zi00NmRjLWE1NmItNDQ0ZjU5Y2FiZmYzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/qDm91zgxvn9D1DsHyR1UF7MCpVT.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/aRjN3RMWZCuedxRsIF4XNinfM8B.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.3/10"
+            "name": "Alex E. Jones",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ocBpJoXZpQGGeThqB6KRnnUmAdy.jpg"
+        },
+        {
+            "name": "Owen Shroyer",
+            "character": "Self - InfoWars",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bH7FG4b8qbl5wr4csuJRKYXFUqW.jpg"
+        },
+        {
+            "name": "Rob Dew",
+            "character": "Self - InfoWars",
+            "profile_url": null
+        },
+        {
+            "name": "Ali Alexander",
+            "character": "Self - Stop the Steal",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rvFpJgIMz00VUldRisGpRka9102.jpg"
+        },
+        {
+            "name": "Mike Hanson",
+            "character": "Self - Alex's First Camera Man",
+            "profile_url": null
+        },
+        {
+            "name": "Michael Flynn",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qslyfcRS0iEh4q9nV2fRzarHfvg.jpg"
+        },
+        {
+            "name": "Rex Jones",
+            "character": "Self - Alex's Son",
+            "profile_url": null
+        },
+        {
+            "name": "Donald Trump",
+            "character": "Self (archive footage)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nkQrZELEgxsvwDSlYkNfpFmsFx4.jpg"
+        },
+        {
+            "name": "Joe Biden",
+            "character": "Self (archive footage)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fd1XKWTVBAUyvu4HeSNDCkrOSEI.jpg"
+        },
+        {
+            "name": "Jon Ronson",
+            "character": "Self (archive footage)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vP51bN1BVFm6MaciZYyRYSFejee.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.3",
-    "imdbVotes": "429",
-    "imdbID": "tt15637862",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Alex Lee Moyer"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=GbF2hyUuwJ4",
+    "TMDb_ID": 901371
 }

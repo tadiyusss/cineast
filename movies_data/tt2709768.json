@@ -1,40 +1,83 @@
 {
     "Title": "The Secret Life of Pets",
     "Year": "2016",
-    "Rated": "PG",
-    "Released": "08 Jul 2016",
-    "Runtime": "86 min",
-    "Genre": "Animation, Adventure, Comedy",
-    "Director": "Chris Renaud",
-    "Writer": "Cinco Paul, Ken Daurio, Brian Lynch",
-    "Actors": "Louis C.K., Eric Stonestreet, Kevin Hart",
     "Plot": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
     "Language": "English",
     "Country": "Japan, United States",
+    "Rated": "PG",
+    "Runtime": "86 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Chris Renaud",
+    "Actors": "Louis C.K., Eric Stonestreet, Kevin Hart",
     "Awards": "4 wins & 15 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt2709768",
+    "imdbRating": "6.5",
+    "BoxOffice": "$368,623,860",
+    "TMDb_Rating": 6.307,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/bc3rCMgP4bbxNqGQCRlpJyU8otF.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/fujpUxD4ZlxiuZ0RNosdNN79vjj.jpg",
+        "https://image.tmdb.org/t/p/w500/A9wjsXPYYnffcI8SbxSPMeuWccq.jpg",
+        "https://image.tmdb.org/t/p/w500/8lKWYRh9Ukv7OEUEpukY8Cvqm2Z.jpg",
+        "https://image.tmdb.org/t/p/w500/8RWrp5V3cRd75rKVnO85vQBbwiV.jpg",
+        "https://image.tmdb.org/t/p/w500/xKtTkI4tP062TPzGFTuMu9B9FZu.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.5/10"
+            "name": "Louis C.K.",
+            "character": "Max (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/faKr66V0EzJVMXwr0kIlSr9vfp7.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "70%"
+            "name": "Eric Stonestreet",
+            "character": "Duke (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lz0m88IjLZ8OcEHU2jhPvubcr7k.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "61/100"
+            "name": "Kevin Hart",
+            "character": "Snowball (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/byiNydUlM6oP8diA7WMvYbNM7a1.jpg"
+        },
+        {
+            "name": "Jenny Slate",
+            "character": "Gidget (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aqH8MCnT3O5Od3OfZR8LClSP7UB.jpg"
+        },
+        {
+            "name": "Ellie Kemper",
+            "character": "Katie (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2PmzhjJTr8zme7VuTIE1Nc1n5YL.jpg"
+        },
+        {
+            "name": "Albert Brooks",
+            "character": "Tiberius (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8iDSGu5l93N7benjf6b3AysBore.jpg"
+        },
+        {
+            "name": "Lake Bell",
+            "character": "Chloe (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tpBmxNKBebx04vQGnnQ3QNs6nvV.jpg"
+        },
+        {
+            "name": "Dana Carvey",
+            "character": "Pops (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qlb0apjFhoQ9UwCcvzrLm1mTIx0.jpg"
+        },
+        {
+            "name": "Hannibal Buress",
+            "character": "Buddy (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mcw3Orbg4vbALXTVG4hriZjH1sj.jpg"
+        },
+        {
+            "name": "Bobby Moynihan",
+            "character": "Mel (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
         }
     ],
-    "Metascore": "61",
-    "imdbRating": "6.5",
-    "imdbVotes": "230,647",
-    "imdbID": "tt2709768",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$368,623,860",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Chris Renaud"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=eWI_Jsw9qUs",
+    "TMDb_ID": 328111
 }

@@ -1,40 +1,83 @@
 {
     "Title": "Last Action Hero",
     "Year": "1993",
-    "Rated": "PG-13",
-    "Released": "18 Jun 1993",
-    "Runtime": "130 min",
-    "Genre": "Action, Adventure, Comedy",
-    "Director": "John McTiernan",
-    "Writer": "Zak Penn, Adam Leff, Shane Black",
-    "Actors": "Arnold Schwarzenegger, F. Murray Abraham, Art Carney",
     "Plot": "With the help of a magic ticket, a young movie fan is transported into the fictional world of his favorite action movie character.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG-13",
+    "Runtime": "130 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "John McTiernan",
+    "Actors": "Arnold Schwarzenegger, F. Murray Abraham, Art Carney",
     "Awards": "1 win & 16 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZGU2NWQyY2ItY2JiZS00ZDJhLWI0NDQtNjMyNWU3MDA1NTgzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0107362",
+    "imdbRating": "6.5",
+    "BoxOffice": "$50,016,394",
+    "TMDb_Rating": 6.474,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZGU2NWQyY2ItY2JiZS00ZDJhLWI0NDQtNjMyNWU3MDA1NTgzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/bUHqFvPkEDdH3mlkW2301JROiO8.jpg",
+        "https://image.tmdb.org/t/p/w500/h42biCp5Z37NcICkYPtHOO8Ovlb.jpg",
+        "https://image.tmdb.org/t/p/w500/z8B92H0WRPLSfpJd0wOwdb7Zix0.jpg",
+        "https://image.tmdb.org/t/p/w500/wssGOBsAVxpSOclVHHQIxucRMh2.jpg",
+        "https://image.tmdb.org/t/p/w500/6C28JTUcZ7213ETi5ULBJKx4Vf7.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.5/10"
+            "name": "Arnold Schwarzenegger",
+            "character": "Jack Slater / Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "41%"
+            "name": "Austin O'Brien",
+            "character": "Danny Madigan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/IQypQEGa3HNv5Eg5PxcKt3BnaL.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "44/100"
+            "name": "Bridgette Wilson-Sampras",
+            "character": "Whitney / Meredith",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zq6uzzL87CtfgxD4G3bLTcgUUTe.jpg"
+        },
+        {
+            "name": "F. Murray Abraham",
+            "character": "John Practice",
+            "profile_url": "https://image.tmdb.org/t/p/w500/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+        },
+        {
+            "name": "Art Carney",
+            "character": "Frank",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dXuApUbw2Wlfj5jg3Qv4PwCanR6.jpg"
+        },
+        {
+            "name": "Charles Dance",
+            "character": "Benedict",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3xHwq5lchAI6mfW0aGQOEijexv6.jpg"
+        },
+        {
+            "name": "Frank McRae",
+            "character": "Lieutenant Dekker",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5aGo82fuwSs1k9ZQckvdFGLjqPE.jpg"
+        },
+        {
+            "name": "Tom Noonan",
+            "character": "Ripper / Tommy Noonan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8cwl9gaCr0F0yJ518nc6baebPLL.jpg"
+        },
+        {
+            "name": "Robert Prosky",
+            "character": "Nick",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yV95RE8UGyN8rZYF9W4fOGaAV6U.jpg"
+        },
+        {
+            "name": "Anthony Quinn",
+            "character": "Tony Vivaldi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aBxjWWvZR63rTQfrtBPiI0CbGKA.jpg"
         }
     ],
-    "Metascore": "44",
-    "imdbRating": "6.5",
-    "imdbVotes": "171,378",
-    "imdbID": "tt0107362",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$50,016,394",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "John McTiernan"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=OJw8o49CNZI",
+    "TMDb_ID": 9593
 }

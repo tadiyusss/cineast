@@ -1,32 +1,77 @@
 {
     "Title": "Wann wird es endlich wieder so, wie es nie war",
     "Year": "2023",
-    "Rated": "N/A",
-    "Released": "23 Feb 2023",
-    "Runtime": "116 min",
-    "Genre": "Comedy, Drama",
-    "Director": "Sonja Heiss",
-    "Writer": "Sonja Heiss, Lars Hubrich, Joachim Meyerhoff",
-    "Actors": "Arsseni Bultmann, Laura Tonke, Devid Striesow",
     "Plot": "Joachim Meyerhoff's autobiographical recollections include his childhood and teenager years living on the premises of a psychiatric clinic, his father being the director of the child and adolescent ward.",
     "Language": "German, English, Italian",
     "Country": "Germany, Belgium",
+    "Rated": "N/A",
+    "Runtime": "116 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Sonja Heiss",
+    "Actors": "Arsseni Bultmann, Laura Tonke, Devid Striesow",
     "Awards": "4 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjMxYTNkNjItYTgzOC00OWI3LTljNTItNzBhZjU0ZjMxZWIwXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt22694068",
+    "imdbRating": "6.7",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.457,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYjMxYTNkNjItYTgzOC00OWI3LTljNTItNzBhZjU0ZjMxZWIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/nnYR1qW99cIorTpvA0fESqcSBNK.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.7/10"
+            "name": "Arsseni Bultmann",
+            "character": "Joachim",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uHAsXyFOmbBfzebpQ4J7taATldX.jpg"
+        },
+        {
+            "name": "Laura Tonke",
+            "character": "Mother",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3tunqYBaoMEpeWQUu25qjGgse3v.jpg"
+        },
+        {
+            "name": "Devid Striesow",
+            "character": "Father",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dV5Sdfa7ED8gkbof8pWuBfPR7lo.jpg"
+        },
+        {
+            "name": "Pola Geiger",
+            "character": "Marlene",
+            "profile_url": null
+        },
+        {
+            "name": "Camille Loup Moltzen",
+            "character": "Joachim (young)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rHmFNf7PBd96NCjrB71jxzAKKKF.jpg"
+        },
+        {
+            "name": "Casper von Bülow",
+            "character": "Philipp Meyerhoff, 18 years old",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eqPi45kMPFOLYcxBtNa5uNywwM1.jpg"
+        },
+        {
+            "name": "Merlin Rose",
+            "character": "Joachim",
+            "profile_url": "https://image.tmdb.org/t/p/w500/puU8cte0fzKBkOhLBToQuFw4b62.jpg"
+        },
+        {
+            "name": "Axel Milberg",
+            "character": "Prime Minister",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eK1Kkda8rOZMgo5BYBUVeYenOwj.jpg"
+        },
+        {
+            "name": "Claude Heinrich",
+            "character": "Ferdinand",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aspKceNwFn0sTrxto0NfIzJTShn.jpg"
+        },
+        {
+            "name": "Andreas Merker",
+            "character": "Glöckner",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.7",
-    "imdbVotes": "544",
-    "imdbID": "tt22694068",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Sonja Heiss"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 916715
 }

@@ -1,32 +1,82 @@
 {
     "Title": "Ghost in the Shell: SAC_2045 - Sustainable War",
     "Year": "2021",
-    "Rated": "N/A",
-    "Released": "09 May 2022",
-    "Runtime": "119 min",
-    "Genre": "Animation, Action, Sci-Fi",
-    "Director": "Shinji Aramaki, Michihito Fujii, Kenji Kamiyama",
-    "Writer": "Harumi Doki, Ryô Higaki, Kenji Kamiyama",
-    "Actors": "Atsuko Tanaka, Osamu Saka, Akio Ôtsuka",
     "Plot": "In the year 2045, cybernetic mercenary Motoko Kusanagi returns to Section 9 to face the threat of the posthumans.",
     "Language": "Japanese",
     "Country": "Japan",
+    "Rated": "N/A",
+    "Runtime": "119 min",
+    "Genre": "Animation, Action, Sci-Fi",
+    "Director": "Shinji Aramaki, Michihito Fujii, Kenji Kamiyama",
+    "Actors": "Atsuko Tanaka, Osamu Saka, Akio Ôtsuka",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2JlYzRiM2QtNjVkYS00MmQ3LThhNmQtZmRhNmQwNjhiNzc3XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt15392166",
+    "imdbRating": "5.8",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.81,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BY2JlYzRiM2QtNjVkYS00MmQ3LThhNmQtZmRhNmQwNjhiNzc3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/kNTvGWDTxb2spAp9SRLNfOo7kCM.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/iacx4nWW1HSQC8hfOtIYL4ayi5O.jpg",
+        "https://image.tmdb.org/t/p/w500/rFDUFQoBGQXhp7hGuwDMC7gmLbA.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.8/10"
+            "name": "Atsuko Tanaka",
+            "character": "Motoko Kusanagi (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pacuup8TMK9SFsSJOY8jlbyzkFt.jpg"
+        },
+        {
+            "name": "Osamu Saka",
+            "character": "Daisuke Aramaki (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9H4Mr8CuifB8rtah1Psh6RpXE1d.jpg"
+        },
+        {
+            "name": "Akio Otsuka",
+            "character": "Batou (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
+        },
+        {
+            "name": "Koichi Yamadera",
+            "character": "Togusa (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+        },
+        {
+            "name": "Yutaka Nakano",
+            "character": "Ishikawa (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qpI179YMdnMPaiH2rqieep3SYC3.jpg"
+        },
+        {
+            "name": "Toru Okawa",
+            "character": "Saito (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dkVP18qK730qbki25nogZzBbfuM.jpg"
+        },
+        {
+            "name": "Takashi Onozuka",
+            "character": "Paz (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9WVRLtiUrfYnPIqEeDtLDYCKYa9.jpg"
+        },
+        {
+            "name": "Taro Yamaguchi",
+            "character": "Borma (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4fJMC6twt0WZdbj5dBDVPi8rdKh.jpg"
+        },
+        {
+            "name": "Sakiko Tamagawa",
+            "character": "Tachikoma (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/652TiFmGTnXmx0s3yvZsQcwPBvd.jpg"
+        },
+        {
+            "name": "Megumi Han",
+            "character": "Purin Esaki (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/52XQZeQRl8GkNZtqUHl17zWuZpD.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.8",
-    "imdbVotes": "593",
-    "imdbID": "tt15392166",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Michihito Fujii",
+        "Shinji Aramaki",
+        "Kenji Kamiyama"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=z3oX8EZ-oMU",
+    "TMDb_ID": 965244
 }

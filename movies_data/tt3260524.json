@@ -1,40 +1,77 @@
 {
     "Title": "A Secret Love",
     "Year": "2020",
-    "Rated": "TV-MA",
-    "Released": "29 Apr 2020",
-    "Runtime": "81 min",
-    "Genre": "Documentary, Biography, Drama",
-    "Director": "Chris Bolan",
-    "Writer": "Chris Bolan, Alexa L. Fogel, Brendan Mason",
-    "Actors": "Terry Donahue, Pat Henschel, Diana Bolan",
     "Plot": "Falling in love in 1947, two women -- Pat Henschel and pro baseball player Terry Donahue -- begin a 65-year journey of love and overcoming prejudice.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "TV-MA",
+    "Runtime": "81 min",
+    "Genre": "Documentary, Biography, Drama",
+    "Director": "Chris Bolan",
+    "Actors": "Terry Donahue, Pat Henschel, Diana Bolan",
     "Awards": "1 win & 3 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q3ZWU2N2YtMThkZi00YWJmLTg5MzUtN2IxZDg0OGU5MDI3XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt3260524",
+    "imdbRating": "7.8",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.287,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BY2Q3ZWU2N2YtMThkZi00YWJmLTg5MzUtN2IxZDg0OGU5MDI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/28LNd4KEpqt9i8sgXrVcrdr2kgI.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.8/10"
+            "name": "Terry Donahue",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6MB1xMuU0m96uOWH6ZCSKUYk8rB.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "100%"
+            "name": "Pat Henschel",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oMU1NjkMDEty96s1RAtNduBwhvU.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "77/100"
+            "name": "Diana Bolan",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Kim Donahue",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Tammy Donahue",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Jack Xagas",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "John Byrd",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Yvonne Zipter",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Marge Summit",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Tracy Baim",
+            "character": "Self",
+            "profile_url": null
         }
     ],
-    "Metascore": "77",
-    "imdbRating": "7.8",
-    "imdbVotes": "5,099",
-    "imdbID": "tt3260524",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Chris Bolan"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=ghv3-lpFOcc",
+    "TMDb_ID": 687156
 }

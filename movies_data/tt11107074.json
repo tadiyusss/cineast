@@ -1,40 +1,81 @@
 {
     "Title": "My Hero Academia: Heroes Rising",
     "Year": "2019",
-    "Rated": "PG-13",
-    "Released": "26 Feb 2020",
-    "Runtime": "104 min",
-    "Genre": "Animation, Action, Adventure",
-    "Director": "Kenji Nagasaki",
-    "Writer": "Kôhei Horikoshi, Yôsuke Kuroda, Hitoshi Nagai",
-    "Actors": "Daiki Yamashita, Nobuhiko Okamoto, Yuka Terasaki",
     "Plot": "A group of youths aspiring to become professional superheroes, fight in a world full of people with abilities, also known as quirks. Deku and his fellow classmates from Hero Academy face Nine, the strongest villain yet.",
     "Language": "Japanese",
     "Country": "Japan",
+    "Rated": "PG-13",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Kenji Nagasaki",
+    "Actors": "Daiki Yamashita, Nobuhiko Okamoto, Yuka Terasaki",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjRhY2NiNzItZjM1Mi00NDBiLWI5YTctMTU0ZTFlNzA3ZjlkXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt11107074",
+    "imdbRating": "7.7",
+    "BoxOffice": "$13,304,000",
+    "TMDb_Rating": 8.144,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMjRhY2NiNzItZjM1Mi00NDBiLWI5YTctMTU0ZTFlNzA3ZjlkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/kpWsIkfXrnQ1pmR79qAHHq7DPxc.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/lAF7SVIwB5OLTvVQ3K3apbz3BZU.jpg",
+        "https://image.tmdb.org/t/p/w500/aF2XVD6XXpM2dE6huVYTcxHKfdI.jpg",
+        "https://image.tmdb.org/t/p/w500/uibWRxY35iVopaGRJ9qvfRfeAZc.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.7/10"
+            "name": "Daiki Yamashita",
+            "character": "Izuku Midoriya (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "92%"
+            "name": "Nobuhiko Okamoto",
+            "character": "Katsuki Bakugo (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "70/100"
+            "name": "Yoshio Inoue",
+            "character": "Nine (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mtsRxX1ExpeTYTdoNpjnQ8hxorm.jpg"
+        },
+        {
+            "name": "Mio Imada",
+            "character": "Slice (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/f7gPq6gv3LDrs3eN0FJY5hGpfyG.jpg"
+        },
+        {
+            "name": "Yuka Terasaki",
+            "character": "Katsuma (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hMorHtbCmbDkznBr6P71qHk2rSL.jpg"
+        },
+        {
+            "name": "Tomoyo Kurosawa",
+            "character": "Mahoro (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eSRnva88YVcUXlDHdVrhier2SGU.jpg"
+        },
+        {
+            "name": "Yuki Kaji",
+            "character": "Shoto Todoroki (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+        },
+        {
+            "name": "Kaito Ishikawa",
+            "character": "Tenya Iida (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+        },
+        {
+            "name": "Ayane Sakura",
+            "character": "Ochako Uraraka (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
+        },
+        {
+            "name": "Toshiki Masuda",
+            "character": "Eijiro Kirishima (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oMAk5Pu3aazmwFwiVOgyU7iW5ut.jpg"
         }
     ],
-    "Metascore": "70",
-    "imdbRating": "7.7",
-    "imdbVotes": "11,608",
-    "imdbID": "tt11107074",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$13,304,000",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Kenji Nagasaki"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=W6LxpZeIxNQ",
+    "TMDb_ID": 592350
 }

@@ -1,40 +1,79 @@
 {
     "Title": "Love Hard",
     "Year": "2021",
-    "Rated": "TV-MA",
-    "Released": "05 Nov 2021",
-    "Runtime": "104 min",
-    "Genre": "Comedy, Romance",
-    "Director": "Hernán Jiménez",
-    "Writer": "Daniel Mackey, Rebecca Ewing",
-    "Actors": "Nina Dobrev, Jimmy O. Yang, Darren Barnet",
     "Plot": "An unlucky-in-love L.A. girl falls for an East Coast guy on a dating app and decides to surprise him for the holidays, only to discover that she's been catfished. This lighthearted romantic comedy chronicles her attempt to reel in...",
     "Language": "English",
     "Country": "United States",
+    "Rated": "TV-MA",
+    "Runtime": "104 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Hernán Jiménez",
+    "Actors": "Nina Dobrev, Jimmy O. Yang, Darren Barnet",
     "Awards": "1 win & 1 nomination total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMmI5OWQ3MGMtMTVlNy00YzE5LThmYzgtYzI2MzNjYjg1ZWRjXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt10752004",
+    "imdbRating": "6.3",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.928,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMmI5OWQ3MGMtMTVlNy00YzE5LThmYzgtYzI2MzNjYjg1ZWRjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/oTkAFDZRLnqrXOrOwuy3Tvul0v5.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/wtBBg6ulqpkitJjObPhnkFEIUKs.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.3/10"
+            "name": "Nina Dobrev",
+            "character": "Natalie Bauer",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dDRGIMt9qHgaaGoDuzwO0XDfOBS.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "53%"
+            "name": "Jimmy O. Yang",
+            "character": "Josh Lin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1QfCVmdNo4AqBdN54kc9DTBx84X.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "42/100"
+            "name": "Darren Barnet",
+            "character": "Tag",
+            "profile_url": "https://image.tmdb.org/t/p/w500/z3hQP19QgHsKZ4j0sXNzrhScDMO.jpg"
+        },
+        {
+            "name": "James Saito",
+            "character": "Bob Lin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2XiFPyvmJWUtaWHAJOhrMa6JJhQ.jpg"
+        },
+        {
+            "name": "Rebecca Staab",
+            "character": "Barb Lin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/AavKqTvgAjqoJHFc4xOipmZJXiV.jpg"
+        },
+        {
+            "name": "Harry Shum Jr.",
+            "character": "Owen Lin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xFQsThmdyuOk9jt3zgZL08ixf2b.jpg"
+        },
+        {
+            "name": "Mikaela Hoover",
+            "character": "Chelsea Lin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mC2jcUUd8I9eyRm1liQiMA63Vvm.jpg"
+        },
+        {
+            "name": "Matty Finochio",
+            "character": "Lee",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg"
+        },
+        {
+            "name": "Heather McMahan",
+            "character": "Kerry",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6oD0jRZ3IXe0Rcop3fBL2Q7CmO6.jpg"
+        },
+        {
+            "name": "Fletcher Donovan",
+            "character": "Eric",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3wbU9lfw6OdOOQ2ZmlOOoO87Lry.jpg"
         }
     ],
-    "Metascore": "42",
-    "imdbRating": "6.3",
-    "imdbVotes": "65,861",
-    "imdbID": "tt10752004",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Hernán Jiménez"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=3boMRfx6cjE",
+    "TMDb_ID": 734265
 }

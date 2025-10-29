@@ -1,32 +1,77 @@
 {
     "Title": "Future War",
     "Year": "1997",
-    "Rated": "Unrated",
-    "Released": "21 Apr 2005",
-    "Runtime": "90 min",
-    "Genre": "Action, Fantasy, Sci-Fi, Thriller",
-    "Director": "Anthony Doublin",
-    "Writer": "David Huey (story), Dom Magwili (story), Dom Magwili (screenplay)",
-    "Actors": "Daniel Bernhardt, Robert Z'Dar, Travis Brooks Stewart, Kazja",
     "Plot": "A run-away human slave from Earth's future escapes to the present.",
     "Language": "English",
     "Country": "USA",
+    "Rated": "Unrated",
+    "Runtime": "90 min",
+    "Genre": "Action, Fantasy, Sci-Fi, Thriller",
+    "Director": "Anthony Doublin",
+    "Actors": "Daniel Bernhardt, Robert Z'Dar, Travis Brooks Stewart, Kazja",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2NjAxMDczNV5BMl5BanBnXkFtZTcwNjU3NDUyMQ@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0113135",
+    "imdbRating": "1.6",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 2.3,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTY2NjAxMDczNV5BMl5BanBnXkFtZTcwNjU3NDUyMQ@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/hYRR5NEwxL9lilr1HYXZH9Rntmu.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "1.6/10"
+            "name": "Daniel Bernhardt",
+            "character": "The Runaway",
+            "profile_url": "https://image.tmdb.org/t/p/w500/b59qhg5VJOCypx9eMXrXHAjauLd.jpg"
+        },
+        {
+            "name": "Robert Z'Dar",
+            "character": "Cyborg Master",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vi3i8INa2xvcOK9A3ujykMkMlQi.jpg"
+        },
+        {
+            "name": "Travis Brooks Stewart",
+            "character": "Sister Ann",
+            "profile_url": null
+        },
+        {
+            "name": "Kazja",
+            "character": "Cyborg",
+            "profile_url": null
+        },
+        {
+            "name": "Ray Adash",
+            "character": "Capt. Polaris",
+            "profile_url": null
+        },
+        {
+            "name": "Andre Scruggs",
+            "character": "Fred Burroughs",
+            "profile_url": null
+        },
+        {
+            "name": "David Jacobs",
+            "character": "Romero",
+            "profile_url": null
+        },
+        {
+            "name": "Aldo Juliano",
+            "character": "Oscar",
+            "profile_url": null
+        },
+        {
+            "name": "Matthew Sakimoto",
+            "character": "Max",
+            "profile_url": null
+        },
+        {
+            "name": "Art Cruz",
+            "character": "Mike",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "1.6",
-    "imdbVotes": "4,021",
-    "imdbID": "tt0113135",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Anthony Doublin"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=uaymqTpHr6g",
+    "TMDb_ID": 90616
 }

@@ -1,32 +1,77 @@
 {
     "Title": "The Lost Future",
     "Year": "2010",
-    "Rated": "Not Rated",
-    "Released": "13 Nov 2010",
-    "Runtime": "90 min",
-    "Genre": "Adventure, Sci-Fi, Thriller",
-    "Director": "Mikael Salomon",
-    "Writer": "Jonas Bauer, Bev Doyle, Diane Duane",
-    "Actors": "Sean Bean, Corey Sevier, Sam Claflin",
     "Plot": "After a global cataclysm, mankind has degraded to a tribal society. In one of the tribes there is a disagreement about what is the best way to survive.",
     "Language": "English",
     "Country": "Germany, South Africa, United States",
+    "Rated": "Not Rated",
+    "Runtime": "90 min",
+    "Genre": "Adventure, Sci-Fi, Thriller",
+    "Director": "Mikael Salomon",
+    "Actors": "Sean Bean, Corey Sevier, Sam Claflin",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYmY1MWU4Y2ItNTEwNy00NDQ4LTlmZWQtYjExNGM4MjZiOTI4XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt1615091",
+    "imdbRating": "4.9",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 4.836,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYmY1MWU4Y2ItNTEwNy00NDQ4LTlmZWQtYjExNGM4MjZiOTI4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/rwP3xGH78aaNbGVFisFxx4LLuay.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "4.9/10"
+            "name": "Sean Bean",
+            "character": "Amal",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+        },
+        {
+            "name": "Annabelle Wallis",
+            "character": "Dorel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9lqdI8L2Bgj8zWR5l4l0II6GXug.jpg"
+        },
+        {
+            "name": "Corey Sevier",
+            "character": "Savan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wKt1pHZ5Q6kgkmZsNz53lNPzLR3.jpg"
+        },
+        {
+            "name": "Eleanor Tomlinson",
+            "character": "Miru",
+            "profile_url": "https://image.tmdb.org/t/p/w500/A2lE5kvZE3tIpKwpAtKbjsMHpf2.jpg"
+        },
+        {
+            "name": "Jonathan Pienaar",
+            "character": "Gagen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nnJi1ZRQMJFSnuDbScgYkJn06hz.jpg"
+        },
+        {
+            "name": "Hannah Tointon",
+            "character": "Giselle",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hMSj0yZ8LzpSrJOIRgJujeuld0.jpg"
+        },
+        {
+            "name": "Sam Claflin",
+            "character": "Kaleb",
+            "profile_url": "https://image.tmdb.org/t/p/w500/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+        },
+        {
+            "name": "Jessica Haines",
+            "character": "Neenah",
+            "profile_url": "https://image.tmdb.org/t/p/w500/shV2qPmems2fAIo4R9ORoSjpoUX.jpg"
+        },
+        {
+            "name": "Tertius Meintjes",
+            "character": "Uri",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zaDFt6Hmnv8N0Zr7MP1I1pT4ZQ5.jpg"
+        },
+        {
+            "name": "Garth Breytenbach",
+            "character": "Remi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uUA4CC8tVgc110QygirnyQu2ipR.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "4.9",
-    "imdbVotes": "5,699",
-    "imdbID": "tt1615091",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Mikael Salomon"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 50674
 }

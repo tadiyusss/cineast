@@ -1,40 +1,80 @@
 {
     "Title": "Once Upon a Crime...",
     "Year": "1992",
-    "Rated": "PG",
-    "Released": "06 Mar 1992",
-    "Runtime": "94 min",
-    "Genre": "Comedy, Crime, Mystery",
-    "Director": "Eugene Levy",
-    "Writer": "Rodolfo Sonego, Giorgio Arlorio, Stefano Strucchi",
-    "Actors": "John Candy, Jim Belushi, Cybill Shepherd",
     "Plot": "Phoebe and a fellow American in Rome find a dog with a $5000 reward. They take a train to the owner in Monte Carlo. She turns up murdered. They run and become suspects just as 3 other Americans on the train.",
     "Language": "English",
     "Country": "Germany, United States",
+    "Rated": "PG",
+    "Runtime": "94 min",
+    "Genre": "Comedy, Crime, Mystery",
+    "Director": "Eugene Levy",
+    "Actors": "John Candy, Jim Belushi, Cybill Shepherd",
     "Awards": "1 nomination total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOGI2NTdlYjMtMWY3Ny00YTJiLWJmNDktYWJlMjNhNmUxYzVjXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0101625",
+    "imdbRating": "5.8",
+    "BoxOffice": "$8,669,847",
+    "TMDb_Rating": 5.699,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BOGI2NTdlYjMtMWY3Ny00YTJiLWJmNDktYWJlMjNhNmUxYzVjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/13zU7il6WMJ0QlXTMokJyBYSsYE.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/m0Z9zBd3RMgtv4agIMaQXRF4qWM.jpg",
+        "https://image.tmdb.org/t/p/w500/4kamaU2A6r93307BBUwKXAEolMh.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.8/10"
+            "name": "John Candy",
+            "character": "Augie Morosco",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uvLWbMDE6UfWNF5tfrsrC9NqeEA.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "0%"
+            "name": "Jim Belushi",
+            "character": "Neil Schwary",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wIvFYH110ER7ukwR0qryQJJDQYH.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "35/100"
+            "name": "Cybill Shepherd",
+            "character": "Marilyn Schwary",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ci20y6ilSmiw759cUwQVheOqNaD.jpg"
+        },
+        {
+            "name": "Sean Young",
+            "character": "Phoebe",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yfJADYt6xYPpg1g7Z7TTW0bcL2s.jpg"
+        },
+        {
+            "name": "Richard Lewis",
+            "character": "Julian Peters",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xUiYIhzC0HfpkWn5QuaICLtE6Hy.jpg"
+        },
+        {
+            "name": "Ornella Muti",
+            "character": "Elena Morosco",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mfqcHHrBH6NdhjiMozCwhaR9oqo.jpg"
+        },
+        {
+            "name": "Giancarlo Giannini",
+            "character": "Inspector Bonnard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xsnoThKUjFlhmvXKS4ZqAx1x3zb.jpg"
+        },
+        {
+            "name": "George Hamilton",
+            "character": "Alfonso de la Pena",
+            "profile_url": "https://image.tmdb.org/t/p/w500/za0jt4pZEjHf3kzUecbIC6hpX7I.jpg"
+        },
+        {
+            "name": "Roberto Sbaratto",
+            "character": "Detective Toussaint",
+            "profile_url": "https://image.tmdb.org/t/p/w500/119SpmYFhwX9CEJssZWo1aGgHnO.jpg"
+        },
+        {
+            "name": "Joss Ackland",
+            "character": "Hercules Popodopoulos",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2votqyrYGvSsXKaPNIa0CZtvBMY.jpg"
         }
     ],
-    "Metascore": "35",
-    "imdbRating": "5.8",
-    "imdbVotes": "5,632",
-    "imdbID": "tt0101625",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$8,669,847",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Eugene Levy"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=WTQ9FZiHnhw",
+    "TMDb_ID": 27465
 }

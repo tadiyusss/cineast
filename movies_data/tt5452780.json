@@ -1,36 +1,82 @@
 {
     "Title": "Olaf's Frozen Adventure",
     "Year": "2017",
-    "Rated": "G",
-    "Released": "27 Oct 2017",
-    "Runtime": "22 min",
-    "Genre": "Animation, Short, Adventure",
-    "Director": "Kevin Deters, Stevie Wermers",
-    "Writer": "Jac Schaeffer",
-    "Actors": "Josh Gad, Idina Menzel, Kristen Bell",
     "Plot": "A Christmas-themed special featuring characters from Walt Disney Pictures' 53rd full-length animated motion picture, \"Frozen (2013)\".",
     "Language": "English",
     "Country": "Japan, United States",
+    "Rated": "G",
+    "Runtime": "22 min",
+    "Genre": "Animation, Short, Adventure",
+    "Director": "Kevin Deters, Stevie Wermers",
+    "Actors": "Josh Gad, Idina Menzel, Kristen Bell",
     "Awards": "3 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzRlNWU1NjMtMTY3ZC00MmQxLTk0YWEtNzcxNzI3NjFhNDQzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt5452780",
+    "imdbRating": "5.7",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.5,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMzRlNWU1NjMtMTY3ZC00MmQxLTk0YWEtNzcxNzI3NjFhNDQzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/As8WTtxXs9e3cBit3ztTf7zoRmm.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/7KCGx8o6d7mcUBEzsmk8yxVmzON.jpg",
+        "https://image.tmdb.org/t/p/w500/5bZVgQahbZcelg30fTbvRcEclRm.jpg",
+        "https://image.tmdb.org/t/p/w500/bfLWf6Vm5RwIGtWgSd5GiORtWxO.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.7/10"
+            "name": "Josh Gad",
+            "character": "Olaf (Voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bgRWcrD9hfaa2f7RUWJzxmJaWuD.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "57%"
+            "name": "Kristen Bell",
+            "character": "Anna (Voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+        },
+        {
+            "name": "Idina Menzel",
+            "character": "Elsa (Voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eGsyJmAZNV5tUU4RYy2DIRlFVpW.jpg"
+        },
+        {
+            "name": "Jonathan Groff",
+            "character": "Kristoff (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+        },
+        {
+            "name": "Eva Bella",
+            "character": "Young Elsa (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8XmnkpEEEtXYXTQ9PFBBtIUAaBR.jpg"
+        },
+        {
+            "name": "Chris Williams",
+            "character": "Oaken (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eE2NDdeKN1DC3XuV6L4xuEbVaS.jpg"
+        },
+        {
+            "name": "John de Lancie",
+            "character": "Mr. Olsen (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/e9GsjWaW9fabT22ceLzesJhUgzd.jpg"
+        },
+        {
+            "name": "Lauri Fraser",
+            "character": "Mrs. Olsen (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/g1bNvk5LLnD31bKQwEAVL4w1bSr.jpg"
+        },
+        {
+            "name": "Stevie Wermers-Skelton",
+            "character": "Candy Cane Mother (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3TEcBOZw2qQLPR2wVirVO72P0Ha.jpg"
+        },
+        {
+            "name": "Benjamin Deters",
+            "character": "Candy Cane Kid (voice)",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.7",
-    "imdbVotes": "14,759",
-    "imdbID": "tt5452780",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Stevie Wermers-Skelton",
+        "Kevin Deters"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=hb8WDATVB6A",
+    "TMDb_ID": 460793
 }

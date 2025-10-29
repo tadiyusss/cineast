@@ -1,40 +1,79 @@
 {
     "Title": "The Crime Is Mine",
     "Year": "2023",
-    "Rated": "N/A",
-    "Released": "08 Mar 2023",
-    "Runtime": "102 min",
-    "Genre": "Comedy, Crime",
-    "Director": "François Ozon",
-    "Writer": "François Ozon, Philippe Piazzo, Georges Berr",
-    "Actors": "Nadia Tereszkiewicz, Rebecca Marder, Isabelle Huppert",
     "Plot": "Paris, France, 1935, and a young actress has just been acquitted of murdering a famous French Producer. However, this is where the story just begins. Is she really innocent?, or has she gotten away with Murder?",
     "Language": "French, Spanish",
     "Country": "France",
+    "Rated": "N/A",
+    "Runtime": "102 min",
+    "Genre": "Comedy, Crime",
+    "Director": "François Ozon",
+    "Actors": "Nadia Tereszkiewicz, Rebecca Marder, Isabelle Huppert",
     "Awards": "2 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDY2YTBjZTItOWU0ZC00NDMyLTgzMWYtNzg0YjViOWVmYjI3XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt20330434",
+    "imdbRating": "6.5",
+    "BoxOffice": "$122,083",
+    "TMDb_Rating": 6.443,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMDY2YTBjZTItOWU0ZC00NDMyLTgzMWYtNzg0YjViOWVmYjI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/hcvhE2JWsidOxHL7yXk3MXs4vyt.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/nXpiomCgEnF4iC7H6we8Tb2Nvh0.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.5/10"
+            "name": "Nadia Tereszkiewicz",
+            "character": "Madeleine Verdier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2nGcrALNnvnCfD6GL5HKzNJBtUD.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "98%"
+            "name": "Rebecca Marder",
+            "character": "Pauline Mauléon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nVjmGILgh0CLMMmMaphCOnTZ34X.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "74/100"
+            "name": "Isabelle Huppert",
+            "character": "Odette Chaumette",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3YQwWkpNKQeV5NUmdCH76Ne1gDP.jpg"
+        },
+        {
+            "name": "Fabrice Luchini",
+            "character": "Judge Gustave Rabusset",
+            "profile_url": "https://image.tmdb.org/t/p/w500/krR5EUfM13UJwsB07ffzPU7FXYR.jpg"
+        },
+        {
+            "name": "Dany Boon",
+            "character": "Fernand Palmarède",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6jMvseHpFra7tkfDIg64u5pJcI2.jpg"
+        },
+        {
+            "name": "André Dussollier",
+            "character": "Mr Bonnard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hDROAFwZG5F7eduBQEbR1QXOwj2.jpg"
+        },
+        {
+            "name": "Jean-Christophe Bouvet",
+            "character": "Mr Montferrand",
+            "profile_url": "https://image.tmdb.org/t/p/w500/w57t3esYfYjb3LhYsWP8K0pPUZo.jpg"
+        },
+        {
+            "name": "Édouard Sulpice",
+            "character": "André Bonnard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4hprH6ffD2ehg5TNIKkxUggJQ0w.jpg"
+        },
+        {
+            "name": "Régis Laspalès",
+            "character": "Investigator Mr Brun",
+            "profile_url": "https://image.tmdb.org/t/p/w500/onCzsXYdyWcnqlV8bAiUXxp0nF9.jpg"
+        },
+        {
+            "name": "Olivier Broche",
+            "character": "Court clerk Léon Trapu",
+            "profile_url": "https://image.tmdb.org/t/p/w500/92g3EdByuinF44Rc1fspIo7cUQc.jpg"
         }
     ],
-    "Metascore": "74",
-    "imdbRating": "6.5",
-    "imdbVotes": "5,902",
-    "imdbID": "tt20330434",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$122,083",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "François Ozon"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=cEI0IGFdxoc",
+    "TMDb_ID": 977506
 }

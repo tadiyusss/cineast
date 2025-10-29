@@ -1,40 +1,80 @@
 {
     "Title": "Love and Monsters",
     "Year": "2020",
-    "Rated": "PG-13",
-    "Released": "16 Oct 2020",
-    "Runtime": "109 min",
-    "Genre": "Action, Adventure, Comedy",
-    "Director": "Michael Matthews",
-    "Writer": "Brian Duffield, Matthew Robinson",
-    "Actors": "Dylan O'Brien, Jessica Henwick, Michael Rooker",
     "Plot": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his high school sweetheart.",
     "Language": "English",
     "Country": "Canada, United States, Australia",
+    "Rated": "PG-13",
+    "Runtime": "109 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Michael Matthews",
+    "Actors": "Dylan O'Brien, Jessica Henwick, Michael Rooker",
     "Awards": "Nominated for 1 Oscar. 1 win & 4 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BN2I1MGNiOWMtYmFlNC00MDYxLTkzODEtZDhiMTg5MjYzNTQxXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt2222042",
+    "imdbRating": "6.9",
+    "BoxOffice": "$1,070,714",
+    "TMDb_Rating": 7.28,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BN2I1MGNiOWMtYmFlNC00MDYxLTkzODEtZDhiMTg5MjYzNTQxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/5POxUwR0QfLTEdYnCI83sTPV0Mn.jpg",
+        "https://image.tmdb.org/t/p/w500/dX9atvAfOG4QJnylR89Tm65AZPf.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.9/10"
+            "name": "Dylan O'Brien",
+            "character": "Joel Dawson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xN3GdvIlqsR838gDoblhPH0numP.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "94%"
+            "name": "Jessica Henwick",
+            "character": "Aimee",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kvfrgxnkQmZ0WvYCcUDDtSDjn9I.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "63/100"
+            "name": "Michael Rooker",
+            "character": "Clyde",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+        },
+        {
+            "name": "Dan Ewing",
+            "character": "Cap",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gqZq8dSJ0zmmDO8omTlpQWeHQ6d.jpg"
+        },
+        {
+            "name": "Ariana Greenblatt",
+            "character": "Minnow",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bg9ysIhsdygPpVx2rnKDtzylfRv.jpg"
+        },
+        {
+            "name": "Ellen Hollman",
+            "character": "Dana",
+            "profile_url": "https://image.tmdb.org/t/p/w500/acqpPqxtFhXbat98llcttsHFARm.jpg"
+        },
+        {
+            "name": "Tre Hale",
+            "character": "Rocko",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yASkZD15DmMgoDgGabuF7ZetGYk.jpg"
+        },
+        {
+            "name": "Pacharo Mzembe",
+            "character": "Ray",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lXeEgdThQ8eqFiAv6HTwqJn6AU5.jpg"
+        },
+        {
+            "name": "Senie Priti",
+            "character": "Karen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wDZsSB5EnjL6FBXhaagDa0iWHpv.jpg"
+        },
+        {
+            "name": "Amali Golden",
+            "character": "Ava",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zmxUSYlVYflaNl5Ft2b7ayoFvA0.jpg"
         }
     ],
-    "Metascore": "63",
-    "imdbRating": "6.9",
-    "imdbVotes": "155,949",
-    "imdbID": "tt2222042",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$1,070,714",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Michael Matthews"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=DdIHtymX_Fc",
+    "TMDb_ID": 590223
 }

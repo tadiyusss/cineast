@@ -1,40 +1,80 @@
 {
     "Title": "Love Again",
     "Year": "2023",
-    "Rated": "PG-13",
-    "Released": "05 May 2023",
-    "Runtime": "104 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Jim Strouse",
-    "Writer": "Jim Strouse, Sofie Cramer, Andrea Willson",
-    "Actors": "Priyanka Chopra Jonas, Sam Heughan, Céline Dion",
     "Plot": "A young woman tries to ease the pain of her fiancé's death by sending texts to his old cell phone number, and forms a connection with the man the number has been reassigned to.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG-13",
+    "Runtime": "104 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Jim Strouse",
+    "Actors": "Priyanka Chopra Jonas, Sam Heughan, Céline Dion",
     "Awards": "1 nomination total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BODIxY2NkYWEtNWE3ZS00NDZhLWFlMDktMTE0NDNlZDk0MzAyXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt10276482",
+    "imdbRating": "5.9",
+    "BoxOffice": "$6,230,837",
+    "TMDb_Rating": 6.7,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BODIxY2NkYWEtNWE3ZS00NDZhLWFlMDktMTE0NDNlZDk0MzAyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/koswMk0y7jGcyofV1sBccnNtY0B.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/oFpja3cIHqF2Gp8ImEuaAO2YurY.jpg",
+        "https://image.tmdb.org/t/p/w500/fIR895d31zPMAwVjt1bKRO9H5XC.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.9/10"
+            "name": "Priyanka Chopra Jonas",
+            "character": "Mira Ray",
+            "profile_url": "https://image.tmdb.org/t/p/w500/stEZxIVAWFlrifbWkeULsD4LHnf.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "30%"
+            "name": "Sam Heughan",
+            "character": "Rob Burns",
+            "profile_url": "https://image.tmdb.org/t/p/w500/toBZ2mxZ2AbYYBfFV3Xvwm2QR4I.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "32/100"
+            "name": "Céline Dion",
+            "character": "Céline Dion",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eR4PVLOJiRtP40uhJefNkdwAtPo.jpg"
+        },
+        {
+            "name": "Sofia Barclay",
+            "character": "Suzy Ray",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9xL6keqdxerkEJ59dklSqUoMDrK.jpg"
+        },
+        {
+            "name": "Russell Tovey",
+            "character": "Billy Brooks",
+            "profile_url": "https://image.tmdb.org/t/p/w500/p1hNveDVY6vT5FDT0zJXDnZsDw.jpg"
+        },
+        {
+            "name": "Lydia West",
+            "character": "Lisa Scott",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hfuIpQJ7BEwRBwshuatI4SUFmrC.jpg"
+        },
+        {
+            "name": "Steve Oram",
+            "character": "Richard Hughes",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lRLC2evuvWxFtq0aq7Te4I1L9MS.jpg"
+        },
+        {
+            "name": "Omid Djalili",
+            "character": "Mohsen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lCgVvAw8EkIKbc93ZtINdwxH1CV.jpg"
+        },
+        {
+            "name": "Nick Jonas",
+            "character": "Joel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/y79k7wrDeyRbrGFs2Z3XHU5mq0o.jpg"
+        },
+        {
+            "name": "Celia Imrie",
+            "character": "Gina Valentine",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eEtVfESOVnkkdPLYkyQpalEwAwj.jpg"
         }
     ],
-    "Metascore": "32",
-    "imdbRating": "5.9",
-    "imdbVotes": "18,384",
-    "imdbID": "tt10276482",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$6,230,837",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Jim Strouse"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=LbW1Yj6jHrk",
+    "TMDb_ID": 758336
 }

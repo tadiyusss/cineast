@@ -1,36 +1,77 @@
 {
     "Title": "Love, Divided",
     "Year": "2024",
-    "Rated": "TV-14",
-    "Released": "12 Apr 2024",
-    "Runtime": "98 min",
-    "Genre": "Comedy, Romance",
-    "Director": "Patricia Font",
-    "Writer": "Marta Sánchez",
-    "Actors": "Aitana, Fernando Guallar, Natalia Rodríguez",
     "Plot": "Valentina is a young pianist starting over. Her neighbor David is an inventor who hates noise. And a paper-thin wall is about to become their matchmaker.",
     "Language": "Spanish",
     "Country": "Spain",
+    "Rated": "TV-14",
+    "Runtime": "98 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Patricia Font",
+    "Actors": "Aitana, Fernando Guallar, Natalia Rodríguez",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNGJiZjY3MWItMmVmNy00MmJkLTg2NjMtM2VkMWNjZTQ0NDI3XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt20198716",
+    "imdbRating": "6.0",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.663,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNGJiZjY3MWItMmVmNy00MmJkLTg2NjMtM2VkMWNjZTQ0NDI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/zvrkAXaFFPpJCFcus18qlsGfOrz.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.0/10"
+            "name": "Aitana",
+            "character": "Valentina",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pbl9RP68Q07tvKjrha0OkgaCmDQ.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "71%"
+            "name": "Fernando Guallar",
+            "character": "David",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yvlJ68jeSaT1amwgsNLDbvX44L3.jpg"
+        },
+        {
+            "name": "Natalia Rodríguez",
+            "character": "Carmen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sn1MGn3Plx0QQPDkUwztJJTpvRm.jpg"
+        },
+        {
+            "name": "Adam Jezierski",
+            "character": "Nacho",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ek6ShDVDB0vJycxYxwI6VjumLrS.jpg"
+        },
+        {
+            "name": "Paco Tous",
+            "character": "Sebas",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uDGKTKKv9v2JRutCZJjKwpJVKOs.jpg"
+        },
+        {
+            "name": "Miguel Ángel Muñoz",
+            "character": "Óscar",
+            "profile_url": "https://image.tmdb.org/t/p/w500/k4W5AyG3KIh33wpDViGv61YrSDL.jpg"
+        },
+        {
+            "name": "Àlex Maruny",
+            "character": "Sergio",
+            "profile_url": "https://image.tmdb.org/t/p/w500/f2v9JpjuycraoIoMpO7lzUffs2s.jpg"
+        },
+        {
+            "name": "Macarena de Rueda",
+            "character": "Maite",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9eiYNGcwDv5gRWSyDacY12ky4kK.jpg"
+        },
+        {
+            "name": "Joan Sentís",
+            "character": "Gonzalo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zXo7opoRCBLTJ1vrP0zsRleWNR4.jpg"
+        },
+        {
+            "name": "Maite Sandoval",
+            "character": "Mujer tribunal",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gP9ry6RlN4u6C6QHHW2kn26S0q1.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.0",
-    "imdbVotes": "4,665",
-    "imdbID": "tt20198716",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Patricia Font"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 1005681
 }

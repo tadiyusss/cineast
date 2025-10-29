@@ -1,40 +1,80 @@
 {
     "Title": "Love Hurts",
     "Year": "2025",
-    "Rated": "R",
-    "Released": "07 Feb 2025",
-    "Runtime": "83 min",
-    "Genre": "Action, Comedy, Romance",
-    "Director": "Jonathan Eusebio",
-    "Writer": "Matthew Murray, Josh Stoddard, Luke Passmore",
-    "Actors": "Ke Huy Quan, Ariana DeBose, Mustafa Shakir",
     "Plot": "A realtor is pulled back into the life he left behind after his former partner-in-crime resurfaces with an ominous message. With his crime-lord brother also on his trail, he must confront his past and the history he never fully bu...",
     "Language": "English, Russian",
     "Country": "United States, Japan",
+    "Rated": "R",
+    "Runtime": "83 min",
+    "Genre": "Action, Comedy, Romance",
+    "Director": "Jonathan Eusebio",
+    "Actors": "Ke Huy Quan, Ariana DeBose, Mustafa Shakir",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDBmMTVkNWItZWY4Yy00MjI0LWFiMmMtMWM4ZGQ3NTg0MDE1XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt30788842",
+    "imdbRating": "5.3",
+    "BoxOffice": "$15,683,090",
+    "TMDb_Rating": 5.729,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZDBmMTVkNWItZWY4Yy00MjI0LWFiMmMtMWM4ZGQ3NTg0MDE1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/v6Zrfv8S2dTUInZ05rkwNmAWqN3.jpg",
+        "https://image.tmdb.org/t/p/w500/iBdOpkW7BemkvxFxWS1gaSB8puq.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.3/10"
+            "name": "Ke Huy Quan",
+            "character": "Marvin Gable",
+            "profile_url": "https://image.tmdb.org/t/p/w500/iestHyn7PLuVowj5Jaa1SGPboQ4.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "18%"
+            "name": "Ariana DeBose",
+            "character": "Rose Carlisle",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8HTSA2iVTsDN83OncAvFTcqxsAr.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "34/100"
+            "name": "Daniel Wu",
+            "character": "Alvin \"Knuckles\" Gable",
+            "profile_url": "https://image.tmdb.org/t/p/w500/w6fCmYDlTNYfgdXBZjZH107c9zJ.jpg"
+        },
+        {
+            "name": "Mustafa Shakir",
+            "character": "The Raven",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eeBtCxmlmHguKbeUr2Usx2Jdnj9.jpg"
+        },
+        {
+            "name": "Lio Tipton",
+            "character": "Ashley",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jwLTUddwx1vGVcrpEGH87vVJsnY.jpg"
+        },
+        {
+            "name": "Cam Gigandet",
+            "character": "Renny Merlo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+        },
+        {
+            "name": "Rhys Darby",
+            "character": "Kippy Betts",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9lvTJroJAaAopBQlslx2LOBYJv.jpg"
+        },
+        {
+            "name": "André Eriksen",
+            "character": "Otis",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uQcgAjG6J6BxLrpPOAJVAf7P1Uk.jpg"
+        },
+        {
+            "name": "Marshawn Lynch",
+            "character": "King",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ze8ZCRhiXGfYHmSCyBbA77gqr74.jpg"
+        },
+        {
+            "name": "Sean Astin",
+            "character": "Cliff Cussick",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ywH1VvdwqlcnuwUVr0pV0HUZJQA.jpg"
         }
     ],
-    "Metascore": "34",
-    "imdbRating": "5.3",
-    "imdbVotes": "13,215",
-    "imdbID": "tt30788842",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$15,683,090",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Jonathan Eusebio"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=y7_gi1-bIJs",
+    "TMDb_ID": 1226406
 }

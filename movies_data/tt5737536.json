@@ -1,40 +1,78 @@
 {
     "Title": "Future World",
     "Year": "2018",
-    "Rated": "R",
-    "Released": "25 May 2018",
-    "Runtime": "88 min",
-    "Genre": "Action, Adventure, Sci-Fi",
-    "Director": "James Franco, Bruce Thierry Cheung",
-    "Writer": "Bruce Thierry Cheung, Jeremy Craig Cheung, Jay Davis",
-    "Actors": "James Franco, Suki Waterhouse, Jeff Wahlberg",
     "Plot": "A young boy searches a future world wasteland for a rumored cure for his dying mother.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "R",
+    "Runtime": "88 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "James Franco, Bruce Thierry Cheung",
+    "Actors": "James Franco, Suki Waterhouse, Jeff Wahlberg",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMWUwMjg4MjgtMmZmZi00NTQzLWFlNzQtOWRiMmVkNTRkNGJhXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt5737536",
+    "imdbRating": "3.3",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 4.3,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMWUwMjg4MjgtMmZmZi00NTQzLWFlNzQtOWRiMmVkNTRkNGJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/kMA0IalnEEa0PaHRUzzjpTu5xXQ.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "3.3/10"
+            "name": "James Franco",
+            "character": "Warlord",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "0%"
+            "name": "Suki Waterhouse",
+            "character": "Ash",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gR3TLPDvqkrwIKJBw9Mx3VhhM2G.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "10/100"
+            "name": "Jeffrey Wahlberg",
+            "character": "Prince",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qQPYzh9ndleKqqFhpVMHqJfp8By.jpg"
+        },
+        {
+            "name": "Margarita Levieva",
+            "character": "Lei",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7rSf7C5oKuvjgEBfe2GVv064Le.jpg"
+        },
+        {
+            "name": "Snoop Dogg",
+            "character": "Love Lord",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rbxBK2m6fEq0oHeMoBUMVYkJEdJ.jpg"
+        },
+        {
+            "name": "Twin Shadow",
+            "character": "Ratcatcher",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2w2KexdaM8CMrFP4nQrvhWIhmNV.jpg"
+        },
+        {
+            "name": "Method Man",
+            "character": "Tattooed Face",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mYJFxOcrda410rS5JHPf0nPuimZ.jpg"
+        },
+        {
+            "name": "Lucy Liu",
+            "character": "The Queen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+        },
+        {
+            "name": "Milla Jovovich",
+            "character": "Drug Lord",
+            "profile_url": "https://image.tmdb.org/t/p/w500/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+        },
+        {
+            "name": "Carmen Argenziano",
+            "character": "Grandfather",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aiHWJmsVn7iWuohSg6lzF23XYVr.jpg"
         }
     ],
-    "Metascore": "10",
-    "imdbRating": "3.3",
-    "imdbVotes": "7,035",
-    "imdbID": "tt5737536",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "James Franco",
+        "Bruce Thierry Cheung"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=uljtvXrkdbc",
+    "TMDb_ID": 411135
 }

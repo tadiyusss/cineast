@@ -1,36 +1,79 @@
 {
     "Title": "Squared Love",
     "Year": "2021",
-    "Rated": "TV-14",
-    "Released": "11 Feb 2021",
-    "Runtime": "102 min",
-    "Genre": "Comedy, Romance",
-    "Director": "Filip Zylber",
-    "Writer": "Wiktor Piatkowski, Marzanna Polit",
-    "Actors": "Adrianna Chlebicka, Mateusz Banasiuk, Agnieszka Zulewska",
     "Plot": "A celebrity journalist and renowned womanizer starts to rethink his life choices after he falls for a mysterious model who leads a double life.",
     "Language": "Polish",
     "Country": "Poland",
+    "Rated": "TV-14",
+    "Runtime": "102 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Filip Zylber",
+    "Actors": "Adrianna Chlebicka, Mateusz Banasiuk, Agnieszka Zulewska",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDdkMzNmMWYtZGNhYS00ZmI5LWI4ZTktNjFlNTMyNjQ1ZDJkXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt13846542",
+    "imdbRating": "5.1",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.067,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMDdkMzNmMWYtZGNhYS00ZmI5LWI4ZTktNjFlNTMyNjQ1ZDJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/qeRCXsOitUdtDXc5sSVgwYGTZyg.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/o4vOsHvgCvQOOpKuG8zTkONn6wu.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.1/10"
+            "name": "Adrianna Chlebicka",
+            "character": "Monika Grabarczyk",
+            "profile_url": "https://image.tmdb.org/t/p/w500/u46k8j7k73tkP6HFXU902uQrzTR.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "20%"
+            "name": "Mateusz Banasiuk",
+            "character": "Stefan 'Enzo' Tkaczyk",
+            "profile_url": "https://image.tmdb.org/t/p/w500/htagP1QvjTuSEeenZp1P04vwNzk.jpg"
+        },
+        {
+            "name": "Agnieszka Żulewska",
+            "character": "Alicja",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4rvcJMkl1Test5C6DFFpqJY2CrJ.jpg"
+        },
+        {
+            "name": "Anna Smołowik",
+            "character": "Ilona",
+            "profile_url": "https://image.tmdb.org/t/p/w500/njjKjKhMI2NE7yAlf2msPr2rzTf.jpg"
+        },
+        {
+            "name": "Krzysztof Czeczot",
+            "character": "Jacek Szczepański",
+            "profile_url": "https://image.tmdb.org/t/p/w500/c1HfnJz4rKmrvA1x5z0wdNUZm6U.jpg"
+        },
+        {
+            "name": "Mirosław Baka",
+            "character": "Bazyli",
+            "profile_url": "https://image.tmdb.org/t/p/w500/BV3u45dwZlaB82t4cfh6REK7cR.jpg"
+        },
+        {
+            "name": "Tomasz Karolak",
+            "character": "Principal",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yyFyALFiui8fBgBPwlciBHbrPCK.jpg"
+        },
+        {
+            "name": "Bartłomiej Kotschedoff",
+            "character": "Szymon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dffqB6PsOeg5gevabtLkbFfnqyV.jpg"
+        },
+        {
+            "name": "Jacek Feliks Knap",
+            "character": "Andrzej",
+            "profile_url": "https://image.tmdb.org/t/p/w500/olAb12wn0GowGyHh2TdcdBCxNwn.jpg"
+        },
+        {
+            "name": "Helena Mazur",
+            "character": "Ania",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.1",
-    "imdbVotes": "3,909",
-    "imdbID": "tt13846542",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Filip Zylber"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=zF9YIYc0d7w",
+    "TMDb_ID": 787298
 }

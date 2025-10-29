@@ -1,36 +1,57 @@
 {
     "Title": "Kill Chain: The Cyber War on America's Elections",
     "Year": "2020",
-    "Rated": "TV-14",
-    "Released": "26 Mar 2020",
-    "Runtime": "91 min",
-    "Genre": "Documentary",
-    "Director": "Simon Ardizzone, Russell Michaels, Sarah Teale",
-    "Writer": "N/A",
-    "Actors": "J. Alex Halderman, Sue Halpern, Nathaniel Herz",
     "Plot": "Finnish hacker and election expert Harri Hursti investigates election-related hacks, uncovering just how unprotected voting systems really are.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "TV-14",
+    "Runtime": "91 min",
+    "Genre": "Documentary",
+    "Director": "Simon Ardizzone, Russell Michaels, Sarah Teale",
+    "Actors": "J. Alex Halderman, Sue Halpern, Nathaniel Herz",
     "Awards": "2 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDlhZjc4YTctMDM2My00MGFkLWI1ODItMTU4YTdkOWFkMGM0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt12041084",
+    "imdbRating": "7.4",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.853,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZDlhZjc4YTctMDM2My00MGFkLWI1ODItMTU4YTdkOWFkMGM0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/wE5uKpKkmSDGWVYYBWKhI5G0shQ.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/fGhPh1Y3yZC7wOavngxhqQRpBNg.jpg",
+        "https://image.tmdb.org/t/p/w500/o6Rkf2iGOMlTMv7IIkU2iaQK4ir.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.4/10"
+            "name": "Harri Hursti",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8gqRTRdlLADh9TbNg6CUx9bhpzo.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "100%"
+            "name": "Amy Klobuchar",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fUcsl6EdzItRiNBTqNoBQirGdjH.jpg"
+        },
+        {
+            "name": "James Lankford",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8nnBnM32ZexEbDzMogGKN4asCby.jpg"
+        },
+        {
+            "name": "Ron Wyden",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/u9ZqkzQWI3pZplLqBJQE3WZpVrO.jpg"
+        },
+        {
+            "name": "Mark Warner",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/Ti21FLNHcft8BNVmDOL5NFUsuF.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.4",
-    "imdbVotes": "791",
-    "imdbID": "tt12041084",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Russell Michaels",
+        "Sarah Teale",
+        "Simon Ardizzone"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=AwSVN_dgio8",
+    "TMDb_ID": 685814
 }

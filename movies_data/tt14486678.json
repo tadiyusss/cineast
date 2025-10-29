@@ -1,32 +1,79 @@
 {
     "Title": "Love Tactics",
     "Year": "2022",
-    "Rated": "TV-MA",
-    "Released": "11 Feb 2022",
-    "Runtime": "97 min",
-    "Genre": "Comedy, Romance",
-    "Director": "Emre Kabakusak",
-    "Writer": "Pelin Karamehmetoglu",
-    "Actors": "Demet Özdemir, Sükrü Özyildiz, Atakan Çelik",
     "Plot": "An ad executive and a fashion designer-blogger don't believe in love, so they place a bet to make the other fall head over heels - with unusual tactics.",
     "Language": "Turkish",
     "Country": "Turkey",
+    "Rated": "TV-MA",
+    "Runtime": "97 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Emre Kabakusak",
+    "Actors": "Demet Özdemir, Sükrü Özyildiz, Atakan Çelik",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZjY2N2Y1ZDQtYzA2Ny00NGJjLWJjOTUtZGQzOGI0YzdlMjM1XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt14486678",
+    "imdbRating": "5.3",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.109,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZjY2N2Y1ZDQtYzA2Ny00NGJjLWJjOTUtZGQzOGI0YzdlMjM1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/8RyASTsrKKRnQ9xSGJDuImD8cjX.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/3ZgBqoB6evWA7uKdM1NXE0C82dk.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.3/10"
+            "name": "Demet Özdemir",
+            "character": "Aslı",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nmy5ksmwyrdCLRaXb9DYA0pDEbh.jpg"
+        },
+        {
+            "name": "Şükrü Özyıldız",
+            "character": "Kerem",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4mtjJDiFo46bKuW5Hs759vNMsAm.jpg"
+        },
+        {
+            "name": "Özgür Ozan",
+            "character": "Servet",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6xLeuaFaKcuxBdZ6nMtlLutqxNF.jpg"
+        },
+        {
+            "name": "Atakan Çelik",
+            "character": "Tuna",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fMTIKNnKPNhi3kkoiT5KwGFGNXZ.jpg"
+        },
+        {
+            "name": "Doğukan Polat",
+            "character": "Emir",
+            "profile_url": "https://image.tmdb.org/t/p/w500/t4yj8yQjn0ygqZaIglmhT4OTgmJ.jpg"
+        },
+        {
+            "name": "Hande Yılmaz",
+            "character": "Ezgi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/t1GYpkK1SiwnqI1akokaGE3LIxi.jpg"
+        },
+        {
+            "name": "Deniz Baydar",
+            "character": "Cansu",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hTT7wJnt4KF5fvS4lsu6sw9Imcy.jpg"
+        },
+        {
+            "name": "Cemal Günbas",
+            "character": "Zafer",
+            "profile_url": null
+        },
+        {
+            "name": "Serhat Kurtay",
+            "character": "Altan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/Ad3DOd8aNMj64UlwbLIePoTbu1Y.jpg"
+        },
+        {
+            "name": "Kubilay Penbeklioğlu",
+            "character": "Ahmet",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2GB8flen0cnu3pwRRghqjQdSB9m.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.3",
-    "imdbVotes": "6,333",
-    "imdbID": "tt14486678",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Emre Kabakuşak"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=ExfET5C8dFg",
+    "TMDb_ID": 927855
 }

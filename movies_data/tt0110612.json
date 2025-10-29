@@ -1,40 +1,79 @@
 {
     "Title": "My Father the Hero",
     "Year": "1994",
-    "Rated": "PG",
-    "Released": "04 Feb 1994",
-    "Runtime": "90 min",
-    "Genre": "Comedy, Romance",
-    "Director": "Steve Miner",
-    "Writer": "Gérard Lauzier, Francis Veber, Charlie Peters",
-    "Actors": "Gérard Depardieu, Katherine Heigl, Dalton James",
     "Plot": "A teenage girl on vacation in the Bahamas with her divorced father tries to impress a potential boyfriend by saying that her father is actually her lover.",
     "Language": "English, French",
     "Country": "France, United States",
+    "Rated": "PG",
+    "Runtime": "90 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Steve Miner",
+    "Actors": "Gérard Depardieu, Katherine Heigl, Dalton James",
     "Awards": "1 nomination total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BM2NiOWI2MTktMzBlOC00Y2IzLTg0MTctYjUwYTQwMTljYzQ0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0110612",
+    "imdbRating": "5.5",
+    "BoxOffice": "$25,479,558",
+    "TMDb_Rating": 5.307,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BM2NiOWI2MTktMzBlOC00Y2IzLTg0MTctYjUwYTQwMTljYzQ0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/qOP80oUZRTT7EsV7EZA9aBa95dQ.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/7m2QUApkpHE99xh9uBeDZxjyRkO.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.5/10"
+            "name": "Gérard Depardieu",
+            "character": "Andre",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cibkIAJN6ctlqHohhdDEcfbiCAL.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "20%"
+            "name": "Katherine Heigl",
+            "character": "Nicole",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hjtNdbdy1qn25y5SGl71y8nR0Kg.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "42/100"
+            "name": "Dalton James",
+            "character": "Ben",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kwm5XHuxwAhagwHXv70SquZSuKY.jpg"
+        },
+        {
+            "name": "Lauren Hutton",
+            "character": "Megan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6QzyO8l4JYXYeUIX16ZXDxPRWSa.jpg"
+        },
+        {
+            "name": "Faith Prince",
+            "character": "Diana",
+            "profile_url": "https://image.tmdb.org/t/p/w500/g1TX9yF5j4vn2l2qECj3jGpl1k9.jpg"
+        },
+        {
+            "name": "Frank Renzulli",
+            "character": "Fred",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lEdN9zYJ1Hgfhg9zm2yDGzz7h6G.jpg"
+        },
+        {
+            "name": "Stephen Tobolowsky",
+            "character": "Mike",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
+        },
+        {
+            "name": "Ann Hearn",
+            "character": "Stella",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nl03gmY5SeJXgLhrxSgxEv5cQic.jpg"
+        },
+        {
+            "name": "Robyn Peterson",
+            "character": "Doris",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vVuKEbDjtLjZWX1cAxCytNHptnI.jpg"
+        },
+        {
+            "name": "Stephen Burrows",
+            "character": "Hakim",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cwyOUynY9yh7TKfboxwJ6C41Jlv.jpg"
         }
     ],
-    "Metascore": "42",
-    "imdbRating": "5.5",
-    "imdbVotes": "11,970",
-    "imdbID": "tt0110612",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$25,479,558",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Steve Miner"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=7Ft-edEK3BE",
+    "TMDb_ID": 10486
 }

@@ -1,36 +1,77 @@
 {
     "Title": "An Adventure in Space and Time",
     "Year": "2013",
-    "Rated": "TV-PG",
-    "Released": "22 Nov 2013",
-    "Runtime": "86 min",
-    "Genre": "Biography, Drama, History",
-    "Director": "Terry McDonough",
-    "Writer": "Mark Gatiss",
-    "Actors": "David Bradley, Ross Gurney-Randall, Roger May",
     "Plot": "An actor tapped by a succession of hard-man roles and a wannabe producer frustrated by the TV industry's glass ceiling find unlikely hope and unexpected challenges in the form of a Saturday tea-time drama, time travel and monsters.",
     "Language": "English",
     "Country": "United Kingdom",
+    "Rated": "TV-PG",
+    "Runtime": "86 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Terry McDonough",
+    "Actors": "David Bradley, Ross Gurney-Randall, Roger May",
     "Awards": "Nominated for 1 BAFTA Award1 win & 9 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMWM2ODE2YWEtNzY1Mi00YzliLWFhZDItYzNiN2U4ZTdlZDkwXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt2663812",
+    "imdbRating": "8.2",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.7,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMWM2ODE2YWEtNzY1Mi00YzliLWFhZDItYzNiN2U4ZTdlZDkwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/lRrmdPMvCPGcLF6FrvS66STXAyU.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "8.2/10"
+            "name": "David Bradley",
+            "character": "William Hartnell",
+            "profile_url": "https://image.tmdb.org/t/p/w500/znpkwHitb3pcaJbUmgDqG0YenYp.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "96%"
+            "name": "Jessica Raine",
+            "character": "Verity Lambert",
+            "profile_url": "https://image.tmdb.org/t/p/w500/b0W9mERmlpWH2m635oyMY9sdx7g.jpg"
+        },
+        {
+            "name": "Sacha Dhawan",
+            "character": "Waris Hussein",
+            "profile_url": "https://image.tmdb.org/t/p/w500/luEzDiMKYLW0rOXbLtAHG3BJsVY.jpg"
+        },
+        {
+            "name": "Brian Cox",
+            "character": "Sydney Newman",
+            "profile_url": "https://image.tmdb.org/t/p/w500/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+        },
+        {
+            "name": "Lesley Manville",
+            "character": "Heather Hartnell",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+        },
+        {
+            "name": "Jeff Rawle",
+            "character": "Mervyn Pinfield",
+            "profile_url": "https://image.tmdb.org/t/p/w500/h3boko7omXOqHW2Nd4d4NAm54ZM.jpg"
+        },
+        {
+            "name": "Claudia Grant",
+            "character": "Carole Ann Ford",
+            "profile_url": "https://image.tmdb.org/t/p/w500/n39jcbHoiNKtzMTLQvklLcnBEPl.jpg"
+        },
+        {
+            "name": "Jemma Powell",
+            "character": "Jacqueline Hill",
+            "profile_url": "https://image.tmdb.org/t/p/w500/m4NMjDkqYKt7Dx7QjgItEkCSlzj.jpg"
+        },
+        {
+            "name": "Jamie Glover",
+            "character": "William Russell",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yvw1rJqo0c5BEIUOYWk63Te5xDx.jpg"
+        },
+        {
+            "name": "Reece Shearsmith",
+            "character": "Patrick Troughton",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4RJLh3e4Ha4K2ET8ruPcoaL2gqt.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "8.2",
-    "imdbVotes": "7,784",
-    "imdbID": "tt2663812",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Terry McDonough"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=dEwikIhEZrE",
+    "TMDb_ID": 210024
 }

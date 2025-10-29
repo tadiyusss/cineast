@@ -1,32 +1,79 @@
 {
     "Title": "Blind War",
     "Year": "2022",
-    "Rated": "N/A",
-    "Released": "01 May 2022",
-    "Runtime": "103 min",
-    "Genre": "Action",
-    "Director": "Suiqiang Huo",
-    "Writer": "Laogou Lin",
-    "Actors": "Junyi Chen, Dao Dao, Xiao Deng",
     "Plot": "The film tells the story of the former SWAT captain Dong Gu, permanently injured during a failed mission for which he took responsibility. After gradually getting out of the haze, his old enemy reappeared and threat his daughter.",
     "Language": "Chinese",
     "Country": "China",
+    "Rated": "N/A",
+    "Runtime": "103 min",
+    "Genre": "Action",
+    "Director": "Suiqiang Huo",
+    "Actors": "Junyi Chen, Dao Dao, Xiao Deng",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTMzNDVjYjktYzk2Ni00YmZhLTkzZjEtZWEwZGY0MGU0N2Q1XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt17909448",
+    "imdbRating": "5.8",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.4,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZTMzNDVjYjktYzk2Ni00YmZhLTkzZjEtZWEwZGY0MGU0N2Q1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/6WPaSRrEZyVcYCCWtMeMiuBeh9H.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/nbVF2aaIq3ALJ7qtT3tw5XgSwR.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.8/10"
+            "name": "Andy On",
+            "character": "Dong Gu",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zbH0l4V3QJdvkLKPhBr5EB5JWnB.jpg"
+        },
+        {
+            "name": "Yang Xing",
+            "character": "Xi Na",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yMKTmVvEJ8Lu7G5cwiZU0vlhvLY.jpg"
+        },
+        {
+            "name": "Wang Hanyang",
+            "character": "A Yun",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wcQaghvFtMeS3AbovoY4HSNU4tQ.jpg"
+        },
+        {
+            "name": "Qi Shenghan",
+            "character": "Kang Kun",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vepu8I9HYXLvjca3ZX7zJ79xcYH.jpg"
+        },
+        {
+            "name": "Mamat Tursun Mamateli",
+            "character": "Detective Rama",
+            "profile_url": "https://image.tmdb.org/t/p/w500/48NR9EPvqXEpm5tNwEljrzR3leh.jpg"
+        },
+        {
+            "name": "Zhang Yaqi",
+            "character": "Lei Duo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uUDjdDudQlQ3ZijR4y8goOsicUq.jpg"
+        },
+        {
+            "name": "Jane Wu",
+            "character": "Dragon King",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dnuORhTBcJuU8IsAJeJdqzZnJe8.jpg"
+        },
+        {
+            "name": "Cheng Sihan",
+            "character": "Ya Ti",
+            "profile_url": "https://image.tmdb.org/t/p/w500/f5CpkMOAh3YlLKAIOE179EvpmNS.jpg"
+        },
+        {
+            "name": "Zhou Hongbo",
+            "character": "Lawyer Zhou",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pSpaZunPyD2U5oucNZhNP8tL1wM.jpg"
+        },
+        {
+            "name": "Waise Lee Chi-Hung",
+            "character": "Mai Kun",
+            "profile_url": "https://image.tmdb.org/t/p/w500/z8KzdPOVxNFvH7CkqwfMRPMmY1i.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.8",
-    "imdbVotes": "400",
-    "imdbID": "tt17909448",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Chris Huo"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=vM9IFGv94YM",
+    "TMDb_ID": 969900
 }

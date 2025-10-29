@@ -1,40 +1,79 @@
 {
     "Title": "Hero",
     "Year": "1992",
-    "Rated": "PG-13",
-    "Released": "02 Oct 1992",
-    "Runtime": "119 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Stephen Frears",
-    "Writer": "Laura Ziskin, Alvin Sargent, David Webb Peoples",
-    "Actors": "Dustin Hoffman, Geena Davis, Andy Garcia",
     "Plot": "A not-so-nice man rescues passengers from a crashed airliner, only to see someone else take credit.",
     "Language": "English, Spanish",
     "Country": "United States",
+    "Rated": "PG-13",
+    "Runtime": "119 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Stephen Frears",
+    "Actors": "Dustin Hoffman, Geena Davis, Andy Garcia",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMWY2NDA0NjctMThiZi00NTI1LWFjODEtODlmZTdkMzJlYzc5XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0104412",
+    "imdbRating": "6.5",
+    "BoxOffice": "$19,507,345",
+    "TMDb_Rating": 6.287,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMWY2NDA0NjctMThiZi00NTI1LWFjODEtODlmZTdkMzJlYzc5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/wD7D0B9U9ooanxyhtgLKaqM7www.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/mB1ew7LzBSMTcNTU7pEZNuthvhj.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.5/10"
+            "name": "Dustin Hoffman",
+            "character": "Bernard 'Bernie' Laplante",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "67%"
+            "name": "Geena Davis",
+            "character": "Gale Gayley",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bx9ufx5cS7FfHDFFeT71syBh428.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "61/100"
+            "name": "Andy García",
+            "character": "John Bubber",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9EivXoBlczZcFBet96WOoFbDsfF.jpg"
+        },
+        {
+            "name": "Joan Cusack",
+            "character": "Evelyn Laplante",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ytjiXEqnaEYtS7XkYmoUXPrZCm5.jpg"
+        },
+        {
+            "name": "Kevin J. O'Connor",
+            "character": "Chucky",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9ZO0QYkxjhThd8IVqSJw7gHyQ68.jpg"
+        },
+        {
+            "name": "Chevy Chase",
+            "character": "Deke - Channel 4 News Director",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xmAcHXakDi0elKsCl2sRjtobQnx.jpg"
+        },
+        {
+            "name": "Maury Chaykin",
+            "character": "Winston",
+            "profile_url": "https://image.tmdb.org/t/p/w500/Aqmsu1UHo40Md4RlLGfotSt8Lrr.jpg"
+        },
+        {
+            "name": "Stephen Tobolowsky",
+            "character": "Wallace",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
+        },
+        {
+            "name": "Christian Clemenson",
+            "character": "James Conklin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uki9bmhoR4V4x0E7uVTCj9iZwNy.jpg"
+        },
+        {
+            "name": "Tom Arnold",
+            "character": "Chick",
+            "profile_url": "https://image.tmdb.org/t/p/w500/z2ajL1ozVCS4Ug04zOGCNH06OPP.jpg"
         }
     ],
-    "Metascore": "61",
-    "imdbRating": "6.5",
-    "imdbVotes": "24,193",
-    "imdbID": "tt0104412",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$19,507,345",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Stephen Frears"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 10699
 }

@@ -1,40 +1,84 @@
 {
     "Title": "Crazy, Stupid, Love.",
     "Year": "2011",
-    "Rated": "PG-13",
-    "Released": "29 Jul 2011",
-    "Runtime": "118 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Glenn Ficarra, John Requa",
-    "Writer": "Dan Fogelman",
-    "Actors": "Steve Carell, Ryan Gosling, Julianne Moore",
     "Plot": "A middle-aged husband's life changes dramatically when his wife asks him for a divorce. He seeks to rediscover his manhood with the help of a newfound friend, Jacob, learning to pick up girls at bars.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG-13",
+    "Runtime": "118 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Glenn Ficarra, John Requa",
+    "Actors": "Steve Carell, Ryan Gosling, Julianne Moore",
     "Awards": "5 wins & 23 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt1570728",
+    "imdbRating": "7.4",
+    "BoxOffice": "$84,379,584",
+    "TMDb_Rating": 7.269,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/p4RafgAPk558muOjnBMHhMArjS2.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/1YnjJKjgDjTkLmv4Qds3vWsOq6D.jpg",
+        "https://image.tmdb.org/t/p/w500/rpvVPfosf8AKl7qaJsp2YQSj9lH.jpg",
+        "https://image.tmdb.org/t/p/w500/2w6jKTqjHIM0cHpatEtj2KamvAa.jpg",
+        "https://image.tmdb.org/t/p/w500/fZ6uA9Qtmeiaun5t2Atn0xSAmT6.jpg",
+        "https://image.tmdb.org/t/p/w500/c5V7j3eTpMrZqSeuhBP4L5HWsih.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.4/10"
+            "name": "Steve Carell",
+            "character": "Cal",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ULqKHMosznI7U2JyRZYMvSxUvq.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "79%"
+            "name": "Ryan Gosling",
+            "character": "Jacob",
+            "profile_url": "https://image.tmdb.org/t/p/w500/asoKC7CLCqpZKZDL6iovNurQUdf.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "68/100"
+            "name": "Julianne Moore",
+            "character": "Emily",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+        },
+        {
+            "name": "Emma Stone",
+            "character": "Hannah",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        },
+        {
+            "name": "Lio Tipton",
+            "character": "Jessica",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jwLTUddwx1vGVcrpEGH87vVJsnY.jpg"
+        },
+        {
+            "name": "Jonah Bobo",
+            "character": "Robbie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/AnPqW5BW52X2nrAUcv9oQnK8xPu.jpg"
+        },
+        {
+            "name": "Joey King",
+            "character": "Molly",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jUuKlP1hjPJ6R0d6MhUytr85oRL.jpg"
+        },
+        {
+            "name": "Marisa Tomei",
+            "character": "Kate",
+            "profile_url": "https://image.tmdb.org/t/p/w500/f68nmyE9we5ABfa3YVvv9rZSrq4.jpg"
+        },
+        {
+            "name": "Beth Littleford",
+            "character": "Claire",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oFvUrZNH76UAEji9E0IhHPLIPdy.jpg"
+        },
+        {
+            "name": "John Carroll Lynch",
+            "character": "Bernie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/i6xsWIgo3kW5Dc4A6VhQ17G9nuy.jpg"
         }
     ],
-    "Metascore": "68",
-    "imdbRating": "7.4",
-    "imdbVotes": "601,291",
-    "imdbID": "tt1570728",
-    "Type": "movie",
-    "DVD": "13 Apr 2016",
-    "BoxOffice": "$84,379,584",
-    "Production": "Carousel, DiNovi Pictures",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Glenn Ficarra",
+        "John Requa"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=W7U03cW7k-Y",
+    "TMDb_ID": 50646
 }

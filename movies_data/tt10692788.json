@@ -1,40 +1,79 @@
 {
     "Title": "After Love",
     "Year": "2020",
-    "Rated": "N/A",
-    "Released": "04 Jun 2021",
-    "Runtime": "89 min",
-    "Genre": "Drama",
-    "Director": "Aleem Khan",
-    "Writer": "Aleem Khan",
-    "Actors": "Joanna Scanlan, Nathalie Richard, Talid Ariss",
     "Plot": "Set in the port town of Dover, Mary Hussain suddenly finds herself a widow following the unexpected death of her husband. A day after the burial, she discovers he has a secret just twenty-one miles across the English Channel in Ca...",
     "Language": "English, French, Arabic, Urdu",
     "Country": "United Kingdom",
+    "Rated": "N/A",
+    "Runtime": "89 min",
+    "Genre": "Drama",
+    "Director": "Aleem Khan",
+    "Actors": "Joanna Scanlan, Nathalie Richard, Talid Ariss",
     "Awards": "Won 1 BAFTA Award13 wins & 16 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTc1NDU5MTItNjM2MS00Yjg3LTk2MzQtM2VkNmFiNTEzZDViXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt10692788",
+    "imdbRating": "7.3",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.149,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZTc1NDU5MTItNjM2MS00Yjg3LTk2MzQtM2VkNmFiNTEzZDViXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/mXaNg69iWEs0Qsj4AJxcvCXuWKw.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/fTjxc8XsAyq3AGqH6MRWHihPpFO.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.3/10"
+            "name": "Joanna Scanlan",
+            "character": "Mary/Fahima",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5qimZvgfU306k1SgX6ChjoX0EHB.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "92%"
+            "name": "Nathalie Richard",
+            "character": "Genevieve",
+            "profile_url": "https://image.tmdb.org/t/p/w500/299hXLV3NikHBGFm7J2iIO3c699.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "81/100"
+            "name": "Nasser Memarzia",
+            "character": "Ahmed",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pugV3fpgTJg98JmVLoPAHxpDAwE.jpg"
+        },
+        {
+            "name": "Talid Ariss",
+            "character": "Solomon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lPtl7mmDUK8ydvKknBDOPp07kri.jpg"
+        },
+        {
+            "name": "Sudha Bhuchar",
+            "character": "Farzanna",
+            "profile_url": "https://image.tmdb.org/t/p/w500/RuTMiQIRqmzIrn68I3ZhBZLQjG.jpg"
+        },
+        {
+            "name": "Nisha Chadha",
+            "character": "Mina",
+            "profile_url": null
+        },
+        {
+            "name": "Jabeen Butt",
+            "character": "Saadia",
+            "profile_url": null
+        },
+        {
+            "name": "Subika Anwar-Khan",
+            "character": "Salma",
+            "profile_url": null
+        },
+        {
+            "name": "Elijah Braik",
+            "character": "Farooq",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fkxwf6W5XsXd4fpASYVDWSW9CGH.jpg"
+        },
+        {
+            "name": "Adam Karim",
+            "character": "Imran",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8qozfZUOoz80x1ZMA2B9S8DvQ69.jpg"
         }
     ],
-    "Metascore": "81",
-    "imdbRating": "7.3",
-    "imdbVotes": "4,450",
-    "imdbID": "tt10692788",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Aleem Khan"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=wUVHzMgbW4I",
+    "TMDb_ID": 714011
 }

@@ -1,32 +1,77 @@
 {
     "Title": "The Third War",
     "Year": "2020",
-    "Rated": "N/A",
-    "Released": "22 Sep 2021",
-    "Runtime": "92 min",
-    "Genre": "Drama",
-    "Director": "Giovanni Aloi, Andrea Barone",
-    "Writer": "Giovanni Aloi, Dominique Baumard, Christian Kühne",
-    "Actors": "Anthony Bajon, Karim Leklou, Leïla Bekhti",
     "Plot": "In the streets of Paris, three soldiers from Operation Sentinel are on patrol. On the lookout, they await imminent but invisible danger.",
     "Language": "French",
     "Country": "France",
+    "Rated": "N/A",
+    "Runtime": "92 min",
+    "Genre": "Drama",
+    "Director": "Giovanni Aloi, Andrea Barone",
+    "Actors": "Anthony Bajon, Karim Leklou, Leïla Bekhti",
     "Awards": "1 nomination",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5YjUwNzAtMGIzYi00NDNkLTg1Y2QtMGM0MDRkMzVjMGExXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt12792532",
+    "imdbRating": "6.0",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.9,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMjA5YjUwNzAtMGIzYi00NDNkLTg1Y2QtMGM0MDRkMzVjMGExXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/xS9kPRZCtBh7WGvv77eV8AvGo8i.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.0/10"
+            "name": "Anthony Bajon",
+            "character": "Léo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eHpGmQtj4oRHQ3jn9tngWdb6Z9T.jpg"
+        },
+        {
+            "name": "Karim Leklou",
+            "character": "Hicham",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bgOpQ2WAwvxLFoRYFsPRAT0esAh.jpg"
+        },
+        {
+            "name": "Leïla Bekhti",
+            "character": "Yasmine",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ubSi70PmNHDzEH6DD8K2qndkOdn.jpg"
+        },
+        {
+            "name": "Arthur Verret",
+            "character": "Michel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/deerncHgbK2Mf9sk6gZSqObMeL.jpg"
+        },
+        {
+            "name": "Jonas Dinal",
+            "character": "Firmin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kMdRp5R1Y3IXky7Adb3UhngSCmL.jpg"
+        },
+        {
+            "name": "Raphaël Quenard",
+            "character": "Dimo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lMLzNtZKalKX1tO0QHKlfZphg7m.jpg"
+        },
+        {
+            "name": "Esdras Registe",
+            "character": "Teddy",
+            "profile_url": null
+        },
+        {
+            "name": "Igor Kovalsky",
+            "character": "Bambi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uvR8Ac3y6SN5SzJ0BxMbJUR12C6.jpg"
+        },
+        {
+            "name": "Maxime Cailliau",
+            "character": "Totoro",
+            "profile_url": null
+        },
+        {
+            "name": "Jules Dousset",
+            "character": "Menard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1dnQqmNCYbi6x2PUrnWbbNDEVgr.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.0",
-    "imdbVotes": "365",
-    "imdbID": "tt12792532",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Giovanni Aloi"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=AJHDfsL4o_A",
+    "TMDb_ID": 728132
 }

@@ -1,36 +1,77 @@
 {
     "Title": "War Sailor",
     "Year": "2022",
-    "Rated": "TV-MA",
-    "Released": "23 Sep 2022",
-    "Runtime": "150 min",
-    "Genre": "Drama, War",
-    "Director": "Gunnar Vikene",
-    "Writer": "Gunnar Vikene",
-    "Actors": "Kristoffer Joner, Pål Sverre Hagen, Ine Marie Wilmann",
     "Plot": "The sailor Alfred is in the middle of the Atlantic Ocean when World War II breaks out. Suddenly the sailors are in the front of the war, without any weapons.",
     "Language": "English, Norwegian, German",
     "Country": "Norway, Germany, Malta",
+    "Rated": "TV-MA",
+    "Runtime": "150 min",
+    "Genre": "Drama, War",
+    "Director": "Gunnar Vikene",
+    "Actors": "Kristoffer Joner, Pål Sverre Hagen, Ine Marie Wilmann",
     "Awards": "6 wins & 8 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOTRjNzFjYjQtZjJmMC00MTBiLThiNDktYjZmMjNmOTg1ZmY1XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt17633184",
+    "imdbRating": "7.3",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.538,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BOTRjNzFjYjQtZjJmMC00MTBiLThiNDktYjZmMjNmOTg1ZmY1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/dcPepf0zLwAB10aW7BlU7YwZCWa.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.3/10"
+            "name": "Kristoffer Joner",
+            "character": "Alfred",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vufeSWAdY9653t5Vxu3HysCnIkY.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "80%"
+            "name": "Pål Sverre Hagen",
+            "character": "Sigbjørn",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eJzuZZfFBaMSgcbR3Pe5zBxEC3z.jpg"
+        },
+        {
+            "name": "Ine Marie Wilmann",
+            "character": "Cecilia",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6uQlF0RdwLGaWezFsn9429HE6zu.jpg"
+        },
+        {
+            "name": "Henrikke Lund Olsen",
+            "character": "Magdeli",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1uGyDvAwm9uyhLtnXtPahhnUYHY.jpg"
+        },
+        {
+            "name": "Armand Hannestad",
+            "character": "William",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zcM653pffj7DAEymScn29gU53D7.jpg"
+        },
+        {
+            "name": "Alexandra Gjerpen",
+            "character": "Hanna Wiig",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hV9OpeCw6a19rJCl4lFZmzAXEn0.jpg"
+        },
+        {
+            "name": "Florian Schmidtke",
+            "character": "Werner",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yCCWQH2z8S5ruCQgslVWHsbOYew.jpg"
+        },
+        {
+            "name": "Tina Rizzo",
+            "character": "Claire",
+            "profile_url": null
+        },
+        {
+            "name": "Thor Brekkeflat",
+            "character": "Sigvaldsen",
+            "profile_url": null
+        },
+        {
+            "name": "Arthur Hakalahti",
+            "character": "Braathen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qht46cJvlFQV9Rjoxzm9IE5xJhO.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.3",
-    "imdbVotes": "4,156",
-    "imdbID": "tt17633184",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Gunnar Vikene"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=BDHVGojB5ig",
+    "TMDb_ID": 924154
 }

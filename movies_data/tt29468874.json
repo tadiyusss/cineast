@@ -1,36 +1,80 @@
 {
     "Title": "Beast of War",
     "Year": "2025",
-    "Rated": "R",
-    "Released": "10 Oct 2025",
-    "Runtime": "87 min",
-    "Genre": "Action, Biography, Drama",
-    "Director": "Kiah Roache-Turner",
-    "Writer": "Kiah Roache-Turner",
-    "Actors": "Mark Coles Smith, Joel Nankervis, Sam Delich",
     "Plot": "A group of young soldiers, fresh out of boot camp, find themselves stranded on a raft in the middle of the ocean after their ship is sunk by the enemy and must battle for their lives against a giant hungry great white shark.",
     "Language": "English",
     "Country": "Australia",
+    "Rated": "R",
+    "Runtime": "87 min",
+    "Genre": "Action, Biography, Drama",
+    "Director": "Kiah Roache-Turner",
+    "Actors": "Mark Coles Smith, Joel Nankervis, Sam Delich",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0OGNiNGEtY2VmOC00NmYyLWE2NmMtMGE0ZmUwNTA0ZTRlXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt29468874",
+    "imdbRating": "5.4",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.385,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMjI0OGNiNGEtY2VmOC00NmYyLWE2NmMtMGE0ZmUwNTA0ZTRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/guUfDaxfytyy24WbTU9nqpBJ5Tf.jpg",
+        "https://image.tmdb.org/t/p/w500/wDJ0KYaCHU5zglimIUWyqFUqQmP.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.4/10"
+            "name": "Mark Coles Smith",
+            "character": "Leo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mFGf5GruME5dnAuKBG1kgzK8PJs.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "90%"
+            "name": "Joel Nankervis",
+            "character": "Will",
+            "profile_url": "https://image.tmdb.org/t/p/w500/p9gyKYXICMSMf6U7y2m2psQGoLX.jpg"
+        },
+        {
+            "name": "Lee Tiger Halley",
+            "character": "Teddy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dEoFIS64jLAM5anf3A9DIs9vw6e.jpg"
+        },
+        {
+            "name": "Lauren Grimson",
+            "character": "Hazel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qH3cP2mk8zMpMtVDJ7RqTKGc1fE.jpg"
+        },
+        {
+            "name": "Steve Le Marquand",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/b6iPJ3duOxAe7Jvnj0olNFWejUR.jpg"
+        },
+        {
+            "name": "Masa Yamaguchi",
+            "character": "Commander Tetsuo Harada",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nLyy3eNUmXY9UTZNYVdGhaZWps4.jpg"
+        },
+        {
+            "name": "Sam Delich",
+            "character": "Des Kelly",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5t0I4FBAQ5BRiZXUNnFJBOlyKc8.jpg"
+        },
+        {
+            "name": "Sam Parsonson",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ta9h0LYwhyDTjUDhtwCuA8B8R9I.jpg"
+        },
+        {
+            "name": "Maximillian Johnson",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sjlNcH8ftVnbYzMkVw2tB1CVYuC.jpg"
+        },
+        {
+            "name": "Tristan McKinnon",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2sMmWqtTEmUw8f8IgAHzFAu51se.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.4",
-    "imdbVotes": "1,133",
-    "imdbID": "tt29468874",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Kiah Roache-Turner"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=l7uhBAKjJQY",
+    "TMDb_ID": 1244531
 }

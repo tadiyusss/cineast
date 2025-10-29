@@ -1,40 +1,80 @@
 {
     "Title": "Charlie Wilson's War",
     "Year": "2007",
-    "Rated": "R",
-    "Released": "21 Dec 2007",
-    "Runtime": "102 min",
-    "Genre": "Biography, Comedy, Drama",
-    "Director": "Mike Nichols",
-    "Writer": "Aaron Sorkin, George Crile",
-    "Actors": "Tom Hanks, Julia Roberts, Philip Seymour Hoffman",
     "Plot": "A drama based on Texas congressman Charlie Wilson's covert dealings in Afghanistan, where his efforts to assist rebels in their war with the Soviets have some unforeseen and long-reaching effects.",
     "Language": "English, Dari, Russian, Urdu, Hebrew, Arabic",
     "Country": "Germany, United States",
+    "Rated": "R",
+    "Runtime": "102 min",
+    "Genre": "Biography, Comedy, Drama",
+    "Director": "Mike Nichols",
+    "Actors": "Tom Hanks, Julia Roberts, Philip Seymour Hoffman",
     "Awards": "Nominated for 1 Oscar. 5 wins & 24 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwMDgwMDc4MF5BMl5BanBnXkFtZTYwOTU3MDM4._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0472062",
+    "imdbRating": "7.0",
+    "BoxOffice": "$66,661,095",
+    "TMDb_Rating": 6.534,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTgwMDgwMDc4MF5BMl5BanBnXkFtZTYwOTU3MDM4._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/45FghqcdSYRWK7PsHUInaFPNd8l.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/ojlzgwvWsLobgBW1YSJIHDQTmjm.jpg",
+        "https://image.tmdb.org/t/p/w500/kgNIJzbvZnSvy3CbMliEP3CSQGB.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.0/10"
+            "name": "Tom Hanks",
+            "character": "Charlie Wilson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "82%"
+            "name": "Julia Roberts",
+            "character": "Joanne Herring",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "67/100"
+            "name": "Philip Seymour Hoffman",
+            "character": "Gust Avrakotos",
+            "profile_url": "https://image.tmdb.org/t/p/w500/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+        },
+        {
+            "name": "Amy Adams",
+            "character": "Bonnie Bach",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lub0nBRhsCu2pByvfvxt5DcW86d.jpg"
+        },
+        {
+            "name": "Emily Blunt",
+            "character": "Jane Liddle",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zpJ7pupuNF3W0zTxm6yioGIoxbd.jpg"
+        },
+        {
+            "name": "Om Puri",
+            "character": "President Zia",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg"
+        },
+        {
+            "name": "Shiri Appleby",
+            "character": "Jailbait - Charlie's Angels",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nvH09LMnA8vBmmxHBmf79MtKHsc.jpg"
+        },
+        {
+            "name": "Rachel Nichols",
+            "character": "Suzanne - Charlie's Angels",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bMv117SLOJoseim6qvuHFc1gntZ.jpg"
+        },
+        {
+            "name": "Wynn Everett",
+            "character": "Receptionist - Charlie's Angel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hWLWcoqXumM9NY9vfByvQmmcFdb.jpg"
+        },
+        {
+            "name": "Jud Tylor",
+            "character": "Crystal Lee",
+            "profile_url": "https://image.tmdb.org/t/p/w500/exlqQ10MmFzh7AzkV3FLtAxxACq.jpg"
         }
     ],
-    "Metascore": "67",
-    "imdbRating": "7.0",
-    "imdbVotes": "129,100",
-    "imdbID": "tt0472062",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$66,661,095",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Mike Nichols"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=eUWXQLIgk8A",
+    "TMDb_ID": 6538
 }

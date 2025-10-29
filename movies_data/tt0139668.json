@@ -1,40 +1,81 @@
 {
     "Title": "True Crime",
     "Year": "1999",
-    "Rated": "R",
-    "Released": "19 Mar 1999",
-    "Runtime": "127 min",
-    "Genre": "Crime, Drama, Mystery",
-    "Director": "Clint Eastwood",
-    "Writer": "Andrew Klavan, Larry Gross, Paul Brickman",
-    "Actors": "Clint Eastwood, Isaiah Washington, LisaGay Hamilton",
     "Plot": "Can an over-the-hill journalist uncover the evidence that can prove a death row inmate's innocence just hours before his execution?",
     "Language": "English",
     "Country": "United States",
+    "Rated": "R",
+    "Runtime": "127 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "Clint Eastwood",
+    "Actors": "Clint Eastwood, Isaiah Washington, LisaGay Hamilton",
     "Awards": "5 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTc0YmZlN2QtMTg5YS00Y2E1LTg2ZTYtNWQwMTZhZmZmYmI1XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0139668",
+    "imdbRating": "6.6",
+    "BoxOffice": "$16,649,768",
+    "TMDb_Rating": 6.536,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZTc0YmZlN2QtMTg5YS00Y2E1LTg2ZTYtNWQwMTZhZmZmYmI1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/2VEqqlmSZ0VSr74XOTWUQUUGYWF.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/4Xkbglp4o5wDpVmnY8r3g21pAWS.jpg",
+        "https://image.tmdb.org/t/p/w500/VGfgcxCXMKN2Utipks4bAkR036.jpg",
+        "https://image.tmdb.org/t/p/w500/mPiRxyHuTUSJIEl3TVBlXileTzO.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.6/10"
+            "name": "Clint Eastwood",
+            "character": "Steve Everett",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "56%"
+            "name": "Isaiah Washington",
+            "character": "Frank Louis Beechum",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3yY5h1t7AKZpf4lfdSMwDQvCroQ.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "65/100"
+            "name": "LisaGay Hamilton",
+            "character": "Bonnie Beechum",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bqfowff4gF0cGaQ1c7F89HAL3DH.jpg"
+        },
+        {
+            "name": "James Woods",
+            "character": "Alan Mann",
+            "profile_url": "https://image.tmdb.org/t/p/w500/UAvunLhXXFMD83wXOUvRWhNBmO.jpg"
+        },
+        {
+            "name": "Denis Leary",
+            "character": "Bob Findley",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9pMR9QhURdJ3xxdHeNVOKF5M81b.jpg"
+        },
+        {
+            "name": "Bernard Hill",
+            "character": "Warden Luther Plunkitt",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+        },
+        {
+            "name": "Diane Venora",
+            "character": "Barbara Everett",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mZWVEZ18jMiJuS3A56tejPipdo8.jpg"
+        },
+        {
+            "name": "Michael McKean",
+            "character": "Réverend Shillerman",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xuEZeuylzznJcf0nDs1RlvuzaPr.jpg"
+        },
+        {
+            "name": "Michael Jeter",
+            "character": "Dale Porthouse",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pNBf8X56wCOHH7cArsMYJuke4fO.jpg"
+        },
+        {
+            "name": "Mary McCormack",
+            "character": "Michelle Ziegler",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kVVttyq0cuTvDE4l5wEBqgjCBnf.jpg"
         }
     ],
-    "Metascore": "65",
-    "imdbRating": "6.6",
-    "imdbVotes": "39,192",
-    "imdbID": "tt0139668",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$16,649,768",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Clint Eastwood"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=vL3TFv5H794",
+    "TMDb_ID": 10354
 }

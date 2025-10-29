@@ -1,36 +1,79 @@
 {
     "Title": "An Awkward Sexual Adventure",
     "Year": "2012",
-    "Rated": "Not Rated",
-    "Released": "21 Feb 2013",
-    "Runtime": "98 min",
-    "Genre": "Comedy, Romance",
-    "Director": "Sean Garrity",
-    "Writer": "Jonas Chernick, Marguerite Pigott",
-    "Actors": "Jonas Chernick, Emily Hampshire, Sarah Manninen",
     "Plot": "To win back his ex-girlfriend, a conservative accountant enlists the help of an exotic dancer to guide him on a quest for sexual experience, leading him into a world of strip clubs, sensual massage parlors, cross-dressing and S &amp; M.",
     "Language": "English, Hebrew",
     "Country": "Canada",
+    "Rated": "Not Rated",
+    "Runtime": "98 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Sean Garrity",
+    "Actors": "Jonas Chernick, Emily Hampshire, Sarah Manninen",
     "Awards": "4 wins & 7 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5MTYzOTMyNF5BMl5BanBnXkFtZTcwNTgwNDYzOQ@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt2112210",
+    "imdbRating": "6.1",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.787,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMjI5MTYzOTMyNF5BMl5BanBnXkFtZTcwNTgwNDYzOQ@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/5TsZbOLHCdCOesjVyGVLqtsoD5A.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/lODgpe80ox9RntHxNIC8vd241B7.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.1/10"
+            "name": "Jonas Chernick",
+            "character": "Jordan Abrams",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bOS2xZVOZ2QL4epp5SDUkIMxPPT.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "63%"
+            "name": "Emily Hampshire",
+            "character": "Julia Bowe",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kXb6SAUOACHN9F3M4rkxF7BsJGN.jpg"
+        },
+        {
+            "name": "Sarah Manninen",
+            "character": "Rachel Stern",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5fa5ty29AWaXBCQdh3A6PD2hYE1.jpg"
+        },
+        {
+            "name": "Vik Sahay",
+            "character": "Dandak Sajal",
+            "profile_url": "https://image.tmdb.org/t/p/w500/690bPfmzaXsrZ1eDcUOCDT5TPpq.jpg"
+        },
+        {
+            "name": "Melissa Marie Elias",
+            "character": "Reshma",
+            "profile_url": "https://image.tmdb.org/t/p/w500/v915LCBfmtN3p6IatRvUIrjH4sz.jpg"
+        },
+        {
+            "name": "Marina Stephenson Kerr",
+            "character": "Ruth",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sLEOfwtdFCzpemIhOmpB1xpz6p0.jpg"
+        },
+        {
+            "name": "Mike Bell",
+            "character": "Naked Tom",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4zQJTT7qL4LH2ZEFNi13n42Mfy1.jpg"
+        },
+        {
+            "name": "Andrea del Campo",
+            "character": "Sapphire",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mSuhpFkbJiK7cAAqCWhhEsobW5y.jpg"
+        },
+        {
+            "name": "Onalee Ames",
+            "character": "Gypsy the Stripper",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nOTxqihm1RjeCKrXqrELokCB2RR.jpg"
+        },
+        {
+            "name": "Randy Apostle",
+            "character": "Rabbi Finklestein",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.1",
-    "imdbVotes": "10,433",
-    "imdbID": "tt2112210",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Sean Garrity"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=9FTPToEEstI",
+    "TMDb_ID": 128136
 }

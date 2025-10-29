@@ -1,36 +1,64 @@
 {
     "Title": "Tell Them You Love Me",
     "Year": "2023",
-    "Rated": "N/A",
-    "Released": "03 Feb 2024",
-    "Runtime": "102 min",
-    "Genre": "Documentary",
-    "Director": "Nick August-Perna",
-    "Writer": "N/A",
-    "Actors": "Armani Cooper, Carl Hinson, Alex Conde",
     "Plot": "A professor has a relationship with a nonverbal man who has cerebral palsy. Their affair leads to a criminal trial over disability and consent. The film shows interviews and footage that present both perspectives.",
     "Language": "English",
     "Country": "United States, United Kingdom",
+    "Rated": "N/A",
+    "Runtime": "102 min",
+    "Genre": "Documentary",
+    "Director": "Nick August-Perna",
+    "Actors": "Armani Cooper, Carl Hinson, Alex Conde",
     "Awards": "Nominated for 1 BAFTA Award4 wins & 3 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BODk3ZmIwOTktNTRmMy00M2NjLThlNjQtZmJjMDM1MTM1YjY1XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt29142525",
+    "imdbRating": "6.9",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.333,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BODk3ZmIwOTktNTRmMy00M2NjLThlNjQtZmJjMDM1MTM1YjY1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/p2RXFst8nhayAsed8EdkJxZ6ezN.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/AaMOFDkvgYmfSn4miP6PFQ9EH8M.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.9/10"
+            "name": "Kate Dulcich",
+            "character": "Anna",
+            "profile_url": "https://image.tmdb.org/t/p/w500/AeX0sm8CrizTvdD2JqXPcKEoEt7.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "100%"
+            "name": "Jerron Herman",
+            "character": "Derrick",
+            "profile_url": "https://image.tmdb.org/t/p/w500/k7D5eQhc0fV5WYAQ95IYLRNxDcU.jpg"
+        },
+        {
+            "name": "Devva Kasnitz",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bZzGfbUB8mYdhdzV3hZr9TuBsjB.jpg"
+        },
+        {
+            "name": "Brenda McCullough",
+            "character": "Daisy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/iAe3HrAUpUXqFKpeXDPYjeSTp7Y.jpg"
+        },
+        {
+            "name": "Richard Rampolla",
+            "character": "Howard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oMsH4Pmy8hm0fxCs7vaj1NlTUwx.jpg"
+        },
+        {
+            "name": "Julian Thomas",
+            "character": "John",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oJOLt22EZ6TZ9liyheIYcsmc8qM.jpg"
+        },
+        {
+            "name": "John W. Johnson, Jr.",
+            "character": "Self",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.9",
-    "imdbVotes": "3,852",
-    "imdbID": "tt29142525",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Nick August-Perna"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=cTy3XMyG1Ww",
+    "TMDb_ID": 1153419
 }

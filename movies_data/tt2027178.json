@@ -1,32 +1,80 @@
 {
     "Title": "The Man from the Future",
     "Year": "2011",
-    "Rated": "N/A",
-    "Released": "02 Sep 2011",
-    "Runtime": "106 min",
-    "Genre": "Adventure, Comedy, Fantasy",
-    "Director": "Cláudio Torres",
-    "Writer": "Cláudio Torres",
-    "Actors": "Wagner Moura, Alinne Moraes, Maria Luísa Mendonça",
     "Plot": "Zero is a brilliant scientist. However, 20 years ago, he was publicly humiliated when he lost Helena, the love of his life. One day, an accidental experience with one of his inventions causes him to travel back in time to 1991. Ha...",
     "Language": "Portuguese, Spanish",
     "Country": "Brazil",
+    "Rated": "N/A",
+    "Runtime": "106 min",
+    "Genre": "Adventure, Comedy, Fantasy",
+    "Director": "Cláudio Torres",
+    "Actors": "Wagner Moura, Alinne Moraes, Maria Luísa Mendonça",
     "Awards": "4 wins & 17 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOWY4MjE5OWItY2Q0ZS00ZjBkLTljNTMtZjY2OTQyMDYzNjYwXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt2027178",
+    "imdbRating": "7.0",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.223,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BOWY4MjE5OWItY2Q0ZS00ZjBkLTljNTMtZjY2OTQyMDYzNjYwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/cWfdBMbe3SodE14h3VptXy6sQZm.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/6d596VNvVqlwD265HrD9QRE2o9y.jpg",
+        "https://image.tmdb.org/t/p/w500/A4jvJK0Ga8UhsoU8q6G0x6Q5UH5.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.0/10"
+            "name": "Wagner Moura",
+            "character": "Zero",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
+        },
+        {
+            "name": "Alinne Moraes",
+            "character": "Helena",
+            "profile_url": "https://image.tmdb.org/t/p/w500/opgDF6pMcEnxiz0jzkr7iYeEfee.jpg"
+        },
+        {
+            "name": "Maria Luísa Mendonça",
+            "character": "Sandra",
+            "profile_url": "https://image.tmdb.org/t/p/w500/etzgHga6JgUB2wl2mLtSApcO6tC.jpg"
+        },
+        {
+            "name": "Fernando Ceylão",
+            "character": "Otávio",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jaqXE5sHOR0J40C85H1IXXP3jnj.jpg"
+        },
+        {
+            "name": "Gabriel Braga Nunes",
+            "character": "Ricardo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/biltwrakfS7FQ8dUzUFlJmygBXk.jpg"
+        },
+        {
+            "name": "Daniel Uemura",
+            "character": "Sushi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eR8jRQhBqlWE1eR1mkDFFY6iuxy.jpg"
+        },
+        {
+            "name": "José Steimberg",
+            "character": "Sr. Arlindo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cWVjp5HGIvPINvsnkryglA1LFJ9.jpg"
+        },
+        {
+            "name": "Malu Rodrigues",
+            "character": "Aluna 01",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uAFn4TRvyvjwlYaFKzUG6qfHZix.jpg"
+        },
+        {
+            "name": "Fernando Gomes",
+            "character": "Motorista de Táxi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7SUDNlGAFzq30ATXHZV0ruVw8CK.jpg"
+        },
+        {
+            "name": "Gregório Duvivier",
+            "character": "Engravatado 1991",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qYIur0tnoRELDrOkR3eXPojkrqK.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.0",
-    "imdbVotes": "7,196",
-    "imdbID": "tt2027178",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Cláudio Torres"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 73624
 }

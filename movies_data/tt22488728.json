@@ -1,32 +1,77 @@
 {
     "Title": "Love Today",
     "Year": "2022",
-    "Rated": "N/A",
-    "Released": "04 Nov 2022",
-    "Runtime": "154 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Pradeep Ranganathan",
-    "Writer": "Pradeep Ranganathan",
-    "Actors": "Pradeep Ranganathan, Ivana, Yogi Babu",
     "Plot": "Two young lovers, who are made to exchange their phones for a day and what happens due to that.",
     "Language": "Tamil",
     "Country": "India",
+    "Rated": "N/A",
+    "Runtime": "154 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Pradeep Ranganathan",
+    "Actors": "Pradeep Ranganathan, Ivana, Yogi Babu",
     "Awards": "3 wins & 6 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzEyNzQ0MDEtMzVhZS00ZjE4LWIwZDQtNTNhNTY2NDAwNmE3XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt22488728",
+    "imdbRating": "8.0",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.989,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYzEyNzQ0MDEtMzVhZS00ZjE4LWIwZDQtNTNhNTY2NDAwNmE3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/iRfIti4RhDFZ11UyCmz5Mk5wtGI.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "8.0/10"
+            "name": "Pradeep Ranganathan",
+            "character": "Uthaman Pradeep",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9xihfKNyRbDtiV6p2iB1FRcNdNL.jpg"
+        },
+        {
+            "name": "Ivana",
+            "character": "Nikitha Shastri",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oDSb5PnaWovLVx1J3ofmx8jfsX8.jpg"
+        },
+        {
+            "name": "Akshaya Udhayakumar",
+            "character": "Shwetha Iyengar",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ek4qUnhciWTEkIvYbdjGTkOwrwZ.jpg"
+        },
+        {
+            "name": "Raveena Ravi",
+            "character": "Divya",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xFBHKFjcMp1ujk5UJeiuhf2vGwO.jpg"
+        },
+        {
+            "name": "Radikaa Sarathkumar",
+            "character": "Saraswathi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg"
+        },
+        {
+            "name": "Prathana Nathan",
+            "character": "Namitha",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qJBSz9cy3J7AeLoekiTLJ1MNvfM.jpg"
+        },
+        {
+            "name": "Sathyaraj",
+            "character": "Venu Shastri",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+        },
+        {
+            "name": "Yogi Babu",
+            "character": "Dr. Yogi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+        },
+        {
+            "name": "Adithya Kathir",
+            "character": "Bhaskar",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yLg6XTpKRra164XLYypPlnn0owR.jpg"
+        },
+        {
+            "name": "Finally Bharath",
+            "character": "Mani",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "8.0",
-    "imdbVotes": "16,118",
-    "imdbID": "tt22488728",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Pradeep Ranganathan"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=Xjw4ZbCIYS0",
+    "TMDb_ID": 1032627
 }

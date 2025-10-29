@@ -1,40 +1,83 @@
 {
     "Title": "From Russia with Love",
     "Year": "1963",
-    "Rated": "PG",
-    "Released": "27 May 1964",
-    "Runtime": "115 min",
-    "Genre": "Action, Adventure, Thriller",
-    "Director": "Terence Young",
-    "Writer": "Richard Maibaum, Johanna Harwood, Ian Fleming",
-    "Actors": "Sean Connery, Robert Shaw, Lotte Lenya",
     "Plot": "James Bond willingly falls into an assassination plot involving a naive Russian beauty in order to retrieve a Soviet encryption device that was stolen by the organization Spectre.",
     "Language": "English, Russian, Turkish, French, Romany, Italian",
     "Country": "United Kingdom, United States, Turkey, Italy",
+    "Rated": "PG",
+    "Runtime": "115 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Terence Young",
+    "Actors": "Sean Connery, Robert Shaw, Lotte Lenya",
     "Awards": "Won 1 BAFTA Award3 wins & 6 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMWY2MWY2ODAtMTY5Ny00MzA2LWFkMWYtODU2MjE0MmM4ZTQ4XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0057076",
+    "imdbRating": "7.3",
+    "BoxOffice": "$24,796,765",
+    "TMDb_Rating": 7.07,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMWY2MWY2ODAtMTY5Ny00MzA2LWFkMWYtODU2MjE0MmM4ZTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/zx4V17FP8oclNvOpTgs2iCCtiYk.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/2An9GJm8lXI3cN1yeumkCIkKCNA.jpg",
+        "https://image.tmdb.org/t/p/w500/9Z50eHBANvMARquTSRnWMZzihZg.jpg",
+        "https://image.tmdb.org/t/p/w500/wyjUpu5VbdbfYyQvbdLLV1uImAT.jpg",
+        "https://image.tmdb.org/t/p/w500/q4zeOCaMhIHLAV2OGmZWEdONFj7.jpg",
+        "https://image.tmdb.org/t/p/w500/wrmTDoZ9J3aZGSDMuf54Cd6AnM4.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.3/10"
+            "name": "Sean Connery",
+            "character": "James Bond",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hbB676mW62gjsh0f51ICYE11niG.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "97%"
+            "name": "Daniela Bianchi",
+            "character": "Tatiana 'Tanja' Romanova",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6pdO17mFaxwWEvarNhmHEuL1HZs.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "83/100"
+            "name": "Pedro Armendáriz",
+            "character": "Ali Kerim Bey",
+            "profile_url": "https://image.tmdb.org/t/p/w500/c9WueBsUgQDmCSIOxTeyhG7RUwB.jpg"
+        },
+        {
+            "name": "Robert Shaw",
+            "character": "Donald 'Red' Grant",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bU4IJ4J1mgrriRTdQ4BOemoHvtt.jpg"
+        },
+        {
+            "name": "Lotte Lenya",
+            "character": "Rosa Klebb",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9exR24k0Be91FOpg054e7EZWAab.jpg"
+        },
+        {
+            "name": "Bernard Lee",
+            "character": "M",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sOSY7nVivP73ucBk0CBDMvyYDw1.jpg"
+        },
+        {
+            "name": "Lois Maxwell",
+            "character": "Miss Moneypenny",
+            "profile_url": "https://image.tmdb.org/t/p/w500/79mIgTC6AHDc0X75sUh7fdvxhPb.jpg"
+        },
+        {
+            "name": "Eunice Gayson",
+            "character": "Sylvia Trench",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fX5CFqfKNAfkLcA5T5stSVNg86b.jpg"
+        },
+        {
+            "name": "Walter Gotell",
+            "character": "Morzeny",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3pz9faSRNXyXB74t9VaJlw8IR4Q.jpg"
+        },
+        {
+            "name": "Francis de Wolff",
+            "character": "Vavra",
+            "profile_url": "https://image.tmdb.org/t/p/w500/g1JKH34BvvR7QOj05ZdcnFiPyVU.jpg"
         }
     ],
-    "Metascore": "83",
-    "imdbRating": "7.3",
-    "imdbVotes": "152,689",
-    "imdbID": "tt0057076",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$24,796,765",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Terence Young"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=t9AeIdMQqR8",
+    "TMDb_ID": 657
 }

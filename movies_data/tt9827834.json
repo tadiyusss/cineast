@@ -1,40 +1,79 @@
 {
     "Title": "Sylvie's Love",
     "Year": "2020",
-    "Rated": "PG-13",
-    "Released": "23 Dec 2020",
-    "Runtime": "116 min",
-    "Genre": "Drama, Music, Romance",
-    "Director": "Eugene Ashe",
-    "Writer": "Eugene Ashe",
-    "Actors": "Tessa Thompson, Nnamdi Asomugha, Eva Longoria",
     "Plot": "When a young woman meets an aspiring saxophonist in her father's record shop in 1950s Harlem, their love ignites a sweeping romance that transcends changing times, geography, and professional success.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG-13",
+    "Runtime": "116 min",
+    "Genre": "Drama, Music, Romance",
+    "Director": "Eugene Ashe",
+    "Actors": "Tessa Thompson, Nnamdi Asomugha, Eva Longoria",
     "Awards": "Nominated for 1 Primetime Emmy. 6 wins & 28 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMmFhNDc1MmEtYmU1Ni00M2IwLTgyMTEtMTI1MWViNTNhMGQzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt9827834",
+    "imdbRating": "6.8",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.163,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMmFhNDc1MmEtYmU1Ni00M2IwLTgyMTEtMTI1MWViNTNhMGQzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/48P3lTdsg19OfmrD5av0VJYcjLM.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/efnYwXk36gKVhzC4NRxcufsAiRz.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.8/10"
+            "name": "Tessa Thompson",
+            "character": "Sylvie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ewRWXNfS3ehaalCQtvHCa7BhibC.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "94%"
+            "name": "Nnamdi Asomugha",
+            "character": "Robert",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2JrUJzVMsHarxr7HcQGlGSgRK0L.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "74/100"
+            "name": "Aja Naomi King",
+            "character": "Mona",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hpLueshF0wqjxL2kCiBxxSBt5l8.jpg"
+        },
+        {
+            "name": "Jemima Kirke",
+            "character": "Countess",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tPBv42wgYOkTBWzRndEz50hTtdE.jpg"
+        },
+        {
+            "name": "Tone Bell",
+            "character": "Dickie Brewster",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fB06Xj5FgwvHcZESsNGMupGBTyY.jpg"
+        },
+        {
+            "name": "Alano Miller",
+            "character": "Lacy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2oBVU9VKgmSTOJKyJaXDIya7eJW.jpg"
+        },
+        {
+            "name": "Erica Gimpel",
+            "character": "Eunice",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9rEGsUqlbVJexRZ2TTxc0UIGY5P.jpg"
+        },
+        {
+            "name": "Lance Reddick",
+            "character": "Herbert",
+            "profile_url": "https://image.tmdb.org/t/p/w500/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+        },
+        {
+            "name": "Wendi McLendon-Covey",
+            "character": "Lucy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/d8VKC8Ms3u9XiW4e4jsy2grP02d.jpg"
+        },
+        {
+            "name": "Eva Longoria",
+            "character": "Carmen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
         }
     ],
-    "Metascore": "74",
-    "imdbRating": "6.8",
-    "imdbVotes": "6,659",
-    "imdbID": "tt9827834",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Eugene Ashe"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=SbjakuJZgww",
+    "TMDb_ID": 584288
 }

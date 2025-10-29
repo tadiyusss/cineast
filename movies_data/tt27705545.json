@@ -1,32 +1,76 @@
 {
     "Title": "A Knight's War",
     "Year": "2025",
-    "Rated": "N/A",
-    "Released": "11 Feb 2025",
-    "Runtime": "103 min",
-    "Genre": "Action, Fantasy, Horror",
-    "Director": "Matthew Ninaber",
-    "Writer": "Matthew Ninaber",
-    "Actors": "Jeremy Ninaber, Kristen Kaster, Matthew Ninaber",
     "Plot": "A fearless knight braves a deadly realm to save the Chosen One's soul. Facing witches, demons, and brutal foes, he discovers her return could ignite chaos and doom humanity.",
     "Language": "English",
     "Country": "Canada, United States",
+    "Rated": "N/A",
+    "Runtime": "103 min",
+    "Genre": "Action, Fantasy, Horror",
+    "Director": "Matthew Ninaber",
+    "Actors": "Jeremy Ninaber, Kristen Kaster, Matthew Ninaber",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNWZlMDBiYzItODM5Ni00OGFjLWI1OGUtNzBjOWQ1OTdjYzA2XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt27705545",
+    "imdbRating": "4.6",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.046,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNWZlMDBiYzItODM5Ni00OGFjLWI1OGUtNzBjOWQ1OTdjYzA2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/crCjI2YGEx7NfRYGwWOb8FXPtfr.jpg",
+        "https://image.tmdb.org/t/p/w500/8ZSqmxohOjm1vxEy5ywjDrOypoN.jpg",
+        "https://image.tmdb.org/t/p/w500/cKcENdSQboLyDsp2rp0ZmaajVZM.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "4.6/10"
+            "name": "Jeremy Ninaber",
+            "character": "Bhodie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/p05ZkAtQkMCrCeZsPka47AODVeu.jpg"
+        },
+        {
+            "name": "Kristen Kaster",
+            "character": "Avalon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jleM65y8VxYVHAxQS4K19nrONec.jpg"
+        },
+        {
+            "name": "Matthew Ninaber",
+            "character": "William",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pdF252TBThy1L4elrkYsGP2YJdz.jpg"
+        },
+        {
+            "name": "Kristen MacCulloch",
+            "character": "Malenor",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1NVjmQzdHGXssb8MFNKDRmokxuG.jpg"
+        },
+        {
+            "name": "Sasha Ormond",
+            "character": "Isem",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dto0q17sKYb0tkWHWVT5XKbuwEW.jpg"
+        },
+        {
+            "name": "Raechel Fisher",
+            "character": "Lilith",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gyASeFtg2KjBM3fT7SKh6QZuP0F.jpg"
+        },
+        {
+            "name": "Ariel Gerard",
+            "character": "Hope",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1taib8logxqRReLjyQ2mpr7AH5A.jpg"
+        },
+        {
+            "name": "Jeremy Dueck",
+            "character": "Priest",
+            "profile_url": null
+        },
+        {
+            "name": "Sadie Jantzi",
+            "character": "Young Avalon",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "4.6",
-    "imdbVotes": "1,036",
-    "imdbID": "tt27705545",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Matthew Ninaber"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=DHlXDqo7VsU",
+    "TMDb_ID": 1312833
 }

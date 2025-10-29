@@ -1,40 +1,83 @@
 {
     "Title": "World War Z",
     "Year": "2013",
-    "Rated": "PG-13",
-    "Released": "21 Jun 2013",
-    "Runtime": "116 min",
-    "Genre": "Action, Adventure, Horror",
-    "Director": "Marc Forster",
-    "Writer": "Matthew Michael Carnahan, Drew Goddard, Damon Lindelof",
-    "Actors": "Brad Pitt, Mireille Enos, Daniella Kertesz",
     "Plot": "Former United Nations employee Gerry Lane traverses the world in a race against time to stop a zombie pandemic that is toppling armies and governments and threatens to destroy humanity itself.",
     "Language": "English, Spanish, Hebrew, Arabic",
     "Country": "United States, United Kingdom",
+    "Rated": "PG-13",
+    "Runtime": "116 min",
+    "Genre": "Action, Adventure, Horror",
+    "Director": "Marc Forster",
+    "Actors": "Brad Pitt, Mireille Enos, Daniella Kertesz",
     "Awards": "3 wins & 25 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BODg3ZTM2YWQtZDE5Ny00NGNiLTkzYjgtYWVlYjNkOTg5NDI1XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0816711",
+    "imdbRating": "7.0",
+    "BoxOffice": "$202,807,711",
+    "TMDb_Rating": 6.824,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BODg3ZTM2YWQtZDE5Ny00NGNiLTkzYjgtYWVlYjNkOTg5NDI1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/kIKKwaw4TPcfRlBH5e0HueyybGo.jpg",
+        "https://image.tmdb.org/t/p/w500/6ugwHq1gEQekDKTIBVYEF1VNRBT.jpg",
+        "https://image.tmdb.org/t/p/w500/vK91Nv8aX7l7Li7oLDNos9z1jHL.jpg",
+        "https://image.tmdb.org/t/p/w500/pCRvNnR86YSlQnvOkBIPilxi7Il.jpg",
+        "https://image.tmdb.org/t/p/w500/lKJa7NoYOlj1EEGvs40rVIFalh2.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.0/10"
+            "name": "Brad Pitt",
+            "character": "Gerry Lane",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9OfnD7lxgIj3BNQpJFnwxnwl6w5.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "67%"
+            "name": "Mireille Enos",
+            "character": "Karen Lane",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zza8XezUz4I5Is55H2totMbGLeG.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "63/100"
+            "name": "Daniella Kertesz",
+            "character": "Segen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/A419vIv5ayi84hVopbtPSOn0gTT.jpg"
+        },
+        {
+            "name": "James Badge Dale",
+            "character": "Captain Speke",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lnm8Jm11btONDU7dzPk9liuMibk.jpg"
+        },
+        {
+            "name": "Ludi Boeken",
+            "character": "Jurgen Warmbrunn",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pXtrxvMUzI5Aah7q2XFrDhGssxl.jpg"
+        },
+        {
+            "name": "Matthew Fox",
+            "character": "Parajumper",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6VIfueb4j3GCsIhxnstsXlY5C3Y.jpg"
+        },
+        {
+            "name": "Fana Mokoena",
+            "character": "Thierry Umutoni",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4D3VeFLmTWoBilKDeNotchnrYqk.jpg"
+        },
+        {
+            "name": "David Morse",
+            "character": "Ex-CIA Agent",
+            "profile_url": "https://image.tmdb.org/t/p/w500/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg"
+        },
+        {
+            "name": "Elyes Gabel",
+            "character": "Andrew Fassbach",
+            "profile_url": "https://image.tmdb.org/t/p/w500/z9IqYTYxhVR9ADxaksbPQwiYQns.jpg"
+        },
+        {
+            "name": "Sterling Jerins",
+            "character": "Constance Lane",
+            "profile_url": "https://image.tmdb.org/t/p/w500/10kkqqbO8Ct58DqsBPSQIsG9ve4.jpg"
         }
     ],
-    "Metascore": "63",
-    "imdbRating": "7.0",
-    "imdbVotes": "766,915",
-    "imdbID": "tt0816711",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$202,807,711",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Marc Forster"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=TvRCQM2HrXs",
+    "TMDb_ID": 72190
 }

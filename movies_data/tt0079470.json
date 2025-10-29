@@ -1,40 +1,80 @@
 {
     "Title": "Monty Python's Life of Brian",
     "Year": "1979",
-    "Rated": "R",
-    "Released": "17 Aug 1979",
-    "Runtime": "94 min",
-    "Genre": "Comedy",
-    "Director": "Terry Jones",
-    "Writer": "Graham Chapman, John Cleese, Terry Gilliam",
-    "Actors": "Graham Chapman, John Cleese, Michael Palin",
     "Plot": "Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.",
     "Language": "English, Latin",
     "Country": "United Kingdom",
+    "Rated": "R",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Terry Jones",
+    "Actors": "Graham Chapman, John Cleese, Michael Palin",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDMzY2E4NjEtMTJiZC00Y2UzLWFiM2MtZWVhNTg5OGQxNjk1XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0079470",
+    "imdbRating": "8.0",
+    "BoxOffice": "$20,206,622",
+    "TMDb_Rating": 7.757,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNDMzY2E4NjEtMTJiZC00Y2UzLWFiM2MtZWVhNTg5OGQxNjk1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/ntefZ4OWT737CObXiXHjyLe8mtR.jpg",
+        "https://image.tmdb.org/t/p/w500/6OOL3B4WvCGCOYXx15K7sikuaYD.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "8.0/10"
+            "name": "Graham Chapman",
+            "character": "Wise Man #2 / Brian Cohen / Biggus Dickus",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qmTXDGNxuuwQ4IGNHwxmCdjuTGk.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "96%"
+            "name": "John Cleese",
+            "character": "Wise Man #1 / Reg / Jewish Official / First Centurion / Deadly Dirk / Arthur",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dhDw43v7EY52GG3Z4H8B9mr2s9p.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "77/100"
+            "name": "Terry Gilliam",
+            "character": "Man Even Further Forward / Revolutionary / Jailer / Blood and Thunder Prophet / Frank / Audience Member / Crucifee",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7qBkaXxANmnb6hqQCBc4iWqXEL6.jpg"
+        },
+        {
+            "name": "Eric Idle",
+            "character": "Mr. Cheeky / Stan 'Loretta' / Harry the Haggler / Culprit Woman / Warris / Intensely Dull Youth / Jailer's Assistant / Otto / Lead Singer Crucifee",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1Vj7Lvrl8OHby7AeOK1Z07JyeMp.jpg"
+        },
+        {
+            "name": "Terry Jones",
+            "character": "Mandy Cohen / Colin / Simon the Holy Man / Bob Hoskins / Saintly Passer-by / Alarmed Crucifixion Assistant",
+            "profile_url": "https://image.tmdb.org/t/p/w500/keJpqxK8gykrrK2W6yeSeDUbYDK.jpg"
+        },
+        {
+            "name": "Michael Palin",
+            "character": "Wise Man #3 / Mr. Big Nose / Francis / Mrs. A / Ex-Leper / Announcer / Ben / Pontius Pilate / Boring Prophet / Eddie / Shoe Follower / Nisus Wettus",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7qCp6M2NxMWpUmO2t6IqHGNlBjz.jpg"
+        },
+        {
+            "name": "Terence Bayler",
+            "character": "Gregory",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ui0sfTzTnum4IkFVrLdpOsUbJDL.jpg"
+        },
+        {
+            "name": "Carol Cleveland",
+            "character": "Mrs. Gregory",
+            "profile_url": "https://image.tmdb.org/t/p/w500/woaXQdK0DZpWSxvRBCpmWZn7ZAn.jpg"
+        },
+        {
+            "name": "Kenneth Colley",
+            "character": "Jesus",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5eH380TIBWnjyCDCq3o7DUeZOsX.jpg"
+        },
+        {
+            "name": "Neil Innes",
+            "character": "A Weedy Samaritan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xKAs77iIppfUMfW6HhGT6YVfon4.jpg"
         }
     ],
-    "Metascore": "77",
-    "imdbRating": "8.0",
-    "imdbVotes": "431,314",
-    "imdbID": "tt0079470",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$20,206,622",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Terry Jones"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=tK4Qb51ftd4",
+    "TMDb_ID": 583
 }

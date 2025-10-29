@@ -1,40 +1,82 @@
 {
     "Title": "Love, Simon",
     "Year": "2018",
-    "Rated": "PG-13",
-    "Released": "16 Mar 2018",
-    "Runtime": "110 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Greg Berlanti",
-    "Writer": "Becky Albertalli, Elizabeth Berger, Isaac Aptaker",
-    "Actors": "Nick Robinson, Jennifer Garner, Josh Duhamel",
     "Plot": "Simon Spier keeps a huge secret from his family, his friends and all of his classmates: he's gay. When that secret is threatened, Simon must face everyone and come to terms with his identity.",
     "Language": "English, German, French",
     "Country": "United States",
+    "Rated": "PG-13",
+    "Runtime": "110 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Greg Berlanti",
+    "Actors": "Nick Robinson, Jennifer Garner, Josh Duhamel",
     "Awards": "9 wins & 30 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BN2ViMjNkMDMtY2MwZC00YzRiLWJlY2UtNjU0YzNmMDc3NzkxXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt5164432",
+    "imdbRating": "7.5",
+    "BoxOffice": "$40,826,341",
+    "TMDb_Rating": 7.985,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BN2ViMjNkMDMtY2MwZC00YzRiLWJlY2UtNjU0YzNmMDc3NzkxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/snIsqVPmlu4LPjvToHpDotxa7Eh.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/df0TSAmDkDnQEuMFKqO40M5PVhG.jpg",
+        "https://image.tmdb.org/t/p/w500/qHz8SAV85XusqBQ2MecQkD53YkB.jpg",
+        "https://image.tmdb.org/t/p/w500/e9PWJetQfCxn5JQjfAcrcshnCBB.jpg",
+        "https://image.tmdb.org/t/p/w500/ga63PaqIeQMsGqZkZVuU8zjkDp6.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.5/10"
+            "name": "Nick Robinson",
+            "character": "Simon Spier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mzYszYVPvTdirjkUueziWUHvye7.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "92%"
+            "name": "Logan Miller",
+            "character": "Martin Addison",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xa62ZRSMFUUk4KS9kkKYZkNDlKi.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "72/100"
+            "name": "Alexandra Shipp",
+            "character": "Abby Suso",
+            "profile_url": "https://image.tmdb.org/t/p/w500/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+        },
+        {
+            "name": "Katherine Langford",
+            "character": "Leah Burke",
+            "profile_url": "https://image.tmdb.org/t/p/w500/c9risbLVtmYAgnNKD4TDgis1H6t.jpg"
+        },
+        {
+            "name": "Jorge Lendeborg Jr.",
+            "character": "Nick Eisner",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1633mS58BuM33No4kTPsusePEJa.jpg"
+        },
+        {
+            "name": "Jennifer Garner",
+            "character": "Emily Spier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ftymEXqdTnXfaI6dGd9qrJoFOSE.jpg"
+        },
+        {
+            "name": "Josh Duhamel",
+            "character": "Jack Spier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5Rp9aeWdN2S623KCjwfii9MhDK1.jpg"
+        },
+        {
+            "name": "Talitha Eliana Bateman",
+            "character": "Nora Spier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nJ8usNkXlYwg6jUhtCWgcDwu3jw.jpg"
+        },
+        {
+            "name": "Keiynan Lonsdale",
+            "character": "Abraham 'Bram' Greenfeld",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lSIKty1Y8JLIE4aqL6VmZYx0JEB.jpg"
+        },
+        {
+            "name": "Tony Hale",
+            "character": "Mr. Worth",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
         }
     ],
-    "Metascore": "72",
-    "imdbRating": "7.5",
-    "imdbVotes": "131,747",
-    "imdbID": "tt5164432",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$40,826,341",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Greg Berlanti"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=E0cbWdlQg_8",
+    "TMDb_ID": 449176
 }

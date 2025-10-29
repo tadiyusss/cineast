@@ -1,36 +1,80 @@
 {
     "Title": "Primitive War",
     "Year": "2025",
-    "Rated": "N/A",
-    "Released": "03 Oct 2025",
-    "Runtime": "133 min",
-    "Genre": "Action, Horror, Sci-Fi",
-    "Director": "Luke Sparke",
-    "Writer": "Ethan Pettus, Luke Sparke",
-    "Actors": "Ryan Kwanten, Tricia Helfer, Nick Wechsler",
     "Plot": "Vietnam. 1968. A recon unit known as Vulture Squad is sent to an isolated jungle valley to uncover the fate of a missing Green Beret platoon. They soon discover they are not alone.",
     "Language": "N/A",
     "Country": "Australia",
+    "Rated": "N/A",
+    "Runtime": "133 min",
+    "Genre": "Action, Horror, Sci-Fi",
+    "Director": "Luke Sparke",
+    "Actors": "Ryan Kwanten, Tricia Helfer, Nick Wechsler",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTk4OTlmZDQtYjM2ZC00ZTg3LThlYzItNzk1YjVmYTlkNGUwXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt18312380",
+    "imdbRating": "5.4",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.854,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZTk4OTlmZDQtYjM2ZC00ZTg3LThlYzItNzk1YjVmYTlkNGUwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/nWBqU5YXmDVJWWEDJ4u3ZSseNVL.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/skDJUjyZWxE4a1n9wWXsFzTa3E4.jpg",
+        "https://image.tmdb.org/t/p/w500/k2ctKpKcT9Z236ib1penKIKyyEH.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.4/10"
+            "name": "Jeremy Piven",
+            "character": "Colonel Jericho",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pBD1jcAZiDrHWcFpJtBtqLRD4gR.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "56%"
+            "name": "Tricia Helfer",
+            "character": "Sofia",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cXwa8yT2Qv7EmCI8yjs5ldvMHmw.jpg"
+        },
+        {
+            "name": "Ryan Kwanten",
+            "character": "Baker",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vvbEabUWIeaHMBA2wrUChiLTjch.jpg"
+        },
+        {
+            "name": "Nick Wechsler",
+            "character": "Eli",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vUkfhJc2x3jrO9WY7D1405g4amE.jpg"
+        },
+        {
+            "name": "Anthony Ingruber",
+            "character": "Keyes",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fUTCd1jGGQHn912czglHg28v4gR.jpg"
+        },
+        {
+            "name": "Aaron Glenane",
+            "character": "Logan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4JjTJIgJ0GDTo4egADEn3nW79Zk.jpg"
+        },
+        {
+            "name": "Carlos Sanson Jr.",
+            "character": "Leon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cta9cAYDh46lfDdt2sAtWD7GBmH.jpg"
+        },
+        {
+            "name": "Ana Thu Nguyen",
+            "character": "Con Nhen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cwGOgAoVgtEUVDeqW0OoPpcAYvU.jpg"
+        },
+        {
+            "name": "Adolphus Waylee",
+            "character": "Xavier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/14jyy1SCiM2xQnG017gFCgyIaEI.jpg"
+        },
+        {
+            "name": "Marcus Johnson",
+            "character": "Ibex",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fqAZqGw6fm6R3uBRSyCi0OvVWWO.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.4",
-    "imdbVotes": "3,738",
-    "imdbID": "tt18312380",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Luke Sparke"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=zDRI8KlNGoY",
+    "TMDb_ID": 1257009
 }

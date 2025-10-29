@@ -1,40 +1,83 @@
 {
     "Title": "Bob Marley: One Love",
     "Year": "2024",
-    "Rated": "PG-13",
-    "Released": "14 Feb 2024",
-    "Runtime": "107 min",
-    "Genre": "Biography, Drama, Music",
-    "Director": "Reinaldo Marcus Green",
-    "Writer": "Terence Winter, Frank E. Flowers, Zach Baylin",
-    "Actors": "Kingsley Ben-Adir, Lashana Lynch, James Norton",
     "Plot": "The story of how reggae icon Bob Marley overcame adversity, and the journey behind his revolutionary music.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG-13",
+    "Runtime": "107 min",
+    "Genre": "Biography, Drama, Music",
+    "Director": "Reinaldo Marcus Green",
+    "Actors": "Kingsley Ben-Adir, Lashana Lynch, James Norton",
     "Awards": "2 wins & 14 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYmYwODViNzUtZmZiNy00M2IwLWI4ZDEtMWMyOTc4ZjliZjI0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt8521778",
+    "imdbRating": "6.2",
+    "BoxOffice": "$96,981,216",
+    "TMDb_Rating": 6.7,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYmYwODViNzUtZmZiNy00M2IwLWI4ZDEtMWMyOTc4ZjliZjI0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/tn6fGquvQXzUsbSIWg1OV2GBMNW.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/uKLBrKgUZiJzSPyb5JeJ4YUaHq3.jpg",
+        "https://image.tmdb.org/t/p/w500/csaIvat97aADjcJ84yRmo1jwlRI.jpg",
+        "https://image.tmdb.org/t/p/w500/eiPROWf7Dm00GYGg1v27SkQqFXA.jpg",
+        "https://image.tmdb.org/t/p/w500/oHZj2kdPZGSBgM67t5gCtSgZiH0.jpg",
+        "https://image.tmdb.org/t/p/w500/3ULltVmZpYgOtCQHKYeXbsKdu0G.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.2/10"
+            "name": "Kingsley Ben-Adir",
+            "character": "Bob Marley",
+            "profile_url": "https://image.tmdb.org/t/p/w500/35EG2nZhvVF7Cf317wWpIJfQwWl.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "43%"
+            "name": "Lashana Lynch",
+            "character": "Rita Marley",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ypNxRag9uJ5nzPAN2um3amQK340.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "43/100"
+            "name": "James Norton",
+            "character": "Chris Blackwell",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jQElUV2w7pMNEPX44qFMmr4zDDC.jpg"
+        },
+        {
+            "name": "Tosin Cole",
+            "character": "Tyrone Downie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8sFFg9Pw2OmAXPr4Lhql8ANzd4e.jpg"
+        },
+        {
+            "name": "Umi Myers",
+            "character": "Cindy Breakspeare",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sWofAn489etQ3BBHjYODae8MFev.jpg"
+        },
+        {
+            "name": "Anthony Welsh",
+            "character": "Don Taylor",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uIqZvNHN2jw3rIkttRc179X1VjC.jpg"
+        },
+        {
+            "name": "Nia Ashi",
+            "character": "Teen Rita Marley",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7BoSs1aAu5EjG05Ykhb5r9AH924.jpg"
+        },
+        {
+            "name": "Aston Barrett Jr.",
+            "character": "Family Man Barrett",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rGr78L3p5OEVhCRPvw7wHX0L6Qx.jpg"
+        },
+        {
+            "name": "Anna-Sharé Blake",
+            "character": "Judy Mowatt",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5sckthd5bn9I25I5fDkC7iYQ5HA.jpg"
+        },
+        {
+            "name": "Gawaine 'J-Summa' Campbell",
+            "character": "Antonio 'Gillie' Gilbert",
+            "profile_url": null
         }
     ],
-    "Metascore": "43",
-    "imdbRating": "6.2",
-    "imdbVotes": "35,718",
-    "imdbID": "tt8521778",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$96,981,216",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Reinaldo Marcus Green"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=ajw425Kuvtw",
+    "TMDb_ID": 802219
 }

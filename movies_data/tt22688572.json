@@ -1,36 +1,79 @@
 {
     "Title": "Boudica: Queen of War",
     "Year": "2023",
-    "Rated": "R",
-    "Released": "27 Oct 2023",
-    "Runtime": "101 min",
-    "Genre": "Action, Drama, History",
-    "Director": "Jesse V. Johnson",
-    "Writer": "Jesse V. Johnson",
-    "Actors": "Olga Kurylenko, Tim Barber, Andy Beckwith",
     "Plot": "The eponymous Celtic warrior who rules the Iceni people alongside her husband, Prasutagus. The King dies at the hands of Roman soldiers, leaving Boudica's kingdom without a male heir, and the Romans seize her land and property.",
     "Language": "English",
     "Country": "United Kingdom",
+    "Rated": "R",
+    "Runtime": "101 min",
+    "Genre": "Action, Drama, History",
+    "Director": "Jesse V. Johnson",
+    "Actors": "Olga Kurylenko, Tim Barber, Andy Beckwith",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5ZTQ2OWMtZDljYS00YjJhLWI3MjQtM2E5ZmQ0ZmEwMTliXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt22688572",
+    "imdbRating": "4.2",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.868,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTU5ZTQ2OWMtZDljYS00YjJhLWI3MjQtM2E5ZmQ0ZmEwMTliXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/g57hTF2TYytHMveoKDpUN8iFk1p.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/zHhc1VU8oITjivuUWd1SphMBIiw.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "4.2/10"
+            "name": "Olga Kurylenko",
+            "character": "Boudica",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "43%"
+            "name": "Peter Franzén",
+            "character": "Wolfgar",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8ltJpmctAnBxCuG725N2GclwWMZ.jpg"
+        },
+        {
+            "name": "Clive Standen",
+            "character": "Prasutagus",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4wYmTI77N6giNkJp6DOfSAsishK.jpg"
+        },
+        {
+            "name": "Lucy Martin",
+            "character": "Cartimanda",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qsvdRFGxJzSWAX9o66K7XOGVLLS.jpg"
+        },
+        {
+            "name": "Nick Moran",
+            "character": "Catus Decianus",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kfWebCAm72JBZLXcNbA2Myr950E.jpg"
+        },
+        {
+            "name": "James Faulkner",
+            "character": "Old Druid",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wMDpbctF9cAL5nYnSL6AcXUTG5K.jpg"
+        },
+        {
+            "name": "Rita Tushingham",
+            "character": "Green Druid",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sEI6flS4X82MdzIBTwOXjVXuoFK.jpg"
+        },
+        {
+            "name": "Harry Kirton",
+            "character": "Emperor Nero",
+            "profile_url": "https://image.tmdb.org/t/p/w500/thWIiFWuW98DdIf7TfcbKEoyS4D.jpg"
+        },
+        {
+            "name": "Andy Beckwith",
+            "character": "Store-Handler",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9fL7P2yETzD74Yli7IEpP14RJlG.jpg"
+        },
+        {
+            "name": "Dominique Vandenberg",
+            "character": "Wolfgar's Bodyguard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jFcmt3Apx5QxRPvkrJRzJaHACAy.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "4.2",
-    "imdbVotes": "3,495",
-    "imdbID": "tt22688572",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Jesse V. Johnson"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=nFwuqwVLCl8",
+    "TMDb_ID": 975902
 }

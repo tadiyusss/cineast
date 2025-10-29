@@ -1,40 +1,79 @@
 {
     "Title": "Lost Girls and Love Hotels",
     "Year": "2020",
-    "Rated": "R",
-    "Released": "18 Sep 2020",
-    "Runtime": "97 min",
-    "Genre": "Drama, Thriller",
-    "Director": "William Olsson",
-    "Writer": "Catherine Hanrahan",
-    "Actors": "Alexandra Daddario, Takehiro Hira, Carice van Houten",
     "Plot": "Disillusioned with the world she knows, a woman searches for meaning and affirmations of life with a dashing Yakuza gangster in Tokyo.",
     "Language": "English, Japanese",
     "Country": "Japan, United States",
+    "Rated": "R",
+    "Runtime": "97 min",
+    "Genre": "Drama, Thriller",
+    "Director": "William Olsson",
+    "Actors": "Alexandra Daddario, Takehiro Hira, Carice van Houten",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2YzZjg3YzQtNGY1MS00Mjk5LTg1ZGYtMTAzOGU4MmJiOTA2XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0920462",
+    "imdbRating": "4.7",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.372,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BY2YzZjg3YzQtNGY1MS00Mjk5LTg1ZGYtMTAzOGU4MmJiOTA2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/vQgXwuJrlpzGDI8169tRQRy71Nv.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/7URftRsmRkBwoySjVc9hlVfnuat.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "4.7/10"
+            "name": "Alexandra Daddario",
+            "character": "Margaret",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lh5zibQXYH1MNqkuX8TmxyNYHhK.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "48%"
+            "name": "Takehiro Hira",
+            "character": "Kazu",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2N1viBfPY4cRlz6W6YfM2F6UbSH.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "57/100"
+            "name": "Carice van Houten",
+            "character": "Ines",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eVJqjb7D4FPRcZZ4nqtBk1gnkkj.jpg"
+        },
+        {
+            "name": "Dasha Teranishi",
+            "character": "Margaret's mother",
+            "profile_url": null
+        },
+        {
+            "name": "Mariko Tsutsui",
+            "character": "Mari",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1pHQEi0VkIXaua99UWFIqBnCE5T.jpg"
+        },
+        {
+            "name": "Anastasia Nasu",
+            "character": "Irina",
+            "profile_url": null
+        },
+        {
+            "name": "Andrew Rothney",
+            "character": "Liam",
+            "profile_url": "https://image.tmdb.org/t/p/w500/i53QqYktqD2OsteTRaIIW8gUQOK.jpg"
+        },
+        {
+            "name": "Elisabeth Larena",
+            "character": "Alice",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pi6pJTrjSnXNwUR7Cpn2MQFerSJ.jpg"
+        },
+        {
+            "name": "Asuka Kurosawa",
+            "character": "Mikiko",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oJHqQxOXkWyUAlidwcylMV26rPn.jpg"
+        },
+        {
+            "name": "Kate Easton",
+            "character": "Louise",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aMksEPSl9bg3qWZwjk284sPS1XW.jpg"
         }
     ],
-    "Metascore": "57",
-    "imdbRating": "4.7",
-    "imdbVotes": "5,729",
-    "imdbID": "tt0920462",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "Blackbird, Wandering Trail Pictures",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "William Olsson"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 479259
 }

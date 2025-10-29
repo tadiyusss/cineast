@@ -1,40 +1,77 @@
 {
     "Title": "Joe Strummer: The Future Is Unwritten",
     "Year": "2007",
-    "Rated": "Not Rated",
-    "Released": "18 May 2007",
-    "Runtime": "124 min",
-    "Genre": "Documentary, Biography, Music",
-    "Director": "Julien Temple",
-    "Writer": "N/A",
-    "Actors": "Joe Strummer, Steve Jones, Mick Jones",
     "Plot": "As the front man of the Clash from 1977, Joe Strummer changed people's lives forever. Four years after his death, his influence reaches out around the world, more strongly now than ever before.",
     "Language": "English",
     "Country": "Ireland, United Kingdom",
+    "Rated": "Not Rated",
+    "Runtime": "124 min",
+    "Genre": "Documentary, Biography, Music",
+    "Director": "Julien Temple",
+    "Actors": "Joe Strummer, Steve Jones, Mick Jones",
     "Awards": "1 win & 4 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4MDc1NTY1M15BMl5BanBnXkFtZTYwODc2MDM4._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0800099",
+    "imdbRating": "7.5",
+    "BoxOffice": "$248,362",
+    "TMDb_Rating": 7.247,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMjE4MDc1NTY1M15BMl5BanBnXkFtZTYwODc2MDM4._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/oWFvG5b7128EQvi06Hg4nm5Iw6b.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.5/10"
+            "name": "Topper Headon",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jYGBmF1ddgowA1gbtCz016xibHH.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "89%"
+            "name": "Paul Simonon",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jmxCi7tPzrVosDpJPIXIm2hUSWi.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "79/100"
+            "name": "Terry Chimes",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/i9iPepspKt90Dyw45rVWkBg7J9a.jpg"
+        },
+        {
+            "name": "Steve Jones",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/p82A0EEApjvRsr9KgqGThEoMehs.jpg"
+        },
+        {
+            "name": "Don Letts",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dMvtHGyOd3erjjn6xE3seLpTZYW.jpg"
+        },
+        {
+            "name": "John Cooper Clarke",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cLiQpcovza8bCujCDMlqsnA5PN7.jpg"
+        },
+        {
+            "name": "Jim Jarmusch",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/iMpIrvhoO9SZWhiDkSzaUt9Yd4N.jpg"
+        },
+        {
+            "name": "Bono",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/r1jCFctRrEAHBHOyJun8rWCH0AD.jpg"
+        },
+        {
+            "name": "Flea",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nGQE7xf4YJeqO0a4lpFebhwI7R9.jpg"
+        },
+        {
+            "name": "Anthony Kiedis",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5tsTeYpixbIDtBljiFgPgWt9KQP.jpg"
         }
     ],
-    "Metascore": "79",
-    "imdbRating": "7.5",
-    "imdbVotes": "4,235",
-    "imdbID": "tt0800099",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$248,362",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Julien Temple"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=sv102hoBDUU",
+    "TMDb_ID": 18893
 }

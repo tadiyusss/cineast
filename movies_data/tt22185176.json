@@ -1,32 +1,77 @@
 {
     "Title": "The Volunteers: To the War",
     "Year": "2023",
-    "Rated": "N/A",
-    "Released": "28 Sep 2023",
-    "Runtime": "141 min",
-    "Genre": "Drama, History, War",
-    "Director": "Kaige Chen",
-    "Writer": "Ke Zhang",
-    "Actors": "Guoqiang Tang, Yanhui Wang, Jin Liu",
     "Plot": "In order to commemorate the 70th anniversary of the victory of the War to Resist US Aggression and Aid Korea, the \"Volunteers\" trilogy will show the battle for the founding of New (Communist) China in a panoramic and multi-dimensi...",
     "Language": "Chinese, Korean, Japanese, English, Russian",
     "Country": "China",
+    "Rated": "N/A",
+    "Runtime": "141 min",
+    "Genre": "Drama, History, War",
+    "Director": "Kaige Chen",
+    "Actors": "Guoqiang Tang, Yanhui Wang, Jin Liu",
     "Awards": "16 wins & 30 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzg3YmE0MjYtNjMwNy00ODIwLWE4Y2ItOTIwYWUwZDRmNDVhXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt22185176",
+    "imdbRating": "5.7",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.8,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMzg3YmE0MjYtNjMwNy00ODIwLWE4Y2ItOTIwYWUwZDRmNDVhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/pR7DL8qVbebsE4aBdoEbCRv4JjF.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.7/10"
+            "name": "Tang Guoqiang",
+            "character": "毛泽东",
+            "profile_url": "https://image.tmdb.org/t/p/w500/k7TUG4bL1MhecuF3UPWXyCu8PZr.jpg"
+        },
+        {
+            "name": "Wang Yanhui",
+            "character": "彭德怀",
+            "profile_url": "https://image.tmdb.org/t/p/w500/umBp3VwmHy8bCcvgkLUtixq6bpD.jpg"
+        },
+        {
+            "name": "Liu Jin",
+            "character": "周恩来",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fwWs3LppLPFcG6kQObubqDUWoCv.jpg"
+        },
+        {
+            "name": "Xin Baiqing",
+            "character": "李默尹",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tuecnWeqbJhDtb4bwhqoKY6WFTi.jpg"
+        },
+        {
+            "name": "Zhang Songwen",
+            "character": "伍修权",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rz1mKSiuV5LuY0l0Y6HRGJGBeED.jpg"
+        },
+        {
+            "name": "Huang Xiaoming",
+            "character": "江潮",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eIC3tenhlbFtaGnFXhta7e25avQ.jpg"
+        },
+        {
+            "name": "Zhang Ziyi",
+            "character": "唐笙",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sjtAc10h5LaIaKV6Y1LoZoeE7HT.jpg"
+        },
+        {
+            "name": "Zhu Yawen",
+            "character": "吴本正",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ihNzfo88inSx0TFzOgEyIiszXTD.jpg"
+        },
+        {
+            "name": "Zhang Zifeng",
+            "character": "李晓",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3S8yEnTVqH8T3bTVf9FmtXxWcu2.jpg"
+        },
+        {
+            "name": "Wei Daxun",
+            "character": "毛岸英",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8zDh8Tp6xbVSpxr307alnGqUiJP.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.7",
-    "imdbVotes": "455",
-    "imdbID": "tt22185176",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Chen Kaige"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=YE4iQYFdp7Q",
+    "TMDb_ID": 1076500
 }

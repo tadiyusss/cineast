@@ -1,40 +1,81 @@
 {
     "Title": "The Huntsman: Winter's War",
     "Year": "2016",
-    "Rated": "PG-13",
-    "Released": "22 Apr 2016",
-    "Runtime": "114 min",
-    "Genre": "Action, Adventure, Drama",
-    "Director": "Cedric Nicolas-Troyan",
-    "Writer": "Evan Spiliotopoulos, Craig Mazin, Evan Daugherty",
-    "Actors": "Chris Hemsworth, Jessica Chastain, Charlize Theron",
     "Plot": "Eric and fellow warrior Sara, raised as members of ice Queen Freya's army, try to conceal their forbidden love as they fight to survive the wicked intentions of both Freya and her sister Ravenna.",
     "Language": "English",
     "Country": "China, United States, Iceland",
+    "Rated": "PG-13",
+    "Runtime": "114 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Cedric Nicolas-Troyan",
+    "Actors": "Chris Hemsworth, Jessica Chastain, Charlize Theron",
     "Awards": "16 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjY0YTM4ZTAtZjliYS00YzgwLTg0NWEtYzgwNWViMTNiOTQ1XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt2381991",
+    "imdbRating": "6.1",
+    "BoxOffice": "$48,390,190",
+    "TMDb_Rating": 6.285,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMjY0YTM4ZTAtZjliYS00YzgwLTg0NWEtYzgwNWViMTNiOTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/ekHPrneEoa1EoDclWdillOKznqM.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/byYTvJJQzjEYR18Mh74zJr3AWbS.jpg",
+        "https://image.tmdb.org/t/p/w500/7ALArskhBitWigD5hyHhjTF4BqO.jpg",
+        "https://image.tmdb.org/t/p/w500/mcSiUBsJoxRqgZTGyqNbrlbacnk.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.1/10"
+            "name": "Chris Hemsworth",
+            "character": "The Huntsman",
+            "profile_url": "https://image.tmdb.org/t/p/w500/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "20%"
+            "name": "Charlize Theron",
+            "character": "Queen Ravenna",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ie1KbeYFG5E0GVr1QP7tDNuXvga.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "35/100"
+            "name": "Emily Blunt",
+            "character": "Freya",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zpJ7pupuNF3W0zTxm6yioGIoxbd.jpg"
+        },
+        {
+            "name": "Jessica Chastain",
+            "character": "Sara",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xRvRzxiiHhgUErl0yf9w8WariRE.jpg"
+        },
+        {
+            "name": "Nick Frost",
+            "character": "Nion",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
+        },
+        {
+            "name": "Sam Claflin",
+            "character": "William",
+            "profile_url": "https://image.tmdb.org/t/p/w500/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+        },
+        {
+            "name": "Rob Brydon",
+            "character": "Gryff",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xoKLZVwzaUgTUEvPX4vymXpC1fU.jpg"
+        },
+        {
+            "name": "Sheridan Smith",
+            "character": "Mrs. Bromwyn",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6vHbF7cO4vWr8Tm8wxfZDHpO32e.jpg"
+        },
+        {
+            "name": "Alexandra Roach",
+            "character": "Doreena",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qyaUWoAi6RFYEQcnFgrEZ4aWxS7.jpg"
+        },
+        {
+            "name": "Ṣọpẹ́ Dìrísù",
+            "character": "Tull",
+            "profile_url": "https://image.tmdb.org/t/p/w500/24Se9voPxrO200Ae8GQRbMkE55B.jpg"
         }
     ],
-    "Metascore": "35",
-    "imdbRating": "6.1",
-    "imdbVotes": "124,688",
-    "imdbID": "tt2381991",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$48,390,190",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Cedric Nicolas-Troyan"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=V9cPxenX1-0",
+    "TMDb_ID": 290595
 }

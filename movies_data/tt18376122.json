@@ -1,40 +1,61 @@
 {
     "Title": "Pamela: A Love Story",
     "Year": "2023",
-    "Rated": "TV-MA",
-    "Released": "31 Jan 2023",
-    "Runtime": "112 min",
-    "Genre": "Documentary, Biography",
-    "Director": "Ryan White",
-    "Writer": "N/A",
-    "Actors": "Pamela Anderson, Fran Drescher, Alexandra Paul",
     "Plot": "Follows the life of pop culture icon Pamela Anderson, including never-before-seen archival footage and personal journals.",
     "Language": "English",
     "Country": "United Kingdom, United States",
+    "Rated": "TV-MA",
+    "Runtime": "112 min",
+    "Genre": "Documentary, Biography",
+    "Director": "Ryan White",
+    "Actors": "Pamela Anderson, Fran Drescher, Alexandra Paul",
     "Awards": "Nominated for 2 Primetime Emmys. 4 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BN2M5YjJjYmItZTg1ZC00MTM3LThmOGQtZjlmMTYyMmNjY2FhXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt18376122",
+    "imdbRating": "7.2",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.02,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BN2M5YjJjYmItZTg1ZC00MTM3LThmOGQtZjlmMTYyMmNjY2FhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/c3Rn3FjYFEUg1W2iWU4z2Gw720x.jpg",
+        "https://image.tmdb.org/t/p/w500/g6ddYtIDLl5PppFgf6eBfzEayiz.jpg",
+        "https://image.tmdb.org/t/p/w500/sQldVW8Ulv5VGBg2rzn8JL0T9Nr.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.2/10"
+            "name": "Pamela Anderson",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sk15ch2IQ6k6vWu07Jr77yw4oj5.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "96%"
+            "name": "Brandon Thomas Lee",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/u1yndEsSm4g30WWA6pPgMTybUHW.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "66/100"
+            "name": "Dylan Jagger Lee",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/37DRx3pVrd5qajLOpkMYwDuvE3p.jpg"
+        },
+        {
+            "name": "Carol Anderson",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Barry Anderson",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Dan Hayhurst",
+            "character": "Self",
+            "profile_url": null
         }
     ],
-    "Metascore": "66",
-    "imdbRating": "7.2",
-    "imdbVotes": "13,155",
-    "imdbID": "tt18376122",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Ryan White"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=3SBJB8r8fVQ",
+    "TMDb_ID": 1061671
 }

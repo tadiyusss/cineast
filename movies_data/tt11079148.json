@@ -1,36 +1,82 @@
 {
     "Title": "Justice League Dark: Apokolips War",
     "Year": "2020",
-    "Rated": "R",
-    "Released": "05 May 2020",
-    "Runtime": "90 min",
-    "Genre": "Animation, Action, Sci-Fi",
-    "Director": "Matt Peters, Christina Sotta",
-    "Writer": "Mairghread Scott (story by), Ernie Altbacker (teleplay by), Mairghread Scott (teleplay by), Jerry Siegel (created by: Superman), Joe Shuster (created by: Superman), Bob Kane (created by: Batman), Bill Finger (created by: Batman), William Moulton Marston (created by: Wonder Woman), Jack Kirby (created by: Fourth World), Alan Moore (created by: John Constantine), Steve Bissette (created by: John Constantine), John Totleben (created by: John Constantine), Jamie Delano (created by: John Constantine), John Ridgway (created by: John Constantine), Marv Wolfman (created by: Cyborg), George Pérez (created by: Cyborg), Marv Wolfman (created by: Raven), George Pérez (created by: Raven), Paul Dini (created by: Harley Quinn), Bruce Timm (created by: Harley Quinn), Karl Kesel (created by: King Shark), Denny O'Neil (created by: Lady Shiva), Len Wein (created by: Swamp Thing), Bernie Wrightson (created by: Swamp Thing), Gardner Fox (created by: Zatanna), Murphy Anderson (created by: Zatanna)",
-    "Actors": "Roger Cross, Rosario Dawson, Christopher Gorham, Camilla Luddington",
     "Plot": "A Sequel to Justice League Dark (2017) involving Jack Kirby's New Gods.",
     "Language": "English, Latin",
     "Country": "USA",
+    "Rated": "R",
+    "Runtime": "90 min",
+    "Genre": "Animation, Action, Sci-Fi",
+    "Director": "Matt Peters, Christina Sotta",
+    "Actors": "Roger Cross, Rosario Dawson, Christopher Gorham, Camilla Luddington",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDNjMjE5YmUtOTUwOC00MjAyLWJmMzktZjlkMjQyYzNiNmU3XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt11079148",
+    "imdbRating": "7.8",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 8.2,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZDNjMjE5YmUtOTUwOC00MjAyLWJmMzktZjlkMjQyYzNiNmU3XkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/5FWDakqUBpVOtNUY9Id48iIszPk.jpg",
+        "https://image.tmdb.org/t/p/w500/ygCVyAfj3xFu1lzma3QUftAttEb.jpg",
+        "https://image.tmdb.org/t/p/w500/73Il8cPQw0yoW0UeaFJzpqE1bTh.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.8/10"
+            "name": "Matt Ryan",
+            "character": "John Constantine (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qLx6rzn6MMcJtTals5Z7Mb6z4Y9.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "100%"
+            "name": "Jerry O'Connell",
+            "character": "Clark Kent / Superman (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/p2zcFeDIKUrPrbT5ODqoLifdN3Q.jpg"
+        },
+        {
+            "name": "Taissa Farmiga",
+            "character": "Rachel Roth / Raven (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kC2Movbs6uEF8DdDhvyHizQHuru.jpg"
+        },
+        {
+            "name": "Jason O'Mara",
+            "character": "Bruce Wayne / Batman (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9Cs9PD5pwUkFQPLmpp5e6wkFQoY.jpg"
+        },
+        {
+            "name": "Rosario Dawson",
+            "character": "Diana Prince / Wonder Woman (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg"
+        },
+        {
+            "name": "Stuart Allan",
+            "character": "Damian Wayne / Robin (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xCAGTIcgC7J6YCl2bviIADY8blp.jpg"
+        },
+        {
+            "name": "Rebecca Romijn",
+            "character": "Lois Lane (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5Jgmk7S3JxDUhdVLUFHUaJ42ovt.jpg"
+        },
+        {
+            "name": "Rainn Wilson",
+            "character": "Lex Luthor (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yRTElSeC3q9nBqBuleI6OODlDMS.jpg"
+        },
+        {
+            "name": "Tony Todd",
+            "character": "Darkseid (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5fZ0hKcRtFIFdgBFSL40LVFylfW.jpg"
+        },
+        {
+            "name": "Shemar Moore",
+            "character": "Victor Stone / Cyborg (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.8",
-    "imdbVotes": "17,596",
-    "imdbID": "tt11079148",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Matt Peters",
+        "Christina Sotta"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=tnCkn5xD2jg",
+    "TMDb_ID": 618344
 }

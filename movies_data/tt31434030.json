@@ -1,32 +1,79 @@
 {
     "Title": "Dracula: A Love Tale",
     "Year": "2025",
-    "Rated": "N/A",
-    "Released": "06 Feb 2026",
-    "Runtime": "129 min",
-    "Genre": "Fantasy, Horror, Romance",
-    "Director": "Luc Besson",
-    "Writer": "Luc Besson, Bram Stoker",
-    "Actors": "Caleb Landry Jones, Christoph Waltz, Zoë Bleu",
     "Plot": "After his wife dies, a 15th century prince renounces God and becomes a vampire. Centuries later in 19th century London, he sees a woman resembling his late wife and pursues her, sealing his own fate.",
     "Language": "English",
     "Country": "France",
+    "Rated": "N/A",
+    "Runtime": "129 min",
+    "Genre": "Fantasy, Horror, Romance",
+    "Director": "Luc Besson",
+    "Actors": "Caleb Landry Jones, Christoph Waltz, Zoë Bleu",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2U5OTYxZTUtZWFjZC00NjFmLWFhYjgtYzdjNDhmZWU3OTgxXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt31434030",
+    "imdbRating": "6.1",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.173,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BY2U5OTYxZTUtZWFjZC00NjFmLWFhYjgtYzdjNDhmZWU3OTgxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/33SzuggkFlHAy3FE5qM9YmoMSOf.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/6kC4qoEcQh2WZ9xTYOD1yiSwhtW.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.1/10"
+            "name": "Caleb Landry Jones",
+            "character": "Vlad / Dracula",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8M5lPHrERwAIfWK56RkH30FOjhV.jpg"
+        },
+        {
+            "name": "Christoph Waltz",
+            "character": "Priest",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+        },
+        {
+            "name": "Zoë Bleu Sidel",
+            "character": "Elisabeta / Mina",
+            "profile_url": "https://image.tmdb.org/t/p/w500/n1IKYQWhxQFpHOa8mwbyk2cUb3I.jpg"
+        },
+        {
+            "name": "Guillaume de Tonquédec",
+            "character": "Dumont",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mDPeqkKJgFMiH60gH32VTwgOHSp.jpg"
+        },
+        {
+            "name": "Matilda De Angelis",
+            "character": "Maria",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xL6Ky35uDDz9L4qWkMF2cTjGkbn.jpg"
+        },
+        {
+            "name": "Ewens Abid",
+            "character": "Jonathan Harker",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5zGcQkoSsg1AdkcvYuqnLuslMuv.jpg"
+        },
+        {
+            "name": "David Shields",
+            "character": "Henry Spencer",
+            "profile_url": "https://image.tmdb.org/t/p/w500/k7E0Pctzyx1ML8M9nnxVhnKIFtz.jpg"
+        },
+        {
+            "name": "Bertrand-Xavier Corbi",
+            "character": "Captain Targol",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bY4kNFV0O9pQD0XAW9McD7t6X0W.jpg"
+        },
+        {
+            "name": "Raphael Luce",
+            "character": "Clerk Simon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/68OEaQZYvgGKbzzQHi9PQE8Gnt9.jpg"
+        },
+        {
+            "name": "Liviu Bora",
+            "character": "Army Captain (19th)",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.1",
-    "imdbVotes": "7,560",
-    "imdbID": "tt31434030",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Luc Besson"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=w05UztF-3xY",
+    "TMDb_ID": 1246049
 }

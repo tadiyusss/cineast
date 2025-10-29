@@ -1,36 +1,81 @@
 {
     "Title": "The Adventure of Sherlock Holmes' Smarter Brother",
     "Year": "1975",
-    "Rated": "PG",
-    "Released": "14 Dec 1975",
-    "Runtime": "91 min",
-    "Genre": "Comedy, Crime, Music",
-    "Director": "Gene Wilder",
-    "Writer": "Gene Wilder, Arthur Conan Doyle",
-    "Actors": "Gene Wilder, Madeline Kahn, Marty Feldman",
     "Plot": "The younger brother of the consulting detective tries to steal Sherlock's glory by solving an important case assisted by an eccentric Scotland Yard detective and a lovely but suspicious actress.",
     "Language": "English",
     "Country": "United Kingdom, United States",
+    "Rated": "PG",
+    "Runtime": "91 min",
+    "Genre": "Comedy, Crime, Music",
+    "Director": "Gene Wilder",
+    "Actors": "Gene Wilder, Madeline Kahn, Marty Feldman",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjFlMWYwMmEtMzdiZi00MWVlLTliNzktOTU1MGQwZDBmY2IyXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0072608",
+    "imdbRating": "6.0",
+    "BoxOffice": "$20,492,000",
+    "TMDb_Rating": 6.003,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNjFlMWYwMmEtMzdiZi00MWVlLTliNzktOTU1MGQwZDBmY2IyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/vmfJ1IPNRtDooSyiIT85RVZ1YMo.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/31BmkWxrfjpbahk9y1B2VQYYkMC.jpg",
+        "https://image.tmdb.org/t/p/w500/imlZGG8NFR5r6fT5pgAmIEKkTpF.jpg",
+        "https://image.tmdb.org/t/p/w500/9vU2twNLNvBXRRGlpdO31Flka4.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.0/10"
+            "name": "Gene Wilder",
+            "character": "Sigerson Holmes",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mwwOSWS2m8ArpiUKnoxVVyT8fND.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "60%"
+            "name": "Madeline Kahn",
+            "character": "Jenny Hill",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5jbkrxx0uaymKDnv5EImUXxWQyN.jpg"
+        },
+        {
+            "name": "Marty Feldman",
+            "character": "Sgt. Orville Stanley Sacker",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jefjQwWMvgg2lDM3gvF8axrAcLO.jpg"
+        },
+        {
+            "name": "Dom DeLuise",
+            "character": "Eduardo Gambetti",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3k45LlomavX4f2f3FnjtKhjojuf.jpg"
+        },
+        {
+            "name": "Leo McKern",
+            "character": "Moriarty",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yzVoghBAj7iK8dsVu39TNrLpfvE.jpg"
+        },
+        {
+            "name": "Roy Kinnear",
+            "character": "Moriarty's Assistant",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cuKguENjdEiNhNArAL5CqIaTEfE.jpg"
+        },
+        {
+            "name": "John Le Mesurier",
+            "character": "Lord Redcliff",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2rElQQzZXkxPj2UnqsDSCkFHQxk.jpg"
+        },
+        {
+            "name": "Douglas Wilmer",
+            "character": "Sherlock Holmes",
+            "profile_url": "https://image.tmdb.org/t/p/w500/483bRvQxgQwo9ePT75v0Ojvhyex.jpg"
+        },
+        {
+            "name": "Michael Crane",
+            "character": "Renato",
+            "profile_url": null
+        },
+        {
+            "name": "Albert Finney",
+            "character": "Man in Audience at Opera",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8WCFO9lMHel1bHVYl5lj8pYEw2s.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.0",
-    "imdbVotes": "7,605",
-    "imdbID": "tt0072608",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$20,492,000",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Gene Wilder"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=XkNdMNbZNyw",
+    "TMDb_ID": 29859
 }

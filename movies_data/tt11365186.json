@@ -1,40 +1,80 @@
 {
     "Title": "Redeeming Love",
     "Year": "2022",
-    "Rated": "PG-13",
-    "Released": "21 Jan 2022",
-    "Runtime": "134 min",
-    "Genre": "Drama, Romance, Western",
-    "Director": "D.J. Caruso",
-    "Writer": "Francine Rivers, D.J. Caruso",
-    "Actors": "Abigail Cowen, Tom Lewis, Eric Dane",
     "Plot": "Sold into prostitution as a child, Angel knows nothing but betrayal. Can her heart ever be mended? Based upon the novel by Francine Rivers.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG-13",
+    "Runtime": "134 min",
+    "Genre": "Drama, Romance, Western",
+    "Director": "D.J. Caruso",
+    "Actors": "Abigail Cowen, Tom Lewis, Eric Dane",
     "Awards": "1 win & 1 nomination total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzY5ZjRhNDgtZjNmYS00NGNhLWJhYWMtNDg3YjZlNTlkNjMzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt11365186",
+    "imdbRating": "6.7",
+    "BoxOffice": "$9,214,020",
+    "TMDb_Rating": 7.849,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYzY5ZjRhNDgtZjNmYS00NGNhLWJhYWMtNDg3YjZlNTlkNjMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/pDc2HxQtC0MlKD4QfRvmKREEyhc.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/vuZLyznI5Ry6KPVwQFlNmkO56Fd.jpg",
+        "https://image.tmdb.org/t/p/w500/9tl0hNdvW3PnFAfWop96IQMsvu0.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.7/10"
+            "name": "Abigail Cowen",
+            "character": "Angel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/a5AZqqBkRZzHUeQAWDurZXcueDU.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "11%"
+            "name": "Tom Lewis",
+            "character": "Michael",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dObnebCSLeQo9cv8GqXqwEjVR1f.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "32/100"
+            "name": "Eric Dane",
+            "character": "Duke",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lSs2O89BDyEwi8p0VhqX2jU90Hk.jpg"
+        },
+        {
+            "name": "Famke Janssen",
+            "character": "Duchess",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nt4fpE3cerdDWyZFiRkYRDcOYh4.jpg"
+        },
+        {
+            "name": "Logan Marshall-Green",
+            "character": "Paul",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vOV76X3Dd8LsBxrTLdHybFLU8w8.jpg"
+        },
+        {
+            "name": "Nina Dobrev",
+            "character": "Mae",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dDRGIMt9qHgaaGoDuzwO0XDfOBS.jpg"
+        },
+        {
+            "name": "Livi Birch",
+            "character": "Sarah Stafford",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rcmCysWi6CWD7Om6YtFnpbDvZsA.jpg"
+        },
+        {
+            "name": "Jamie Lee O'Donnell",
+            "character": "Lucky",
+            "profile_url": "https://image.tmdb.org/t/p/w500/irjGRKMiln023Y4Yvsqc7CYpnar.jpg"
+        },
+        {
+            "name": "Willie Watson",
+            "character": "John Altman",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cwRO9aHLnWDIpf9PRoLkA14LcGC.jpg"
+        },
+        {
+            "name": "Josh Taylor",
+            "character": "Alex Stafford",
+            "profile_url": null
         }
     ],
-    "Metascore": "32",
-    "imdbRating": "6.7",
-    "imdbVotes": "18,365",
-    "imdbID": "tt11365186",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$9,214,020",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "D.J. Caruso"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=NJSjS36Pgx8",
+    "TMDb_ID": 698508
 }

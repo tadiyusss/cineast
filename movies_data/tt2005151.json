@@ -1,40 +1,83 @@
 {
     "Title": "War Dogs",
     "Year": "2016",
-    "Rated": "R",
-    "Released": "19 Aug 2016",
-    "Runtime": "114 min",
-    "Genre": "Biography, Comedy, Crime",
-    "Director": "Todd Phillips",
-    "Writer": "Stephen Chin, Todd Phillips, Jason Smilovic",
-    "Actors": "Jonah Hill, Miles Teller, Steve Lantz",
     "Plot": "Loosely based on the true story of two young men, David Packouz and Efraim Diveroli, who won a three hundred million dollar contract from the Pentagon to arm America's allies in Afghanistan.",
     "Language": "English, Arabic, Albanian, Romanian",
     "Country": "United States, Romania",
+    "Rated": "R",
+    "Runtime": "114 min",
+    "Genre": "Biography, Comedy, Crime",
+    "Director": "Todd Phillips",
+    "Actors": "Jonah Hill, Miles Teller, Steve Lantz",
     "Awards": "3 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjEyNzQ0NzM4MV5BMl5BanBnXkFtZTgwMDI0ODM2OTE@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt2005151",
+    "imdbRating": "7.1",
+    "BoxOffice": "$43,034,523",
+    "TMDb_Rating": 6.926,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMjEyNzQ0NzM4MV5BMl5BanBnXkFtZTgwMDI0ODM2OTE@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/uj94xWCK9LrUM09dzBX9HxmGlpN.jpg",
+        "https://image.tmdb.org/t/p/w500/gnNPJs7HmIE3qr0BLfJ79wiQMbs.jpg",
+        "https://image.tmdb.org/t/p/w500/y7BWUaDrOcMaVmDZv4H69z6waUD.jpg",
+        "https://image.tmdb.org/t/p/w500/eWj3jTt7e8gmGea9rSbdaUIlXjv.jpg",
+        "https://image.tmdb.org/t/p/w500/sjVpdCk84JH9dqAXQjkxQurAPC5.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.1/10"
+            "name": "Miles Teller",
+            "character": "David Packouz",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cg3LW0xX6RKr8dmescxq1bepcb5.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "62%"
+            "name": "Jonah Hill",
+            "character": "Efraim Diveroli",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "57/100"
+            "name": "Ana de Armas",
+            "character": "Iz",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5Qne374OM0ewMM7uSN9eq9jNrWq.jpg"
+        },
+        {
+            "name": "Bradley Cooper",
+            "character": "Henry Girard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
+        },
+        {
+            "name": "Kevin Pollak",
+            "character": "Ralph Slutzky",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jWhKIVtmc3vIoS2l1VsdNwMAMJB.jpg"
+        },
+        {
+            "name": "Patrick St. Esprit",
+            "character": "Captain Phillip Santos",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1yrW51oGJEElYqG3BzX0N1Ky7Rd.jpg"
+        },
+        {
+            "name": "Shaun Toub",
+            "character": "Marlboro",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6fuJ9D50bYuMAhrlEgVqzgqF0LU.jpg"
+        },
+        {
+            "name": "JB Blanc",
+            "character": "Bashkim",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fHLyXboPlBDo1aoAl085YqaPjO8.jpg"
+        },
+        {
+            "name": "Gabriel Spahiu",
+            "character": "Enver",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uDyKF5L3szK16Idi9ISO0rAlpEe.jpg"
+        },
+        {
+            "name": "Julian Sergi",
+            "character": "Rosen",
+            "profile_url": null
         }
     ],
-    "Metascore": "57",
-    "imdbRating": "7.1",
-    "imdbVotes": "284,591",
-    "imdbID": "tt2005151",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$43,034,523",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Todd Phillips"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=KWs5qnZnhfo",
+    "TMDb_ID": 308266
 }

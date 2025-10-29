@@ -1,40 +1,83 @@
 {
     "Title": "War for the Planet of the Apes",
     "Year": "2017",
-    "Rated": "PG-13",
-    "Released": "14 Jul 2017",
-    "Runtime": "140 min",
-    "Genre": "Action, Adventure, Drama",
-    "Director": "Matt Reeves",
-    "Writer": "Mark Bomback, Matt Reeves, Rick Jaffa",
-    "Actors": "Andy Serkis, Woody Harrelson, Steve Zahn",
     "Plot": "After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind.",
     "Language": "English, American Sign ",
     "Country": "United States, Canada",
+    "Rated": "PG-13",
+    "Runtime": "140 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Matt Reeves",
+    "Actors": "Andy Serkis, Woody Harrelson, Steve Zahn",
     "Awards": "Nominated for 1 Oscar. 28 wins & 65 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzNhMzNiZDYtMzYxYy00YTYwLTkxNmYtNTJhOGU1Yjg5ODI5XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt3450958",
+    "imdbRating": "7.4",
+    "BoxOffice": "$146,880,162",
+    "TMDb_Rating": 7.209,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMzNhMzNiZDYtMzYxYy00YTYwLTkxNmYtNTJhOGU1Yjg5ODI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/mMA1qhBFgZX8O36qPPTC016kQl1.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/tpqahxvZQzxJ9GDFgCMNUMXQfBJ.jpg",
+        "https://image.tmdb.org/t/p/w500/mZIfZDiuiHrGkvW2AOIyeTDeqb2.jpg",
+        "https://image.tmdb.org/t/p/w500/iwscz0X1dMMoE1gO1Qq3u0Lh103.jpg",
+        "https://image.tmdb.org/t/p/w500/1qCHDjaIZ4AfpfiFxF02LeA241d.jpg",
+        "https://image.tmdb.org/t/p/w500/fP93dAwHGv9gLZbs3QE43Khk9jY.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.4/10"
+            "name": "Andy Serkis",
+            "character": "Caesar",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "94%"
+            "name": "Woody Harrelson",
+            "character": "The Colonel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "82/100"
+            "name": "Karin Konoval",
+            "character": "Maurice",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5e8YyNQjWre2UbExYBlJ7zva934.jpg"
+        },
+        {
+            "name": "Terry Notary",
+            "character": "Rocket",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nYs1Sd11czZNwcDyUYdHPwHHIRO.jpg"
+        },
+        {
+            "name": "Steve Zahn",
+            "character": "Bad Ape",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+        },
+        {
+            "name": "Amiah Miller",
+            "character": "Nova",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mW10rLTAmuPD5TncX8KkRzsbvXU.jpg"
+        },
+        {
+            "name": "Ty Olsson",
+            "character": "Red Donkey",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7vxoASi2aZZzw6c4guFSaPdE45y.jpg"
+        },
+        {
+            "name": "Michael Adamthwaite",
+            "character": "Luca",
+            "profile_url": "https://image.tmdb.org/t/p/w500/J9R1DkSkmGDioXJmHIMg5Vt8pb.jpg"
+        },
+        {
+            "name": "Toby Kebbell",
+            "character": "Koba",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mlYytYJvoEHmhDH2enLtES1098Q.jpg"
+        },
+        {
+            "name": "Gabriel Chavarria",
+            "character": "Preacher",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aLvEXygc9wN4DqTNNY1h69gaEdS.jpg"
         }
     ],
-    "Metascore": "82",
-    "imdbRating": "7.4",
-    "imdbVotes": "318,910",
-    "imdbID": "tt3450958",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$146,880,162",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Matt Reeves"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=1TxqmlIv1Iw",
+    "TMDb_ID": 281338
 }

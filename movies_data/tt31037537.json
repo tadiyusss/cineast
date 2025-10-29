@@ -1,32 +1,72 @@
 {
     "Title": "The War on Children",
     "Year": "2024",
-    "Rated": "N/A",
-    "Released": "02 Feb 2024",
-    "Runtime": "141 min",
-    "Genre": "Documentary",
-    "Director": "Robby Starbuck",
-    "Writer": "N/A",
-    "Actors": "Robby Starbuck, Landon Starbuck, Rand Paul",
     "Plot": "\"The War On Children\" exposes the ongoing battle for control of the next generation and their minds. This film reveals the battle plan being used to control the future. To win this war you have to understand the tactics of your en...",
     "Language": "English",
     "Country": "United States",
+    "Rated": "N/A",
+    "Runtime": "141 min",
+    "Genre": "Documentary",
+    "Director": "Robby Starbuck",
+    "Actors": "Robby Starbuck, Landon Starbuck, Rand Paul",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjk2MjM5OTAtYzE3YS00ZDIwLTk5MjktNjVjZWJmOTM4ODAyXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt31037537",
+    "imdbRating": "5.8",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.333,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNjk2MjM5OTAtYzE3YS00ZDIwLTk5MjktNjVjZWJmOTM4ODAyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/plBHzjiDGBrUvGP5ZRR5yTfYI4n.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.8/10"
+            "name": "Robby Starbuck",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Landon Starbuck",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Rand Paul",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hzrKXLQd6X0ma7UcZhuyj6dkaOP.jpg"
+        },
+        {
+            "name": "Riley Gaines",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Chaya Raichik",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "John Amanchukwu",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Seth Gruber",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "William Lamberth",
+            "character": "Self",
+            "profile_url": null
+        },
+        {
+            "name": "Keelin Washington",
+            "character": "Self",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.8",
-    "imdbVotes": "729",
-    "imdbID": "tt31037537",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Robby Starbuck"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 1323336
 }

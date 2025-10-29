@@ -1,40 +1,81 @@
 {
     "Title": "Crimes of the Future",
     "Year": "2022",
-    "Rated": "R",
-    "Released": "25 May 2022",
-    "Runtime": "107 min",
-    "Genre": "Drama, Horror, Sci-Fi",
-    "Director": "David Cronenberg",
-    "Writer": "David Cronenberg",
-    "Actors": "Viggo Mortensen, Léa Seydoux, Kristen Stewart",
     "Plot": "Humans adapt to a synthetic environment, with new transformations and mutations. With his partner Caprice, Saul Tenser, celebrity performance artist, publicly showcases the metamorphosis of his organs in avant-garde performances.",
     "Language": "English",
     "Country": "Canada, Greece, United Kingdom, France",
+    "Rated": "R",
+    "Runtime": "107 min",
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Director": "David Cronenberg",
+    "Actors": "Viggo Mortensen, Léa Seydoux, Kristen Stewart",
     "Awards": "10 wins & 33 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjBjMTEzZGItOGMzYy00Mzk4LWE0YjgtN2ExMjY1MTBlNTlkXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt14549466",
+    "imdbRating": "5.8",
+    "BoxOffice": "$2,452,882",
+    "TMDb_Rating": 6.029,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMjBjMTEzZGItOGMzYy00Mzk4LWE0YjgtN2ExMjY1MTBlNTlkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/jlEXnQ0azgLuR1kPYxcJw0GG4gK.jpg",
+        "https://image.tmdb.org/t/p/w500/3XGwF348uSzYxm0HhRIS9M3xBOu.jpg",
+        "https://image.tmdb.org/t/p/w500/zzqlfOEYZwKyni90f8Y8EyY1ab5.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.8/10"
+            "name": "Viggo Mortensen",
+            "character": "Saul Tenser",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "80%"
+            "name": "Léa Seydoux",
+            "character": "Caprice",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2ZyK2a1fKvUXlhKBORpqcMd4Uot.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "68/100"
+            "name": "Scott Speedman",
+            "character": "Lang Dotrice",
+            "profile_url": "https://image.tmdb.org/t/p/w500/d0fzWMIzsMAXS2M04SKFMof6zQX.jpg"
+        },
+        {
+            "name": "Kristen Stewart",
+            "character": "Timlin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ryhCjTGqS6G6OprbR0qUEH355lA.jpg"
+        },
+        {
+            "name": "Welket Bungué",
+            "character": "Cope",
+            "profile_url": "https://image.tmdb.org/t/p/w500/91GlmzrJyhaBscr4IqVUrnRueGS.jpg"
+        },
+        {
+            "name": "Don McKellar",
+            "character": "Wippet",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lPQPESremJWcF0SLvzwiQP6ZVgT.jpg"
+        },
+        {
+            "name": "Tanaya Beatty",
+            "character": "Berst",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nQQd9rpMxYM2MshYlOSV0PfffPP.jpg"
+        },
+        {
+            "name": "Nadia Litz",
+            "character": "Router",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xGQMMQbK4PvoK6cYJcRF8Iqe26.jpg"
+        },
+        {
+            "name": "Lihi Kornowski",
+            "character": "Djuna",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xqe3pyrWSaGf5h4231FNFwdsRqx.jpg"
+        },
+        {
+            "name": "Denise Capezza",
+            "character": "Odile",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9QZ6QFglu6UNBQTalK83Cp5vocA.jpg"
         }
     ],
-    "Metascore": "68",
-    "imdbRating": "5.8",
-    "imdbVotes": "45,538",
-    "imdbID": "tt14549466",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$2,452,882",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "David Cronenberg"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=3NlKgKpKcgc",
+    "TMDb_ID": 819876
 }

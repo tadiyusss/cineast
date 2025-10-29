@@ -1,40 +1,82 @@
 {
     "Title": "Life of Pi",
     "Year": "2012",
-    "Rated": "PG",
-    "Released": "21 Nov 2012",
-    "Runtime": "127 min",
-    "Genre": "Adventure, Drama, Fantasy",
-    "Director": "Ang Lee",
-    "Writer": "Yann Martel, David Magee",
-    "Actors": "Suraj Sharma, Irrfan Khan, Adil Hussain",
     "Plot": "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.",
     "Language": "English, Hindi, Japanese, French",
     "Country": "United States, Taiwan, United Kingdom, Canada, India, France",
+    "Rated": "PG",
+    "Runtime": "127 min",
+    "Genre": "Adventure, Drama, Fantasy",
+    "Director": "Ang Lee",
+    "Actors": "Suraj Sharma, Irrfan Khan, Adil Hussain",
     "Awards": "Won 4 Oscars. 81 wins & 134 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0454876",
+    "imdbRating": "7.9",
+    "BoxOffice": "$124,987,023",
+    "TMDb_Rating": 7.406,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/mzVJpRAKfzMTw42UjpveDWCChCg.jpg",
+        "https://image.tmdb.org/t/p/w500/scSGs7ysmvsWIOBRMQCscLErCJW.jpg",
+        "https://image.tmdb.org/t/p/w500/mltqts3BLR1lS6Wn6Ay3xopWTpj.jpg",
+        "https://image.tmdb.org/t/p/w500/r9lL0JA65FijsKNqG7rfEDzKwqj.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.9/10"
+            "name": "Suraj Sharma",
+            "character": "Pi Patel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uT1OLTyiDsAczXA2QtlFxWyWFTj.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "86%"
+            "name": "Irrfan Khan",
+            "character": "Adult Pi Patel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "79/100"
+            "name": "Ayush Tandon",
+            "character": "Pi Patel (11-12 Years)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/iVq1xDK3dYPSAulHdDW2JiIlco1.jpg"
+        },
+        {
+            "name": "Gautam Belur",
+            "character": "Pi Patel (5 Years)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xZvgan0VaYZNxr9Leug0O4Op4an.jpg"
+        },
+        {
+            "name": "Adil Hussain",
+            "character": "Santosh Patel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg"
+        },
+        {
+            "name": "Tabu",
+            "character": "Gita Patel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cvt5nvCHr1ICf5u8A2mlzLQ8LsV.jpg"
+        },
+        {
+            "name": "Ayaan Khan",
+            "character": "Ravi Patel (7 Years)",
+            "profile_url": null
+        },
+        {
+            "name": "Mohd Abbas Khaleeli",
+            "character": "Ravi Patel (13-14 Years)",
+            "profile_url": null
+        },
+        {
+            "name": "Vibish Sivakumar",
+            "character": "Ravi Patel (18-19 Years)",
+            "profile_url": null
+        },
+        {
+            "name": "Rafe Spall",
+            "character": "Writer",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg"
         }
     ],
-    "Metascore": "79",
-    "imdbRating": "7.9",
-    "imdbVotes": "691,367",
-    "imdbID": "tt0454876",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$124,987,023",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Ang Lee"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=j9Hjrs6WQ8M",
+    "TMDb_ID": 87827
 }

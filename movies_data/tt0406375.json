@@ -1,40 +1,82 @@
 {
     "Title": "Zathura: A Space Adventure",
     "Year": "2005",
-    "Rated": "PG",
-    "Released": "11 Nov 2005",
-    "Runtime": "101 min",
-    "Genre": "Action, Adventure, Comedy",
-    "Director": "Jon Favreau",
-    "Writer": "Chris Van Allsburg, David Koepp, John Kamps",
-    "Actors": "Josh Hutcherson, Jonah Bobo, Dax Shepard",
     "Plot": "Two young brothers are drawn into an intergalactic adventure when their house is hurled through the depths of space by the magical board game they are playing.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG",
+    "Runtime": "101 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Jon Favreau",
+    "Actors": "Josh Hutcherson, Jonah Bobo, Dax Shepard",
     "Awards": "3 wins & 3 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDMzZDZhMTQtYzJkNi00OTI2LThjNDUtN2I2N2JjZmYwMWM5XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0406375",
+    "imdbRating": "6.3",
+    "BoxOffice": "$29,258,869",
+    "TMDb_Rating": 6.431,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNDMzZDZhMTQtYzJkNi00OTI2LThjNDUtN2I2N2JjZmYwMWM5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/gDb5BW2NLqZ9cvg9nyzkZVvmgze.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/zadT1xo0md5ut1xSpY7lxo6HTXQ.jpg",
+        "https://image.tmdb.org/t/p/w500/f6nTSTZJODthZXDBoK5p8XhSlOm.jpg",
+        "https://image.tmdb.org/t/p/w500/g7A6sQq4yE9qzyMF4GjemoIx5wF.jpg",
+        "https://image.tmdb.org/t/p/w500/fSemfbY8CE9rQvEzn3LLdBWMSlr.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.3/10"
+            "name": "Josh Hutcherson",
+            "character": "Walter Budwing",
+            "profile_url": "https://image.tmdb.org/t/p/w500/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "77%"
+            "name": "Jonah Bobo",
+            "character": "Danny Budwing",
+            "profile_url": "https://image.tmdb.org/t/p/w500/AnPqW5BW52X2nrAUcv9oQnK8xPu.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "67/100"
+            "name": "Dax Shepard",
+            "character": "Astronaut",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aaUGRjfghjgysn5grVdm8kyYN4V.jpg"
+        },
+        {
+            "name": "Kristen Stewart",
+            "character": "Lisa Budwing",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ryhCjTGqS6G6OprbR0qUEH355lA.jpg"
+        },
+        {
+            "name": "Tim Robbins",
+            "character": "Dad (Mr. Budwing)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/djLVFETFTvPyVUdrd7aLVykobof.jpg"
+        },
+        {
+            "name": "Frank Oz",
+            "character": "Robot (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+        },
+        {
+            "name": "John Alexander",
+            "character": "Robot",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9YmbNIO0doeR9FoojgGia7VtpJF.jpg"
+        },
+        {
+            "name": "Derek Mears",
+            "character": "Lead Zorgon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2ckpSGUa4EDKWS1KMP0hLtFUWi.jpg"
+        },
+        {
+            "name": "Douglas Tait",
+            "character": "Zorgon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/srV2pY6rPyTpHGW5saOhdbRfcrv.jpg"
+        },
+        {
+            "name": "Joe Bucaro III",
+            "character": "Zorgon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gvJs1YQZRrSbkiSGAiCAugaXyzl.jpg"
         }
     ],
-    "Metascore": "67",
-    "imdbRating": "6.3",
-    "imdbVotes": "122,567",
-    "imdbID": "tt0406375",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$29,258,869",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Jon Favreau"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=hxrF-X1yn6Q",
+    "TMDb_ID": 6795
 }

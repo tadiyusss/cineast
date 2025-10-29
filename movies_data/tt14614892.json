@@ -1,40 +1,80 @@
 {
     "Title": "Dragon Ball Super: Super Hero",
     "Year": "2022",
-    "Rated": "PG-13",
-    "Released": "18 Aug 2022",
-    "Runtime": "100 min",
-    "Genre": "Animation, Action, Adventure",
-    "Director": "Tetsuro Kodama",
-    "Writer": "Akira Toriyama",
-    "Actors": "Masako Nozawa, Aya Hisakawa, Ryô Horikawa",
     "Plot": "The Red Ribbon Army from Goku's past has returned with two new androids to challenge him and his friends.",
     "Language": "English, Japanese",
     "Country": "Japan",
+    "Rated": "PG-13",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Tetsuro Kodama",
+    "Actors": "Masako Nozawa, Aya Hisakawa, Ryô Horikawa",
     "Awards": "2 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzA2NmEwZGQtNWI1Ni00MTEyLTlkZDUtZDc5ZTJiOGYyNDQ5XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt14614892",
+    "imdbRating": "7.1",
+    "BoxOffice": "$38,112,140",
+    "TMDb_Rating": 7.9,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNzA2NmEwZGQtNWI1Ni00MTEyLTlkZDUtZDc5ZTJiOGYyNDQ5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/xrpdStZbwhbhwZ5J9KCT6ak7blZ.jpg",
+        "https://image.tmdb.org/t/p/w500/ht897p2pPEwP0RtxHc54ujJKlPf.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.1/10"
+            "name": "Masako Nozawa",
+            "character": "Son Goku / Son Gohan / Son Goten / Gotenks (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "95%"
+            "name": "Toshio Furukawa",
+            "character": "Piccolo (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "65/100"
+            "name": "Yuko Minaguchi",
+            "character": "Pan / Videl (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bEv0ho89VNgWkCCmT2GdNjMAuvZ.jpg"
+        },
+        {
+            "name": "Hiroshi Kamiya",
+            "character": "Gamma #1 (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/u2r0u8tOa0cyh7nawcEOPpcEZr1.jpg"
+        },
+        {
+            "name": "Mamoru Miyano",
+            "character": "Gamma #2 (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nuok8ueG7k9hPZ09Tpr8e7Qn0ah.jpg"
+        },
+        {
+            "name": "Miyu Irino",
+            "character": "Dr. Hedo (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+        },
+        {
+            "name": "Ryota Takeuchi",
+            "character": "Carmine (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1PZIIKxOAgn6YexksH6weYnzzhh.jpg"
+        },
+        {
+            "name": "Aya Hisakawa",
+            "character": "Bulma (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5asVy8H7VSDQKVdURubT0QHjsld.jpg"
+        },
+        {
+            "name": "Mayumi Tanaka",
+            "character": "Krillin / Yajirobe (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
+        },
+        {
+            "name": "Ryo Horikawa",
+            "character": "Vegeta (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
         }
     ],
-    "Metascore": "65",
-    "imdbRating": "7.1",
-    "imdbVotes": "17,832",
-    "imdbID": "tt14614892",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$38,112,140",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Tetsuro Kodama"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=6_fXQSobiHs",
+    "TMDb_ID": 610150
 }

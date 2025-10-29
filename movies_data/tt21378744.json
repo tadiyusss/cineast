@@ -1,36 +1,32 @@
 {
     "Title": "World War III",
     "Year": "2022",
-    "Rated": "N/A",
-    "Released": "15 Apr 2023",
-    "Runtime": "117 min",
-    "Genre": "Adventure, Crime, Drama",
-    "Director": "Houman Seyyedi",
-    "Writer": "Houman Seyyedi, Arian Vazirdaftari, Azad Jafarian",
-    "Actors": "Mohsen Tanabandeh, Mahsa Hejazi, Neda Jebreili",
     "Plot": "After being cast in a movie, a day laborer has to secretly shelter his lover on the set or else risk losing her and all that movie stardom has promised him.",
     "Language": "Persian, Sign , German",
     "Country": "Iran",
+    "Rated": "N/A",
+    "Runtime": "117 min",
+    "Genre": "Adventure, Crime, Drama",
+    "Director": "Houman Seyyedi",
+    "Actors": "Mohsen Tanabandeh, Mahsa Hejazi, Neda Jebreili",
     "Awards": "15 wins & 8 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTAwZWFkZjctNTcxMi00Y2MyLTljZDktZjI0MWNjMmIwY2ZmXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt21378744",
+    "imdbRating": "7.1",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.0,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZTAwZWFkZjctNTcxMi00Y2MyLTljZDktZjI0MWNjMmIwY2ZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/obDfChGefhUU1jA7CGWuVTRkriO.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.1/10"
-        },
-        {
-            "Source": "Rotten Tomatoes",
-            "Value": "100%"
+            "name": "Katt Williams",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bMz1OCDMC0MyLob6KIf5X3MS23m.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.1",
-    "imdbVotes": "3,677",
-    "imdbID": "tt21378744",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Katt Williams"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 972009
 }

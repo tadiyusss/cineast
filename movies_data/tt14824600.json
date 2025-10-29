@@ -1,40 +1,83 @@
 {
     "Title": "The Lord of the Rings: The War of the Rohirrim",
     "Year": "2024",
-    "Rated": "PG-13",
-    "Released": "13 Dec 2024",
-    "Runtime": "134 min",
-    "Genre": "Animation, Action, Adventure",
-    "Director": "Kenji Kamiyama",
-    "Writer": "Jeffrey Addiss, Will Matthews, Phoebe Gittins",
-    "Actors": "Brian Cox, Gaia Wise, Miranda Otto",
     "Plot": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the H...",
     "Language": "English",
     "Country": "United States, New Zealand, Japan",
+    "Rated": "PG-13",
+    "Runtime": "134 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Kenji Kamiyama",
+    "Actors": "Brian Cox, Gaia Wise, Miranda Otto",
     "Awards": "2 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4OTgyMDYtMDA0NC00ZjJhLWJiOGMtMjlkM2ZjNTgxNGI0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt14824600",
+    "imdbRating": "6.3",
+    "BoxOffice": "$9,158,572",
+    "TMDb_Rating": 6.574,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BOTg4OTgyMDYtMDA0NC00ZjJhLWJiOGMtMjlkM2ZjNTgxNGI0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/hE9SAMyMSUGAPsHUGdyl6irv11v.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/9muL2tl7iLcG5NvI2aoJAbPPXAB.jpg",
+        "https://image.tmdb.org/t/p/w500/r6nSjEKFta7qJau6Y4VSR5Bouer.jpg",
+        "https://image.tmdb.org/t/p/w500/yjW4P2hhMgIYmGuLcLs2IvhNgsF.jpg",
+        "https://image.tmdb.org/t/p/w500/6rfWKBA3j3aFwAQDYzRyjVZnlhl.jpg",
+        "https://image.tmdb.org/t/p/w500/apn8DIXF5HTIszhtpJLsQMyqVf.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.3/10"
+            "name": "Brian Cox",
+            "character": "Helm Hammerhand (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "49%"
+            "name": "Gaia Wise",
+            "character": "Héra (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vyjUZOrhto3PKq4PuHG7270cum5.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "54/100"
+            "name": "Luke Pasqualino",
+            "character": "Wulf (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/egwyqohJ3KLag4GUyTzXGngwTc1.jpg"
+        },
+        {
+            "name": "Laurence Ubong Williams",
+            "character": "Fréaláf (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wKc9PHuuqrFRIAepLm87AUDdvgt.jpg"
+        },
+        {
+            "name": "Lorraine Ashbourne",
+            "character": "Olwyn (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4cOOwDYkKcCf9G6fdGGDyAR4jru.jpg"
+        },
+        {
+            "name": "Miranda Otto",
+            "character": "Éowyn (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lVkzCNNGwesZjOmwrDjro6ZPar.jpg"
+        },
+        {
+            "name": "Shaun Dooley",
+            "character": "Freca (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uWiw28ARiLkvL6xUjKDLDlSsfkY.jpg"
+        },
+        {
+            "name": "Benjamin Wainwright",
+            "character": "Haleth (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hdU9RbfcSBUHhUPcPTildubV0bZ.jpg"
+        },
+        {
+            "name": "Yazdan Qafouri",
+            "character": "Háma (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yzDZMMziiqdrSyWecOv8v2O56HL.jpg"
+        },
+        {
+            "name": "Michael Wildman",
+            "character": "General Targg (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7JzaKisWtdqYmuuEunjTkU8zDf8.jpg"
         }
     ],
-    "Metascore": "54",
-    "imdbRating": "6.3",
-    "imdbVotes": "36,489",
-    "imdbID": "tt14824600",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$9,158,572",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Kenji Kamiyama"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=9FlsJqDox5M",
+    "TMDb_ID": 839033
 }

@@ -1,40 +1,83 @@
 {
     "Title": "Love Actually",
     "Year": "2003",
-    "Rated": "R",
-    "Released": "14 Nov 2003",
-    "Runtime": "135 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Richard Curtis",
-    "Writer": "Richard Curtis",
-    "Actors": "Hugh Grant, Martine McCutcheon, Liam Neeson",
     "Plot": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
     "Language": "English, Portuguese, French",
     "Country": "United Kingdom, France, United States",
+    "Rated": "R",
+    "Runtime": "135 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Richard Curtis",
+    "Actors": "Hugh Grant, Martine McCutcheon, Liam Neeson",
     "Awards": "Won 1 BAFTA Award11 wins & 29 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0314331",
+    "imdbRating": "7.5",
+    "BoxOffice": "$60,352,285",
+    "TMDb_Rating": 7.1,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/6xrA9tMvpb3cnktNH7voJ62S41N.jpg",
+        "https://image.tmdb.org/t/p/w500/6V9M2VNbDFjTXSGrXOh1HTXrB3k.jpg",
+        "https://image.tmdb.org/t/p/w500/8MXuzJ6wGe5fTKjxbnYXKmywCZ7.jpg",
+        "https://image.tmdb.org/t/p/w500/1AkA4U2tnVAfYiy7kxFu4NOfH7i.jpg",
+        "https://image.tmdb.org/t/p/w500/hetYdlyMG15eJUjXsB2ZKfjtejs.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.5/10"
+            "name": "Hugh Grant",
+            "character": "The Prime Minister",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hsSfxSHzkKJ6ZKq1Ofngcp7aAnT.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "64%"
+            "name": "Alan Rickman",
+            "character": "Harry",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nKl8ZRYjBJya7aj7phJUyrtSll6.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "55/100"
+            "name": "Emma Thompson",
+            "character": "Karen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xr8Ki3CIqweWWqS5q0kUYdiK6oQ.jpg"
+        },
+        {
+            "name": "Liam Neeson",
+            "character": "Daniel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+        },
+        {
+            "name": "Martine McCutcheon",
+            "character": "Natalie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zhc5UekBu66cLXxy5gJgjwn5D5m.jpg"
+        },
+        {
+            "name": "Colin Firth",
+            "character": "Jamie Bennett",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+        },
+        {
+            "name": "Bill Nighy",
+            "character": "Billy Mack",
+            "profile_url": "https://image.tmdb.org/t/p/w500/acbigDOU1L1vMWAL3Wf0r8h8qLA.jpg"
+        },
+        {
+            "name": "Laura Linney",
+            "character": "Sarah",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ztQXGmNLzhDV22rAvcXzCG4d0cy.jpg"
+        },
+        {
+            "name": "Lúcia Moniz",
+            "character": "Aurelia",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ffrW3ZQhym3wbxvs2XbSozSh8oi.jpg"
+        },
+        {
+            "name": "Andrew Lincoln",
+            "character": "Mark",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gR4RzQTDsMfVv8oEh2VRbO8LkFz.jpg"
         }
     ],
-    "Metascore": "55",
-    "imdbRating": "7.5",
-    "imdbVotes": "563,623",
-    "imdbID": "tt0314331",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$60,352,285",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Richard Curtis"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=r3mJrSA1x5s",
+    "TMDb_ID": 508
 }

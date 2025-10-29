@@ -1,32 +1,77 @@
 {
     "Title": "Man in Love",
     "Year": "2021",
-    "Rated": "N/A",
-    "Released": "01 Apr 2021",
-    "Runtime": "115 min",
-    "Genre": "Drama, Romance",
-    "Director": "Chen-Hao Yin",
-    "Writer": "Chih-Chung Chien, Lyra Fu, Kab-yeol Yu",
-    "Actors": "Roy Chiu, Wei-Ning Hsu, Zheng Austin",
     "Plot": "A small-time gangster clumsily attempts to court a girl he has a crush on. Can he win her over and leave the underworld behind?",
     "Language": "Mandarin, Min Nan",
     "Country": "Taiwan, China, Hong Kong, United States",
+    "Rated": "N/A",
+    "Runtime": "115 min",
+    "Genre": "Drama, Romance",
+    "Director": "Chen-Hao Yin",
+    "Actors": "Roy Chiu, Wei-Ning Hsu, Zheng Austin",
     "Awards": "1 win & 11 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzY3Zjc5ZTAtZjQ0NS00MzExLTkwOGQtYTMyYTE3Yjc1OGRhXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt14428606",
+    "imdbRating": "7.1",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.056,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMzY3Zjc5ZTAtZjQ0NS00MzExLTkwOGQtYTMyYTE3Yjc1OGRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/sGFS01I30wgAtsWF2HXFPVmRAmd.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.1/10"
+            "name": "Roy Chiu",
+            "character": "Meng-Cheng Chang",
+            "profile_url": "https://image.tmdb.org/t/p/w500/127xWzEkBLNlNko4FIBB18AOc4L.jpg"
+        },
+        {
+            "name": "Tiffany Hsu Wei-Ning",
+            "character": "Hao-Ting Wu",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yzkoZMMpk6adTYzi1y76P7fUpxU.jpg"
+        },
+        {
+            "name": "Tsai Chen-Nan",
+            "character": "A-Cheng's Father",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5PCVlObA9bt4kHagfoEN5SF2NW9.jpg"
+        },
+        {
+            "name": "Chung Hsin-ling",
+            "character": "Madam Tsai",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jlKuI4cmfHlMArMnfw3Ffva0g1I.jpg"
+        },
+        {
+            "name": "Lan Wei-Hua",
+            "character": "Da-Wei",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rqJjuV8DCxCoGkteinJECz4p6AK.jpg"
+        },
+        {
+            "name": "Peace Yang",
+            "character": "Shu-Lin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/Acx4BISlNF6nEqMo5T0He5jZzKR.jpg"
+        },
+        {
+            "name": "LULU Huang",
+            "character": "Ya-Ya",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mQQrQ0793Ci9xo6vtQ4phZ61gDW.jpg"
+        },
+        {
+            "name": "Bai Xiao-Ying",
+            "character": "Wen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yFq2hGgHSOP4bPFcXiXW6YTluTz.jpg"
+        },
+        {
+            "name": "Ching-Pu Tan",
+            "character": "Hao-Ting's Father",
+            "profile_url": null
+        },
+        {
+            "name": "Xavier Lin",
+            "character": "Mango",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xIX3dBJe6bPWrmhfmhh2QHB5FYI.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.1",
-    "imdbVotes": "4,146",
-    "imdbID": "tt14428606",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Chen-Hao Yin"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=udr78TOy-Kg",
+    "TMDb_ID": 797787
 }

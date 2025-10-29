@@ -1,36 +1,80 @@
 {
     "Title": "My Hero Academia: Two Heroes",
     "Year": "2018",
-    "Rated": "PG-13",
-    "Released": "25 Sep 2018",
-    "Runtime": "96 min",
-    "Genre": "Animation, Action, Adventure",
-    "Director": "Kenji Nagasaki",
-    "Writer": "Kôhei Horikoshi, Yôsuke Kuroda, Hitoshi Nagai",
-    "Actors": "Daiki Yamashita, Kenta Miyake, Mirai Shida",
     "Plot": "All Might and Deku accept an invitation to visit an artificial floating island called I-Island, where they fight a villain who takes the city hostage.",
     "Language": "Japanese",
     "Country": "Japan",
+    "Rated": "PG-13",
+    "Runtime": "96 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Kenji Nagasaki",
+    "Actors": "Daiki Yamashita, Kenta Miyake, Mirai Shida",
     "Awards": "2 wins & 1 nomination total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYmI5OGU1OTYtODkzZS00YzA5LTlmYmEtMDQ1Njc3OGRhMWZjXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt7745068",
+    "imdbRating": "7.3",
+    "BoxOffice": "$5,754,556",
+    "TMDb_Rating": 7.883,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYmI5OGU1OTYtODkzZS00YzA5LTlmYmEtMDQ1Njc3OGRhMWZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/hC4nTxdhXqFWzgqynGvvXVMiMNp.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/o88XGlW9qsefBg0rWe5WKC9vvAz.jpg",
+        "https://image.tmdb.org/t/p/w500/zdqmiNBBnyJ5635s1JVPBjIwQC2.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.3/10"
+            "name": "Daiki Yamashita",
+            "character": "Izuku Midoriya (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "100%"
+            "name": "Kenta Miyake",
+            "character": "All Might (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7YL8vM2KYzPMeQqTpHWmNj6s1AP.jpg"
+        },
+        {
+            "name": "Mirai Shida",
+            "character": "Melissa Shield (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wfacZjLuVkaiW32ZNZqdjfLFNxC.jpg"
+        },
+        {
+            "name": "Katsuhisa Namase",
+            "character": "David Shield (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qq9WR3q5P1zeUuFUnUYtnARZH2a.jpg"
+        },
+        {
+            "name": "Nobuhiko Okamoto",
+            "character": "Katsuki Bakugo (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
+        },
+        {
+            "name": "Ayane Sakura",
+            "character": "Ochako Uraraka (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
+        },
+        {
+            "name": "Kaito Ishikawa",
+            "character": "Tenya Iida (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+        },
+        {
+            "name": "Yuki Kaji",
+            "character": "Shoto Todoroki (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+        },
+        {
+            "name": "Marina Inoue",
+            "character": "Momo Yaoyorozu (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nQ7a3krkbea6ukw9KGvvTpMma96.jpg"
+        },
+        {
+            "name": "Toshiki Masuda",
+            "character": "Eijiro Kirishima (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oMAk5Pu3aazmwFwiVOgyU7iW5ut.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.3",
-    "imdbVotes": "14,202",
-    "imdbID": "tt7745068",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$5,754,556",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Kenji Nagasaki"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=uaX-5EJMn58",
+    "TMDb_ID": 505262
 }

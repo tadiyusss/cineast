@@ -1,32 +1,83 @@
 {
     "Title": "Hounds of War",
     "Year": "2024",
-    "Rated": "N/A",
-    "Released": "20 Sep 2024",
-    "Runtime": "95 min",
-    "Genre": "Action, Drama",
-    "Director": "Isaac Florentine",
-    "Writer": "Jean Pierre Magro",
-    "Actors": "Frank Grillo, Robert Patrick, Rhona Mitra",
     "Plot": "After a mission goes wrong, only one of a group of mercenaries is left alive to take revenge for his brothers.",
     "Language": "English",
     "Country": "Malta, United States",
+    "Rated": "N/A",
+    "Runtime": "95 min",
+    "Genre": "Action, Drama",
+    "Director": "Isaac Florentine",
+    "Actors": "Frank Grillo, Robert Patrick, Rhona Mitra",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMGM4NTYxMjktOTIxMS00NTQ0LWI1ZjAtY2JmODM1YjgyNTUzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt12972134",
+    "imdbRating": "4.5",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.282,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMGM4NTYxMjktOTIxMS00NTQ0LWI1ZjAtY2JmODM1YjgyNTUzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/tLdUPi2h6LGmF5foza0a5PXtQRr.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/pTDDYZCDxINHi6PjQz0FTmuQUeU.jpg",
+        "https://image.tmdb.org/t/p/w500/3cXpaTVLzXzwnVGP2n0mBVQUzoU.jpg",
+        "https://image.tmdb.org/t/p/w500/3yAvCw3et5OceTDeEjbw8t5yeXY.jpg",
+        "https://image.tmdb.org/t/p/w500/72yvMszsGhp3QuwRG2xbrv3O3RP.jpg",
+        "https://image.tmdb.org/t/p/w500/uW72hBkQJ5z9rTYgufjJlXswzK9.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "4.5/10"
+            "name": "Frank Grillo",
+            "character": "Ryder",
+            "profile_url": "https://image.tmdb.org/t/p/w500/br2nPzelch2Tb3pZHnYAbXng7cz.jpg"
+        },
+        {
+            "name": "Robert Patrick",
+            "character": "Colonel Hart",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+        },
+        {
+            "name": "Rhona Mitra",
+            "character": "Selina",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uF0VkXQUQuUjqU3RgdilrCuuWEv.jpg"
+        },
+        {
+            "name": "Leeshon Alexander",
+            "character": "Bulldog",
+            "profile_url": "https://image.tmdb.org/t/p/w500/j7LcYj2SLpWnYBtwYgEneWtpM8M.jpg"
+        },
+        {
+            "name": "Urs Rechn",
+            "character": "Hollywood",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kFeVHoL8FKSOrw9spcnO2kz9fF6.jpg"
+        },
+        {
+            "name": "Matthew Marsh",
+            "character": "President Lane",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9NfvGnHBZI4CwyPIOgv8qPMIaAv.jpg"
+        },
+        {
+            "name": "Steven Elder",
+            "character": "Joshua Reed",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gnx8icv0FQ8f4qZFPFLpoWQoKFX.jpg"
+        },
+        {
+            "name": "Victor Solé",
+            "character": "Rosebud",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cTeS4SRMq9IUHKTC1aCHRh22Vhd.jpg"
+        },
+        {
+            "name": "Seydina Baldé",
+            "character": "Femi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2qc4Lkf1u4a35m0YG8UvaNY5R1s.jpg"
+        },
+        {
+            "name": "Marc Hoang",
+            "character": "Jing",
+            "profile_url": "https://image.tmdb.org/t/p/w500/o5ahH1ZqIEYzyl4oz6ofvs3Q6hv.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "4.5",
-    "imdbVotes": "2,059",
-    "imdbID": "tt12972134",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Isaac Florentine"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=t-WTFeTIjAA",
+    "TMDb_ID": 949484
 }

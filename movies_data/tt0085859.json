@@ -1,40 +1,80 @@
 {
     "Title": "Local Hero",
     "Year": "1983",
-    "Rated": "PG",
-    "Released": "29 Apr 1983",
-    "Runtime": "111 min",
-    "Genre": "Comedy, Drama",
-    "Director": "Bill Forsyth",
-    "Writer": "Bill Forsyth",
-    "Actors": "Burt Lancaster, Peter Riegert, Fulton Mackay",
     "Plot": "An American oil company has plans for a new refinery and sends someone to Scotland to buy up an entire village, but things don't go as expected.",
     "Language": "English, Russian, Japanese",
     "Country": "United Kingdom",
+    "Rated": "PG",
+    "Runtime": "111 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Bill Forsyth",
+    "Actors": "Burt Lancaster, Peter Riegert, Fulton Mackay",
     "Awards": "Won 1 BAFTA Award4 wins & 6 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjRmYWNlYWMtOTcxZS00YzU5LWEwZTctYjEzZWZlNmQxN2Y1XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0085859",
+    "imdbRating": "7.3",
+    "BoxOffice": "$5,895,761",
+    "TMDb_Rating": 6.753,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNjRmYWNlYWMtOTcxZS00YzU5LWEwZTctYjEzZWZlNmQxN2Y1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/jqxD0H9a1rg5bXftsm6gsNOjt4n.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/7vsz95IpLKrQNzjTzERqJaJtRCh.jpg",
+        "https://image.tmdb.org/t/p/w500/nPEIrUTavgucfps4wbs72uMTneD.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.3/10"
+            "name": "Burt Lancaster",
+            "character": "Felix Happer",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hQBgFAdk1BrSum7LN4B67m3gj0U.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "100%"
+            "name": "Peter Riegert",
+            "character": "\"Mac\" MacIntyre",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yPgaRZBMVy9eoNNuiPIm0wzG9sD.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "83/100"
+            "name": "Denis Lawson",
+            "character": "Gordon Urquhart",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eNqkyA7Za1eLlIzSYanmgHmoSd0.jpg"
+        },
+        {
+            "name": "Fulton Mackay",
+            "character": "Ben Knox",
+            "profile_url": "https://image.tmdb.org/t/p/w500/15bVmdEfeFytXSmnACWZIe2yzLi.jpg"
+        },
+        {
+            "name": "Peter Capaldi",
+            "character": "Danny Oldsen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uv5oQXq7uI6X82W6OowDM0l4qmD.jpg"
+        },
+        {
+            "name": "Jennifer Black",
+            "character": "Stella Urquhart",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gEMi8II8phaSaRjx0zMj6mYYMHE.jpg"
+        },
+        {
+            "name": "Jenny Seagrove",
+            "character": "Marina",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ihbxiN3aWehDcF5RZB3gGVsiTjN.jpg"
+        },
+        {
+            "name": "Norman Chancer",
+            "character": "Moritz",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xxj8VqbDm4chXUF4A7Z3BnEpOVB.jpg"
+        },
+        {
+            "name": "Rikki Fulton",
+            "character": "Geddes",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sW7wn3pAf72CzUJPVRvpnVdzg9F.jpg"
+        },
+        {
+            "name": "Alex Norton",
+            "character": "Watt",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fnP1fFkqoIhOohylSrkfnFyMOuC.jpg"
         }
     ],
-    "Metascore": "83",
-    "imdbRating": "7.3",
-    "imdbVotes": "28,808",
-    "imdbID": "tt0085859",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$5,895,761",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Bill Forsyth"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=VCFhg6Q6gXU",
+    "TMDb_ID": 11235
 }

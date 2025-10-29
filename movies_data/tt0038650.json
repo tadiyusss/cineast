@@ -1,40 +1,82 @@
 {
     "Title": "It's a Wonderful Life",
     "Year": "1946",
-    "Rated": "PG",
-    "Released": "07 Jan 1947",
-    "Runtime": "130 min",
-    "Genre": "Drama, Family, Fantasy",
-    "Director": "Frank Capra",
-    "Writer": "Frances Goodrich, Albert Hackett, Frank Capra",
-    "Actors": "James Stewart, Donna Reed, Lionel Barrymore",
     "Plot": "An angel is sent from Heaven to help a desperately frustrated businessman see the value of his own life.",
     "Language": "English, French",
     "Country": "United States",
+    "Rated": "PG",
+    "Runtime": "130 min",
+    "Genre": "Drama, Family, Fantasy",
+    "Director": "Frank Capra",
+    "Actors": "James Stewart, Donna Reed, Lionel Barrymore",
     "Awards": "Nominated for 5 Oscars. 11 wins & 7 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0038650",
+    "imdbRating": "8.6",
+    "BoxOffice": "$1,483,643",
+    "TMDb_Rating": 8.3,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/A16RsBae9yLCsgAQgkUWbCJHZ6.jpg",
+        "https://image.tmdb.org/t/p/w500/cRhAp2Wn2zXyPANjKxJ5UPbIfTJ.jpg",
+        "https://image.tmdb.org/t/p/w500/488akOM8nIcCQxICZUUb50qH129.jpg",
+        "https://image.tmdb.org/t/p/w500/c3vipGzGrN0FMYtMVt3AHwGuQHe.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "8.6/10"
+            "name": "James Stewart",
+            "character": "George Bailey",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jam9DRhOuKomlr0vUXTamPoxPdk.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "94%"
+            "name": "Donna Reed",
+            "character": "Mary Hatch",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aCRMYYMs3zxLvmUgxBytuCgTElQ.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "89/100"
+            "name": "Lionel Barrymore",
+            "character": "Mr. Potter",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ru11rLUzzLwKjR0ykTLkNIN9jcJ.jpg"
+        },
+        {
+            "name": "Thomas Mitchell",
+            "character": "Uncle Billy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uOhcftGVj7tPrCKBYHYtYPlQKUP.jpg"
+        },
+        {
+            "name": "Henry Travers",
+            "character": "Clarence",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cfIfjkovcHOUyLW25eVAr8NvuvG.jpg"
+        },
+        {
+            "name": "Beulah Bondi",
+            "character": "Mrs. Bailey",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eMBdRplrMZfv7xC5FjzfOiOOb3E.jpg"
+        },
+        {
+            "name": "Frank Faylen",
+            "character": "Ernie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zmPkR8mUFDNGYNl3iTLh9uehNTn.jpg"
+        },
+        {
+            "name": "Ward Bond",
+            "character": "Bert",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6F8pPEwBHWDpX04R8LkARFejwtC.jpg"
+        },
+        {
+            "name": "Gloria Grahame",
+            "character": "Violet",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xmFkXMemsrKZkveOXXU4mxgBxD7.jpg"
+        },
+        {
+            "name": "H.B. Warner",
+            "character": "Mr. Gower",
+            "profile_url": "https://image.tmdb.org/t/p/w500/be4wXVyhbvdbViK0gOZSrdbfie8.jpg"
         }
     ],
-    "Metascore": "89",
-    "imdbRating": "8.6",
-    "imdbVotes": "535,402",
-    "imdbID": "tt0038650",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$1,483,643",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Frank Capra"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=iLR3gZrU2Xo",
+    "TMDb_ID": 1585
 }

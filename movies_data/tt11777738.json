@@ -1,40 +1,79 @@
 {
     "Title": "A Hero",
     "Year": "2021",
-    "Rated": "PG-13",
-    "Released": "21 Jan 2022",
-    "Runtime": "127 min",
-    "Genre": "Drama",
-    "Director": "Asghar Farhadi",
-    "Writer": "Asghar Farhadi",
-    "Actors": "Amir Jadidi, Mohsen Tanabandeh, Sahar Goldoost",
     "Plot": "Rahim is in prison because of a debt he was unable to repay. During a two-day leave, he tries to convince his creditor to withdraw his complaint against the payment of part of the sum. But things don't go as planned.",
     "Language": "Persian",
     "Country": "Iran, France",
+    "Rated": "PG-13",
+    "Runtime": "127 min",
+    "Genre": "Drama",
+    "Director": "Asghar Farhadi",
+    "Actors": "Amir Jadidi, Mohsen Tanabandeh, Sahar Goldoost",
     "Awards": "18 wins & 42 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjMxNDFjN2ItYTllOC00ZDA1LTg4MDUtMjY5ZmE0ZjQ4Y2E2XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt11777738",
+    "imdbRating": "7.5",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.308,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYjMxNDFjN2ItYTllOC00ZDA1LTg4MDUtMjY5ZmE0ZjQ4Y2E2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/5VBPRWW13OJoiLA6suLofnjLKou.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/kEDVwiderWUE96GkIY7Wd4umCLb.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.5/10"
+            "name": "Amir Jadidi",
+            "character": "Rahim Soltani",
+            "profile_url": "https://image.tmdb.org/t/p/w500/926yFJnYmwekFbHGBt9rCljXRCg.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "97%"
+            "name": "Mohsen Tanabandeh",
+            "character": "Bahram",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lrxxACkLmXFTQ6Zf4biVdu3OUlY.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "82/100"
+            "name": "Sahar Goldoost",
+            "character": "Farkhondeh",
+            "profile_url": "https://image.tmdb.org/t/p/w500/efh91f8MrMKSIJJlYHI2kK0ITnl.jpg"
+        },
+        {
+            "name": "Fereshteh Sadr Orafaee",
+            "character": "Mrs. Radmehr",
+            "profile_url": "https://image.tmdb.org/t/p/w500/b81siNuHgUqye37Wyf39ABnv6ZP.jpg"
+        },
+        {
+            "name": "Sarina Farhadi",
+            "character": "Nazanin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5Zy1AWwSGqEhcxDMZCPVz6MOUN4.jpg"
+        },
+        {
+            "name": "Ehsan Goodarzi",
+            "character": "Nad-e-Ali",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7ciEPpMEGpF8XHU2Eo3V2F5pvDH.jpg"
+        },
+        {
+            "name": "Maryam Shahdaie",
+            "character": "Malileh",
+            "profile_url": null
+        },
+        {
+            "name": "Ali Reza Jahandideh",
+            "character": "Hossein",
+            "profile_url": null
+        },
+        {
+            "name": "Farrokh Nourbakht",
+            "character": "Salehi",
+            "profile_url": null
+        },
+        {
+            "name": "Mohammad Aghebati",
+            "character": "Salehpour",
+            "profile_url": "https://image.tmdb.org/t/p/w500/faEBTBzfaECUHH4DdBn6uHzP0c2.jpg"
         }
     ],
-    "Metascore": "82",
-    "imdbRating": "7.5",
-    "imdbVotes": "31,487",
-    "imdbID": "tt11777738",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Asghar Farhadi"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=zAJ6_lmr_HQ",
+    "TMDb_ID": 672208
 }

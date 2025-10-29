@@ -1,40 +1,82 @@
 {
     "Title": "Monty Python's the Meaning of Life",
     "Year": "1983",
-    "Rated": "R",
-    "Released": "31 Mar 1983",
-    "Runtime": "107 min",
-    "Genre": "Comedy, Musical",
-    "Director": "Terry Jones",
-    "Writer": "Graham Chapman, John Cleese, Terry Gilliam",
-    "Actors": "John Cleese, Terry Gilliam, Eric Idle",
     "Plot": "The comedy team takes a look at life in all of its stages in their own uniquely silly way.",
     "Language": "English",
     "Country": "United Kingdom, United States",
+    "Rated": "R",
+    "Runtime": "107 min",
+    "Genre": "Comedy, Musical",
+    "Director": "Terry Jones",
+    "Actors": "John Cleese, Terry Gilliam, Eric Idle",
     "Awards": "Nominated for 1 BAFTA Award1 win & 2 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMmZjYzM5OGMtYmY2OS00YzQ3LWEzZjgtY2Q1Yjc1NTNkYTZiXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0085959",
+    "imdbRating": "7.5",
+    "BoxOffice": "$14,929,552",
+    "TMDb_Rating": 7.303,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMmZjYzM5OGMtYmY2OS00YzQ3LWEzZjgtY2Q1Yjc1NTNkYTZiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/9yavZ9WgEZIpWi2EbVW8At9RPdo.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/ymzDL8lBi5uU6o2El8qs5pjtfh5.jpg",
+        "https://image.tmdb.org/t/p/w500/4CcdiD9vqKnJ8BcP9ZnKGSYGIB1.jpg",
+        "https://image.tmdb.org/t/p/w500/nTyNk3Mvax7VQayGH5KpuUSvwXQ.jpg",
+        "https://image.tmdb.org/t/p/w500/22D7tyYDkTCxuiBER0A6yfQzRX0.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.5/10"
+            "name": "Terry Gilliam",
+            "character": "Various Roles",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7qBkaXxANmnb6hqQCBc4iWqXEL6.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "86%"
+            "name": "Graham Chapman",
+            "character": "Various Roles",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qmTXDGNxuuwQ4IGNHwxmCdjuTGk.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "72/100"
+            "name": "John Cleese",
+            "character": "Various Roles",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dhDw43v7EY52GG3Z4H8B9mr2s9p.jpg"
+        },
+        {
+            "name": "Eric Idle",
+            "character": "Various Roles",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1Vj7Lvrl8OHby7AeOK1Z07JyeMp.jpg"
+        },
+        {
+            "name": "Terry Jones",
+            "character": "Various Roles",
+            "profile_url": "https://image.tmdb.org/t/p/w500/keJpqxK8gykrrK2W6yeSeDUbYDK.jpg"
+        },
+        {
+            "name": "Michael Palin",
+            "character": "Various Roles",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7qCp6M2NxMWpUmO2t6IqHGNlBjz.jpg"
+        },
+        {
+            "name": "Carol Cleveland",
+            "character": "Various Roles",
+            "profile_url": "https://image.tmdb.org/t/p/w500/woaXQdK0DZpWSxvRBCpmWZn7ZAn.jpg"
+        },
+        {
+            "name": "Simon Jones",
+            "character": "Cedric",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lTTlSgTfbvI27hP4og8BZMUJWMh.jpg"
+        },
+        {
+            "name": "Patricia Quinn",
+            "character": "Mrs. Williams",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hi7k5zEI6iXBki1E1jsPrE28n5H.jpg"
+        },
+        {
+            "name": "Judy Loe",
+            "character": "Nurse #1",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rakskE3xKqXF7N3ltWlNJmebfhg.jpg"
         }
     ],
-    "Metascore": "72",
-    "imdbRating": "7.5",
-    "imdbVotes": "128,690",
-    "imdbID": "tt0085959",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$14,929,552",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Terry Jones"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=wMJ24QwHdCY",
+    "TMDb_ID": 4543
 }

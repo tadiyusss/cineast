@@ -1,36 +1,82 @@
 {
     "Title": "War 2",
     "Year": "2025",
-    "Rated": "Not Rated",
-    "Released": "14 Aug 2025",
-    "Runtime": "170 min",
-    "Genre": "Action, Adventure, Thriller",
-    "Director": "Ayan Mukerji",
-    "Writer": "Aditya Chopra, Shridhar Raghavan, Abbas Tyrewala",
-    "Actors": "Hrithik Roshan, N.T. Rama Rao Jr., Kiara Advani",
     "Plot": "Things get complicated when Kabir Dhaliwal, a secret agent, is accused of betraying his nation and his former batchmate Vikram is assigned the task of finding him.",
     "Language": "Hindi, Telugu, Tamil",
     "Country": "India",
+    "Rated": "Not Rated",
+    "Runtime": "170 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Ayan Mukerji",
+    "Actors": "Hrithik Roshan, N.T. Rama Rao Jr., Kiara Advani",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2U0MGFkNzctOGI5OC00MzhhLWExYTctZjE5YjY3MzcwYjMzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt27425164",
+    "imdbRating": "5.6",
+    "BoxOffice": "$3,087,065",
+    "TMDb_Rating": 5.351,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BY2U0MGFkNzctOGI5OC00MzhhLWExYTctZjE5YjY3MzcwYjMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/2Yc8Kl2ldPpDzLrG2M5Ddv62FXB.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/eBalwiE9sRWNaZQ3Bwjx2jNaChv.jpg",
+        "https://image.tmdb.org/t/p/w500/iyYG6xlMpotGQxGp5jIRTvbOrca.jpg",
+        "https://image.tmdb.org/t/p/w500/nFjyCx73LI7ursonOY9RNcLwrzT.jpg",
+        "https://image.tmdb.org/t/p/w500/6f103urkMhA0VNbWbAsDyw2fwhX.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.6/10"
+            "name": "N.T. Rama Rao Jr.",
+            "character": "Vikram",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5ycQgZ3SPUa12bq0yn1jpToBq9X.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "27%"
+            "name": "Hrithik Roshan",
+            "character": "Kabir Dhaliwal",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5O7WrWe84WDFj7td64NVsobtHf3.jpg"
+        },
+        {
+            "name": "Kiara Advani",
+            "character": "Kavya Luthra",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ubsQYjr0hPDyGEKqHNzRPbYcPSz.jpg"
+        },
+        {
+            "name": "Ashutosh Rana",
+            "character": "Colonel Sunil Luthra",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+        },
+        {
+            "name": "Anil Kapoor",
+            "character": "Vikrant Kaul",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6RcrXGFzO50Tazqc8tbDlzYKvTd.jpg"
+        },
+        {
+            "name": "Bobby Deol",
+            "character": "Unnamed",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+        },
+        {
+            "name": "K.C. Shankar",
+            "character": "Gautam Gulati",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fbxJMM6YZGl3OLHhnqISzPjbSpB.jpg"
+        },
+        {
+            "name": "Varun Badola",
+            "character": "Vilasrao Sarang",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dzSBwofeP4dh3bP8TG6VxkHSjLy.jpg"
+        },
+        {
+            "name": "Hearty Singh",
+            "character": "Young Vikram",
+            "profile_url": null
+        },
+        {
+            "name": "Soni Razdan",
+            "character": "Nafisa Rahmani",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yOkPrW9Dnut5FqePGz34PdTpF2s.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.6",
-    "imdbVotes": "30,186",
-    "imdbID": "tt27425164",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$3,087,065",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Ayan Mukerji"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=d1wsPSV_lQs",
+    "TMDb_ID": 1109086
 }

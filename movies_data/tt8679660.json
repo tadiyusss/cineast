@@ -1,40 +1,77 @@
 {
     "Title": "Words of War",
     "Year": "2025",
-    "Rated": "R",
-    "Released": "27 Jun 2025",
-    "Runtime": "117 min",
-    "Genre": "Biography, Drama, History",
-    "Director": "James Strong",
-    "Writer": "Eric Poppen",
-    "Actors": "Jason Isaacs, Ciarán Hinds, Alec Newman",
     "Plot": "Journalist Anna Politkovskaya's brave crusade, fighting for an independent voice in Putin's Russia.",
     "Language": "English",
     "Country": "United Kingdom, United States",
+    "Rated": "R",
+    "Runtime": "117 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "James Strong",
+    "Actors": "Jason Isaacs, Ciarán Hinds, Alec Newman",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNTE4ZTM3ODktZmJmNS00ZGIyLWI4NjgtMGE2NzY4YTVjODMwXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt8679660",
+    "imdbRating": "5.7",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.9,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNTE4ZTM3ODktZmJmNS00ZGIyLWI4NjgtMGE2NzY4YTVjODMwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/fszN3PSB40FYsFzkHvNZrXLes0M.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.7/10"
+            "name": "Maxine Peake",
+            "character": "Anna Politkovskaya",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6H2yLBIQDWgDmBkS5exDHGlZgqt.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "75%"
+            "name": "Ciarán Hinds",
+            "character": "Dmitry Muratov",
+            "profile_url": "https://image.tmdb.org/t/p/w500/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "64/100"
+            "name": "Jason Isaacs",
+            "character": "Sacha",
+            "profile_url": "https://image.tmdb.org/t/p/w500/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+        },
+        {
+            "name": "Naomi Battrick",
+            "character": "Vera Politkovskaya",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jZedmlK22j9B5hzjeHfizx9A0gR.jpg"
+        },
+        {
+            "name": "Harry Lawtey",
+            "character": "Ilya",
+            "profile_url": "https://image.tmdb.org/t/p/w500/l2qFs3TntkZD0G3zFEd1o2DXSWX.jpg"
+        },
+        {
+            "name": "Ellie Bamber",
+            "character": "Elena",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9j6D1LH5C0CLtKXfmKo34T6G63.jpg"
+        },
+        {
+            "name": "Ben Miles",
+            "character": "Yuri Schekochikhin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wAsTf5JOBASeJdrRC5I5vlRxNXx.jpg"
+        },
+        {
+            "name": "Ian Hart",
+            "character": "Lt. Col. Egorov",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xMC8aPDwhEZcjRHEFcgytSr3BzM.jpg"
+        },
+        {
+            "name": "Oliver Maltman",
+            "character": "Nestor",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wZgJ4BhseHlGOakiSMLCDUE07ic.jpg"
+        },
+        {
+            "name": "Agni Scott",
+            "character": "Natalya Estemirova",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rEqmvcyuxCx0Wami8cu5wuS0x8j.jpg"
         }
     ],
-    "Metascore": "64",
-    "imdbRating": "5.7",
-    "imdbVotes": "387",
-    "imdbID": "tt8679660",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "James Strong"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=uOas0YEK9t4",
+    "TMDb_ID": 975615
 }

@@ -1,40 +1,81 @@
 {
     "Title": "Love Lies Bleeding",
     "Year": "2024",
-    "Rated": "R",
-    "Released": "03 May 2024",
-    "Runtime": "104 min",
-    "Genre": "Crime, Drama, Mystery",
-    "Director": "Rose Glass",
-    "Writer": "Rose Glass, Weronika Tofilska",
-    "Actors": "Anna Baryshnikov, Kristen Stewart, Dave Franco",
     "Plot": "Reclusive gym manager Lou falls hard for Jackie, an ambitious bodybuilder headed through town to Vegas in pursuit of her dream. But their love ignites violence, pulling them deep into the web of Lou's criminal family.",
     "Language": "English",
     "Country": "United Kingdom, United States",
+    "Rated": "R",
+    "Runtime": "104 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "Rose Glass",
+    "Actors": "Anna Baryshnikov, Kristen Stewart, Dave Franco",
     "Awards": "Nominated for 1 BAFTA Award5 wins & 49 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNWUxZTliMDgtOWVkZS00MjkwLWI5ZWUtNTZmMjhlYTFlN2I5XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt19637052",
+    "imdbRating": "6.6",
+    "BoxOffice": "$8,335,797",
+    "TMDb_Rating": 6.568,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNWUxZTliMDgtOWVkZS00MjkwLWI5ZWUtNTZmMjhlYTFlN2I5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/xImj8RLe39YK0lyVu9kXv7ApN8p.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/ixO97MmAa6Zi8hfLwkXUsMzCG44.jpg",
+        "https://image.tmdb.org/t/p/w500/2crpY07RxMqsFMDyaCjhe789x8t.jpg",
+        "https://image.tmdb.org/t/p/w500/afkNJgu0lQS0xHhqNITHeWE9K0J.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.6/10"
+            "name": "Kristen Stewart",
+            "character": "Lou",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ryhCjTGqS6G6OprbR0qUEH355lA.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "94%"
+            "name": "Katy O'Brian",
+            "character": "Jackie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lEz7WmJPrBGSsIkEiAA10t5nDDM.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "77/100"
+            "name": "Ed Harris",
+            "character": "Lou Sr.",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aAu9lJ02jlg0GAvv2vVnpJSDV1Y.jpg"
+        },
+        {
+            "name": "Dave Franco",
+            "character": "JJ",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2diSplvpzCE5CrIKvTaplCKvwPq.jpg"
+        },
+        {
+            "name": "Jena Malone",
+            "character": "Beth",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1qmkanVCFr3ZaXcxSXVDO8andb0.jpg"
+        },
+        {
+            "name": "Anna Baryshnikov",
+            "character": "Daisy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/a7zp0wIARHtWR8RokyGo7mzOYxj.jpg"
+        },
+        {
+            "name": "Orion Carrington",
+            "character": "O'Riley",
+            "profile_url": "https://image.tmdb.org/t/p/w500/992sbzfw3hhwNhXTUDyH19nm9PQ.jpg"
+        },
+        {
+            "name": "Matthew Blood-Smyth",
+            "character": "Dave",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xjINRXQu5yWXZ95opQwQiiycxlM.jpg"
+        },
+        {
+            "name": "David DeLao",
+            "character": "Officer Mike",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bmafS5MhJePWp4Jzbrwg8j0Y8ZA.jpg"
+        },
+        {
+            "name": "Hilary Fleming",
+            "character": "Sharon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/l8qpCZpPt0CrfIQ5ITsO0WeUuRB.jpg"
         }
     ],
-    "Metascore": "77",
-    "imdbRating": "6.6",
-    "imdbVotes": "60,992",
-    "imdbID": "tt19637052",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$8,335,797",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Rose Glass"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=AULR_GPteNQ",
+    "TMDb_ID": 948549
 }

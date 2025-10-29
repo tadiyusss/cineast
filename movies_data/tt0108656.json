@@ -1,36 +1,81 @@
 {
     "Title": "Crime Story",
     "Year": "1993",
-    "Rated": "R",
-    "Released": "24 Jun 1993",
-    "Runtime": "103 min",
-    "Genre": "Action, Crime, Drama",
-    "Director": "Kirk Wong, Jackie Chan",
-    "Writer": "Tin-Nam Chun, Man-Keung Chan, Lai Ling Cheung",
-    "Actors": "Jackie Chan, Kent Cheng, Christine Ng",
     "Plot": "A Special Agent is assigned to protect a wealthy business magnate. However, when the businessman is kidnapped in a daring ambush, he teams up with a seasoned detective to crack the case. But soon he discovers the case isn't that s...",
     "Language": "Mandarin, Hokkien, Cantonese",
     "Country": "Hong Kong",
+    "Rated": "R",
+    "Runtime": "103 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Kirk Wong, Jackie Chan",
+    "Actors": "Jackie Chan, Kent Cheng, Christine Ng",
     "Awards": "2 wins & 8 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzY1MzE0MDYtY2ViNS00NzhiLWE5OTUtMGIwYTVhODRkMzkzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0108656",
+    "imdbRating": "6.7",
+    "BoxOffice": "$194,720",
+    "TMDb_Rating": 6.762,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMzY1MzE0MDYtY2ViNS00NzhiLWE5OTUtMGIwYTVhODRkMzkzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/1LzBLlptRC7ogT8OPi8cb0NrDQb.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/bqKi6qdkMLPnWhJIGyLcnoisRsM.jpg",
+        "https://image.tmdb.org/t/p/w500/gOaczu3G1MA1GoLIXfWBOgRureG.jpg",
+        "https://image.tmdb.org/t/p/w500/biroBfuBVRf9Q48RoIPnsRhVtpb.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.7/10"
+            "name": "Jackie Chan",
+            "character": "Inspector Eddie Chan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "93%"
+            "name": "Kent Cheng Jak-Si",
+            "character": "Detective Hung Ting-Bong",
+            "profile_url": "https://image.tmdb.org/t/p/w500/a1ebM3aLwYkPckPzc9FgfW2xTsZ.jpg"
+        },
+        {
+            "name": "Christine Ng Wing-Mei",
+            "character": "Gaga",
+            "profile_url": "https://image.tmdb.org/t/p/w500/m7ujgUulGumjhqyz5yoMpLYw6AQ.jpg"
+        },
+        {
+            "name": "Law Kar-Ying",
+            "character": "Wong Yat-Fei",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ly8lSEpKrjciOucpSLQjcj3JcnI.jpg"
+        },
+        {
+            "name": "Susanna Au-Yeung Pui-San",
+            "character": "Sum Yue",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1bSFqm12hPwGOf5VfyroMXoBb5i.jpg"
+        },
+        {
+            "name": "Ken Lo Wai-Kwong",
+            "character": "Wu Kuo-Jen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aecWmrSbnZTTnBJ8vgyNAaphOLp.jpg"
+        },
+        {
+            "name": "Pan Lingling",
+            "character": "Joyce",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oAc3h0CuCgdlmV9b6vN1zRntPQc.jpg"
+        },
+        {
+            "name": "Blackie Ko",
+            "character": "Captain Ko",
+            "profile_url": "https://image.tmdb.org/t/p/w500/RbyFlxmEGmiCEoyTMwI2AiYTXd.jpg"
+        },
+        {
+            "name": "Wan Fat",
+            "character": "Simon Ting",
+            "profile_url": "https://image.tmdb.org/t/p/w500/d8fzlrn0NtGAEwjOGIFU8EozawP.jpg"
+        },
+        {
+            "name": "Paul Chung Fat",
+            "character": "Wu Kuo-Hua",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7Y9GWoTvoEwAkKVCrli4CXrvfWw.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.7",
-    "imdbVotes": "7,946",
-    "imdbID": "tt0108656",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$194,720",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Kirk Wong Chi-Keung"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=O9-oXXq17pI",
+    "TMDb_ID": 18857
 }

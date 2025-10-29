@@ -1,40 +1,84 @@
 {
     "Title": "Avengers: Infinity War",
     "Year": "2018",
-    "Rated": "PG-13",
-    "Released": "27 Apr 2018",
-    "Runtime": "149 min",
-    "Genre": "Action, Adventure, Sci-Fi",
-    "Director": "Anthony Russo, Joe Russo",
-    "Writer": "Christopher Markus, Stephen McFeely, Stan Lee",
-    "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",
     "Plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
     "Language": "English",
     "Country": "United States, Norway",
+    "Rated": "PG-13",
+    "Runtime": "149 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Anthony Russo, Joe Russo",
+    "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",
     "Awards": "Nominated for 1 Oscar. 48 wins & 80 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt4154756",
+    "imdbRating": "8.4",
+    "BoxOffice": "$678,815,482",
+    "TMDb_Rating": 8.235,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/icUSGFn22cP2BQ0tXCIsykWVCQ.jpg",
+        "https://image.tmdb.org/t/p/w500/4vu5gYiOIIHM3nzrqWvlXGk9qWL.jpg",
+        "https://image.tmdb.org/t/p/w500/b3XV61VdIV26VGTY7dncn9szOko.jpg",
+        "https://image.tmdb.org/t/p/w500/vELXsiMfGv9UNJdl9x1BFVf16ue.jpg",
+        "https://image.tmdb.org/t/p/w500/jZo0wpRHx82WN0dRzWTbTk8ndP5.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "8.4/10"
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "85%"
+            "name": "Chris Evans",
+            "character": "Steve Rogers / Captain America",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "68/100"
+            "name": "Chris Hemsworth",
+            "character": "Thor",
+            "profile_url": "https://image.tmdb.org/t/p/w500/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+        },
+        {
+            "name": "Josh Brolin",
+            "character": "Thanos",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+        },
+        {
+            "name": "Mark Ruffalo",
+            "character": "Bruce Banner / Hulk",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+            "name": "Scarlett Johansson",
+            "character": "Natasha Romanoff / Black Widow",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mjReG6rR7NPMEIWb1T4YWtV11ty.jpg"
+        },
+        {
+            "name": "Don Cheadle",
+            "character": "James Rhodes / War Machine",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oZ1u1GmudvUGpbMfi9Hxonzp3lF.jpg"
+        },
+        {
+            "name": "Benedict Cumberbatch",
+            "character": "Doctor Strange",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+        },
+        {
+            "name": "Tom Holland",
+            "character": "Peter Parker / Spider-Man",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nIJj91naJI4biogqIKLSglKNfCM.jpg"
+        },
+        {
+            "name": "Chadwick Boseman",
+            "character": "T'Challa / Black Panther",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
         }
     ],
-    "Metascore": "68",
-    "imdbRating": "8.4",
-    "imdbVotes": "1,321,746",
-    "imdbID": "tt4154756",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$678,815,482",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Joe Russo",
+        "Anthony Russo"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=QwievZ1Tx-8",
+    "TMDb_ID": 299536
 }

@@ -1,32 +1,77 @@
 {
     "Title": "OSS 117: From Africa with Love",
     "Year": "2021",
-    "Rated": "N/A",
-    "Released": "04 Aug 2021",
-    "Runtime": "117 min",
-    "Genre": "Action, Comedy",
-    "Director": "Nicolas Bedos",
-    "Writer": "Jean-François Halin, Nicolas Bedos, Jean Bruce",
-    "Actors": "Jean Dujardin, Pierre Niney, Fatou N'Diaye",
     "Plot": "The third entry in secret agent OSS 117's parodic spy adventures.",
     "Language": "French, Russian, German",
     "Country": "France, Belgium",
+    "Rated": "N/A",
+    "Runtime": "117 min",
+    "Genre": "Action, Comedy",
+    "Director": "Nicolas Bedos",
+    "Actors": "Jean Dujardin, Pierre Niney, Fatou N'Diaye",
     "Awards": "1 nomination total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNmI3NjYtNGQ4MS00YWJkLTk0MmUtMmM0N2UyYjZiODYzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt7972012",
+    "imdbRating": "5.8",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.658,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNzRhNmI3NjYtNGQ4MS00YWJkLTk0MmUtMmM0N2UyYjZiODYzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/8KZun0DjBSVJtAEb7ytNKIKO0SL.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.8/10"
+            "name": "Jean Dujardin",
+            "character": "Hubert Bonisseur de la Bath / OSS 117",
+            "profile_url": "https://image.tmdb.org/t/p/w500/iPtSWWoO8vajj6fIUQLQeuGOCsk.jpg"
+        },
+        {
+            "name": "Pierre Niney",
+            "character": "Serge / OSS 1001",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zlJslZH2lt4zeNUfTJOo3dEYxJH.jpg"
+        },
+        {
+            "name": "Wladimir Yordanoff",
+            "character": "Armand Lesignac",
+            "profile_url": "https://image.tmdb.org/t/p/w500/y5v8SwrgXxyjzYFnfs1Evv1llfl.jpg"
+        },
+        {
+            "name": "Fatou N'Diaye",
+            "character": "Zéphyrine Bamba",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eYjkobOe7wZYL1ESaO8mUomD5DY.jpg"
+        },
+        {
+            "name": "Natacha Lindinger",
+            "character": "Micheline Pierson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/q8gUBeLrS7RolwpNLemOTFl0yUq.jpg"
+        },
+        {
+            "name": "Gilles Cohen",
+            "character": "Roland Lépervier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/df8YyJdBcritBlohD9AEOQZDsPd.jpg"
+        },
+        {
+            "name": "Pol White",
+            "character": "Léon Nkomo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tmZllqHAPgjGRjiy2sK3rTTFv3M.jpg"
+        },
+        {
+            "name": "Brice Fournier",
+            "character": "Le broussard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sCOMJcVNVMHyztrB2vCG07pIDni.jpg"
+        },
+        {
+            "name": "Bruno Paviot",
+            "character": "Moulinier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pGVf8YttW85MdqPfFjVKliOaS7e.jpg"
+        },
+        {
+            "name": "Karim Barras",
+            "character": "Jacquard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/Ai3u8gx7VZEptx7O2nvtCbuPCf8.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.8",
-    "imdbVotes": "6,397",
-    "imdbID": "tt7972012",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Nicolas Bedos"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=Dbcob9qYivI",
+    "TMDb_ID": 604563
 }

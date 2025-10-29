@@ -1,40 +1,82 @@
 {
     "Title": "Bill & Ted's Excellent Adventure",
     "Year": "1989",
-    "Rated": "PG",
-    "Released": "17 Feb 1989",
-    "Runtime": "90 min",
-    "Genre": "Adventure, Comedy, Music",
-    "Director": "Stephen Herek",
-    "Writer": "Chris Matheson, Ed Solomon",
-    "Actors": "Keanu Reeves, Alex Winter, George Carlin",
     "Plot": "Two rock-'n-rolling teens, on the verge of failing their class, set out on a quest to make the ultimate school history report after being presented with a time machine.",
     "Language": "English, French, German, Greek, Ancient (to 1453)",
     "Country": "United States, Italy, Canada",
+    "Rated": "PG",
+    "Runtime": "90 min",
+    "Genre": "Adventure, Comedy, Music",
+    "Director": "Stephen Herek",
+    "Actors": "Keanu Reeves, Alex Winter, George Carlin",
     "Awards": "3 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3Mjk5MzI3OF5BMl5BanBnXkFtZTcwMTY4MzcyNA@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0096928",
+    "imdbRating": "6.9",
+    "BoxOffice": "$40,485,039",
+    "TMDb_Rating": 6.849,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTk3Mjk5MzI3OF5BMl5BanBnXkFtZTcwMTY4MzcyNA@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/ggwtfBpqSS3MkyqCY9PAsPO5RuX.jpg",
+        "https://image.tmdb.org/t/p/w500/edJucURj403s4rfQousajiDF3jY.jpg",
+        "https://image.tmdb.org/t/p/w500/ynYdEr7WskeM9dy6oNAQUGldAtE.jpg",
+        "https://image.tmdb.org/t/p/w500/9UviUgFsblNmqUUcFca0tk9qAAz.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.9/10"
+            "name": "Keanu Reeves",
+            "character": "Ted 'Theodore' Logan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "83%"
+            "name": "Alex Winter",
+            "character": "Bill S. Preston",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2GM34tP0VZegydEXgCj541udTP9.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "50/100"
+            "name": "George Carlin",
+            "character": "Rufus",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2No6PxJbTGtawVJh0ivUiXfVprH.jpg"
+        },
+        {
+            "name": "Terry Camilleri",
+            "character": "Napoleon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7snba5wE56wgHLUrASQxZySSm8C.jpg"
+        },
+        {
+            "name": "Dan Shor",
+            "character": "Billy the Kid",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xsdNaTwcqogHFKBipxtiAZJFAlX.jpg"
+        },
+        {
+            "name": "Tony Steedman",
+            "character": "Socrates",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dG50B4tpFWVVWqjKLvpu2ydQu1V.jpg"
+        },
+        {
+            "name": "Rod Loomis",
+            "character": "Freud",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uJ0pbOb5UhQqMtboazey6mMCxWj.jpg"
+        },
+        {
+            "name": "Al Leong",
+            "character": "Genghis Khan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zC01uEOvbdTQIg19LKVu5r2QKan.jpg"
+        },
+        {
+            "name": "Jane Wiedlin",
+            "character": "Joan of Arc",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qLyqdzATuW3AuusloCrRGc6KfTt.jpg"
+        },
+        {
+            "name": "Robert V. Barron",
+            "character": "Abraham Lincoln",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2h8yR8QoltUNS2FCIfO3amIXht3.jpg"
         }
     ],
-    "Metascore": "50",
-    "imdbRating": "6.9",
-    "imdbVotes": "146,689",
-    "imdbID": "tt0096928",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$40,485,039",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Stephen Herek"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=gxFxklxvE_w",
+    "TMDb_ID": 1648
 }

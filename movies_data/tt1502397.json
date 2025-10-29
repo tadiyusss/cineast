@@ -1,40 +1,84 @@
 {
     "Title": "Bad Boys for Life",
     "Year": "2020",
-    "Rated": "R",
-    "Released": "17 Jan 2020",
-    "Runtime": "124 min",
-    "Genre": "Action, Comedy, Crime",
-    "Director": "Adil El Arbi, Bilall Fallah",
-    "Writer": "Peter Craig, Joe Carnahan, Chris Bremner",
-    "Actors": "Will Smith, Martin Lawrence, Vanessa Hudgens",
     "Plot": "Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city.",
     "Language": "English, Spanish",
     "Country": "United States",
+    "Rated": "R",
+    "Runtime": "124 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Adil El Arbi, Bilall Fallah",
+    "Actors": "Will Smith, Martin Lawrence, Vanessa Hudgens",
     "Awards": "3 wins & 15 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYzM3ZTFmMTUtODAxNy00N2IxLWI2MGMtYTdmMDFhNmZkMDI3XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt1502397",
+    "imdbRating": "6.5",
+    "BoxOffice": "$206,305,244",
+    "TMDb_Rating": 7.129,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYzM3ZTFmMTUtODAxNy00N2IxLWI2MGMtYTdmMDFhNmZkMDI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/mkiTT6QsEXBj4GBv0Bry4ejtNzY.jpg",
+        "https://image.tmdb.org/t/p/w500/eNkeLslgV9apdxcLYM45NNuwvaJ.jpg",
+        "https://image.tmdb.org/t/p/w500/gDj2pexYOTNW702D6iCe9hBqmtb.jpg",
+        "https://image.tmdb.org/t/p/w500/2uxVW6XFvEqoCJoIVU8C8JgOnnB.jpg",
+        "https://image.tmdb.org/t/p/w500/pX6rudzVRE0PqaTxPpPBmmxUdqu.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.5/10"
+            "name": "Will Smith",
+            "character": "Mike",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "76%"
+            "name": "Martin Lawrence",
+            "character": "Marcus",
+            "profile_url": "https://image.tmdb.org/t/p/w500/y3SQzIPUPJpdueb1DkbTYph68nk.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "59/100"
+            "name": "Vanessa Hudgens",
+            "character": "Kelly",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ssFXWN5li5OWJLgUoFlUDY0ZyPc.jpg"
+        },
+        {
+            "name": "Alexander Ludwig",
+            "character": "Dorn",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jXixkOwQ62hpsCr8xhWS9rik8SE.jpg"
+        },
+        {
+            "name": "Charles Melton",
+            "character": "Rafe",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sxWslNRZdiBcPgwdVqoj7nSclr6.jpg"
+        },
+        {
+            "name": "Paola Nuñez",
+            "character": "Rita",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5k8tBBvoV43iK6u0k2YUSVXPmuK.jpg"
+        },
+        {
+            "name": "Kate del Castillo",
+            "character": "Isabel Aretas",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7m4oa23hAsqW3cE8cDF72QhIv9t.jpg"
+        },
+        {
+            "name": "Nicky Jam",
+            "character": "Zway-Lo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zoRQUe9n9ptLiiRgr3W0NLShRo9.jpg"
+        },
+        {
+            "name": "Joe Pantoliano",
+            "character": "Captain Howard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
+        },
+        {
+            "name": "Jacob Scipio",
+            "character": "Armando Aretas",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gcZSJy9LZ8DUDP480Q2K1OhL1Ct.jpg"
         }
     ],
-    "Metascore": "59",
-    "imdbRating": "6.5",
-    "imdbVotes": "193,263",
-    "imdbID": "tt1502397",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$206,305,244",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Bilall Fallah",
+        "Adil El Arbi"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=R228yPrwqTo",
+    "TMDb_ID": 38700
 }

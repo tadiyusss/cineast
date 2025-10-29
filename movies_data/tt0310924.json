@@ -1,36 +1,79 @@
 {
     "Title": "Crime Spree",
     "Year": "2003",
-    "Rated": "R",
-    "Released": "16 Apr 2003",
-    "Runtime": "105 min",
-    "Genre": "Action, Comedy, Crime",
-    "Director": "Brad Mirman",
-    "Writer": "Brad Mirman",
-    "Actors": "Gérard Depardieu, Harvey Keitel, Johnny Hallyday",
     "Plot": "A French gang of thieves flies over to Chicago for a one time job. However, things seem to get out of hand soon.",
     "Language": "English, French, Spanish",
     "Country": "United Kingdom, Canada",
+    "Rated": "R",
+    "Runtime": "105 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Brad Mirman",
+    "Actors": "Gérard Depardieu, Harvey Keitel, Johnny Hallyday",
     "Awards": "1 win",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZWIwOGE1YzYtNGJhYS00NzhjLTliMjgtNzUwYjZjYmVjZjNiXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0310924",
+    "imdbRating": "6.4",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.524,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZWIwOGE1YzYtNGJhYS00NzhjLTliMjgtNzUwYjZjYmVjZjNiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/dxiL0nUW82RGz5lNv8HbRf95Dc5.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/hhbhxV4L47Wo6AQx8mbEykJP0Sv.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.4/10"
+            "name": "Gérard Depardieu",
+            "character": "Daniel Foray",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cibkIAJN6ctlqHohhdDEcfbiCAL.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "33%"
+            "name": "Harvey Keitel",
+            "character": "Frankie Zammeti",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+        },
+        {
+            "name": "Johnny Hallyday",
+            "character": "Marcel Burot",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oxP6Kenvn3pfamP3JqdO7f4xvV.jpg"
+        },
+        {
+            "name": "Renaud",
+            "character": "Zéro",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qIcGYbgosbwLZuwEWffok4igBPz.jpg"
+        },
+        {
+            "name": "Saïd Taghmaoui",
+            "character": "Sami",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kuxI08YpwQFGweIXK7TELknwexr.jpg"
+        },
+        {
+            "name": "Stéphane Freiss",
+            "character": "Julien Labesse",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8Fc7grw4FGgrijipjaqY2ZlogJb.jpg"
+        },
+        {
+            "name": "Shawn Lawrence",
+            "character": "Agent Pogue",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tuNt9uwqK9iJ5chEKVF8Jh2nO0L.jpg"
+        },
+        {
+            "name": "Albert Dray",
+            "character": "Raymond Gayet",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jX2gUrS9LHpaut4CHjyZXGahtfv.jpg"
+        },
+        {
+            "name": "Joanne Kelly",
+            "character": "Sophie Nicols",
+            "profile_url": "https://image.tmdb.org/t/p/w500/x2ilxmnqFwkS9SrgsG3gY6klHq4.jpg"
+        },
+        {
+            "name": "Richard Bohringer",
+            "character": "Bastaldi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/v6372ku0d2Y28zUJ7mGrwaNQ04g.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.4",
-    "imdbVotes": "5,713",
-    "imdbID": "tt0310924",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Brad Mirman"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=3zQfiNtylQo",
+    "TMDb_ID": 6277
 }

@@ -1,32 +1,57 @@
 {
     "Title": "Love Mocktail",
     "Year": "2020",
-    "Rated": "Not Rated",
-    "Released": "31 Jan 2020",
-    "Runtime": "153 min",
-    "Genre": "Drama, Romance",
-    "Director": "Darling Krishna",
-    "Writer": "Darling Krishna",
-    "Actors": "Darling Krishna, Milana Nagaraj, Amrutha Iyengar",
     "Plot": "Adi embarks on a rollercoaster journey searching for true love. Through varied experiences he questions if he'll find his soulmate.",
     "Language": "Kannada",
     "Country": "India",
+    "Rated": "Not Rated",
+    "Runtime": "153 min",
+    "Genre": "Drama, Romance",
+    "Director": "Darling Krishna",
+    "Actors": "Darling Krishna, Milana Nagaraj, Amrutha Iyengar",
     "Awards": "1 nomination",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDEwODVjYWQtYTVhNC00YzU0LWFjYTQtZmVlNDk0YmQ1YTY4XkEyXkFqcGdeQXVyNjIwNzA2NzY@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt10919132",
+    "imdbRating": "8.2",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.313,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNDEwODVjYWQtYTVhNC00YzU0LWFjYTQtZmVlNDk0YmQ1YTY4XkEyXkFqcGdeQXVyNjIwNzA2NzY@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/tZyFtfXdTt5KU07GUOiW5GPhZD7.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "8.2/10"
+            "name": "Darling Krishna",
+            "character": "Aadi/Aaditya",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3yF5qWc9tBsR7XGtLSrtaPfjQKX.jpg"
+        },
+        {
+            "name": "Milana Nagaraj",
+            "character": "Nidhi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/deaFj1DXroYRAef0ga0Ir8LGVW0.jpg"
+        },
+        {
+            "name": "Amrutha Iyengar",
+            "character": "Joo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zeGMy2NeL43Q0AluP871kUgXR9o.jpg"
+        },
+        {
+            "name": "Rachana Inder",
+            "character": "Aditi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3WPohrscRZv8tHwtezNNv53Fkfm.jpg"
+        },
+        {
+            "name": "Kushi Achar",
+            "character": "Sushma",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9NwIxZjmB9QBGc10dEkrw4Rl2qo.jpg"
+        },
+        {
+            "name": "Abhilash N",
+            "character": "Viju",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ptMvJ6QX3AxIWaRy0zbv2pkqKbF.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "8.2",
-    "imdbVotes": "4,476",
-    "imdbID": "tt10919132",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Darling Krishna"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 672125
 }

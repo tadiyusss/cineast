@@ -1,40 +1,82 @@
 {
     "Title": "Ghosts of War",
     "Year": "2020",
-    "Rated": "R",
-    "Released": "17 Jul 2020",
-    "Runtime": "94 min",
-    "Genre": "Fantasy, Horror, Thriller",
-    "Director": "Eric Bress",
-    "Writer": "Eric Bress",
-    "Actors": "Brenton Thwaites, Kyle Gallner, Alan Ritchson",
     "Plot": "Five American soldiers assigned to hold a French Chateau near the end of World War II. This unexpected respite quickly descends into madness when they encounter a supernatural enemy more terrifying than anything seen on the battle...",
     "Language": "English",
     "Country": "United Kingdom",
+    "Rated": "R",
+    "Runtime": "94 min",
+    "Genre": "Fantasy, Horror, Thriller",
+    "Director": "Eric Bress",
+    "Actors": "Brenton Thwaites, Kyle Gallner, Alan Ritchson",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNmU2OGY3NjYtZGU5Zi00ZmQyLWJkYzQtOWU2MjJiZjZiMjFlXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt6508228",
+    "imdbRating": "5.6",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.3,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNmU2OGY3NjYtZGU5Zi00ZmQyLWJkYzQtOWU2MjJiZjZiMjFlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/jR2SSICqmyaVV4lcR3PfNldJBPc.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/5HgEYSaKDWMLOsjVAOnTnhlj1L8.jpg",
+        "https://image.tmdb.org/t/p/w500/kzCcGCwPjlaqq0UcuxImYgXH9OZ.jpg",
+        "https://image.tmdb.org/t/p/w500/1ALPH41boH544AfSHeu5DHm9AI0.jpg",
+        "https://image.tmdb.org/t/p/w500/rvd1JQjAEuzcEDSwN4qRmZJPZT9.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.6/10"
+            "name": "Brenton Thwaites",
+            "character": "Chris",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4jrtVjdIGJpmgevEPRuIIU9HWcO.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "38%"
+            "name": "Theo Rossi",
+            "character": "Kirk",
+            "profile_url": "https://image.tmdb.org/t/p/w500/344QE41Jileu4OE41cmYgBxc5BF.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "38/100"
+            "name": "Skylar Astin",
+            "character": "Eugene",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dx6xbrerLNKHbUSOdTI68h7qrE3.jpg"
+        },
+        {
+            "name": "Kyle Gallner",
+            "character": "Tappert",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wfdywrw6K3ti1uW1IYDWbUtU8se.jpg"
+        },
+        {
+            "name": "Alan Ritchson",
+            "character": "Butchie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+        },
+        {
+            "name": "Billy Zane",
+            "character": "Dr. Engel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wr4fuwLzQvW1G0MS7cmQ3ObFjvL.jpg"
+        },
+        {
+            "name": "Shaun Toub",
+            "character": "Mr. Helwig",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6fuJ9D50bYuMAhrlEgVqzgqF0LU.jpg"
+        },
+        {
+            "name": "Matthew Reese",
+            "character": "Sergeant Elks",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gZCNFGuLcgEjpPgSASq5QxU9cMi.jpg"
+        },
+        {
+            "name": "Laila Banki",
+            "character": "Mrs. Helwig",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nLMH3zHixuq1UFGHy7Vsm6mNgzx.jpg"
+        },
+        {
+            "name": "Shannon McKain",
+            "character": "Lieutenant Morgan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uzzJjQRc55clYodTNuJxqF2EvQ8.jpg"
         }
     ],
-    "Metascore": "38",
-    "imdbRating": "5.6",
-    "imdbVotes": "12,555",
-    "imdbID": "tt6508228",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Eric Bress"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=Tv7HyNSCCBo",
+    "TMDb_ID": 608195
 }

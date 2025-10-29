@@ -1,40 +1,77 @@
 {
     "Title": "Love Crime",
     "Year": "2010",
-    "Rated": "Not Rated",
-    "Released": "02 Sep 2011",
-    "Runtime": "106 min",
-    "Genre": "Crime, Drama, Mystery",
-    "Director": "Alain Corneau",
-    "Writer": "Alain Corneau, Natalie Carter",
-    "Actors": "Ludivine Sagnier, Kristin Scott Thomas, Patrick Mille",
     "Plot": "Ruthless executive Christine brings on young Isabelle as her assistant taking delight in toying with her innocence. But when Christine starts passing on her protege's ideas as her own, things take a dark turn.",
     "Language": "French, English, Japanese",
     "Country": "France, United States",
+    "Rated": "Not Rated",
+    "Runtime": "106 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "Alain Corneau",
+    "Actors": "Ludivine Sagnier, Kristin Scott Thomas, Patrick Mille",
     "Awards": "1 nomination",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MzY4NTEyNF5BMl5BanBnXkFtZTcwNjU2ODExNg@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt1459012",
+    "imdbRating": "6.5",
+    "BoxOffice": "$539,792",
+    "TMDb_Rating": 6.193,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTk5MzY4NTEyNF5BMl5BanBnXkFtZTcwNjU2ODExNg@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/cYjUy4YMZqbSUlrpxrijVh1lrhO.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.5/10"
+            "name": "Ludivine Sagnier",
+            "character": "Isabelle Guérin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hd4fLjgtgNEidJOjuLNGfK1sOhm.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "64%"
+            "name": "Kristin Scott Thomas",
+            "character": "Christine Rivière",
+            "profile_url": "https://image.tmdb.org/t/p/w500/axksw0vAjBPSW02ZqpcC0V8rPD7.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "63/100"
+            "name": "Patrick Mille",
+            "character": "Philippe Deschamps",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vxpQlYMyZNmDPD6JQrcnfRPdNI2.jpg"
+        },
+        {
+            "name": "Guillaume Marquet",
+            "character": "Daniel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cmmNay0tVE14Nb3fadjVpfiHkWa.jpg"
+        },
+        {
+            "name": "Marie Guillard",
+            "character": "Claudine",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sqG6easeSraJZ9DxJPsu7P4uGmx.jpg"
+        },
+        {
+            "name": "Gérald Laroche",
+            "character": "Gérard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3HMqa70qIeLjqXvG5FZ1rBLaFKp.jpg"
+        },
+        {
+            "name": "Olivier Rabourdin",
+            "character": "Le juge",
+            "profile_url": "https://image.tmdb.org/t/p/w500/r15C7VnXnyMJk8JyNQOJGaauiKA.jpg"
+        },
+        {
+            "name": "Julien Rochefort",
+            "character": "L'avocat",
+            "profile_url": "https://image.tmdb.org/t/p/w500/iwNckphkpwsFkzDieksZbQeiAAd.jpg"
+        },
+        {
+            "name": "Mike Powers",
+            "character": "Le premier responsable de Barney & Johnson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tgh0GWK9050MoC5T3sJZEUauT1U.jpg"
+        },
+        {
+            "name": "Matthew Gonder",
+            "character": "Le second responsable de Barney & Johnson",
+            "profile_url": null
         }
     ],
-    "Metascore": "63",
-    "imdbRating": "6.5",
-    "imdbVotes": "5,678",
-    "imdbID": "tt1459012",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$539,792",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Alain Corneau"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=jKpE-0UasDY",
+    "TMDb_ID": 53404
 }

@@ -1,36 +1,80 @@
 {
     "Title": "Yor: The Hunter from the Future",
     "Year": "1983",
-    "Rated": "PG",
-    "Released": "19 Aug 1983",
-    "Runtime": "88 min",
-    "Genre": "Action, Adventure, Fantasy",
-    "Director": "Antonio Margheriti",
-    "Writer": "Juan Zanotto, Ray Collins, Robert D. Bailey",
-    "Actors": "Reb Brown, Corinne Cléry, John Steiner",
     "Plot": "A warrior seeks his true origins in a seemingly prehistoric wasteland.",
     "Language": "Italian",
     "Country": "Italy",
+    "Rated": "PG",
+    "Runtime": "88 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Antonio Margheriti",
+    "Actors": "Reb Brown, Corinne Cléry, John Steiner",
     "Awards": "3 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjBkM2E4MjctNjllOS00OTJiLTk3OTMtZjQ1NWNiMDliNGZmXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0084935",
+    "imdbRating": "4.3",
+    "BoxOffice": "$2,810,199",
+    "TMDb_Rating": 4.26,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYjBkM2E4MjctNjllOS00OTJiLTk3OTMtZjQ1NWNiMDliNGZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/8cMkOOHlJaeQKgGPakxc6sEHHKJ.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/bsPQ0phvUBsnXZRJbgWKEh6UBNK.jpg",
+        "https://image.tmdb.org/t/p/w500/uE4SDL5zqqWDMdAIungrpxQUwFd.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "4.3/10"
+            "name": "Reb Brown",
+            "character": "Yor",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qffYtpWE8PmbTpLlEuhh2YUG7Gl.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "14%"
+            "name": "Corinne Cléry",
+            "character": "Ka-Laa",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mePoulGgvMrIkgeMsaki83Yil9Y.jpg"
+        },
+        {
+            "name": "John Steiner",
+            "character": "Overlord",
+            "profile_url": "https://image.tmdb.org/t/p/w500/esKMm8Izkba1PR2PMjLUcEdVdE3.jpg"
+        },
+        {
+            "name": "Carole André",
+            "character": "Ena",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9yCawFw4oMByBBslPdkw42bnz4q.jpg"
+        },
+        {
+            "name": "Luciano Pigozzi",
+            "character": "Peg",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5PTtLdknAOIPHinNC1C34oh0sFx.jpg"
+        },
+        {
+            "name": "Ayşegül Ünsal",
+            "character": "Roa of the Sand-People",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jbGEWUY8XuSRKilQiiqFUnJQqaK.jpg"
+        },
+        {
+            "name": "Aytekin Akkaya",
+            "character": "Ukan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uXKWjmWx15cHN2y9aStOfnDZGGQ.jpg"
+        },
+        {
+            "name": "Luigina Rocchi",
+            "character": "Tarita",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jtX62XtWnIujZs7ueCTdsOklz7J.jpg"
+        },
+        {
+            "name": "Sergio Nicolai",
+            "character": "Kay",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mSDZ7SMDET7DMfdQr35EQIUX0UF.jpg"
+        },
+        {
+            "name": "Ludovico Della Jojo",
+            "character": "Male Rebel #1",
+            "profile_url": "https://image.tmdb.org/t/p/w500/e8O6gRGmXGSw5mJ04pXh45QQy4v.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "4.3",
-    "imdbVotes": "3,561",
-    "imdbID": "tt0084935",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$2,810,199",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Antonio Margheriti"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=6RaHFiwlzcQ",
+    "TMDb_ID": 38219
 }

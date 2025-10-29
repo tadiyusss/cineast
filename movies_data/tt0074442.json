@@ -1,32 +1,79 @@
 {
     "Title": "Crime Busters",
     "Year": "1977",
-    "Rated": "PG",
-    "Released": "01 Jun 1979",
-    "Runtime": "98 min",
-    "Genre": "Action, Adventure, Comedy",
-    "Director": "Enzo Barboni",
-    "Writer": "Enzo Barboni",
-    "Actors": "Terence Hill, Bud Spencer, David Huddleston",
     "Plot": "An attempted robbery turns to be an unexpected recruitment when two unemployed men mistakenly break into a police office instead of a store.",
     "Language": "Italian, English, Vietnamese",
     "Country": "Italy",
+    "Rated": "PG",
+    "Runtime": "98 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Enzo Barboni",
+    "Actors": "Terence Hill, Bud Spencer, David Huddleston",
     "Awards": "1 win total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BM2RiYTQ5YzgtMzEyMC00NWI0LWI1NTctOWM3YmJkNDdjMmMyXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0074442",
+    "imdbRating": "7.1",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.975,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BM2RiYTQ5YzgtMzEyMC00NWI0LWI1NTctOWM3YmJkNDdjMmMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/z35E0qY8wkkSPIBT5ptQAyWvr8k.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/a8gaueZl5G2HCgsBAjckdgvBjlo.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.1/10"
+            "name": "Terence Hill",
+            "character": "Matt Kirby",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vBkWDZh93QRUvg3oh5d96QQZWLn.jpg"
+        },
+        {
+            "name": "Bud Spencer",
+            "character": "Wilbur Walsh",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cVbBoKxRDFOdDKwdpRmxVazDWlE.jpg"
+        },
+        {
+            "name": "David Huddleston",
+            "character": "Captain McBride",
+            "profile_url": "https://image.tmdb.org/t/p/w500/g4FEQ1cRhrwjdd1boWDSLkrWK1g.jpg"
+        },
+        {
+            "name": "Luciano Catenacci",
+            "character": "Fred 'Curly' Cline",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eGkhfqalVIkwIZ7VDHLh9LYcZaW.jpg"
+        },
+        {
+            "name": "Ezio Marano",
+            "character": "Bloodsucker",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5i2kYsADdNOrHsUJq1Rm7kNswvY.jpg"
+        },
+        {
+            "name": "Luciano Rossi",
+            "character": "Geronimo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2PYdis6wi8mL7mVuoB16IuJiL6Y.jpg"
+        },
+        {
+            "name": "Luigi Casellato",
+            "character": "Drugstore Owner",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ftfQniH4E9ehyStbF9PFlMrFiQ.jpg"
+        },
+        {
+            "name": "Edy Biagetti",
+            "character": "Lieutenant Governor",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zJwxjUeBDnRNMjBuo2Vyp3I22tE.jpg"
+        },
+        {
+            "name": "Jill Flanter",
+            "character": "Countess Galina Kochilova",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rzg96QxTTR6S4sx14HlWZGNIezY.jpg"
+        },
+        {
+            "name": "Laura Gemser",
+            "character": "Suzy Lee",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zObMWYEHJkPEhmFsyW8uFCVRgfo.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.1",
-    "imdbVotes": "13,503",
-    "imdbID": "tt0074442",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "Tritone Cinematografica",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Enzo Barboni"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=ti4ldRJ0sRA",
+    "TMDb_ID": 11689
 }

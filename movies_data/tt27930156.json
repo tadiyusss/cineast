@@ -1,32 +1,77 @@
 {
     "Title": "I Love You",
     "Year": "2023",
-    "Rated": "N/A",
-    "Released": "16 Jun 2023",
-    "Runtime": "93 min",
-    "Genre": "Drama, Romance, Thriller",
-    "Director": "Nikhil Mahajan",
-    "Writer": "Nikhil Mahajan",
-    "Actors": "Rakul Preet Singh, Pavail Gulati, Akshay Oberoi",
     "Plot": "Sathya is a highly successful corporate executive who look forward to a bright future with her fiance,Vishal.One night ,when she is about to board a fight to Delhi, Satya finds herself trapped within the office .What danger awaits...",
     "Language": "Hindi",
     "Country": "India",
+    "Rated": "N/A",
+    "Runtime": "93 min",
+    "Genre": "Drama, Romance, Thriller",
+    "Director": "Nikhil Mahajan",
+    "Actors": "Rakul Preet Singh, Pavail Gulati, Akshay Oberoi",
     "Awards": "3 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZmNTllMDgtNmZhMS00YjQxLTgzYWMtNGQ5ZmYzN2U2ZTg0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt27930156",
+    "imdbRating": "5.4",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.3,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BY2ZmNTllMDgtNmZhMS00YjQxLTgzYWMtNGQ5ZmYzN2U2ZTg0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/8axY30tTuAyQ1rJLixnPpJID7qn.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.4/10"
+            "name": "Sai Durgha Tej",
+            "character": "Tej",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lX3rI99DmyIXn8yaUW2i0wA1X4Q.jpg"
+        },
+        {
+            "name": "Anupama Parameswaran",
+            "character": "Nandini",
+            "profile_url": "https://image.tmdb.org/t/p/w500/iA8NAbwIKTbA8fKTNtXsAiBcC4W.jpg"
+        },
+        {
+            "name": "Pavitra Lokesh",
+            "character": "Tej's Aunt",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cytt3npHpd1YDstV7e2VeDeZ5J6.jpg"
+        },
+        {
+            "name": "Jayaprakash",
+            "character": "Tej's Uncle",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eyYfMqy7NsED7SYrAzaso9ZjLT5.jpg"
+        },
+        {
+            "name": "Surekha Vani",
+            "character": "Tej's Aunt Sudha",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bqDsLZ0ysImn4466eD3MfiWmcnw.jpg"
+        },
+        {
+            "name": "Prudhviraj",
+            "character": "Sudha's husband",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg"
+        },
+        {
+            "name": "Harsha Chemudu",
+            "character": "Harsha",
+            "profile_url": "https://image.tmdb.org/t/p/w500/be0atwoQTudy7WaVCNwWbQuxjvG.jpg"
+        },
+        {
+            "name": "Karthik Adusumalli",
+            "character": "",
+            "profile_url": null
+        },
+        {
+            "name": "Anish Kuruvilla",
+            "character": "Nandini's Father",
+            "profile_url": "https://image.tmdb.org/t/p/w500/egs7BnJeBw7txSjoETg2XoqHO8e.jpg"
+        },
+        {
+            "name": "Banerjee",
+            "character": "Coach Murthy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/czUUqcEgBmDBNMx0zwIIy2HSZsp.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.4",
-    "imdbVotes": "5,690",
-    "imdbID": "tt27930156",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "A. Karunakaran"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 534333
 }

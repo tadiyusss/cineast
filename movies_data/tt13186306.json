@@ -1,40 +1,81 @@
 {
     "Title": "War of the Worlds",
     "Year": "2025",
-    "Rated": "PG-13",
-    "Released": "30 Jul 2025",
-    "Runtime": "91 min",
-    "Genre": "Horror, Sci-Fi, Thriller",
-    "Director": "Rich Lee",
-    "Writer": "Kenny Golde, Marc Hyman, H.G. Wells",
-    "Actors": "Ice Cube, Eva Longoria, Iman Benson",
     "Plot": "A colossal invasion of Earth is coming in this off-kilter take on the legendary novel of the same name, filled with present-day themes of technology, government surveillance, and privacy.",
     "Language": "English, German",
     "Country": "United States, Germany",
+    "Rated": "PG-13",
+    "Runtime": "91 min",
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Director": "Rich Lee",
+    "Actors": "Ice Cube, Eva Longoria, Iman Benson",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOWVlZDUzNTgtYzcxNC00OTYyLThlZjYtZDc1MTM2ZmI1Y2IzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt13186306",
+    "imdbRating": "3.4",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 4.339,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BOWVlZDUzNTgtYzcxNC00OTYyLThlZjYtZDc1MTM2ZmI1Y2IzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/f2T5LlY8EPvmgtBVvOra8H2GvlQ.jpg",
+        "https://image.tmdb.org/t/p/w500/4qFgzt3njMA0EuBk5cx2gg2V8M7.jpg",
+        "https://image.tmdb.org/t/p/w500/5vGZFePsgr0IWGodL0z20PM0RDP.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "3.4/10"
+            "name": "Ice Cube",
+            "character": "William Radford",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "4%"
+            "name": "Eva Longoria",
+            "character": "NASA Scientist Sandra Salas",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "6/100"
+            "name": "Clark Gregg",
+            "character": "NSA Director Donald Briggs",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mq686D91XoZpqkzELn0888NOiZW.jpg"
+        },
+        {
+            "name": "Iman Benson",
+            "character": "Faith Radford",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6s8Cyc4rxDRpX1vYnczU52RM4IM.jpg"
+        },
+        {
+            "name": "Henry Hunter Hall",
+            "character": "David Radford",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qZEv8RIGC9yLwY29Vo4KQzpO9Dt.jpg"
+        },
+        {
+            "name": "Devon Bostick",
+            "character": "Mark Goodman",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gTHfbDzeuzwrfpHrOxgFmuOjImY.jpg"
+        },
+        {
+            "name": "Andrea Savage",
+            "character": "FBI Field Agent Sheila Jeffries",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dh2prcwPU9U1PBdCNu5SSd4Of9j.jpg"
+        },
+        {
+            "name": "Nicole Pulliam",
+            "character": "News Reporter",
+            "profile_url": "https://image.tmdb.org/t/p/w500/XcJAw0P7bPE9ET52P4fZ2hdokk.jpg"
+        },
+        {
+            "name": "Michael O'Neill",
+            "character": "Secretary of Defense Walter Crystal",
+            "profile_url": "https://image.tmdb.org/t/p/w500/u9Ejl9iS4ZJ36Y653UCe8huLaOn.jpg"
+        },
+        {
+            "name": "Jim Meskimen",
+            "character": "POTUS",
+            "profile_url": "https://image.tmdb.org/t/p/w500/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg"
         }
     ],
-    "Metascore": "6",
-    "imdbRating": "3.4",
-    "imdbVotes": "29,761",
-    "imdbID": "tt13186306",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Rich Lee"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=d9erkpdh5o0",
+    "TMDb_ID": 755898
 }

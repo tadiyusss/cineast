@@ -1,36 +1,81 @@
 {
     "Title": "The Ewok Adventure",
     "Year": "1984",
-    "Rated": "TV-G",
-    "Released": "25 Nov 1984",
-    "Runtime": "96 min",
-    "Genre": "Adventure, Family, Fantasy",
-    "Director": "John Korty",
-    "Writer": "George Lucas, Bob Carrau",
-    "Actors": "Eric Walker, Warwick Davis, Fionnula Flanagan",
     "Plot": "Wicket the Ewok and his friends agree to help two shipwrecked human children, Mace and Cindel, on a quest to find their parents.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "TV-G",
+    "Runtime": "96 min",
+    "Genre": "Adventure, Family, Fantasy",
+    "Director": "John Korty",
+    "Actors": "Eric Walker, Warwick Davis, Fionnula Flanagan",
     "Awards": "Won 1 Primetime Emmy. 1 win & 1 nomination total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BY2E1MDRkMTUtOWFlMy00Y2U0LWJlNGEtMTc2NWU1Y2EwMzUwXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0087225",
+    "imdbRating": "5.3",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.9,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BY2E1MDRkMTUtOWFlMy00Y2U0LWJlNGEtMTc2NWU1Y2EwMzUwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/4GrECLKaJhYA6ooSTOG0XEuPnSl.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/zLzKQqpI4MJ99GRFNYl0r1zm6Gt.jpg",
+        "https://image.tmdb.org/t/p/w500/qGv5T4TOGvYiDFOo1YbXLuKWnOI.jpg",
+        "https://image.tmdb.org/t/p/w500/yOzqmvFf1O5Wpkqx79YH4hzCfpn.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.3/10"
+            "name": "Eric Walker",
+            "character": "Mace Towani",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gYgfFkrXbkCh1hilYLqzJDp2ZKP.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "39%"
+            "name": "Warwick Davis",
+            "character": "Wicket W. Warrick",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vUwjgAYcBEcCv0OVAN00qUUXX3V.jpg"
+        },
+        {
+            "name": "Fionnula Flanagan",
+            "character": "Catarine Towani",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ee3vqFhrmKMRsqqHFLm1rcwGE93.jpg"
+        },
+        {
+            "name": "Guy Boyd",
+            "character": "Jeremitt Towani",
+            "profile_url": "https://image.tmdb.org/t/p/w500/naVCBAb6GRUmYCXVreEECUetHYv.jpg"
+        },
+        {
+            "name": "Aubree Miller",
+            "character": "Cindel Towani",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pidg9iw4FwWhUi1HWTwje84z9lO.jpg"
+        },
+        {
+            "name": "Daniel Frishman",
+            "character": "Deej Warrick",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wbz8f9fMV3O5QutlY7fSXDFYJ5Q.jpg"
+        },
+        {
+            "name": "Debbie Lee Carrington",
+            "character": "Weechee Warrick",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zcNAFlhFIVMaaNQjv2qS9pS112s.jpg"
+        },
+        {
+            "name": "Tony Cox",
+            "character": "Widdle Warrick",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sbZS0gxvRsAIgHxIEL8STINpn7u.jpg"
+        },
+        {
+            "name": "Pam Grizz",
+            "character": "Shodu Warrick",
+            "profile_url": null
+        },
+        {
+            "name": "Kevin Thompson",
+            "character": "Chukha-Trok",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hhJNd4If3wWmhlKV1MLkDpWA6E5.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.3",
-    "imdbVotes": "13,046",
-    "imdbID": "tt0087225",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "John Korty"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=HenB3gt6SAY",
+    "TMDb_ID": 1884
 }

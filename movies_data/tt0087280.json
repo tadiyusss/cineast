@@ -1,40 +1,77 @@
 {
     "Title": "The Element of Crime",
     "Year": "1984",
-    "Rated": "Not Rated",
-    "Released": "14 May 1984",
-    "Runtime": "104 min",
-    "Genre": "Crime, Drama, Thriller",
-    "Director": "Lars von Trier",
-    "Writer": "Lars von Trier, Niels Vørsel, William Quarshie",
-    "Actors": "Michael Elphick, Esmond Knight, Me Me Lai",
     "Plot": "A cop in a dystopian Europe investigates a serial killings suspect using controversial methods written by his now disgraced former mentor.",
     "Language": "English, Arabic, German",
     "Country": "Denmark",
+    "Rated": "Not Rated",
+    "Runtime": "104 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Lars von Trier",
+    "Actors": "Michael Elphick, Esmond Knight, Me Me Lai",
     "Awards": "12 wins & 3 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNWZhMDE0MzctZDllNC00ZmM1LWJhYTYtZmMwYjRmMDExMGVhXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0087280",
+    "imdbRating": "6.7",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.369,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNWZhMDE0MzctZDllNC00ZmM1LWJhYTYtZmMwYjRmMDExMGVhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/sfg5KUOdR4bfoPiDf63LVG7mlfw.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.7/10"
+            "name": "Michael Elphick",
+            "character": "Fisher",
+            "profile_url": "https://image.tmdb.org/t/p/w500/otQhbUmgPUKc5u2HYPjtVALuy89.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "83%"
+            "name": "Esmond Knight",
+            "character": "Osborne",
+            "profile_url": "https://image.tmdb.org/t/p/w500/czwSqQgBDb8WpCpppeFrOn0JD8r.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "66/100"
+            "name": "Me Me Lai",
+            "character": "Kim",
+            "profile_url": "https://image.tmdb.org/t/p/w500/iHqEcia3V3xTDhxa3nrLzEgEoQC.jpg"
+        },
+        {
+            "name": "Jerold Wells",
+            "character": "Kramer",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1HL6FlXxVL4J9ZsV6DWd88IleeP.jpg"
+        },
+        {
+            "name": "Ahmed El Shenawi",
+            "character": "Therapist",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9KSrNjOkfxl6qnxQNZzBIcJPFXA.jpg"
+        },
+        {
+            "name": "Astrid Henning-Jensen",
+            "character": "House Keeper",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wSbf3ChBjl8CRGY67h2m2aOsv2y.jpg"
+        },
+        {
+            "name": "Janos Hersko",
+            "character": "Coroner",
+            "profile_url": null
+        },
+        {
+            "name": "Stig Larsson",
+            "character": "Coroner's Assistant",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wTVG2E2RlFSEeNYVustrs46Plmv.jpg"
+        },
+        {
+            "name": "Harry Harper",
+            "character": "Portier 1",
+            "profile_url": null
+        },
+        {
+            "name": "Roman Moszkowicz",
+            "character": "Portier 2",
+            "profile_url": null
         }
     ],
-    "Metascore": "66",
-    "imdbRating": "6.7",
-    "imdbVotes": "11,606",
-    "imdbID": "tt0087280",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Lars von Trier"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=yWb81mBw6XE",
+    "TMDb_ID": 9063
 }

@@ -1,40 +1,82 @@
 {
     "Title": "Shakespeare in Love",
     "Year": "1998",
-    "Rated": "R",
-    "Released": "08 Jan 1999",
-    "Runtime": "123 min",
-    "Genre": "Comedy, Drama, History",
-    "Director": "John Madden",
-    "Writer": "Marc Norman, Tom Stoppard",
-    "Actors": "Gwyneth Paltrow, Joseph Fiennes, Geoffrey Rush",
     "Plot": "History's greatest playwright is young, out of ideas and short of cash, but meets his ideal woman and is inspired to write one of his most famous plays.",
     "Language": "English",
     "Country": "United Kingdom, United States",
+    "Rated": "R",
+    "Runtime": "123 min",
+    "Genre": "Comedy, Drama, History",
+    "Director": "John Madden",
+    "Actors": "Gwyneth Paltrow, Joseph Fiennes, Geoffrey Rush",
     "Awards": "Won 7 Oscars. 65 wins & 87 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYmM3MTllNzYtN2MzNS00NWQwLTk0NTEtNjY1MmMwYjNkNTE5XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0138097",
+    "imdbRating": "7.1",
+    "BoxOffice": "$100,317,794",
+    "TMDb_Rating": 6.843,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYmM3MTllNzYtN2MzNS00NWQwLTk0NTEtNjY1MmMwYjNkNTE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/2U5PTkyxjP8JJMIRCTAtqgzZ0kh.jpg",
+        "https://image.tmdb.org/t/p/w500/fywJ6JdG3R6wRzR43yYQzOwW0T6.jpg",
+        "https://image.tmdb.org/t/p/w500/sckmqSz9bCuCzyGO3zD4uWtL2BH.jpg",
+        "https://image.tmdb.org/t/p/w500/b7sVklEPXerKEZFkn2XSQ8EL650.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.1/10"
+            "name": "Joseph Fiennes",
+            "character": "Will Shakespeare",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sg5Z7nTvEPBqDKULvGXWzJRbnrU.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "92%"
+            "name": "Gwyneth Paltrow",
+            "character": "Viola De Lesseps",
+            "profile_url": "https://image.tmdb.org/t/p/w500/alLfgUJcSm2USn7BnG6Y7e9Znpr.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "87/100"
+            "name": "Geoffrey Rush",
+            "character": "Philip Henslowe",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4zQuC1j0p7HkJlfuT8aJoyZAgQm.jpg"
+        },
+        {
+            "name": "Tom Wilkinson",
+            "character": "Hugh Fennyman",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xSUohQDXuepOU2nSqtDj2us5RZo.jpg"
+        },
+        {
+            "name": "Judi Dench",
+            "character": "Queen Elizabeth",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cpna5VGvAxuKuC31xJPBKy9zbnv.jpg"
+        },
+        {
+            "name": "Imelda Staunton",
+            "character": "Nurse",
+            "profile_url": "https://image.tmdb.org/t/p/w500/96LYLMnUOWZ4DFXEeQPItNsxzEP.jpg"
+        },
+        {
+            "name": "Colin Firth",
+            "character": "Lord Wessex",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+        },
+        {
+            "name": "Ben Affleck",
+            "character": "Ned Alleyn",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+        },
+        {
+            "name": "Simon Callow",
+            "character": "Tilney",
+            "profile_url": "https://image.tmdb.org/t/p/w500/no6qlnMrWeUzSt1FjD2Vf9x992e.jpg"
+        },
+        {
+            "name": "Steven Beard",
+            "character": "Makepeace",
+            "profile_url": null
         }
     ],
-    "Metascore": "87",
-    "imdbRating": "7.1",
-    "imdbVotes": "240,389",
-    "imdbID": "tt0138097",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$100,317,794",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "John Madden"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=_CxNF4eA6yw",
+    "TMDb_ID": 1934
 }

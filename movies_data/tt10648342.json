@@ -1,40 +1,83 @@
 {
     "Title": "Thor: Love and Thunder",
     "Year": "2022",
-    "Rated": "PG-13",
-    "Released": "08 Jul 2022",
-    "Runtime": "118 min",
-    "Genre": "Action, Adventure, Comedy",
-    "Director": "Taika Waititi",
-    "Writer": "Taika Waititi, Jennifer Kaytin Robinson, Stan Lee",
-    "Actors": "Chris Hemsworth, Natalie Portman, Christian Bale",
     "Plot": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
     "Language": "English",
     "Country": "Australia, United States",
+    "Rated": "PG-13",
+    "Runtime": "118 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Taika Waititi",
+    "Actors": "Chris Hemsworth, Natalie Portman, Christian Bale",
     "Awards": "4 wins & 21 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt10648342",
+    "imdbRating": "6.1",
+    "BoxOffice": "$343,256,830",
+    "TMDb_Rating": 6.393,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/6eFDnvpsgPMrxcVnLCM12rBv8Fk.jpg",
+        "https://image.tmdb.org/t/p/w500/jSmmEkWh30eRDiNhZV7aTKFfLbi.jpg",
+        "https://image.tmdb.org/t/p/w500/mU3DC4DvAjekDWj29krN7lZEy60.jpg",
+        "https://image.tmdb.org/t/p/w500/qB3HdCZKHWU33k9QYTIZaM4v5qo.jpg",
+        "https://image.tmdb.org/t/p/w500/nXtxphwsJXGrIUBfMwXGXcdxFGF.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.1/10"
+            "name": "Chris Hemsworth",
+            "character": "Thor",
+            "profile_url": "https://image.tmdb.org/t/p/w500/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "63%"
+            "name": "Natalie Portman",
+            "character": "Jane Foster / The Mighty Thor",
+            "profile_url": "https://image.tmdb.org/t/p/w500/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "57/100"
+            "name": "Christian Bale",
+            "character": "Gorr",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+        },
+        {
+            "name": "Tessa Thompson",
+            "character": "King Valkyrie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ewRWXNfS3ehaalCQtvHCa7BhibC.jpg"
+        },
+        {
+            "name": "Taika Waititi",
+            "character": "Korg / Old Kronan God (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aH6MgwFhomAPNBRPyO2fhpU5kbk.jpg"
+        },
+        {
+            "name": "Russell Crowe",
+            "character": "Zeus",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fbzD4utSGJlsV8XbYMLoMdEZ1Fc.jpg"
+        },
+        {
+            "name": "Jaimie Alexander",
+            "character": "Sif",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2lo29bgiQS6hWcLI81XkRAorKoy.jpg"
+        },
+        {
+            "name": "Idris Elba",
+            "character": "Heimdall",
+            "profile_url": "https://image.tmdb.org/t/p/w500/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+        },
+        {
+            "name": "Chris Pratt",
+            "character": "Peter Quill / Star-Lord",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+        },
+        {
+            "name": "Dave Bautista",
+            "character": "Drax",
+            "profile_url": "https://image.tmdb.org/t/p/w500/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
         }
     ],
-    "Metascore": "57",
-    "imdbRating": "6.1",
-    "imdbVotes": "443,961",
-    "imdbID": "tt10648342",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$343,256,830",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Taika Waititi"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=Go8nTmfrQd8",
+    "TMDb_ID": 616037
 }

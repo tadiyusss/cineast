@@ -1,32 +1,81 @@
 {
     "Title": "War of the Worlds: The Attack",
     "Year": "2023",
-    "Rated": "Not Rated",
-    "Released": "21 Apr 2023",
-    "Runtime": "85 min",
-    "Genre": "Horror, Sci-Fi, Thriller",
-    "Director": "Junaid Syed",
-    "Writer": "Junaid Syed, Tom Jolliffe",
-    "Actors": "Sam Gittins, Leo Staar, Vincent Regan",
     "Plot": "The adventures of 3 young astronomers and their fight to survive a deadly Martian invasion.",
     "Language": "English, French, German, Italian, Polish, Spanish",
     "Country": "United Kingdom, Canada",
+    "Rated": "Not Rated",
+    "Runtime": "85 min",
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Director": "Junaid Syed",
+    "Actors": "Sam Gittins, Leo Staar, Vincent Regan",
     "Awards": "1 win total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTljY2MxNjgtOWM4Mi00NjAwLTk1ZGEtMWJjNWUxNjcyMWFiXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt12519802",
+    "imdbRating": "3.2",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 4.995,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTljY2MxNjgtOWM4Mi00NjAwLTk1ZGEtMWJjNWUxNjcyMWFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/wtar1NytLPRnd8hlwspeRRW5NVm.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/aTPDl077BXSUquPLfNDppGJrJXT.jpg",
+        "https://image.tmdb.org/t/p/w500/hZ1ERAHlkIwSfa04luOhD8oLN8u.jpg",
+        "https://image.tmdb.org/t/p/w500/n8104WCIBO4buSMh60kDg0EzApM.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "3.2/10"
+            "name": "Sam Gittins",
+            "character": "Herbert",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ofqq4fxHXxo2bmku9ATP67CsRIq.jpg"
+        },
+        {
+            "name": "Leo Staar",
+            "character": "Ben (The Artillery Man)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zMHbpVMyrdR8uQo1bKH4og7NmFu.jpg"
+        },
+        {
+            "name": "Vincent Regan",
+            "character": "Curate",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7VHu79GciN5QlQTmWdBS86eE2mu.jpg"
+        },
+        {
+            "name": "Alhaji Fofana",
+            "character": "Ogilvy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5YGBeoDAN4sFlMcBFGvggz8DvVN.jpg"
+        },
+        {
+            "name": "Lara Lemon",
+            "character": "Hannah",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mfifNyf7BCFR9W8UGnXQflgthQb.jpg"
+        },
+        {
+            "name": "Kathi deCouto",
+            "character": "Dr. Stint",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5NhwJu0E09OiZXFb3eYEo8OXshJ.jpg"
+        },
+        {
+            "name": "Frances Mather",
+            "character": "Ellie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sKdEx5KkaE9qQZdes1D4MGQ9NQH.jpg"
+        },
+        {
+            "name": "Fredi 'Kruga' Nwaka",
+            "character": "Sergeant",
+            "profile_url": "https://image.tmdb.org/t/p/w500/41ZIIraCX5DxEeSshTDjFLorSu.jpg"
+        },
+        {
+            "name": "Darren Tassell",
+            "character": "Lieutenant",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gvQYFcNKPke75tVEt7qNKI3zIZ5.jpg"
+        },
+        {
+            "name": "Rosie Steel",
+            "character": "News Reporter",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zAE4o1kft0QgvKkrAVs2nldqEp2.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "3.2",
-    "imdbVotes": "3,294",
-    "imdbID": "tt12519802",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Junaid Syed"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=5BCzlUXIpGo",
+    "TMDb_ID": 1103825
 }

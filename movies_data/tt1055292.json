@@ -1,40 +1,80 @@
 {
     "Title": "Life as We Know It",
     "Year": "2010",
-    "Rated": "PG-13",
-    "Released": "08 Oct 2010",
-    "Runtime": "114 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Greg Berlanti",
-    "Writer": "Ian Deitchman, Kristin Rusk Robinson",
-    "Actors": "Katherine Heigl, Josh Duhamel, Josh Lucas",
     "Plot": "Two single adults become caregivers to an orphaned girl when their mutual best friends die in an accident.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG-13",
+    "Runtime": "114 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Greg Berlanti",
+    "Actors": "Katherine Heigl, Josh Duhamel, Josh Lucas",
     "Awards": "2 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc1OTQzNzE0Nl5BMl5BanBnXkFtZTcwNDU4NDk3Mw@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt1055292",
+    "imdbRating": "6.5",
+    "BoxOffice": "$53,374,681",
+    "TMDb_Rating": 6.903,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTc1OTQzNzE0Nl5BMl5BanBnXkFtZTcwNDU4NDk3Mw@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/zLzS2aOqKsS0QvEaY6SfBw4VBqh.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/rExyUFFYJ8Vgb69zKvs9rNgi3Rj.jpg",
+        "https://image.tmdb.org/t/p/w500/rPdVPuTf3gX9WJyd5WQ4K8GYvVY.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.5/10"
+            "name": "Katherine Heigl",
+            "character": "Holly Berenson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hjtNdbdy1qn25y5SGl71y8nR0Kg.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "29%"
+            "name": "Josh Duhamel",
+            "character": "Eric Messer",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5Rp9aeWdN2S623KCjwfii9MhDK1.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "39/100"
+            "name": "Josh Lucas",
+            "character": "Sam",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ueR4CH32f22DGjFxuhnW1o3YKB3.jpg"
+        },
+        {
+            "name": "Alexis Clagett",
+            "character": "Sophie",
+            "profile_url": null
+        },
+        {
+            "name": "Brynn Clagett",
+            "character": "Sophie",
+            "profile_url": null
+        },
+        {
+            "name": "Brooke Clagett",
+            "character": "Sophie",
+            "profile_url": null
+        },
+        {
+            "name": "Hayes MacArthur",
+            "character": "Peter Novak",
+            "profile_url": "https://image.tmdb.org/t/p/w500/h34sUP8iKK2tGo2swK8muHjEsHA.jpg"
+        },
+        {
+            "name": "Christina Hendricks",
+            "character": "Alison Novack",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fqQWrKDhOTAPjjNTHSU4tBfq5NJ.jpg"
+        },
+        {
+            "name": "Sarah Burns",
+            "character": "Janine Groff",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jiugINKLg7JHTHknwpXTVapZaQD.jpg"
+        },
+        {
+            "name": "Jessica St. Clair",
+            "character": "Beth",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lKIgq19oEx5ashQFF3QRYwMx0wz.jpg"
         }
     ],
-    "Metascore": "39",
-    "imdbRating": "6.5",
-    "imdbVotes": "142,715",
-    "imdbID": "tt1055292",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$53,374,681",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Greg Berlanti"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=ZNSeUYw95NY",
+    "TMDb_ID": 38408
 }

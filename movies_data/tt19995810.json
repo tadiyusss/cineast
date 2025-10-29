@@ -1,32 +1,32 @@
 {
     "Title": "Katt Williams: World War III",
     "Year": "2022",
-    "Rated": "N/A",
-    "Released": "17 May 2022",
-    "Runtime": "59 min",
-    "Genre": "Comedy",
-    "Director": "Katt Williams",
-    "Writer": "N/A",
-    "Actors": "Katt Williams",
     "Plot": "Katt Williams riffs on truth, lies, chicken wing shortages and the war on drugs in this electrifying stand-up special filmed in Las Vegas.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "N/A",
+    "Runtime": "59 min",
+    "Genre": "Comedy",
+    "Director": "Katt Williams",
+    "Actors": "Katt Williams",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDUzZTMxZGItOGZiYi00MTkzLWFhNmUtYTM1M2Y5YWNkZTMwXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt19995810",
+    "imdbRating": "5.0",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.0,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNDUzZTMxZGItOGZiYi00MTkzLWFhNmUtYTM1M2Y5YWNkZTMwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/obDfChGefhUU1jA7CGWuVTRkriO.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.0/10"
+            "name": "Katt Williams",
+            "character": "Self",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bMz1OCDMC0MyLob6KIf5X3MS23m.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.0",
-    "imdbVotes": "872",
-    "imdbID": "tt19995810",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Katt Williams"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 972009
 }

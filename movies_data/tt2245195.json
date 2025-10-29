@@ -1,40 +1,63 @@
 {
     "Title": "The History of Future Folk",
     "Year": "2012",
-    "Rated": "Not Rated",
-    "Released": "31 May 2013",
-    "Runtime": "86 min",
-    "Genre": "Comedy, Music, Sci-Fi",
-    "Director": "John Mitchell, Jeremy Kipp Walker",
-    "Writer": "John Mitchell",
-    "Actors": "Nils d'Aulaire, Jay Klaitz, Julie Ann Emery",
     "Plot": "The possibly exaggerated origin story of the real life alien bluegrass band, Future Folk, that has been playing for NYC audiences for the better part of a decade.",
     "Language": "English, Spanish",
     "Country": "United States",
+    "Rated": "Not Rated",
+    "Runtime": "86 min",
+    "Genre": "Comedy, Music, Sci-Fi",
+    "Director": "John Mitchell, Jeremy Kipp Walker",
+    "Actors": "Nils d'Aulaire, Jay Klaitz, Julie Ann Emery",
     "Awards": "2 wins & 2 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzA3MDI3MzAxMl5BMl5BanBnXkFtZTcwNDY2Mjc0OQ@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt2245195",
+    "imdbRating": "7.1",
+    "BoxOffice": "$17,646",
+    "TMDb_Rating": 6.6,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNzA3MDI3MzAxMl5BMl5BanBnXkFtZTcwNDY2Mjc0OQ@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/cJHq7n8fl6p5tY0Jr6GQ2uoO0rR.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.1/10"
+            "name": "Nils d'Aulaire",
+            "character": "Bill / General Trius",
+            "profile_url": null
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "93%"
+            "name": "Jay Klaitz",
+            "character": "Kevin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6xbKRKPwFrpvfumuExHBAPDw7Ld.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "67/100"
+            "name": "Julie Ann Emery",
+            "character": "Holly",
+            "profile_url": "https://image.tmdb.org/t/p/w500/A29Nmt41IREXVNMk02cCxN9Ba6i.jpg"
+        },
+        {
+            "name": "April Hernandez Castillo",
+            "character": "Carmen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lElddc3ZK3XYrgfg5SkxrLYhvmm.jpg"
+        },
+        {
+            "name": "Dee Snider",
+            "character": "Larry",
+            "profile_url": null
+        },
+        {
+            "name": "Onata Aprile",
+            "character": "Wren",
+            "profile_url": "https://image.tmdb.org/t/p/w500/iIavfnn9AZUQeN4wWs2C7w0HUmG.jpg"
+        },
+        {
+            "name": "Liz Logan",
+            "character": "Bar Patron (uncredited)",
+            "profile_url": null
         }
     ],
-    "Metascore": "67",
-    "imdbRating": "7.1",
-    "imdbVotes": "3,739",
-    "imdbID": "tt2245195",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$17,646",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Jeremy Kipp Walker",
+        "John Mitchell"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 115199
 }

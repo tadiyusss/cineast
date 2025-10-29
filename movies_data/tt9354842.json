@@ -1,40 +1,79 @@
 {
     "Title": "To All the Boys: P.S. I Still Love You",
     "Year": "2020",
-    "Rated": "TV-14",
-    "Released": "12 Feb 2020",
-    "Runtime": "101 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Michael Fimognari",
-    "Writer": "Sofia Alvarez, J. Mills Goodloe, Jenny Han",
-    "Actors": "Lana Condor, Noah Centineo, Jordan Fisher",
     "Plot": "Lara Jean and Peter have just taken their relationship from pretend to officially official when another recipient of one of her old love letters enters the picture.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "TV-14",
+    "Runtime": "101 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Michael Fimognari",
+    "Actors": "Lana Condor, Noah Centineo, Jordan Fisher",
     "Awards": "2 wins & 4 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZGVlMGUwNmYtZjY2YS00NGUwLWE2NjYtZThlMzVjMzRkYjM0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt9354842",
+    "imdbRating": "6.1",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.821,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZGVlMGUwNmYtZjY2YS00NGUwLWE2NjYtZThlMzVjMzRkYjM0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/maib5VlmEqp5xlN8lptnBSftp2o.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/8odvaJDa7dHuKj5QMsIRmJOBSAl.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.1/10"
+            "name": "Lana Condor",
+            "character": "Lara Jean Song Covey",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vWn27Fk2GLwH7o9fBG9hBWZI6OR.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "78%"
+            "name": "Noah Centineo",
+            "character": "Peter Kavinsky",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kXLuzSWRqM2P45uNcgb0v3H8dnE.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "54/100"
+            "name": "Jordan Fisher",
+            "character": "John Ambrose McClaren",
+            "profile_url": "https://image.tmdb.org/t/p/w500/un93GYC6nqUBhfkisMGsdefj8Oe.jpg"
+        },
+        {
+            "name": "Anna Cathcart",
+            "character": "Katherine \"Kitty\" Song Covey",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fdWbljGWJ0T9ViOYB3BohnArM16.jpg"
+        },
+        {
+            "name": "John Corbett",
+            "character": "Daniel Covey",
+            "profile_url": "https://image.tmdb.org/t/p/w500/iXKGteGZA3VTh88LBw4pXJY6cam.jpg"
+        },
+        {
+            "name": "Sarayu Blue",
+            "character": "Trina Rothschild",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zW1G9wSJ03iaSDToFxkMJaqGZLs.jpg"
+        },
+        {
+            "name": "Janel Parrish",
+            "character": "Margot Song Covey",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2MZ3c8rnLC8E1mrOXVZ0v1bi7BR.jpg"
+        },
+        {
+            "name": "Ross Butler",
+            "character": "Trevor Pike",
+            "profile_url": "https://image.tmdb.org/t/p/w500/asJ1bchERNBwcWS3Do7xSaYNOmX.jpg"
+        },
+        {
+            "name": "Madeleine Arthur",
+            "character": "Christine",
+            "profile_url": "https://image.tmdb.org/t/p/w500/balTrtammgoeWzhEUoqr6JWxElt.jpg"
+        },
+        {
+            "name": "Emilija Baranac",
+            "character": "Genevieve",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bofw9vHH3dkmfdy1vUNBdIlVu5w.jpg"
         }
     ],
-    "Metascore": "54",
-    "imdbRating": "6.1",
-    "imdbVotes": "51,567",
-    "imdbID": "tt9354842",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Michael Fimognari"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=LIU4xb61PHc",
+    "TMDb_ID": 565426
 }

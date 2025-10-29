@@ -1,36 +1,80 @@
 {
     "Title": "Justice Society: World War II",
     "Year": "2021",
-    "Rated": "PG-13",
-    "Released": "27 Apr 2021",
-    "Runtime": "84 min",
-    "Genre": "Animation, Action, Adventure",
-    "Director": "Jeff Wamester",
-    "Writer": "Jeremy Adams, Meghan Fitzmartin",
-    "Actors": "Stana Katic, Matt Bomer, Omid Abtahi",
     "Plot": "The Justice Society of America, a group of heroes aiding the allies in World War 2, acquire an ally from the future who sends them on an adventure that changes history.",
     "Language": "English, Latin, French, German",
     "Country": "United States",
+    "Rated": "PG-13",
+    "Runtime": "84 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Jeff Wamester",
+    "Actors": "Stana Katic, Matt Bomer, Omid Abtahi",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZjFkN2E5MWEtNjJjYy00Nzk3LTg0YzEtN2U5ZmM1YzdiMTczXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt13804084",
+    "imdbRating": "6.4",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.391,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZjFkN2E5MWEtNjJjYy00Nzk3LTg0YzEtN2U5ZmM1YzdiMTczXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/tOUJvmdjppmPYZOoykWmerSspMT.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/hcVvlb1Ei1zYUGoiv3fp3fWonqt.jpg",
+        "https://image.tmdb.org/t/p/w500/aUa3L3lz1H0yAUw57t3BFCyxhVV.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.4/10"
+            "name": "Stana Katic",
+            "character": "Wonder Woman / Diana Prince (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4Kw0xJTzRc4VPfOVlaMr7OTfvN2.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "76%"
+            "name": "Matt Bomer",
+            "character": "The Flash / Barry Allen (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oxL27Z3XtjoABaOynKazZeg7qKM.jpg"
+        },
+        {
+            "name": "Chris Diamantopoulos",
+            "character": "Steve Trevor (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oenBtpk0RTId4wacQKYU4cPcq8Z.jpg"
+        },
+        {
+            "name": "Darren Criss",
+            "character": "Superman / Clark Kent (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kqdhJuaHjgeVcnmA9DwWEIMdtBb.jpg"
+        },
+        {
+            "name": "Elysia Rotaru",
+            "character": "Black Canary (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fqrrrmc91VmLKQu7y4cW26YQKzh.jpg"
+        },
+        {
+            "name": "Omid Abtahi",
+            "character": "Hawkman (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/d4Itot5Khq2tIU2KKL3jFGBBACL.jpg"
+        },
+        {
+            "name": "Armen Taylor",
+            "character": "Jay Garrick / Flash (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3si7GEmEl58PYZ8msDH08ukYR08.jpg"
+        },
+        {
+            "name": "Matthew Mercer",
+            "character": "Hourman (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fe1S317253vfMuNuIDjhp9vtNSs.jpg"
+        },
+        {
+            "name": "Liam McIntyre",
+            "character": "Aquaman (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vTw11F1awNW8AlxInljEsK96cNB.jpg"
+        },
+        {
+            "name": "Geoffrey Arend",
+            "character": "Advisor / Charles Halstead (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bpqF3V5lK5GxuIU4VuTaVaztIvw.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.4",
-    "imdbVotes": "10,126",
-    "imdbID": "tt13804084",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Jeff Wamester"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=s4xXbGFhEFg",
+    "TMDb_ID": 736069
 }

@@ -1,40 +1,77 @@
 {
     "Title": "Lara Croft: Tomb Raider - The Cradle of Life",
     "Year": "2003",
-    "Rated": "PG-13",
-    "Released": "25 Jul 2003",
-    "Runtime": "117 min",
-    "Genre": "Action, Adventure, Fantasy",
-    "Director": "Jan de Bont",
-    "Writer": "Dean Georgaris, Steven E. de Souza, James V. Hart",
-    "Actors": "Angelina Jolie, Gerard Butler, Chris Barrie",
     "Plot": "Lara Croft sets out on a quest to prevent Pandora's box from landing into the wrong hands.",
     "Language": "English, Mandarin, Swahili, Greek, Russian",
     "Country": "United States, Germany, Japan, United Kingdom, Hong Kong",
+    "Rated": "PG-13",
+    "Runtime": "117 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Jan de Bont",
+    "Actors": "Angelina Jolie, Gerard Butler, Chris Barrie",
     "Awards": "1 win & 3 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZjM4NzNiNDktOTlhMi00MjVkLTg0NGYtZTQ4MmVmMDNiY2ZlXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0325703",
+    "imdbRating": "5.5",
+    "BoxOffice": "$65,660,196",
+    "TMDb_Rating": 5.754,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZjM4NzNiNDktOTlhMi00MjVkLTg0NGYtZTQ4MmVmMDNiY2ZlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/ylIEGeAr2ygSClK4FDj9mi2Ah22.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.5/10"
+            "name": "Angelina Jolie",
+            "character": "Lara Croft",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "24%"
+            "name": "Gerard Butler",
+            "character": "Terry Sheridan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rTO5opVC3Gs6hPYAxWSP9eEjogi.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "43/100"
+            "name": "Ciarán Hinds",
+            "character": "Jonathan Reiss",
+            "profile_url": "https://image.tmdb.org/t/p/w500/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+        },
+        {
+            "name": "Chris Barrie",
+            "character": "Hillary",
+            "profile_url": "https://image.tmdb.org/t/p/w500/210iRxlqUWjCulX9HhkywDuG1dR.jpg"
+        },
+        {
+            "name": "Noah Taylor",
+            "character": "Bryce",
+            "profile_url": "https://image.tmdb.org/t/p/w500/i6yQ74pzjmQKE1f3br1LeZloWN1.jpg"
+        },
+        {
+            "name": "Djimon Hounsou",
+            "character": "Kosa",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+        },
+        {
+            "name": "Til Schweiger",
+            "character": "Sean",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3Jk7y4sKgckrN9RzAAt0drlR0QG.jpg"
+        },
+        {
+            "name": "Simon Yam",
+            "character": "Chen Lo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eilxjMhfobctnzZ0kBcFmnqtFyd.jpg"
+        },
+        {
+            "name": "Terence Yin Chi-Wai",
+            "character": "Xien",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oMM2WF0hqqel4OJJMyUHZW9feT6.jpg"
+        },
+        {
+            "name": "Daniel Caltagirone",
+            "character": "Nicholas Petraki",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2LUz4M9PVRxMePqJ74hP05Wdwi3.jpg"
         }
     ],
-    "Metascore": "43",
-    "imdbRating": "5.5",
-    "imdbVotes": "149,289",
-    "imdbID": "tt0325703",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$65,660,196",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Jan de Bont"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=G4bhBabn-wU",
+    "TMDb_ID": 1996
 }

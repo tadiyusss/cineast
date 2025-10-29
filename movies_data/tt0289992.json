@@ -1,40 +1,83 @@
 {
     "Title": "The Life of David Gale",
     "Year": "2003",
-    "Rated": "R",
-    "Released": "21 Feb 2003",
-    "Runtime": "130 min",
-    "Genre": "Crime, Drama, Mystery",
-    "Director": "Alan Parker",
-    "Writer": "Charles Randolph",
-    "Actors": "Kevin Spacey, Kate Winslet, Laura Linney",
     "Plot": "A man against capital punishment is accused of murdering a fellow activist and is sent to death row.",
     "Language": "English, Spanish",
     "Country": "United Kingdom, Germany, United States",
+    "Rated": "R",
+    "Runtime": "130 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "Alan Parker",
+    "Actors": "Kevin Spacey, Kate Winslet, Laura Linney",
     "Awards": "3 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTAxMzU0NTgxNzZeQTJeQWpwZ15BbWU2MDQzNDkxNw@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0289992",
+    "imdbRating": "7.5",
+    "BoxOffice": "$19,955,598",
+    "TMDb_Rating": 7.4,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTAxMzU0NTgxNzZeQTJeQWpwZ15BbWU2MDQzNDkxNw@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/7tcAvE82JyxIi79cwQV5br90KVz.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/uoxGJkZ0k5AGb1XZcxGsv35POxX.jpg",
+        "https://image.tmdb.org/t/p/w500/5sKfNtW6zbsT5NukP2u7dXLjDKD.jpg",
+        "https://image.tmdb.org/t/p/w500/pW40DMjbXi8Lx0WLeJAhRImksXk.jpg",
+        "https://image.tmdb.org/t/p/w500/oK46xCaTLkAQDJ7IJYAf6aLz9Xc.jpg",
+        "https://image.tmdb.org/t/p/w500/j84FMr9QPT7OFtIMnUb0VG3b0mv.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.5/10"
+            "name": "Kevin Spacey",
+            "character": "David Gale",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "19%"
+            "name": "Kate Winslet",
+            "character": "Bitsey Bloom",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cPRq7uH3PIFcHilP15BrMKunink.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "31/100"
+            "name": "Laura Linney",
+            "character": "Constance Hallaway",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ztQXGmNLzhDV22rAvcXzCG4d0cy.jpg"
+        },
+        {
+            "name": "Rhona Mitra",
+            "character": "Berlin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uF0VkXQUQuUjqU3RgdilrCuuWEv.jpg"
+        },
+        {
+            "name": "Gabriel Mann",
+            "character": "Zack Stemmons",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mrqiMfwoQnLBGGP3zvfHrwPKHJW.jpg"
+        },
+        {
+            "name": "Matt Craven",
+            "character": "Dusty Wright",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tWF8B3Dj7zvKRmkTplp7ice6Wo9.jpg"
+        },
+        {
+            "name": "Jim Beaver",
+            "character": "Duke Grover",
+            "profile_url": "https://image.tmdb.org/t/p/w500/c3Cqp1XAdcyeUZKkcrdQsPwb010.jpg"
+        },
+        {
+            "name": "Cleo King",
+            "character": "Barbara Kreuster",
+            "profile_url": "https://image.tmdb.org/t/p/w500/teEPJgvrvPrNEh83FdOroNSLJzO.jpg"
+        },
+        {
+            "name": "Leon Rippy",
+            "character": "Braxton Belyeu",
+            "profile_url": "https://image.tmdb.org/t/p/w500/55GaqeKzIwbKBDW9RT1CYIZaUKO.jpg"
+        },
+        {
+            "name": "Melissa McCarthy",
+            "character": "Nico the Goth Girl",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yl0qva0O4u92fvtItakdvKmKrW9.jpg"
         }
     ],
-    "Metascore": "31",
-    "imdbRating": "7.5",
-    "imdbVotes": "130,172",
-    "imdbID": "tt0289992",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$19,955,598",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Alan Parker"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=wRj9IFgs9_g",
+    "TMDb_ID": 11615
 }

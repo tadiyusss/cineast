@@ -1,40 +1,77 @@
 {
     "Title": "A Tourist's Guide to Love",
     "Year": "2023",
-    "Rated": "TV-PG",
-    "Released": "21 Apr 2023",
-    "Runtime": "94 min",
-    "Genre": "Adventure, Comedy, Romance",
-    "Director": "Steven K. Tsuchida",
-    "Writer": "Eirene Donohue",
-    "Actors": "Rachael Leigh Cook, Scott Ly, Ben Feldman",
     "Plot": "An executive goes through an unexpected breakup, then accepting an assignment to go undercover and learn about the tourist industry in Vietnam.",
     "Language": "English, Vietnamese",
     "Country": "United States",
+    "Rated": "TV-PG",
+    "Runtime": "94 min",
+    "Genre": "Adventure, Comedy, Romance",
+    "Director": "Steven K. Tsuchida",
+    "Actors": "Rachael Leigh Cook, Scott Ly, Ben Feldman",
     "Awards": "1 nomination",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BM2U5MGViODMtZWJiZS00YTI0LWJjNjctYmNjODEyZjcxYmQ3XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt20115096",
+    "imdbRating": "5.8",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.3,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BM2U5MGViODMtZWJiZS00YTI0LWJjNjctYmNjODEyZjcxYmQ3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/uWkpjbBe4gRZilXRXbYfsMUZMhz.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.8/10"
+            "name": "Rachael Leigh Cook",
+            "character": "Amanda Riley",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xmKFPYw8OcN7g7B3zU1ZJOVKfqC.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "72%"
+            "name": "Scott Ly",
+            "character": "Sinh Thach",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3AzHImm0oz2xV5mekONhl2zYXVU.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "49/100"
+            "name": "Missi Pyle",
+            "character": "Mona",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lKMPTI0PbPv6kGQiublwHOp73Ff.jpg"
+        },
+        {
+            "name": "Ben Feldman",
+            "character": "John",
+            "profile_url": "https://image.tmdb.org/t/p/w500/neArGlsh50NtcGzUM99Puz6TrFX.jpg"
+        },
+        {
+            "name": "Glynn Sweet",
+            "character": "Brian Conway",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8LcxOL0SDpLC5PDrbkEfcZbbNVi.jpg"
+        },
+        {
+            "name": "Alexa Povah",
+            "character": "Maya Conway",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cxW1H1NVMCM5fTAfX4lFwHNrDyP.jpg"
+        },
+        {
+            "name": "Jacqueline Correa",
+            "character": "Sam Gonville",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bRriSIyfAXLTehIaEPSuNReFdC2.jpg"
+        },
+        {
+            "name": "Nondumiso Tembe",
+            "character": "Dom Fisher",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fGsRGfY4Vf0d1y51cbIgz2zicNE.jpg"
+        },
+        {
+            "name": "Andrew Barth Feldman",
+            "character": "Alex",
+            "profile_url": "https://image.tmdb.org/t/p/w500/17rLE4Q4gKejJp1TsByGnzMpK00.jpg"
+        },
+        {
+            "name": "Morgan Dudley",
+            "character": "Robin",
+            "profile_url": "https://image.tmdb.org/t/p/w500/r1O6cCdQpgpsRwsi0BcUprR7Beq.jpg"
         }
     ],
-    "Metascore": "49",
-    "imdbRating": "5.8",
-    "imdbVotes": "7,667",
-    "imdbID": "tt20115096",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Steven K. Tsuchida"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=0fbsBQ5Le_I",
+    "TMDb_ID": 813726
 }

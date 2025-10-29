@@ -1,36 +1,79 @@
 {
     "Title": "Love Is in the Air",
     "Year": "2023",
-    "Rated": "TV-14",
-    "Released": "28 Sep 2023",
-    "Runtime": "88 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Adrian Powers",
-    "Writer": "Katharine McPhee, Adrian Powers, Caera Bradshaw",
-    "Actors": "Delta Goodrem, Joshua Sasse, Roy Billing",
     "Plot": "A seaplane pilot flying in the tropics finds herself falling for the man sent to sink her business.",
     "Language": "English",
     "Country": "Australia",
+    "Rated": "TV-14",
+    "Runtime": "88 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Adrian Powers",
+    "Actors": "Delta Goodrem, Joshua Sasse, Roy Billing",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BM2RkMGVmZWYtN2UwNS00NzhjLWE5ODktZmJmMWExNzU5MGZhXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt28073548",
+    "imdbRating": "5.6",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.1,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BM2RkMGVmZWYtN2UwNS00NzhjLWE5ODktZmJmMWExNzU5MGZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/cAn1tvopkqATQ0AfV4LK08ReAvp.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/6D2fAWTX0dqab4dHfq5T2pri8Sq.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.6/10"
+            "name": "Delta Goodrem",
+            "character": "Dana Randall",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yWwq6J0MbdUPI2mtrBWvuqpOhYL.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "29%"
+            "name": "Joshua Sasse",
+            "character": "William Mitchell",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hyPkmjkD4AuwMiSr9HZTmAyRWHs.jpg"
+        },
+        {
+            "name": "Roy Billing",
+            "character": "Jeff Randall",
+            "profile_url": "https://image.tmdb.org/t/p/w500/aG6gpPbgG2pp9usJgQRRMFUV3BB.jpg"
+        },
+        {
+            "name": "Steph Tisdell",
+            "character": "Nikki",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1UuCRLqpFI7QPLHf2XIxTpDqP3w.jpg"
+        },
+        {
+            "name": "Simon McLachlan",
+            "character": "Heath",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sONGdcM3LO294Agz9bnPhkSGXQR.jpg"
+        },
+        {
+            "name": "Daniela Pizzirani",
+            "character": "Serena",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uMN8yu2k0FOfvEzXCEVjiT14XFW.jpg"
+        },
+        {
+            "name": "Mia Grunwald",
+            "character": "Michelle",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jdsJdpJPcyDIqs4qclc794G4Gap.jpg"
+        },
+        {
+            "name": "Hugh Parker",
+            "character": "Duncan Mitchell",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2ZlZ3AzvNEVz0jHtGyyDouPZBVu.jpg"
+        },
+        {
+            "name": "Dante Surace",
+            "character": "Lachie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qKHRxg9uDqclCO4HOjctSdJBp5O.jpg"
+        },
+        {
+            "name": "Craig Walker",
+            "character": "Elderly Passenger (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hHvt5Hd4rBoEdxeHb07IjdmH2Wd.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.6",
-    "imdbVotes": "4,594",
-    "imdbID": "tt28073548",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Adrian Powers"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=O2JI6EldneY",
+    "TMDb_ID": 1167725
 }

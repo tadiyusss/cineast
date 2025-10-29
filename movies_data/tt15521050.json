@@ -1,32 +1,79 @@
 {
     "Title": "Love & Gelato",
     "Year": "2022",
-    "Rated": "TV-14",
-    "Released": "22 Jun 2022",
-    "Runtime": "110 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Brandon Camp",
-    "Writer": "Brandon Camp, Jenna Evans Welch",
-    "Actors": "Susanna Skaggs, Tobia De Angelis, Owen McDonnell",
     "Plot": "Lina makes a promise to her sick mother that she'll spend the summer before college in Rome, where she falls for the city, the people - and the \"gelato\".",
     "Language": "English, Italian",
     "Country": "United States",
+    "Rated": "TV-14",
+    "Runtime": "110 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Brandon Camp",
+    "Actors": "Susanna Skaggs, Tobia De Angelis, Owen McDonnell",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjg4NDk1M2MtNWJiZi00NzQzLWE4N2UtNzFhNmVkOTNiMGE0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt15521050",
+    "imdbRating": "5.2",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.407,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYjg4NDk1M2MtNWJiZi00NzQzLWE4N2UtNzFhNmVkOTNiMGE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/AbGBTH3bWaiJpjCOJ9RSoQ9NPRT.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/6M6DAav3I9KbtTxh8DjQjc1yiDf.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.2/10"
+            "name": "Susanna Skaggs",
+            "character": "Lina Emerson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rYoC1Gpg8bId4DJprJQNVQCp2F3.jpg"
+        },
+        {
+            "name": "Tobia De Angelis",
+            "character": "Lorenzo Ferrazza",
+            "profile_url": "https://image.tmdb.org/t/p/w500/Ag3G55hwBBHGhrinfrgaPOq26o4.jpg"
+        },
+        {
+            "name": "Owen McDonnell",
+            "character": "Howard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/766kgsmbiG5hnpTkm8OjNXI89WV.jpg"
+        },
+        {
+            "name": "Valentina Lodovini",
+            "character": "Francesca",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3l2jLSzpHud4mvuTCdHW047exvR.jpg"
+        },
+        {
+            "name": "Saul Nanni",
+            "character": "Alessandro Albani",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5iKcv9AClc8EMGvdujD9WlRL9w9.jpg"
+        },
+        {
+            "name": "Anjelika Washington",
+            "character": "Addie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/94Es7NsV8V6hG8Jx0TJhp0IEkqi.jpg"
+        },
+        {
+            "name": "Alex Boniello",
+            "character": "Fleetwood Zach",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dlTTdjsXJVkgmHyGXTXt5YMVElp.jpg"
+        },
+        {
+            "name": "Luca Seta",
+            "character": "Cosimo Albani",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7Zmaxs8fGkKl3n1LhRIKRkNe2Lc.jpg"
+        },
+        {
+            "name": "Claudia Stecher",
+            "character": "Giorgia",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ArmKhyIjBqs89e0r31tzPqF181B.jpg"
+        },
+        {
+            "name": "Tera Hendrickson",
+            "character": "Italian Priest",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.2",
-    "imdbVotes": "6,827",
-    "imdbID": "tt15521050",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Brandon Camp"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=XIkQFUlBXF0",
+    "TMDb_ID": 968438
 }

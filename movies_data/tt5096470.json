@@ -1,40 +1,77 @@
 {
     "Title": "Love Wedding Repeat",
     "Year": "2020",
-    "Rated": "TV-MA",
-    "Released": "10 Apr 2020",
-    "Runtime": "100 min",
-    "Genre": "Comedy, Romance",
-    "Director": "Dean Craig",
-    "Writer": "Dean Craig, Francis Nief, Christelle Raynal",
-    "Actors": "Sam Claflin, Olivia Munn, Freida Pinto",
     "Plot": "While trying to make his sister's wedding day go smoothly, Jack finds himself juggling an angry ex-girlfriend, an uninvited guest with a secret, a misplaced sleep sedative, and the girl who got away in alternate versions of the sa...",
     "Language": "English",
     "Country": "United Kingdom, Italy",
+    "Rated": "TV-MA",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Dean Craig",
+    "Actors": "Sam Claflin, Olivia Munn, Freida Pinto",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjBkMzYxY2MtOTU4YS00ZjRmLWEzZTItNjVhZWYxOWQ4YjczXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt5096470",
+    "imdbRating": "5.6",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.643,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNjBkMzYxY2MtOTU4YS00ZjRmLWEzZTItNjVhZWYxOWQ4YjczXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/u0MV99rB1hv8tkjtBJHfwIGCVKD.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.6/10"
+            "name": "Sam Claflin",
+            "character": "Jack",
+            "profile_url": "https://image.tmdb.org/t/p/w500/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "35%"
+            "name": "Olivia Munn",
+            "character": "Dina",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ha4W3WfxBopQK2FZmVochNrN1GT.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "41/100"
+            "name": "Eleanor Tomlinson",
+            "character": "Hayley",
+            "profile_url": "https://image.tmdb.org/t/p/w500/A2lE5kvZE3tIpKwpAtKbjsMHpf2.jpg"
+        },
+        {
+            "name": "Freida Pinto",
+            "character": "Amanda",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
+        },
+        {
+            "name": "Joel Fry",
+            "character": "Bryan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4nEKEWJpaTHncCTv6zeP98V0qGI.jpg"
+        },
+        {
+            "name": "Jack Farthing",
+            "character": "Marc",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xhriXePjVXTJcF2linudLgMnsKA.jpg"
+        },
+        {
+            "name": "Allan Mustafa",
+            "character": "Chaz",
+            "profile_url": "https://image.tmdb.org/t/p/w500/z21an6lzcd5CPtuBxNoxs1e9LEX.jpg"
+        },
+        {
+            "name": "Tim Key",
+            "character": "Sidney",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5qaZxWpm3lXDbngjZJvnSbVS9I0.jpg"
+        },
+        {
+            "name": "Aisling Bea",
+            "character": "Rebecca",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rrZVT1TADcPcrQ8lfEC4atYwcTJ.jpg"
+        },
+        {
+            "name": "Paolo Mazzarelli",
+            "character": "Vitelli",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vzFRn2gOeJnJiGlZ0PkzQIRqlEd.jpg"
         }
     ],
-    "Metascore": "41",
-    "imdbRating": "5.6",
-    "imdbVotes": "22,524",
-    "imdbID": "tt5096470",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Dean Craig"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=x6CyqhYsLqo",
+    "TMDb_ID": 624808
 }

@@ -1,40 +1,81 @@
 {
     "Title": "Pee-wee's Big Adventure",
     "Year": "1985",
-    "Rated": "PG",
-    "Released": "09 Aug 1985",
-    "Runtime": "91 min",
-    "Genre": "Adventure, Comedy, Family",
-    "Director": "Tim Burton",
-    "Writer": "Phil Hartman, Paul Reubens, Michael Varhol",
-    "Actors": "Paul Reubens, Elizabeth Daily, Mark Holton",
     "Plot": "When eccentric man-child Pee-wee Herman gets his beloved bike stolen in broad daylight, he sets out across the U.S. on the adventure of his life.",
     "Language": "English, French",
     "Country": "United States",
+    "Rated": "PG",
+    "Runtime": "91 min",
+    "Genre": "Adventure, Comedy, Family",
+    "Director": "Tim Burton",
+    "Actors": "Paul Reubens, Elizabeth Daily, Mark Holton",
     "Awards": "2 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ2ZTUzZjktMWVmNC00MzBmLTg1ZjMtYzQyNmE1YzY1MDFiXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0089791",
+    "imdbRating": "7.1",
+    "BoxOffice": "$41,047,344",
+    "TMDb_Rating": 6.5,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYTQ2ZTUzZjktMWVmNC00MzBmLTg1ZjMtYzQyNmE1YzY1MDFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/414IUXc54mrhX88ZUQiRDLXn01i.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/1Pq45QXczmRjKWVCW6jYKw7FwTD.jpg",
+        "https://image.tmdb.org/t/p/w500/ia0oFZ6fhUg6vKvGbsGtS4yF3Up.jpg",
+        "https://image.tmdb.org/t/p/w500/b8QntY34I4LCl0jlErjQoEC4ZAO.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.1/10"
+            "name": "Paul Reubens",
+            "character": "Pee-wee Herman",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ybp9v90mrHtYVQkgHcf5lSAkt76.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "78%"
+            "name": "E. G. Daily",
+            "character": "Dottie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sWLXj0yvpMEsZTIsS1ReVQzGnwO.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "47/100"
+            "name": "Mark Holton",
+            "character": "Francis",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2NleIh4ohQcw9M5i8mNYzq5qqwE.jpg"
+        },
+        {
+            "name": "Diane Salinger",
+            "character": "Simone",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7lJocSxXknwdcA76dlrHwtE1eQC.jpg"
+        },
+        {
+            "name": "Judd Omen",
+            "character": "Mickey",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6ZL0ztbCS2WmN4aVRdegl0Gq16I.jpg"
+        },
+        {
+            "name": "Irving Hellman",
+            "character": "Mr. Crowtrey",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lQ9tV6chjKYK3BBBgi9UR6IYQ3R.jpg"
+        },
+        {
+            "name": "Monte Landis",
+            "character": "Mario",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lTsPA1axwQIXgyGgU4nYfW9riKb.jpg"
+        },
+        {
+            "name": "Damon Martin",
+            "character": "Chip",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rqG80dvRHpkR4fMPyjeFEvJJGq8.jpg"
+        },
+        {
+            "name": "Alice Nunn",
+            "character": "Large Marge",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2a1sCOLJI5966mIqAJI8NODm4rC.jpg"
+        },
+        {
+            "name": "David C. Glasser",
+            "character": "BMX Kid",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4Wr4VdSwVDbwWwenVuOooH1cX9Z.jpg"
         }
     ],
-    "Metascore": "47",
-    "imdbRating": "7.1",
-    "imdbVotes": "62,318",
-    "imdbID": "tt0089791",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$41,047,344",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Tim Burton"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=1UWsZ9k3Rds",
+    "TMDb_ID": 5683
 }

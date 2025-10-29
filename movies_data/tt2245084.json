@@ -1,40 +1,83 @@
 {
     "Title": "Big Hero 6",
     "Year": "2014",
-    "Rated": "PG",
-    "Released": "07 Nov 2014",
-    "Runtime": "102 min",
-    "Genre": "Animation, Action, Adventure",
-    "Director": "Don Hall, Chris Williams",
-    "Writer": "Jordan Roberts, Robert L. Baird, Daniel Gerson",
-    "Actors": "Ryan Potter, Scott Adsit, Jamie Chung",
     "Plot": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG",
+    "Runtime": "102 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Don Hall, Chris Williams",
+    "Actors": "Ryan Potter, Scott Adsit, Jamie Chung",
     "Awards": "Won 1 Oscar. 17 wins & 58 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ3YzUyOGQtNjdlYS00YmRhLWIyOWYtMGQ3YjkwMjJiYzRjXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt2245084",
+    "imdbRating": "7.8",
+    "BoxOffice": "$222,527,828",
+    "TMDb_Rating": 7.726,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYjQ3YzUyOGQtNjdlYS00YmRhLWIyOWYtMGQ3YjkwMjJiYzRjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/fkUNBJ15Hrbcpxn8p7snmNTBr0H.jpg",
+        "https://image.tmdb.org/t/p/w500/xTLl2qNYGIEKxqkqKdL5VuR3Er2.jpg",
+        "https://image.tmdb.org/t/p/w500/lLuEcnNEOFMqOORdOC4n60tjXt2.jpg",
+        "https://image.tmdb.org/t/p/w500/qe4CSbGuvVPu0JrGfOlmSj0t1DT.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.8/10"
+            "name": "Scott Adsit",
+            "character": "Baymax (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vbbuugUWrZhxA7ASWYiGqdZ6Dtf.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "90%"
+            "name": "Ryan Potter",
+            "character": "Hiro Hamada (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3Hdip1zNYrea3V7uzJQYxTps5Ne.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "74/100"
+            "name": "Daniel Henney",
+            "character": "Tadashi Hamada (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/elAolohpUG5nS99EZxHZjd44DsS.jpg"
+        },
+        {
+            "name": "T.J. Miller",
+            "character": "Fred (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
+        },
+        {
+            "name": "Jamie Chung",
+            "character": "GoGo Tomago (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5KS919slWvKwK2fcE3jpkEodlxs.jpg"
+        },
+        {
+            "name": "Damon Wayans Jr.",
+            "character": "Wasabi (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/f6gNg71Js9XqCiXUtyFyXXbJ9ni.jpg"
+        },
+        {
+            "name": "Genesis Rodriguez",
+            "character": "Honey Lemon (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
+        },
+        {
+            "name": "James Cromwell",
+            "character": "Professor Robert Callaghan (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/17AIez58rJyk7EzU5a9L2r6Tn3u.jpg"
+        },
+        {
+            "name": "Alan Tudyk",
+            "character": "Alistair Krei (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+        },
+        {
+            "name": "Maya Rudolph",
+            "character": "Aunt Cass (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9QTtEfAmQOQcGhD12zzxdouLRh4.jpg"
         }
     ],
-    "Metascore": "74",
-    "imdbRating": "7.8",
-    "imdbVotes": "539,795",
-    "imdbID": "tt2245084",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$222,527,828",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Chris Williams",
+        "Don Hall"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=8IdMPpKMdcc",
+    "TMDb_ID": 177572
 }

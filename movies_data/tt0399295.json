@@ -1,40 +1,83 @@
 {
     "Title": "Lord of War",
     "Year": "2005",
-    "Rated": "R",
-    "Released": "16 Sep 2005",
-    "Runtime": "122 min",
-    "Genre": "Crime, Drama",
-    "Director": "Andrew Niccol",
-    "Writer": "Andrew Niccol",
-    "Actors": "Nicolas Cage, Ethan Hawke, Jared Leto",
     "Plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
     "Language": "English, Ukrainian, German, Spanish, Russian, French, Arabic, Turkish",
     "Country": "Germany, United States, France",
+    "Rated": "R",
+    "Runtime": "122 min",
+    "Genre": "Crime, Drama",
+    "Director": "Andrew Niccol",
+    "Actors": "Nicolas Cage, Ethan Hawke, Jared Leto",
     "Awards": "2 wins & 3 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0399295",
+    "imdbRating": "7.6",
+    "BoxOffice": "$24,149,632",
+    "TMDb_Rating": 7.334,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/3MGQD4yXokufNlW1AyRXdiy7ytP.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/fPJztZFjJsrPSc4Fhi58Oxrgaeb.jpg",
+        "https://image.tmdb.org/t/p/w500/9PjQB6wEtblE1WR1WhHagWs4i49.jpg",
+        "https://image.tmdb.org/t/p/w500/9CTTx1Pm7SktPdeDbfM4BFodA60.jpg",
+        "https://image.tmdb.org/t/p/w500/1JGcy992j2LFFb6JlJgMM2yBde5.jpg",
+        "https://image.tmdb.org/t/p/w500/7GTth4tFeSSxfebTKWLS9vwObNC.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.6/10"
+            "name": "Nicolas Cage",
+            "character": "Yuri Orlov",
+            "profile_url": "https://image.tmdb.org/t/p/w500/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "62%"
+            "name": "Bridget Moynahan",
+            "character": "Ava Fontaine Orlov",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7WuwRCcwtBmJZ64pNsLbwhQCEA4.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "62/100"
+            "name": "Jared Leto",
+            "character": "Vitaly Orlov",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+        },
+        {
+            "name": "Ethan Hawke",
+            "character": "Jack Valentine",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+        },
+        {
+            "name": "Eamonn Walker",
+            "character": "Andre Baptiste Sr.",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg"
+        },
+        {
+            "name": "Ian Holm",
+            "character": "Simeon Weisz",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+        },
+        {
+            "name": "Sammi Rotibi",
+            "character": "Andre Baptiste Jr.",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nHuy33iDXGUpFCZEZev7IkKLJz6.jpg"
+        },
+        {
+            "name": "Tanit Phoenix",
+            "character": "Candy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pz041zDm4adP5oHQw29uKjOR5gK.jpg"
+        },
+        {
+            "name": "Shake Tukhmanyan",
+            "character": "Irina Orlov",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dkZozry1yqm5zOb0vSESLDWGuCB.jpg"
+        },
+        {
+            "name": "Jared Burke",
+            "character": "Ukrainian Mobster",
+            "profile_url": "https://image.tmdb.org/t/p/w500/g8vthdw69j4rmU0aEpJC2qMoa2I.jpg"
         }
     ],
-    "Metascore": "62",
-    "imdbRating": "7.6",
-    "imdbVotes": "353,357",
-    "imdbID": "tt0399295",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$24,149,632",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Andrew Niccol"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=AL8jpJkKUnM",
+    "TMDb_ID": 1830
 }

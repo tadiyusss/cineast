@@ -1,40 +1,83 @@
 {
     "Title": "War of the Worlds",
     "Year": "2005",
-    "Rated": "PG-13",
-    "Released": "29 Jun 2005",
-    "Runtime": "117 min",
-    "Genre": "Action, Adventure, Sci-Fi",
-    "Director": "Steven Spielberg",
-    "Writer": "Josh Friedman, David Koepp, H.G. Wells",
-    "Actors": "Tom Cruise, Dakota Fanning, Tim Robbins",
     "Plot": "An alien invasion threatens the future of humanity. The catastrophic nightmare is depicted through the eyes of one American family fighting for survival.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG-13",
+    "Runtime": "117 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Steven Spielberg",
+    "Actors": "Tom Cruise, Dakota Fanning, Tim Robbins",
     "Awards": "Nominated for 3 Oscars. 16 wins & 49 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0407304",
+    "imdbRating": "6.6",
+    "BoxOffice": "$234,280,354",
+    "TMDb_Rating": 6.526,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/6HmupOQfamExINan6zZLkLKIyYf.jpg",
+        "https://image.tmdb.org/t/p/w500/aUxHWRqVnHPkbrR5CNq5GZsLDAo.jpg",
+        "https://image.tmdb.org/t/p/w500/x37rJhwzFRXsN5qY3ftI7WmSJc.jpg",
+        "https://image.tmdb.org/t/p/w500/nN1iNp1Iuk4eNMUNJcAmabqv9eS.jpg",
+        "https://image.tmdb.org/t/p/w500/wTXslQlU2xfEYWwM4sBS6XBDWMy.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.6/10"
+            "name": "Tom Cruise",
+            "character": "Ray Ferrier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "76%"
+            "name": "Dakota Fanning",
+            "character": "Rachel Ferrier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6bNiiHnZZfA7YYIxO5FszvNFBlI.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "73/100"
+            "name": "Justin Chatwin",
+            "character": "Robbie Ferrier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nEHYlooGSwRzkhze1rQ7DOpJXLD.jpg"
+        },
+        {
+            "name": "Miranda Otto",
+            "character": "Mary-Ann",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lVkzCNNGwesZjOmwrDjro6ZPar.jpg"
+        },
+        {
+            "name": "Tim Robbins",
+            "character": "Harlan Ogilvy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/djLVFETFTvPyVUdrd7aLVykobof.jpg"
+        },
+        {
+            "name": "Rick Gonzalez",
+            "character": "Vincent",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pVHDPq1a2oCZktgI3VumMRzGBd3.jpg"
+        },
+        {
+            "name": "Yul Vazquez",
+            "character": "Julio",
+            "profile_url": "https://image.tmdb.org/t/p/w500/chAxqgeJVoRoQukw7zRYgtlo4KI.jpg"
+        },
+        {
+            "name": "Lenny Venito",
+            "character": "Manny the Mechanic",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3Ok9n02a13poLdb5cZaIJKTBHrC.jpg"
+        },
+        {
+            "name": "Lisa Ann Walter",
+            "character": "Bartender",
+            "profile_url": "https://image.tmdb.org/t/p/w500/56vu6e7zmXLVwDG7eVa9phEe4gA.jpg"
+        },
+        {
+            "name": "Ann Robinson",
+            "character": "Grandmother",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jFmvxs57XKtZiNDpGu4S9BGjIl5.jpg"
         }
     ],
-    "Metascore": "73",
-    "imdbRating": "6.6",
-    "imdbVotes": "497,754",
-    "imdbID": "tt0407304",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$234,280,354",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Steven Spielberg"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=TLnQXsKn5-E",
+    "TMDb_ID": 74
 }

@@ -1,36 +1,83 @@
 {
     "Title": "101 Dalmatians 2: Patch's London Adventure",
     "Year": "2002",
-    "Rated": "G",
-    "Released": "21 Jan 2003",
-    "Runtime": "74 min",
-    "Genre": "Animation, Adventure, Comedy, Family, Musical",
-    "Director": "Jim Kammerud, Brian Smith",
-    "Writer": "Jim Kammerud (story), Dan Root (story), Garrett K. Schiff (story), Brian Smith (story), Jim Kammerud (screenplay), Brian Smith (screenplay), Dodie Smith (novel), Michael Lucker, Temple Mathews (additional script material)",
-    "Actors": "Barry Bostwick, Jason Alexander, Martin Short, Bobby Lockwood",
     "Plot": "Being one of 101 takes its toll on Patch, who doesn't feel unique. When he's accidentally left behind on moving day, he meets his idol, Thunderbolt, who enlists him on a publicity campaign.",
     "Language": "English",
     "Country": "USA",
+    "Rated": "G",
+    "Runtime": "74 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Musical",
+    "Director": "Jim Kammerud, Brian Smith",
+    "Actors": "Barry Bostwick, Jason Alexander, Martin Short, Bobby Lockwood",
     "Awards": "5 wins & 10 nominations.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BM2U0MDJkYWMtYmU0NS00ZjFkLWE2MTMtNzA5OTQ5ZWZiODI3XkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0324941",
+    "imdbRating": "5.8",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.018,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BM2U0MDJkYWMtYmU0NS00ZjFkLWE2MTMtNzA5OTQ5ZWZiODI3XkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/uB0DQU4Cog8tYrkiOEVTmDw6Qnn.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/4qHcC1ZHNQS2Z7t1qTuDeZ7AG0g.jpg",
+        "https://image.tmdb.org/t/p/w500/hphFR4bVYzAVgiT3gXiKnbnASbY.jpg",
+        "https://image.tmdb.org/t/p/w500/lsSmzJbZskvMAx0PgBJROIf0yyg.jpg",
+        "https://image.tmdb.org/t/p/w500/pRJ8i8tJDijs4XmTpGpu1PNVZkq.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.8/10"
+            "name": "Barry Bostwick",
+            "character": "Thunderbolt (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/z2jlL5g5PMxelSHMXFF03fTSsLl.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "67%"
+            "name": "Jason Alexander",
+            "character": "Lightning (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qRezZ2yhM2bmBERt7jVcxo8RVSA.jpg"
+        },
+        {
+            "name": "Martin Short",
+            "character": "Lars (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vWoZIOk7K8TSKu1IN90akswsWjZ.jpg"
+        },
+        {
+            "name": "Bobby Lockwood",
+            "character": "Patch (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/umELfjA9r3N6YXwREFvUcXHQJt2.jpg"
+        },
+        {
+            "name": "Susanne Blakeslee",
+            "character": "Cruella (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5s4vquKADCS90iOiEwgCTZkaQjX.jpg"
+        },
+        {
+            "name": "Samuel West",
+            "character": "Pongo (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bn1nd5zERi5wyHcA1YMGvrHAD5L.jpg"
+        },
+        {
+            "name": "Maurice LaMarche",
+            "character": "Horace (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+        },
+        {
+            "name": "Jeff Bennett",
+            "character": "Jasper (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+        },
+        {
+            "name": "Jodi Benson",
+            "character": "Anita (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4mxtuq3mXLZwPKbI7t0KFxf0PRW.jpg"
+        },
+        {
+            "name": "Tim Bentinck",
+            "character": "Roger (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yg2EErH28vqi6O1FH9DwJt0w7fu.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.8",
-    "imdbVotes": "8,488",
-    "imdbID": "tt0324941",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Brian Smith",
+        "Jim Kammerud"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=S13zxIByQXg",
+    "TMDb_ID": 13654
 }

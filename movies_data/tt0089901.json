@@ -1,40 +1,79 @@
 {
     "Title": "Remo Williams: The Adventure Begins",
     "Year": "1985",
-    "Rated": "PG-13",
-    "Released": "11 Oct 1985",
-    "Runtime": "121 min",
-    "Genre": "Action, Adventure, Comedy",
-    "Director": "Guy Hamilton",
-    "Writer": "Richard Sapir, Warren Murphy, Christopher Wood",
-    "Actors": "Fred Ward, Joel Grey, Wilford Brimley",
     "Plot": "An officially \"dead\" cop is trained to become an extraordinary unique assassin in service of the US President.",
     "Language": "English",
     "Country": "United States, Mexico",
+    "Rated": "PG-13",
+    "Runtime": "121 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Guy Hamilton",
+    "Actors": "Fred Ward, Joel Grey, Wilford Brimley",
     "Awards": "Nominated for 1 Oscar. 4 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTYwZDQ1NTQtMGJhZC00NGI5LWFiODgtY2MzZDgyM2MzNWI4XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0089901",
+    "imdbRating": "6.4",
+    "BoxOffice": "$14,393,902",
+    "TMDb_Rating": 6.225,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZTYwZDQ1NTQtMGJhZC00NGI5LWFiODgtY2MzZDgyM2MzNWI4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/it52uz6io8cA6WGzWxSbn9jgRlu.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/mpLkP3dPXDEjqXGJR4khm93OEer.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.4/10"
+            "name": "Fred Ward",
+            "character": "Remo Williams",
+            "profile_url": "https://image.tmdb.org/t/p/w500/t3tZduAwP1LMR8Vc13HZ39wKJ1q.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "41%"
+            "name": "Joel Grey",
+            "character": "Chiun",
+            "profile_url": "https://image.tmdb.org/t/p/w500/JTvL1BdxNErOj0r5HOCiYdEjuc.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "46/100"
+            "name": "Wilford Brimley",
+            "character": "Harold Smith",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pOfcXSGKiHcdFIcnhBV3ibGUruW.jpg"
+        },
+        {
+            "name": "J.A. Preston",
+            "character": "Conn MacCleary",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dIrnlrYi3ab8uf6qyzZogbEisKo.jpg"
+        },
+        {
+            "name": "George Coe",
+            "character": "Gen. Scott Watson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3VkamwMlEhr9rFe3o6zcoGkHqJw.jpg"
+        },
+        {
+            "name": "Kate Mulgrew",
+            "character": "Maj. Rayner Fleming",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cikUr2PEluEamVsLgrnWWLx9ZsI.jpg"
+        },
+        {
+            "name": "Charles Cioffi",
+            "character": "George Grove",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tNnflWmSuSPjJzthbfkkrYZZmoo.jpg"
+        },
+        {
+            "name": "Patrick Kilpatrick",
+            "character": "Stone",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yhujborr3HMC9ALvuOPu25ffAhN.jpg"
+        },
+        {
+            "name": "Michael Pataki",
+            "character": "Jim Wilson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sBhGgVS3o8oWiD85lmh4W3n15OK.jpg"
+        },
+        {
+            "name": "Davenia McFadden",
+            "character": "N.Y. Traffic Control Cop",
+            "profile_url": "https://image.tmdb.org/t/p/w500/edoxqYrRPUHb7YJ3b5Ijwwn0Yan.jpg"
         }
     ],
-    "Metascore": "46",
-    "imdbRating": "6.4",
-    "imdbVotes": "14,572",
-    "imdbID": "tt0089901",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$14,393,902",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Guy Hamilton"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=RUJBnsrWsow",
+    "TMDb_ID": 10553
 }

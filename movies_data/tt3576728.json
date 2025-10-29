@@ -1,40 +1,81 @@
 {
     "Title": "Bilal: A New Breed of Hero",
     "Year": "2015",
-    "Rated": "PG-13",
-    "Released": "02 Feb 2018",
-    "Runtime": "105 min",
-    "Genre": "Animation, Action, Adventure",
-    "Director": "Khurram H. Alavi, Ayman Jamal",
-    "Writer": "Ayman Jamal, Alexander Kronemer, Michael Wolfe",
-    "Actors": "Adewale Akinnuoye-Agbaje, Ian McShane, China Anne McClain",
     "Plot": "A thousand years ago, one boy with a dream of becoming a great warrior is abducted with his sister and taken to a land far away from home. Thrown into a world where greed and injustice rule all, Bilal finds the courage to raise hi...",
     "Language": "English",
     "Country": "United Arab Emirates, Italy",
+    "Rated": "PG-13",
+    "Runtime": "105 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Khurram H. Alavi, Ayman Jamal",
+    "Actors": "Adewale Akinnuoye-Agbaje, Ian McShane, China Anne McClain",
     "Awards": "1 nomination total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTM3YTdmZDgtNTViZi00MmNmLWIyMDUtMmFkNWQ5YzdiZDA5XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt3576728",
+    "imdbRating": "7.6",
+    "BoxOffice": "$490,973",
+    "TMDb_Rating": 6.814,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYTM3YTdmZDgtNTViZi00MmNmLWIyMDUtMmFkNWQ5YzdiZDA5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/ncWuEzxnXqssxRfHghZuUAIezCo.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/haabqorTOaI8sX81XvIQiPoYq1H.jpg",
+        "https://image.tmdb.org/t/p/w500/oYlV664eNhg44FWB2s3mpB0d4NH.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.6/10"
+            "name": "Adewale Akinnuoye-Agbaje",
+            "character": "Bilal (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "58%"
+            "name": "China Anne McClain",
+            "character": "Ghufaira (Teen) (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gKuHEuYjPS7mWfD1wufVCFkJNVz.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "52/100"
+            "name": "Ian McShane",
+            "character": "Umayya (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qh9RTLbnr128TZLdGuXwUH9mdBM.jpg"
+        },
+        {
+            "name": "Jacob Latimore",
+            "character": "Bilal (Teen) (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8bdhpFXGJpXYsOB6Jn8o85VJItz.jpg"
+        },
+        {
+            "name": "Cynthia Kaye McWilliams",
+            "character": "Ghufaira / Hamama (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cHc9xD68PKvE20dJERcuK2Et2z3.jpg"
+        },
+        {
+            "name": "Fred Tatasciore",
+            "character": "Charlatan Priest (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/cKMuclPblMvQ4JQMN0nYKvb5ylu.jpg"
+        },
+        {
+            "name": "Mick Wingert",
+            "character": "Safwan (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2Apga68BihekhCSPHNk5pXqC5Gq.jpg"
+        },
+        {
+            "name": "Thomas Ian Nicholas",
+            "character": "Saad (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hQo2P9vwjJW6A1b327nl71a2JEW.jpg"
+        },
+        {
+            "name": "Jon Curry",
+            "character": "Soheib (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wpmmEJQuJtvfiV6bJk7uIVfDsZY.jpg"
+        },
+        {
+            "name": "Michael Gross",
+            "character": "Okba (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/467FG7f1rXkG9ZzU8IumVkBHi0v.jpg"
         }
     ],
-    "Metascore": "52",
-    "imdbRating": "7.6",
-    "imdbVotes": "19,533",
-    "imdbID": "tt3576728",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$490,973",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Ayman Jamal",
+        "Khurram H. Alavi"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=memYLNa-7wQ",
+    "TMDb_ID": 332718
 }

@@ -1,32 +1,77 @@
 {
     "Title": "War of the Worlds: Annihilation",
     "Year": "2021",
-    "Rated": "TV-14",
-    "Released": "24 Dec 2021",
-    "Runtime": "113 min",
-    "Genre": "Action, Sci-Fi, Thriller",
-    "Director": "Maximilian Elfeldt",
-    "Writer": "Conor Dowling",
-    "Actors": "Arie Thompson, William Baldwin, Noel Gugliemi",
     "Plot": "In the wake of a punishing alien invasion, the only hope a mother and her son have for survival lies in the discovery of an unthinkable truth.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "TV-14",
+    "Runtime": "113 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Maximilian Elfeldt",
+    "Actors": "Arie Thompson, William Baldwin, Noel Gugliemi",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZmM4NTMyNTUtZDdmMS00MzE2LWEwN2YtZTMzYTY0ZjkzZjk2XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt16611138",
+    "imdbRating": "2.5",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 4.8,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZmM4NTMyNTUtZDdmMS00MzE2LWEwN2YtZTMzYTY0ZjkzZjk2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/jkkyb7uayYSKfjYGjLtRL8o0nmK.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "2.5/10"
+            "name": "Arie Thompson",
+            "character": "Ashlaya Wellish",
+            "profile_url": "https://image.tmdb.org/t/p/w500/93M74Mr9VaiAzhp40KcFd1ReFT4.jpg"
+        },
+        {
+            "name": "William Baldwin",
+            "character": "General Skuller",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mFCUAl6Rko6ocONhFDCpztcmKXd.jpg"
+        },
+        {
+            "name": "Noel Gugliemi",
+            "character": "Tiago",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8jujXofjpSroMQ1R2JLB0GWIPor.jpg"
+        },
+        {
+            "name": "Rashod Freelove",
+            "character": "Patlin",
+            "profile_url": null
+        },
+        {
+            "name": "Kennedy Porter",
+            "character": "Lucas",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lBgtrqCJ2XYh91V4QbC2nZZY4kq.jpg"
+        },
+        {
+            "name": "Emree Franklin",
+            "character": "Gwen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4VlmDkvdq5sjbvnR6xAjQ2zcxTy.jpg"
+        },
+        {
+            "name": "Michael Marcel",
+            "character": "Jutta",
+            "profile_url": "https://image.tmdb.org/t/p/w500/laeQf5oxunlbUPcfCm15yVSuGSS.jpg"
+        },
+        {
+            "name": "Joseph Michael Harris",
+            "character": "Major Stawvak",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oUOThNFCI4xihZQc6pB87EvARc5.jpg"
+        },
+        {
+            "name": "Andrew Rogers",
+            "character": "O'Brivé",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oSBBuN3SWGeYIsIm1RkyK7qWPLj.jpg"
+        },
+        {
+            "name": "Bradford Haynes",
+            "character": "Captain Brennen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wXpF4FC6KgeR3MpqjNWU17AoOdx.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "2.5",
-    "imdbVotes": "603",
-    "imdbID": "tt16611138",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Maximilian Elfeldt"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=Y19fvBcTOnw",
+    "TMDb_ID": 919689
 }

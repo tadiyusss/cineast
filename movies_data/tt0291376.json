@@ -1,32 +1,69 @@
 {
     "Title": "Nayak: The Real Hero",
     "Year": "2001",
-    "Rated": "Not Rated",
-    "Released": "07 Sep 2001",
-    "Runtime": "187 min",
-    "Genre": "Action, Drama, Thriller",
-    "Director": "S. Shankar",
-    "Writer": "Anurag Kashyap, S. Shankar",
-    "Actors": "Anil Kapoor, Rani Mukerji, Amrish Puri",
     "Plot": "A man accepts a challenge by the chief minister of Maharashtra to run the state for one day, and makes such a success of it that soon he is embroiled in political intrigue.",
     "Language": "Hindi",
     "Country": "India",
+    "Rated": "Not Rated",
+    "Runtime": "187 min",
+    "Genre": "Action, Drama, Thriller",
+    "Director": "S. Shankar",
+    "Actors": "Anil Kapoor, Rani Mukerji, Amrish Puri",
     "Awards": "4 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNTA1Y2Y1MGUtNDE5OC00ZWIzLWI2YmItOTEwOWMxMDA1OWYyXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0291376",
+    "imdbRating": "7.8",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.01,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNTA1Y2Y1MGUtNDE5OC00ZWIzLWI2YmItOTEwOWMxMDA1OWYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/lT8MCmidz11cuLWb68Ao0anB3mW.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/c9GO0PQh1OoVn07fhh3RqAFBPE6.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.8/10"
+            "name": "Anil Kapoor",
+            "character": "Shivaji Rao",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6RcrXGFzO50Tazqc8tbDlzYKvTd.jpg"
+        },
+        {
+            "name": "Amrish Puri",
+            "character": "CM Balraj Chauhan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uhMGFS7tuG71LDv2wk9LfZZ4EG6.jpg"
+        },
+        {
+            "name": "Rani Mukerji",
+            "character": "Manjari",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6bm1lhrEgGFpOLBjvcOi3aoQmtg.jpg"
+        },
+        {
+            "name": "Paresh Rawal",
+            "character": "Bansal Shroff",
+            "profile_url": "https://image.tmdb.org/t/p/w500/haRliZNMm04QXItBGScbFh4bHSJ.jpg"
+        },
+        {
+            "name": "Johny Lever",
+            "character": "Topi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kohAOhKr4HBln8b9P4i1kmMONyi.jpg"
+        },
+        {
+            "name": "Saurabh Shukla",
+            "character": "Pandurang",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uFGVBmRIHLAQkYYSI2lSXOxMi4f.jpg"
+        },
+        {
+            "name": "Shivaji Satham",
+            "character": "Mr. Ghatge",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8C0lfz5T80BdWD99rCQmtB3iofF.jpg"
+        },
+        {
+            "name": "Pooja Batra",
+            "character": "Laila",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fv7LAEWgutVnJEWmfmmm9l8XCaM.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.8",
-    "imdbVotes": "18,213",
-    "imdbID": "tt0291376",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Shankar"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 33457
 }

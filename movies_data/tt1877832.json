@@ -1,40 +1,83 @@
 {
     "Title": "X-Men: Days of Future Past",
     "Year": "2014",
-    "Rated": "PG-13",
-    "Released": "23 May 2014",
-    "Runtime": "132 min",
-    "Genre": "Action, Adventure, Sci-Fi",
-    "Director": "Bryan Singer",
-    "Writer": "Simon Kinberg, Jane Goldman, Matthew Vaughn",
-    "Actors": "Patrick Stewart, Ian McKellen, Hugh Jackman",
     "Plot": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.",
     "Language": "English, Vietnamese, French, Russian",
     "Country": "United Kingdom, United States, Canada",
+    "Rated": "PG-13",
+    "Runtime": "132 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Bryan Singer",
+    "Actors": "Patrick Stewart, Ian McKellen, Hugh Jackman",
     "Awards": "Nominated for 1 Oscar. 16 wins & 48 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzNiYWE4NjMtMTU4OS00NmM4LWE4ZjAtYmE5OTA5NjkzODExXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt1877832",
+    "imdbRating": "7.9",
+    "BoxOffice": "$233,921,534",
+    "TMDb_Rating": 7.528,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNzNiYWE4NjMtMTU4OS00NmM4LWE4ZjAtYmE5OTA5NjkzODExXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/7EGvyt3DQuEiIqzmtKEV2xX1hRS.jpg",
+        "https://image.tmdb.org/t/p/w500/uvEf0evKEhQsjNM1RxWz2s0EZO9.jpg",
+        "https://image.tmdb.org/t/p/w500/qweSgjQTxNMhbcx9nKopYh0UEXP.jpg",
+        "https://image.tmdb.org/t/p/w500/8o5o34WuAFakWkfqUjKD5KuasK.jpg",
+        "https://image.tmdb.org/t/p/w500/tGvVxca7382cpnRoMpmdP6LoDUL.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.9/10"
+            "name": "Hugh Jackman",
+            "character": "Logan / Wolverine",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "90%"
+            "name": "James McAvoy",
+            "character": "Charles Xavier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vB6qYlFXgONGVwwxWXE4gf0F8SQ.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "75/100"
+            "name": "Michael Fassbender",
+            "character": "Erik Lehnsherr",
+            "profile_url": "https://image.tmdb.org/t/p/w500/e7SxBHtAxTyNE4GdOrHD7kqkukm.jpg"
+        },
+        {
+            "name": "Patrick Stewart",
+            "character": "Professor X",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3yExCGqCMfSOVVHdEYTJhXaTtFZ.jpg"
+        },
+        {
+            "name": "Ian McKellen",
+            "character": "Magneto",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+        },
+        {
+            "name": "Jennifer Lawrence",
+            "character": "Raven / Mystique",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nSWSc3pAQEw0lPAmAk4d9GFMv6k.jpg"
+        },
+        {
+            "name": "Halle Berry",
+            "character": "Storm",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9aLI0LSi7cbieyiskOdsBaneKmp.jpg"
+        },
+        {
+            "name": "Nicholas Hoult",
+            "character": "Hank / Beast",
+            "profile_url": "https://image.tmdb.org/t/p/w500/laeAYQVBV9U3DkJ1B4Cn1XhpT8P.jpg"
+        },
+        {
+            "name": "Anna Paquin",
+            "character": "Rogue",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5FjBCsn3kujldP8LizoCrc3hsHp.jpg"
+        },
+        {
+            "name": "Elliot Page",
+            "character": "Kitty Pryde",
+            "profile_url": "https://image.tmdb.org/t/p/w500/eCeFgzS8dYHnMfWQT0oQitCrsSz.jpg"
         }
     ],
-    "Metascore": "75",
-    "imdbRating": "7.9",
-    "imdbVotes": "778,420",
-    "imdbID": "tt1877832",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$233,921,534",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Bryan Singer"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=gsjtg7m1MMM",
+    "TMDb_ID": 127585
 }

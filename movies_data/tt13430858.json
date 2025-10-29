@@ -1,40 +1,83 @@
 {
     "Title": "What's Love Got to Do with It?",
     "Year": "2022",
-    "Rated": "PG-13",
-    "Released": "05 May 2023",
-    "Runtime": "108 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Shekhar Kapur",
-    "Writer": "Jemima Khan",
-    "Actors": "Mim Shaikh, Iman Boujelouah, Lily James",
     "Plot": "In London, an award-winning film-maker documents her best friend's journey into an assisted marriage in line with his family's Pakistani heritage. In the process, she challenges her own attitude towards relationships.",
     "Language": "English, Urdu, Arabic",
     "Country": "United Kingdom, France, India, United States",
+    "Rated": "PG-13",
+    "Runtime": "108 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Shekhar Kapur",
+    "Actors": "Mim Shaikh, Iman Boujelouah, Lily James",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjdhYzdiOWItYTcwMS00ODcwLTk4MWYtZTNkYWYyNWEzMWMwXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt13430858",
+    "imdbRating": "6.3",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.031,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMjdhYzdiOWItYTcwMS00ODcwLTk4MWYtZTNkYWYyNWEzMWMwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/uJJYCo87r6qtsaTRENatoYuE9pI.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/k2XyxHZy9BnYmrs3RcibvkmypX2.jpg",
+        "https://image.tmdb.org/t/p/w500/u13fXLKzSHjpzuHKG8q4Pp0mnIO.jpg",
+        "https://image.tmdb.org/t/p/w500/alq0XNJLJ5A3RsMGtECk2ZVFYFY.jpg",
+        "https://image.tmdb.org/t/p/w500/edRHdjWa8yCmcoT4pDkUip9DVd0.jpg",
+        "https://image.tmdb.org/t/p/w500/3WGb38dMgJqsZVfuyzgGnqrdDbe.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.3/10"
+            "name": "Lily James",
+            "character": "Zoe Stevenson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/o40Uh2rfFWSqNN6heOWHkuxvjAd.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "71%"
+            "name": "Shazad Latif",
+            "character": "Kazim Khan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "59/100"
+            "name": "Shabana Azmi",
+            "character": "Aisha Khan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vAoYSYP4DFUMv7fZk9u8Bps9by.jpg"
+        },
+        {
+            "name": "Emma Thompson",
+            "character": "Cath Stevenson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xr8Ki3CIqweWWqS5q0kUYdiK6oQ.jpg"
+        },
+        {
+            "name": "Sajal Ali",
+            "character": "Maymouna",
+            "profile_url": "https://image.tmdb.org/t/p/w500/szyx70udGsLgLBWr3Tk0Yp9FltO.jpg"
+        },
+        {
+            "name": "Oliver Chris",
+            "character": "James",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xTnUMtP5MREaHD86XfJ5mYibawq.jpg"
+        },
+        {
+            "name": "Asim Chaudhry",
+            "character": "Mo the Matchmaker",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1F0DwOpxUAEpw5iovMHZ5Y1C8n6.jpg"
+        },
+        {
+            "name": "Jeff Mirza",
+            "character": "Zahid Khan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xgRKoMFBQGavRT65OBMxcABVe1G.jpg"
+        },
+        {
+            "name": "Alice Orr-Ewing",
+            "character": "Helena",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jOtE1FZvzjpWctXEV5ephzgFXaT.jpg"
+        },
+        {
+            "name": "Mim Shaikh",
+            "character": "Farooq Khan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3DpjL2VshkJDZCgQdHv4D13mSr8.jpg"
         }
     ],
-    "Metascore": "59",
-    "imdbRating": "6.3",
-    "imdbVotes": "11,815",
-    "imdbID": "tt13430858",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Shekhar Kapur"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=WUKj-_e-rcY",
+    "TMDb_ID": 800301
 }

@@ -1,32 +1,80 @@
 {
     "Title": "Battle of the Bulge: Winter War",
     "Year": "2020",
-    "Rated": "Not Rated",
-    "Released": "06 Nov 2020",
-    "Runtime": "85 min",
-    "Genre": "Fantasy, War",
-    "Director": "Steven Luke",
-    "Writer": "Steven Luke",
-    "Actors": "Steven Luke, Tom Berenger, Billy Zane",
     "Plot": "During World War II, the Germans decide to launch one last big offensive. Lieutenant Robert Cappa and his platoon are given the responsibility of defending a vital supply depot.",
     "Language": "English, German",
     "Country": "United States",
+    "Rated": "Not Rated",
+    "Runtime": "85 min",
+    "Genre": "Fantasy, War",
+    "Director": "Steven Luke",
+    "Actors": "Steven Luke, Tom Berenger, Billy Zane",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNGZiNDc5OWQtOGM2MS00ZjBhLTkzYWUtOGNjN2I5ZDRmYjAyXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt12631030",
+    "imdbRating": "2.7",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.0,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNGZiNDc5OWQtOGM2MS00ZjBhLTkzYWUtOGNjN2I5ZDRmYjAyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/em2NY3recLURRJ4d6QuXGNN5H2a.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/7d659seuvqhkDnOYWSuGtyU1B1V.jpg",
+        "https://image.tmdb.org/t/p/w500/e5nvVxFxXUen2efghdxDy2kfYNL.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "2.7/10"
+            "name": "Brittany Benjamin",
+            "character": "Mary",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wUdI0Y4ze7SW88JBIoNWkgxcFhy.jpg"
+        },
+        {
+            "name": "Jordan McFadden",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8CpGCt6cA6FTYVciuxgEaSgptxo.jpg"
+        },
+        {
+            "name": "Billy Zane",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/wr4fuwLzQvW1G0MS7cmQ3ObFjvL.jpg"
+        },
+        {
+            "name": "Steven Luke",
+            "character": "Lt. Robert",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3RAime8pOWMLRK15YOHKjxqsm1E.jpg"
+        },
+        {
+            "name": "Tom Berenger",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg"
+        },
+        {
+            "name": "Kathleen Timberman",
+            "character": "United States Military Nurse",
+            "profile_url": null
+        },
+        {
+            "name": "Aaron Courteau",
+            "character": "Captain Daniels",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lIt2PG4rLb7hQNwk5inufIZ2EOX.jpg"
+        },
+        {
+            "name": "Andrew Stecker",
+            "character": "Doc",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uQgtZC6gKle5klnRp4hKbrzXvcq.jpg"
+        },
+        {
+            "name": "Cody Fleury",
+            "character": "Rudy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8Yct89hfV0N9RhGQReuvSES6KOW.jpg"
+        },
+        {
+            "name": "Jeremy Michael Pereira",
+            "character": "SGT. Mckenny",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pxnT9hOv8pKPY7VZxXqIrP4b1jC.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "2.7",
-    "imdbVotes": "624",
-    "imdbID": "tt12631030",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Steven Luke"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=5yPCJu9KzwQ",
+    "TMDb_ID": 755529
 }

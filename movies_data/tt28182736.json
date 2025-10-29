@@ -1,32 +1,83 @@
 {
     "Title": "Puppy Love",
     "Year": "2023",
-    "Rated": "R",
-    "Released": "18 Aug 2023",
-    "Runtime": "106 min",
-    "Genre": "Comedy",
-    "Director": "Nick Fabiano, Richard Alan Reid",
-    "Writer": "Greg Glienna, Peter Stass, Kirsten Guenther",
-    "Actors": "Lucy Hale, Grant Gustin, Nore Davis",
     "Plot": "After a disastrous first date, Nicole and Max vow to lose each other's numbers until their dogs find a love match. Hilariously mismatched Nicole and Max are forced to become responsible co-parents, but end up finding love themselves.",
     "Language": "English",
     "Country": "United States, Canada",
+    "Rated": "R",
+    "Runtime": "106 min",
+    "Genre": "Comedy",
+    "Director": "Nick Fabiano, Richard Alan Reid",
+    "Actors": "Lucy Hale, Grant Gustin, Nore Davis",
     "Awards": "3 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0MTBlMDYtNDBlYS00ZjlmLThlZTctZTVmNTM5ZTA4MWQyXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt28182736",
+    "imdbRating": "6.3",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.0,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTU0MTBlMDYtNDBlYS00ZjlmLThlZTctZTVmNTM5ZTA4MWQyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/fVsy8dJjouq8opEGlktWTHcdr8.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/i4pX959jZ1vpSd8QykyTGftooTP.jpg",
+        "https://image.tmdb.org/t/p/w500/rC2ypP5u19ds4qTrLTqs9dzy4uK.jpg",
+        "https://image.tmdb.org/t/p/w500/wulyDyfFKJrlXcxtCfAuNrwTMFJ.jpg",
+        "https://image.tmdb.org/t/p/w500/uTLHen2u8ffmkyrlct0CrVtXLEJ.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.3/10"
+            "name": "Lucy Hale",
+            "character": "Nicole Matthews",
+            "profile_url": "https://image.tmdb.org/t/p/w500/v8R89A0INFJmh87SwIofadFiSCa.jpg"
+        },
+        {
+            "name": "Grant Gustin",
+            "character": "Max Stevenson",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kEGU1gGySIe63lyL7AnwXEw4rQn.jpg"
+        },
+        {
+            "name": "Jane Seymour",
+            "character": "Diane Matthews",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5ATnv4BV9FZbL6hsqH40TijIINK.jpg"
+        },
+        {
+            "name": "Michael Hitchcock",
+            "character": "Dr. Hert",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sLKiaWJtExmjORZCVYHB0cTgmMn.jpg"
+        },
+        {
+            "name": "Nore Davis",
+            "character": "Sid",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gkFu0ScZrDg6HsxdUc4Rih77MsV.jpg"
+        },
+        {
+            "name": "Alessandro Miro",
+            "character": "Hunter Fosterini",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yw4UB5cvGygfus4JpSgPpPZFcPq.jpg"
+        },
+        {
+            "name": "Corey Woods",
+            "character": "Harper",
+            "profile_url": "https://image.tmdb.org/t/p/w500/4tzSmwFwei6bmTJjo6eOkZTMuoj.jpg"
+        },
+        {
+            "name": "Sarah Almonte Peguero",
+            "character": "Naomi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uwSPa6wHotwVXLLnaPzrwugJinM.jpg"
+        },
+        {
+            "name": "Rachel Risen",
+            "character": "Lorraine",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qoSD7uM8wEZgKBoUYv7SsAUgl1Y.jpg"
+        },
+        {
+            "name": "Christine Lee",
+            "character": "Shay",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jnLTbuWX7GtXeJrZzv7z2WEKxY8.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.3",
-    "imdbVotes": "11,600",
-    "imdbID": "tt28182736",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Richard Alan Reid",
+        "Nicholas Fabiano"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=04Qr0Yj0hAs",
+    "TMDb_ID": 1143319
 }

@@ -1,40 +1,80 @@
 {
     "Title": "War Pony",
     "Year": "2022",
-    "Rated": "R",
-    "Released": "28 Jul 2023",
-    "Runtime": "115 min",
-    "Genre": "Crime, Drama",
-    "Director": "Gina Gammell, Riley Keough",
-    "Writer": "Franklin Sioux Bob, Bill Reddy, Gina Gammell",
-    "Actors": "Stanley Good Voice Elk, Jojo Bapteise Whiting, Steven Hawk",
     "Plot": "The interlocking stories of two young Oglala Lakota men growing up on the Pine Ridge Reservation.",
     "Language": "English, Sioux",
     "Country": "United States, United Kingdom",
+    "Rated": "R",
+    "Runtime": "115 min",
+    "Genre": "Crime, Drama",
+    "Director": "Gina Gammell, Riley Keough",
+    "Actors": "Stanley Good Voice Elk, Jojo Bapteise Whiting, Steven Hawk",
     "Awards": "10 wins & 11 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDk2MmZlNTQtODNmNS00ZTM0LTg0NjAtMGRmNTIwZmZkZjkyXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt16227002",
+    "imdbRating": "6.8",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.446,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZDk2MmZlNTQtODNmNS00ZTM0LTg0NjAtMGRmNTIwZmZkZjkyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/oN2NCnVq0FTHvvIxKBEEJy8dhrr.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/mXgXFGGwsgunPrio47U0kslGLEM.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.8/10"
+            "name": "Jojo Bapteise Whiting",
+            "character": "Bill",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7wZgWqlqSRBQPDqfzTjNrTZVCSa.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "68%"
+            "name": "LaDainian Crazy Thunder",
+            "character": "Matho",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7LtxZIAVEAbzFD4irEmzHdPuaNm.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "69/100"
+            "name": "Robert Stover",
+            "character": "Colton",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1BvsUv3H5UY5iWndFXzFZOqFRw3.jpg"
+        },
+        {
+            "name": "Ashley Shelton",
+            "character": "Allison",
+            "profile_url": null
+        },
+        {
+            "name": "Iona Red Bear",
+            "character": "Auntie",
+            "profile_url": null
+        },
+        {
+            "name": "Ta-Yamni Long Black Cat",
+            "character": "Donny",
+            "profile_url": null
+        },
+        {
+            "name": "Wilma Colhof",
+            "character": "Mama",
+            "profile_url": null
+        },
+        {
+            "name": "Jeremy Corbin Cottier",
+            "character": "Baby Worm",
+            "profile_url": null
+        },
+        {
+            "name": "Woodrow Lone Elk",
+            "character": "Elias",
+            "profile_url": null
+        },
+        {
+            "name": "Sprague Hollander",
+            "character": "Tim",
+            "profile_url": null
         }
     ],
-    "Metascore": "69",
-    "imdbRating": "6.8",
-    "imdbVotes": "2,776",
-    "imdbID": "tt16227002",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Gina Gammell",
+        "Riley Keough"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=s8Q-RuQ5ze0",
+    "TMDb_ID": 962566
 }

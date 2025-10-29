@@ -1,32 +1,77 @@
 {
     "Title": "Intoxicated by Love",
     "Year": "2024",
-    "Rated": "N/A",
-    "Released": "24 Apr 2024",
-    "Runtime": "118 min",
-    "Genre": "Drama, History, Romance",
-    "Director": "Hasan Fathi",
-    "Writer": "Hasan Fathi, Farhad Tohidi",
-    "Actors": "Parsa Pirouzfar, Shahab Hosseini, Hande Erçel",
     "Plot": "Story of Rumi, his friendship with Shams Tabrizi, the love he had for him and the great influence of Shams over him in his life, his poetry and his love for God.",
     "Language": "Turkish, Persian",
     "Country": "Iran, Turkey",
+    "Rated": "N/A",
+    "Runtime": "118 min",
+    "Genre": "Drama, History, Romance",
+    "Director": "Hasan Fathi",
+    "Actors": "Parsa Pirouzfar, Shahab Hosseini, Hande Erçel",
     "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE1ZGQ2ZmQtZDVlNC00NDJhLThkN2MtYjI2OTYyZjc5M2I0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt11281220",
+    "imdbRating": "8.4",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.2,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNDE1ZGQ2ZmQtZDVlNC00NDJhLThkN2MtYjI2OTYyZjc5M2I0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/kFz3NdX7zJoBRlSOEGP2eRea0rD.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "8.4/10"
+            "name": "Parsa Pirouzfar",
+            "character": "Jalal ad-Din Balkhi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ipZZIT0ePF1EGmMX5mpLhGmqMJ7.jpg"
+        },
+        {
+            "name": "Shahab Hosseini",
+            "character": "Shams ad-Din Tabrizi",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ksZOIn0nTIQDiEeaDwT4lb7zZTF.jpg"
+        },
+        {
+            "name": "İbrahim Çelikkol",
+            "character": "Iskandar",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8kvbL2u92TcEMUntyGNzJEXVN7u.jpg"
+        },
+        {
+            "name": "Bensu Soral",
+            "character": "Maryam",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9rI1u8g3cuueBZ4aA7S4GgjN0ki.jpg"
+        },
+        {
+            "name": "Boran Kuzum",
+            "character": "Ala Ad-din",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fglvct2Iwq7evJJvOHHEidJcdXV.jpg"
+        },
+        {
+            "name": "Selma Ergeç",
+            "character": "Kerra-Khatoon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8pNvPKs1WeUbPW4UbOr3XMCjobj.jpg"
+        },
+        {
+            "name": "Hande Erçel",
+            "character": "Kimia-Khatoon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jrUvWNqOpfDm3D0KhbuRwQOy8Nu.jpg"
+        },
+        {
+            "name": "Hesam Manzour",
+            "character": "Hesam Ad-din",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1Y7dRYsNv4TbiBX8s4KQsrueq4n.jpg"
+        },
+        {
+            "name": "Burak Tozkoparan",
+            "character": "Sultan Valad",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qieSeCqeNkH46VNkgYfzyuQp9RL.jpg"
+        },
+        {
+            "name": "Halit Ergenç",
+            "character": "Bahaeddin Veled",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7L5ivMz1S7ArHTvUaslVVV3ML42.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "8.4",
-    "imdbVotes": "7,396",
-    "imdbID": "tt11281220",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Hassan Fathi"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=7eRuzyXz7jM",
+    "TMDb_ID": 678856
 }

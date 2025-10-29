@@ -1,36 +1,77 @@
 {
     "Title": "Warriors of Future",
     "Year": "2022",
-    "Rated": "N/A",
-    "Released": "25 Aug 2022",
-    "Runtime": "112 min",
-    "Genre": "Action, Adventure, Sci-Fi",
-    "Director": "Yuen Fai Ng",
-    "Writer": "Ho-Leung Lau, Chi-Leung Lo, Tin Shu Mak",
-    "Actors": "Louis Koo, Ching-Wan Lau, Carina Lau",
     "Plot": "A meteorite brings an extraterrestrial life to the earth. When powerful alien creatures threaten humanity, Commander Sing Lee's elite forces are almost wiped out, and the surviving soldier Tai Loi discovers an even bigger conspiracy.",
     "Language": "Cantonese, Mandarin, Spanish",
     "Country": "Hong Kong",
+    "Rated": "N/A",
+    "Runtime": "112 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Yuen Fai Ng",
+    "Actors": "Louis Koo, Ching-Wan Lau, Carina Lau",
     "Awards": "6 wins & 14 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZlNjk2NTAtMmI1NC00MjVkLWI0M2ItOGVmN2NjNmYxYzY0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt7375466",
+    "imdbRating": "5.6",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.1,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BM2ZlNjk2NTAtMmI1NC00MjVkLWI0M2ItOGVmN2NjNmYxYzY0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/2l9LbxBSkJseoxYcIJjclnmxyq.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.6/10"
+            "name": "Louis Koo",
+            "character": "Tyler",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yQuDBTzm7xWlJICNvl20OmcJP80.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "88%"
+            "name": "Sean Lau Ching-Wan",
+            "character": "Johnson Cheng",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ecxJyPA6EPDG2AXomVJORaN4qLZ.jpg"
+        },
+        {
+            "name": "Carina Lau",
+            "character": "Colonel Tam Bing",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5Va4jk69gkdAcABtkTtcUz85RLA.jpg"
+        },
+        {
+            "name": "Philip Keung Ho-Man",
+            "character": "Lieutenant Taron Yau Tai Long / Skunk",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sy07oaWguC4Q4c45dRkFuRTYld0.jpg"
+        },
+        {
+            "name": "Tse Kwan-Ho",
+            "character": "Dr. Chan Chong-Chung",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8foplz73k0LKh3iZVRE09D1XR5P.jpg"
+        },
+        {
+            "name": "Janice Wu",
+            "character": "Lucy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zNw2OQbHC343epJkSgR3FUHGWmA.jpg"
+        },
+        {
+            "name": "Wan Guopeng",
+            "character": "Connor Kwong",
+            "profile_url": "https://image.tmdb.org/t/p/w500/20S0SV4GiBZRfNEE3DaPYln3Kxl.jpg"
+        },
+        {
+            "name": "Nick Cheung Ka-Fai",
+            "character": "Commander-in-Chief Sean Lee",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yjjSMT1bCX7vlJMVt2BiPVwOATo.jpg"
+        },
+        {
+            "name": "Ng Siu-Hin",
+            "character": "Citizen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dGPwdI898uzQ2d4sM8lz6t2axDk.jpg"
+        },
+        {
+            "name": "Ariel So Yuet-Yin",
+            "character": "Sissy",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.6",
-    "imdbVotes": "8,044",
-    "imdbID": "tt7375466",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Ng Yuen-Fai"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=yVHo6OmSpFs",
+    "TMDb_ID": 518896
 }

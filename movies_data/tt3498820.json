@@ -1,40 +1,84 @@
 {
     "Title": "Captain America: Civil War",
     "Year": "2016",
-    "Rated": "PG-13",
-    "Released": "06 May 2016",
-    "Runtime": "147 min",
-    "Genre": "Action, Sci-Fi",
-    "Director": "Anthony Russo, Joe Russo",
-    "Writer": "Christopher Markus, Stephen McFeely, Joe Simon",
-    "Actors": "Chris Evans, Robert Downey Jr., Scarlett Johansson",
     "Plot": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
     "Language": "English, German, Xhosa, Russian, Romanian",
     "Country": "United States, Germany, Iceland, United Kingdom",
+    "Rated": "PG-13",
+    "Runtime": "147 min",
+    "Genre": "Action, Sci-Fi",
+    "Director": "Anthony Russo, Joe Russo",
+    "Actors": "Chris Evans, Robert Downey Jr., Scarlett Johansson",
     "Awards": "16 wins & 73 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt3498820",
+    "imdbRating": "7.8",
+    "BoxOffice": "$408,084,349",
+    "TMDb_Rating": 7.447,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/qPghrh3RMB7qzxK66skhiH5RZvF.jpg",
+        "https://image.tmdb.org/t/p/w500/zlYfwKkZtJqOGozz5xW94HvX2nN.jpg",
+        "https://image.tmdb.org/t/p/w500/fQuYNKXHEf4HCZJ9jmatTwEFFv4.jpg",
+        "https://image.tmdb.org/t/p/w500/1sSjiPr4412RvXyQj277dy3iY2K.jpg",
+        "https://image.tmdb.org/t/p/w500/8LHIzvMyXFEONoEgAsyUgmwxYyI.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.8/10"
+            "name": "Chris Evans",
+            "character": "Steve Rogers / Captain America",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "90%"
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "75/100"
+            "name": "Scarlett Johansson",
+            "character": "Natasha Romanoff / Black Widow",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mjReG6rR7NPMEIWb1T4YWtV11ty.jpg"
+        },
+        {
+            "name": "Sebastian Stan",
+            "character": "Bucky Barnes / Winter Soldier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+        },
+        {
+            "name": "Anthony Mackie",
+            "character": "Sam Wilson / Falcon",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9r3bvl2pBZwZMN3KUg43Sp8c7ZU.jpg"
+        },
+        {
+            "name": "Don Cheadle",
+            "character": "Lieutenant James Rhodes / War Machine",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oZ1u1GmudvUGpbMfi9Hxonzp3lF.jpg"
+        },
+        {
+            "name": "Jeremy Renner",
+            "character": "Clint Barton / Hawkeye",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+        },
+        {
+            "name": "Chadwick Boseman",
+            "character": "T'Challa / Black Panther",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
+        },
+        {
+            "name": "Paul Bettany",
+            "character": "Vision",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg"
+        },
+        {
+            "name": "Elizabeth Olsen",
+            "character": "Wanda Maximoff / Scarlet Witch",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mbMsmQE5CyMVTIGMGCw2XpcPCOc.jpg"
         }
     ],
-    "Metascore": "75",
-    "imdbRating": "7.8",
-    "imdbVotes": "904,347",
-    "imdbID": "tt3498820",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$408,084,349",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Joe Russo",
+        "Anthony Russo"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=dKrVegVI0Us",
+    "TMDb_ID": 271110
 }

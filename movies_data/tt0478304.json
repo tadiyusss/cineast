@@ -1,40 +1,83 @@
 {
     "Title": "The Tree of Life",
     "Year": "2011",
-    "Rated": "PG-13",
-    "Released": "17 May 2011",
-    "Runtime": "139 min",
-    "Genre": "Drama, Fantasy",
-    "Director": "Terrence Malick",
-    "Writer": "Terrence Malick",
-    "Actors": "Brad Pitt, Sean Penn, Jessica Chastain",
     "Plot": "The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG-13",
+    "Runtime": "139 min",
+    "Genre": "Drama, Fantasy",
+    "Director": "Terrence Malick",
+    "Actors": "Brad Pitt, Sean Penn, Jessica Chastain",
     "Awards": "Nominated for 3 Oscars. 118 wins & 130 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0478304",
+    "imdbRating": "6.8",
+    "BoxOffice": "$13,303,319",
+    "TMDb_Rating": 6.7,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/asoFDnt36s0a5QifGyaN0iP5uhh.jpg",
+        "https://image.tmdb.org/t/p/w500/876IZBvvwT5NyHfS7141y2hzCPl.jpg",
+        "https://image.tmdb.org/t/p/w500/eimQVaHwU60yEnhPGkWindpEMNk.jpg",
+        "https://image.tmdb.org/t/p/w500/3krbtXndyfUILgGSXm9aadRylZ8.jpg",
+        "https://image.tmdb.org/t/p/w500/u5TKLia7wgANYhfWWuRoedOC4dP.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.8/10"
+            "name": "Brad Pitt",
+            "character": "Mr. O'Brien",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9OfnD7lxgIj3BNQpJFnwxnwl6w5.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "86%"
+            "name": "Jessica Chastain",
+            "character": "Mrs. O'Brien",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xRvRzxiiHhgUErl0yf9w8WariRE.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "85/100"
+            "name": "Hunter McCracken",
+            "character": "Young Jack",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rd0eexIXO4ab2wne1SwSWENAyiv.jpg"
+        },
+        {
+            "name": "Sean Penn",
+            "character": "Jack",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+        },
+        {
+            "name": "Fiona Shaw",
+            "character": "Grandmother",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tjM74LcxwnYM77Csg1EtlXb1F9a.jpg"
+        },
+        {
+            "name": "Tye Sheridan",
+            "character": "Steve",
+            "profile_url": "https://image.tmdb.org/t/p/w500/d5ZS2fjqC98cIGkhEGX0fRYhku4.jpg"
+        },
+        {
+            "name": "Laramie Eppler",
+            "character": "R.L.",
+            "profile_url": null
+        },
+        {
+            "name": "Will Wallace",
+            "character": "Architect",
+            "profile_url": "https://image.tmdb.org/t/p/w500/n6AI0SA91DV2bubLxAtfKuSERRy.jpg"
+        },
+        {
+            "name": "Nicolas Gonda",
+            "character": "Mr. Reynolds",
+            "profile_url": "https://image.tmdb.org/t/p/w500/u9q5KI29hB8lZ3bg2NP078r14IF.jpg"
+        },
+        {
+            "name": "Jessica Fuselier",
+            "character": "Guide",
+            "profile_url": null
         }
     ],
-    "Metascore": "85",
-    "imdbRating": "6.8",
-    "imdbVotes": "188,492",
-    "imdbID": "tt0478304",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$13,303,319",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Terrence Malick"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=RrAz1YLh8nY",
+    "TMDb_ID": 8967
 }

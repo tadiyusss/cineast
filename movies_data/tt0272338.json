@@ -1,40 +1,81 @@
 {
     "Title": "Punch-Drunk Love",
     "Year": "2002",
-    "Rated": "R",
-    "Released": "01 Nov 2002",
-    "Runtime": "95 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Paul Thomas Anderson",
-    "Writer": "Paul Thomas Anderson",
-    "Actors": "Adam Sandler, Emily Watson, Philip Seymour Hoffman",
     "Plot": "Socially frustrated Barry Egan calls a phone-sex line to curb his loneliness. Little does he know it will land him in deep trouble and will jeopardize his burgeoning romance with the mysterious Lena.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "R",
+    "Runtime": "95 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Paul Thomas Anderson",
+    "Actors": "Adam Sandler, Emily Watson, Philip Seymour Hoffman",
     "Awards": "14 wins & 37 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTYyMTQ2MDAtMzYzYS00YjZiLWJiNDUtZjEwNzM4YzE1ZDhhXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0272338",
+    "imdbRating": "7.3",
+    "BoxOffice": "$17,844,216",
+    "TMDb_Rating": 7.117,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZTYyMTQ2MDAtMzYzYS00YjZiLWJiNDUtZjEwNzM4YzE1ZDhhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/rJa30aWSfIoelaNzJnpfSSHbaOl.jpg",
+        "https://image.tmdb.org/t/p/w500/yqM3ir4EvClokJ3KtHiJRxEYIaX.jpg",
+        "https://image.tmdb.org/t/p/w500/xOaV6jA94l34BE8lr8bcUT7jQ9q.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.3/10"
+            "name": "Adam Sandler",
+            "character": "Barry Egan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "79%"
+            "name": "Emily Watson",
+            "character": "Lena Leonard",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "78/100"
+            "name": "Philip Seymour Hoffman",
+            "character": "Dean Trumbell",
+            "profile_url": "https://image.tmdb.org/t/p/w500/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+        },
+        {
+            "name": "Luis Guzmán",
+            "character": "Lance",
+            "profile_url": "https://image.tmdb.org/t/p/w500/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+        },
+        {
+            "name": "Mary Lynn Rajskub",
+            "character": "Elizabeth Egan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/oi94VPrp5Ur0nkIqyk6jRu8Eayz.jpg"
+        },
+        {
+            "name": "Robert Smigel",
+            "character": "Walter the Dentist",
+            "profile_url": "https://image.tmdb.org/t/p/w500/xGlGVcLhiZ4a7GIGlLzGmZtbvUF.jpg"
+        },
+        {
+            "name": "Jason Andrews",
+            "character": "Operator Carter (voice)",
+            "profile_url": null
+        },
+        {
+            "name": "Don McManus",
+            "character": "Plastic (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rGdpdQ0DDVDX4FlQzrdFGcOlRGB.jpg"
+        },
+        {
+            "name": "David Schrempf",
+            "character": "Customer #1",
+            "profile_url": null
+        },
+        {
+            "name": "Seann Conway",
+            "character": "Customer #2",
+            "profile_url": null
         }
     ],
-    "Metascore": "78",
-    "imdbRating": "7.3",
-    "imdbVotes": "189,377",
-    "imdbID": "tt0272338",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$17,844,216",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Paul Thomas Anderson"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=9pG2nfxoUcs",
+    "TMDb_ID": 8051
 }

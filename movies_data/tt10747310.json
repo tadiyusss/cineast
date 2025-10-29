@@ -1,32 +1,77 @@
 {
     "Title": "Erna at War",
     "Year": "2020",
-    "Rated": "N/A",
-    "Released": "29 Oct 2020",
-    "Runtime": "100 min",
-    "Genre": "Drama, War",
-    "Director": "Henrik Ruben Genz",
-    "Writer": "Bo Hr. Hansen, Henrik Ruben Genz, Erling Jepsen",
-    "Actors": "Trine Dyrholm, Ulrich Thomsen, Anders W. Berthelsen",
     "Plot": "A woman disguises herself as a man to join the army in order to protect her educationally subnormal son who has been called up to fight in WW1.",
     "Language": "Danish, German, French",
     "Country": "Denmark, Estonia, Belgium",
+    "Rated": "N/A",
+    "Runtime": "100 min",
+    "Genre": "Drama, War",
+    "Director": "Henrik Ruben Genz",
+    "Actors": "Trine Dyrholm, Ulrich Thomsen, Anders W. Berthelsen",
     "Awards": "2 wins & 6 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTExMzVhYjYtODhmOC00NDZlLThiYzYtMWFlNzdlMjY5ZGU3XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt10747310",
+    "imdbRating": "6.1",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.7,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYTExMzVhYjYtODhmOC00NDZlLThiYzYtMWFlNzdlMjY5ZGU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/prrpF81RKedPlx6GIrVkZJ7xPR8.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.1/10"
+            "name": "Trine Dyrholm",
+            "character": "Erna Jensen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ntUn5eKFlQxbjPci5A99qJOjulY.jpg"
+        },
+        {
+            "name": "Ulrich Thomsen",
+            "character": "Feldwebel Meier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2D4ZA0QtTmuAgzzZfZdHdYJJf5x.jpg"
+        },
+        {
+            "name": "Anders W. Berthelsen",
+            "character": "Anton Seiersen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yEaRQLSOTcGsVHCkKEusb6PfUCE.jpg"
+        },
+        {
+            "name": "Elias Munk",
+            "character": "Julius Rasmussen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1aCFozWKo53rolROWouciqHu79C.jpg"
+        },
+        {
+            "name": "Ari Alexander",
+            "character": "Max Petersen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6XOH0BuWF7iKZd0LFry5nfY3JPR.jpg"
+        },
+        {
+            "name": "Sylvester Byder",
+            "character": "Kalle Jensen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ewLL5xvFYxdKbRwDzW5yZVPtKak.jpg"
+        },
+        {
+            "name": "Emil Aron Dorph",
+            "character": "Mathias Hansen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jMBFPaO0yiPb4tesd2SpUjY2gJx.jpg"
+        },
+        {
+            "name": "Mads Landelund",
+            "character": "Christian Poulsen",
+            "profile_url": null
+        },
+        {
+            "name": "Aksel Ojari",
+            "character": "Fritz Müller",
+            "profile_url": "https://image.tmdb.org/t/p/w500/t3JLwJ5R86AEEO4Ksc83DXHZ1W8.jpg"
+        },
+        {
+            "name": "Patrick Descamps",
+            "character": "French Camp Commander",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6XVRcX1C4XM8bwXPU4ZPwUeINCn.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.1",
-    "imdbVotes": "985",
-    "imdbID": "tt10747310",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Henrik Ruben Genz"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=Zw8ojs3UQXg",
+    "TMDb_ID": 659993
 }

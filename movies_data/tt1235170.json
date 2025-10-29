@@ -1,40 +1,77 @@
 {
     "Title": "The Future",
     "Year": "2011",
-    "Rated": "R",
-    "Released": "17 Aug 2011",
-    "Runtime": "91 min",
-    "Genre": "Drama, Fantasy, Romance",
-    "Director": "Miranda July",
-    "Writer": "Miranda July",
-    "Actors": "Miranda July, Hamish Linklater, David Warshofsky",
     "Plot": "When a couple decides to adopt a stray cat their perspective on life changes radically, literally altering the course of time and space and testing their faith in each other and themselves.",
     "Language": "English",
     "Country": "United States, Germany, France, United Kingdom",
+    "Rated": "R",
+    "Runtime": "91 min",
+    "Genre": "Drama, Fantasy, Romance",
+    "Director": "Miranda July",
+    "Actors": "Miranda July, Hamish Linklater, David Warshofsky",
     "Awards": "1 win & 7 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5ODQxNTI2M15BMl5BanBnXkFtZTcwMTk3OTQyNQ@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt1235170",
+    "imdbRating": "6.1",
+    "BoxOffice": "$568,662",
+    "TMDb_Rating": 5.914,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTM5ODQxNTI2M15BMl5BanBnXkFtZTcwMTk3OTQyNQ@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/gu9zd9rzYaQj2eU1IGeOqcpytoW.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.1/10"
+            "name": "Miranda July",
+            "character": "Sophie / Paw-Paw (voice)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fs32oVyHtwWV4czdTaNzCMFaEe4.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "73%"
+            "name": "Hamish Linklater",
+            "character": "Jason",
+            "profile_url": "https://image.tmdb.org/t/p/w500/hByas1g3htnZFWIbCBdbxC7vGeS.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "67/100"
+            "name": "David Warshofsky",
+            "character": "Marshall",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pLABX1wyaVE4CcEZVmoM2Y5XbQU.jpg"
+        },
+        {
+            "name": "Isabella Acres",
+            "character": "Gabriella",
+            "profile_url": "https://image.tmdb.org/t/p/w500/zNe900NIdEN9aYQ6ujj1lCUqUqG.jpg"
+        },
+        {
+            "name": "Angela Trimbur",
+            "character": "Dance Studio Receptionist",
+            "profile_url": "https://image.tmdb.org/t/p/w500/malUbS6ZMv351wkJdKDXLO5hlzw.jpg"
+        },
+        {
+            "name": "Mary Passeri",
+            "character": "Animal Shelter Receptionist",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2YbNWDTvuKLSECBxJkEz9cissdo.jpg"
+        },
+        {
+            "name": "Kathleen Gati",
+            "character": "Dr. Straus",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fpw1NCXX1aVZaLk6RbcYhEY48PZ.jpg"
+        },
+        {
+            "name": "Ryker Baloun",
+            "character": "Barry at 3",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lXZA34bQkgCrZeU1vQ2p2pl18Km.jpg"
+        },
+        {
+            "name": "Clement von Franckenstein",
+            "character": "Alain, First Solicitation",
+            "profile_url": "https://image.tmdb.org/t/p/w500/3MC0muNTGzt1zVN5EW49M55PFG5.jpg"
+        },
+        {
+            "name": "Tonita Castro",
+            "character": "Second Solicitation",
+            "profile_url": "https://image.tmdb.org/t/p/w500/tFV4x2cHrOThsdlOS0eCy5sjv0R.jpg"
         }
     ],
-    "Metascore": "67",
-    "imdbRating": "6.1",
-    "imdbVotes": "9,194",
-    "imdbID": "tt1235170",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$568,662",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Miranda July"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=X3ZfQ-b5J-Y",
+    "TMDb_ID": 54662
 }

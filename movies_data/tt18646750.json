@@ -1,32 +1,79 @@
 {
     "Title": "War Trap",
     "Year": "2022",
-    "Rated": "N/A",
-    "Released": "04 Apr 2023",
-    "Runtime": "117 min",
-    "Genre": "Drama, War",
-    "Director": "David Aboucaya",
-    "Writer": "David Aboucaya",
-    "Actors": "Laurent Guiot, Pascal Putet, Franck Rasamison",
     "Plot": "During the Second World War, following an ambush carried out in a fort by German troops, Eugène, a French soldier, finds himself trapped underground. Now fighting for his survival, his destiny will play out alongside that of anoth...",
     "Language": "French",
     "Country": "France",
+    "Rated": "N/A",
+    "Runtime": "117 min",
+    "Genre": "Drama, War",
+    "Director": "David Aboucaya",
+    "Actors": "Laurent Guiot, Pascal Putet, Franck Rasamison",
     "Awards": "29 wins & 2 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTg0NDA5OWQtZjMxMS00NWNiLTg3OTUtOGJmZjUxMmJhOTZmXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt18646750",
+    "imdbRating": "6.0",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 4.9,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BZTg0NDA5OWQtZjMxMS00NWNiLTg3OTUtOGJmZjUxMmJhOTZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/16COYiVPhbYSXfEwE8OyWISc74L.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/yegEFDsA2vm4kYU5U4HHY9S2zw2.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.0/10"
+            "name": "Laurent Guiot",
+            "character": "Eugène",
+            "profile_url": null
+        },
+        {
+            "name": "Pascal Putet",
+            "character": "Joseph",
+            "profile_url": null
+        },
+        {
+            "name": "Franck Rasamison",
+            "character": "German soldier",
+            "profile_url": null
+        },
+        {
+            "name": "Adam Aboucaya",
+            "character": "Young soldier",
+            "profile_url": null
+        },
+        {
+            "name": "David Aboucaya",
+            "character": "Père d'Eugène",
+            "profile_url": null
+        },
+        {
+            "name": "Manuel Gonçalves",
+            "character": "lieutenant",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qiHxxx9Yn7r5y3D1rLc2Dlo85YM.jpg"
+        },
+        {
+            "name": "Romain Allain",
+            "character": "",
+            "profile_url": null
+        },
+        {
+            "name": "Sacha Harter",
+            "character": "",
+            "profile_url": null
+        },
+        {
+            "name": "Mathieu Debels",
+            "character": "",
+            "profile_url": null
+        },
+        {
+            "name": "Gabriel Romieu",
+            "character": "",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "6.0",
-    "imdbVotes": "373",
-    "imdbID": "tt18646750",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "David Aboucaya"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=apCjXav9dAY",
+    "TMDb_ID": 984039
 }

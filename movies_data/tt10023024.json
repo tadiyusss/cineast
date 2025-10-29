@@ -1,36 +1,57 @@
 {
     "Title": "Love Aaj Kal",
     "Year": "2020",
-    "Rated": "N/A",
-    "Released": "14 Feb 2020",
-    "Runtime": "142 min",
-    "Genre": "Drama, Romance",
-    "Director": "Imtiaz Ali",
-    "Writer": "Imtiaz Ali, Wajid Shaikh",
-    "Actors": "Kartik Aaryan, Sara Ali Khan, Randeep Hooda",
     "Plot": "When professional ambitions clash with personal feelings for a modern-day couple, a love story from a bygone era may offer some wisdom.",
     "Language": "Hindi",
     "Country": "India",
+    "Rated": "N/A",
+    "Runtime": "142 min",
+    "Genre": "Drama, Romance",
+    "Director": "Imtiaz Ali",
+    "Actors": "Kartik Aaryan, Sara Ali Khan, Randeep Hooda",
     "Awards": "3 wins & 12 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDY1YmRkZWItZDgzOS00YzM5LWJmOGYtMDVlMzg2MjVkM2RlXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt10023024",
+    "imdbRating": "4.7",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 5.6,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNDY1YmRkZWItZDgzOS00YzM5LWJmOGYtMDVlMzg2MjVkM2RlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/wQd1RaaMfLFcLiDD9UEo4pdoTHq.jpg",
+    "Backdrops": [],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "4.7/10"
+            "name": "Kartik Aaryan",
+            "character": "Veer",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nHdQlBvORSKmH1F1kbyTFs0HLjU.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "20%"
+            "name": "Sara Ali Khan",
+            "character": "Zoe",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nRtF9kNgIt9q52jy89cyZBimUPs.jpg"
+        },
+        {
+            "name": "Randeep Hooda",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6Raio06bsLalCe4XDsknXxfDamV.jpg"
+        },
+        {
+            "name": "Arushi Sharma",
+            "character": "Leena",
+            "profile_url": "https://image.tmdb.org/t/p/w500/f4a3f6oo0NqyRFKNS7q8BxTYWGy.jpg"
+        },
+        {
+            "name": "R. Bhakti Klein",
+            "character": "Sander Jennings",
+            "profile_url": "https://image.tmdb.org/t/p/w500/c3CJO2csOB8dmP5YzsfwwHBvJlo.jpg"
+        },
+        {
+            "name": "Pranati Rai Prakash",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sZGJ1HpprP0TKGd6pJmAu8cbS6X.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "4.7",
-    "imdbVotes": "11,012",
-    "imdbID": "tt10023024",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Imtiaz Ali"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=EZ8lTqDmSyQ",
+    "TMDb_ID": 590403
 }

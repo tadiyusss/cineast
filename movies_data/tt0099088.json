@@ -1,40 +1,83 @@
 {
     "Title": "Back to the Future Part III",
     "Year": "1990",
-    "Rated": "PG",
-    "Released": "25 May 1990",
-    "Runtime": "118 min",
-    "Genre": "Adventure, Comedy, Sci-Fi",
-    "Director": "Robert Zemeckis",
-    "Writer": "Robert Zemeckis, Bob Gale",
-    "Actors": "Michael J. Fox, Christopher Lloyd, Mary Steenburgen",
     "Plot": "Stranded in 1955, Marty McFly learns about the death of Doc Brown in 1885 and must travel back in time to save him. With no fuel readily available for the DeLorean, the two must figure how to escape the Old West before Emmett is m...",
     "Language": "English",
     "Country": "United States",
+    "Rated": "PG",
+    "Runtime": "118 min",
+    "Genre": "Adventure, Comedy, Sci-Fi",
+    "Director": "Robert Zemeckis",
+    "Actors": "Michael J. Fox, Christopher Lloyd, Mary Steenburgen",
     "Awards": "5 wins & 11 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNTNkNzJmY2MtOGNjYi00NDJmLWIyZTQtNmFmMGQ5M2VlOTI0XkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0099088",
+    "imdbRating": "7.5",
+    "BoxOffice": "$88,277,583",
+    "TMDb_Rating": 7.489,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNTNkNzJmY2MtOGNjYi00NDJmLWIyZTQtNmFmMGQ5M2VlOTI0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/dwvpUfoCB9NMoVedQQBhyaOqoSq.jpg",
+        "https://image.tmdb.org/t/p/w500/i0i9rEvSVUSKRy2JdCdgB3S8FrW.jpg",
+        "https://image.tmdb.org/t/p/w500/3cr4HhrCuHUjYKsjuGhyxMjNRj2.jpg",
+        "https://image.tmdb.org/t/p/w500/ulTTmxUUh92z06NXAAIhwQNrV9Y.jpg",
+        "https://image.tmdb.org/t/p/w500/jQFhq6UEF5B1GhiBRtq1VyNFjQ2.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.5/10"
+            "name": "Michael J. Fox",
+            "character": "Marty McFly / Seamus McFly",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "79%"
+            "name": "Christopher Lloyd",
+            "character": "Doctor Emmett Brown",
+            "profile_url": "https://image.tmdb.org/t/p/w500/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "55/100"
+            "name": "Mary Steenburgen",
+            "character": "Clara Clayton",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+        },
+        {
+            "name": "Thomas F. Wilson",
+            "character": "Buford 'Mad Dog' Tannen / Biff Tannen",
+            "profile_url": "https://image.tmdb.org/t/p/w500/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg"
+        },
+        {
+            "name": "Lea Thompson",
+            "character": "Maggie McFly / Lorraine McFly",
+            "profile_url": "https://image.tmdb.org/t/p/w500/85E9NTEfkRdUdK4kTrrnk5of25w.jpg"
+        },
+        {
+            "name": "Elisabeth Shue",
+            "character": "Jennifer",
+            "profile_url": "https://image.tmdb.org/t/p/w500/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+        },
+        {
+            "name": "Matt Clark",
+            "character": "Bartender",
+            "profile_url": "https://image.tmdb.org/t/p/w500/g9VqmvDmjUdeEXtZ6dzb7nxMF7a.jpg"
+        },
+        {
+            "name": "Richard Dysart",
+            "character": "Barbwire Salesman",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yQOaZexN3YbqGWOguu2VrjsvX2G.jpg"
+        },
+        {
+            "name": "Pat Buttram",
+            "character": "Saloon Old Timer",
+            "profile_url": "https://image.tmdb.org/t/p/w500/jRVB0shCimyljcDYlIUpdcAVe8E.jpg"
+        },
+        {
+            "name": "Harry Carey, Jr.",
+            "character": "Saloon Old Timer",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7O61xbnqAMDOKVCh9ZH8deW6M30.jpg"
         }
     ],
-    "Metascore": "55",
-    "imdbRating": "7.5",
-    "imdbVotes": "503,526",
-    "imdbID": "tt0099088",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$88,277,583",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Robert Zemeckis"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=DTdBq1fQOBU",
+    "TMDb_ID": 196
 }

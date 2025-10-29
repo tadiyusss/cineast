@@ -1,40 +1,83 @@
 {
     "Title": "Civil War",
     "Year": "2024",
-    "Rated": "R",
-    "Released": "12 Apr 2024",
-    "Runtime": "109 min",
-    "Genre": "Action, Thriller",
-    "Director": "Alex Garland",
-    "Writer": "Alex Garland",
-    "Actors": "Kirsten Dunst, Wagner Moura, Cailee Spaeny",
     "Plot": "In a dystopian future, four journalists travel across the United States during a nation-wide conflict. While trying to survive, they aim to reach the White House to interview the president before he is overthrown.",
     "Language": "English",
     "Country": "United States, United Kingdom, Finland",
+    "Rated": "R",
+    "Runtime": "109 min",
+    "Genre": "Action, Thriller",
+    "Director": "Alex Garland",
+    "Actors": "Kirsten Dunst, Wagner Moura, Cailee Spaeny",
     "Awards": "8 wins & 60 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTkzMjc0YzgtY2E0Yi00NDBlLWI0MWUtODY1ZjExMDAyOWZiXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt17279496",
+    "imdbRating": "7.0",
+    "BoxOffice": "$68,756,072",
+    "TMDb_Rating": 6.845,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BYTkzMjc0YzgtY2E0Yi00NDBlLWI0MWUtODY1ZjExMDAyOWZiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/hzGbV0yVJOnu8pgQOYWqdLNtvxS.jpg",
+        "https://image.tmdb.org/t/p/w500/aFRyJ1ClU39J9IOTdlmUNa6P9A6.jpg",
+        "https://image.tmdb.org/t/p/w500/rc9kugFwbd7p6meyM7OPHpfn4Kr.jpg",
+        "https://image.tmdb.org/t/p/w500/qq4MRz82VutOHzUkqO0qHtkRlmI.jpg",
+        "https://image.tmdb.org/t/p/w500/ue0xr3zqfVjQz81l7KRc0JD0k4d.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.0/10"
+            "name": "Kirsten Dunst",
+            "character": "Lee",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5dI5s8Oq2Ook5PFzTWMW6DCXVjm.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "81%"
+            "name": "Wagner Moura",
+            "character": "Joel",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "75/100"
+            "name": "Cailee Spaeny",
+            "character": "Jessie",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yl3YeRSHlDVArfgMdHh2v7Ui9zO.jpg"
+        },
+        {
+            "name": "Stephen McKinley Henderson",
+            "character": "Sammy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+        },
+        {
+            "name": "Nelson Lee",
+            "character": "Tony",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rkwBH9Sp0bhZCKeoAnoeznMmcXS.jpg"
+        },
+        {
+            "name": "Nick Offerman",
+            "character": "President",
+            "profile_url": "https://image.tmdb.org/t/p/w500/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
+        },
+        {
+            "name": "Jefferson White",
+            "character": "Dave",
+            "profile_url": "https://image.tmdb.org/t/p/w500/8QSrhrWpqTBGJN3rfijXCvmOcb5.jpg"
+        },
+        {
+            "name": "Evan Lai",
+            "character": "Bohai",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rSDVfjEcWdFKztdWIy8hkRAnDoI.jpg"
+        },
+        {
+            "name": "Vince Pisani",
+            "character": "Concierge",
+            "profile_url": "https://image.tmdb.org/t/p/w500/auCC2e7IKC146MDvO4k8tPXMKaZ.jpg"
+        },
+        {
+            "name": "Justin James Boykin",
+            "character": "American Soldier (Middle East)",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uKduJ7UggxShJSu9nsIxd4gxbC8.jpg"
         }
     ],
-    "Metascore": "75",
-    "imdbRating": "7.0",
-    "imdbVotes": "253,761",
-    "imdbID": "tt17279496",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$68,756,072",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Alex Garland"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=c2G18nIVpNE",
+    "TMDb_ID": 929590
 }

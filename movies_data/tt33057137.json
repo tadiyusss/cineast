@@ -1,36 +1,79 @@
 {
     "Title": "Prisoner of War",
     "Year": "2025",
-    "Rated": "R",
-    "Released": "19 Sep 2025",
-    "Runtime": "112 min",
-    "Genre": "Action, Thriller, War",
-    "Director": "Louis Mandylor",
-    "Writer": "Scott Adkins, Marc Clebanoff",
-    "Actors": "Scott Adkins, Peter Shinkoda, Michael Copon",
     "Plot": "A British RAF Wing Commander during World War II is captured and forced to fight in a Japanese internment camp.",
     "Language": "Tagalog",
     "Country": "Philippines, United States",
+    "Rated": "R",
+    "Runtime": "112 min",
+    "Genre": "Action, Thriller, War",
+    "Director": "Louis Mandylor",
+    "Actors": "Scott Adkins, Peter Shinkoda, Michael Copon",
     "Awards": "1 win total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BN2JjMjNjNzItYWIzZS00YTliLWJjNjMtODAzYjI3ZGRmZGZkXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt33057137",
+    "imdbRating": "5.7",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 7.0,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BN2JjMjNjNzItYWIzZS00YTliLWJjNjMtODAzYjI3ZGRmZGZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/iUy1LdIX74krb0ZEhq8IImIneFk.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "5.7/10"
+            "name": "Scott Adkins",
+            "character": "James Wright",
+            "profile_url": "https://image.tmdb.org/t/p/w500/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "73%"
+            "name": "Peter Shinkoda",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lCQl28poQr4bLwqZjhryGkV73jO.jpg"
+        },
+        {
+            "name": "Michael Copon",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/i3k6kmAA3LLlPFEzkOs5hRIfwg6.jpg"
+        },
+        {
+            "name": "Donald Cerrone",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yHRgWTQuKr5tAMeR3qTtsOQU0Jb.jpg"
+        },
+        {
+            "name": "Michael Rene Walton",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/t7yY3Cyei6hH5CVI7y2TtG1oJVX.jpg"
+        },
+        {
+            "name": "Gary Cairns",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/2J26NSBfmtborzz32ZqRpCkmr15.jpg"
+        },
+        {
+            "name": "Shane Kosugi",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5ePVKMbW8aaI6oBtFoClJOZGpMl.jpg"
+        },
+        {
+            "name": "Masanori Mimoto",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/koSSsi2LU6gJm3S6o0OgJaxJExx.jpg"
+        },
+        {
+            "name": "Gabbi Garcia",
+            "character": "",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ymGQhMZaNoCyXY4rNb2vDl4mKNT.jpg"
+        },
+        {
+            "name": "Sol Eugenio",
+            "character": "Japanese Soldier",
+            "profile_url": "https://image.tmdb.org/t/p/w500/gb7PMq9wZPM3WJJup5fWAkEOnFC.jpg"
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "5.7",
-    "imdbVotes": "2,316",
-    "imdbID": "tt33057137",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Louis Mandylor"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=mKFL8CMoCVk",
+    "TMDb_ID": 1328803
 }

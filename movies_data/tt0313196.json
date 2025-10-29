@@ -1,40 +1,79 @@
 {
     "Title": "The Crime of Padre Amaro",
     "Year": "2002",
-    "Rated": "R",
-    "Released": "13 Dec 2002",
-    "Runtime": "118 min",
-    "Genre": "Drama, Romance",
-    "Director": "Carlos Carrera",
-    "Writer": "Vicente Leñero, Eça de Queirós",
-    "Actors": "Gael García Bernal, Ana Claudia Talancón, Sancho Gracia",
     "Plot": "Politics and sexual passions threaten to corrupt a young, newly-ordained priest in a small Mexican town.",
     "Language": "Spanish",
     "Country": "Mexico, Argentina, Spain",
+    "Rated": "R",
+    "Runtime": "118 min",
+    "Genre": "Drama, Romance",
+    "Director": "Carlos Carrera",
+    "Actors": "Gael García Bernal, Ana Claudia Talancón, Sancho Gracia",
     "Awards": "Nominated for 1 Oscar. 21 wins & 15 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNmQyY2NkZjQtNTRkYS00MDYyLWJiNzEtYWM4ZmUzYjNjMzhmXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0313196",
+    "imdbRating": "6.7",
+    "BoxOffice": "$5,717,044",
+    "TMDb_Rating": 6.652,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNmQyY2NkZjQtNTRkYS00MDYyLWJiNzEtYWM4ZmUzYjNjMzhmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/wqwt2DKcQV6EeSwXuYTk7pkLFii.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/rUkrwZ7DEqTuPX79UpUMMKDlzht.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.7/10"
+            "name": "Gael García Bernal",
+            "character": "Padre Amaro",
+            "profile_url": "https://image.tmdb.org/t/p/w500/7uEO29wtdyY9bjt2JN43gVpE6vt.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "63%"
+            "name": "Ana Claudia Talancón",
+            "character": "Amelia",
+            "profile_url": "https://image.tmdb.org/t/p/w500/es8No01z8G0MFX2KeiAa2ouRfCD.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "60/100"
+            "name": "Sancho Gracia",
+            "character": "Padre Benito Díaz",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ryZ6y9RFMatlJPbrJ3sC9Ncfv8t.jpg"
+        },
+        {
+            "name": "Angélica Aragón",
+            "character": "Augustina Sanjuanera",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ejduK7b15cBN2Gr5FRIQOdoNrXS.jpg"
+        },
+        {
+            "name": "Luisa Huertas",
+            "character": "Dionisia",
+            "profile_url": "https://image.tmdb.org/t/p/w500/pk2t0f2EcRGxg55xG9gkbyk2xkH.jpg"
+        },
+        {
+            "name": "Ernesto Gómez Cruz",
+            "character": "Obispo",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rtDS8sZw9PniGdDPW12QKsUcNSb.jpg"
+        },
+        {
+            "name": "Gastón Melo",
+            "character": "Martín",
+            "profile_url": null
+        },
+        {
+            "name": "Damián Alcázar",
+            "character": "Padre Natalio Pérez",
+            "profile_url": "https://image.tmdb.org/t/p/w500/6IAlrZ2yXubmmVaRsF7fdaP3N7C.jpg"
+        },
+        {
+            "name": "Andrés Montiel",
+            "character": "Rubén de la Rosa",
+            "profile_url": "https://image.tmdb.org/t/p/w500/fiBAbzu5mZdTiNgnFFpEAmrxFPy.jpg"
+        },
+        {
+            "name": "Gerardo Moscoso",
+            "character": "Doc",
+            "profile_url": null
         }
     ],
-    "Metascore": "60",
-    "imdbRating": "6.7",
-    "imdbVotes": "14,550",
-    "imdbID": "tt0313196",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$5,717,044",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Carlos Carrera"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=4XSnLQyX5qE",
+    "TMDb_ID": 542
 }

@@ -1,40 +1,82 @@
 {
     "Title": "Love & Other Drugs",
     "Year": "2010",
-    "Rated": "R",
-    "Released": "24 Nov 2010",
-    "Runtime": "112 min",
-    "Genre": "Comedy, Drama, Romance",
-    "Director": "Edward Zwick",
-    "Writer": "Charles Randolph, Edward Zwick, Marshall Herskovitz",
-    "Actors": "Jake Gyllenhaal, Anne Hathaway, Judy Greer",
     "Plot": "In 1990s Pittsburgh, a medicine peddler starts a relationship with a young woman suffering from Parkinson's disease.",
     "Language": "English",
     "Country": "United States",
+    "Rated": "R",
+    "Runtime": "112 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Edward Zwick",
+    "Actors": "Jake Gyllenhaal, Anne Hathaway, Judy Greer",
     "Awards": "1 win & 5 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTczODEyMF5BMl5BanBnXkFtZTcwMDc0NDY4Mw@@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt0758752",
+    "imdbRating": "6.7",
+    "BoxOffice": "$32,367,005",
+    "TMDb_Rating": 7.039,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BMTgxOTczODEyMF5BMl5BanBnXkFtZTcwMDc0NDY4Mw@@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/gZy7WQgzLU4B08eJM1aLci3F0oo.jpg",
+        "https://image.tmdb.org/t/p/w500/Gr0s0zCG9geLnbZVwgzuXvlDfy.jpg",
+        "https://image.tmdb.org/t/p/w500/jgbXuSQ6ohycGcLklb4VlN5yeMr.jpg",
+        "https://image.tmdb.org/t/p/w500/d8ImkK1rwBwbW7RePHEPSsb6iDq.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "6.7/10"
+            "name": "Jake Gyllenhaal",
+            "character": "Jamie Randall",
+            "profile_url": "https://image.tmdb.org/t/p/w500/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "49%"
+            "name": "Anne Hathaway",
+            "character": "Maggie Murdock",
+            "profile_url": "https://image.tmdb.org/t/p/w500/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
         },
         {
-            "Source": "Metacritic",
-            "Value": "55/100"
+            "name": "Oliver Platt",
+            "character": "Bruce Winston",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ipBzOzgWRdxxYoM5xNN1cfenFaC.jpg"
+        },
+        {
+            "name": "Hank Azaria",
+            "character": "Dr. Stan Knight",
+            "profile_url": "https://image.tmdb.org/t/p/w500/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+        },
+        {
+            "name": "Josh Gad",
+            "character": "Josh Randall",
+            "profile_url": "https://image.tmdb.org/t/p/w500/bgRWcrD9hfaa2f7RUWJzxmJaWuD.jpg"
+        },
+        {
+            "name": "Gabriel Macht",
+            "character": "Trey Hannigan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/lacMH4Ju1x9AsKXm7mDkklSsPyV.jpg"
+        },
+        {
+            "name": "Judy Greer",
+            "character": "Cindy",
+            "profile_url": "https://image.tmdb.org/t/p/w500/j5fyC7BdkhheN9A93ryEvHAP4Nl.jpg"
+        },
+        {
+            "name": "Jill Clayburgh",
+            "character": "Nancy Randall",
+            "profile_url": "https://image.tmdb.org/t/p/w500/sMdQSgCSlSYdMq4aBAnoaIZYuLT.jpg"
+        },
+        {
+            "name": "George Segal",
+            "character": "Dr. James Randall",
+            "profile_url": "https://image.tmdb.org/t/p/w500/e965A2ooT02J26MD13SpvfKmqJi.jpg"
+        },
+        {
+            "name": "Kate Jennings Grant",
+            "character": "Gina",
+            "profile_url": "https://image.tmdb.org/t/p/w500/5uAN3gTBDRWaYx345svylihKY5J.jpg"
         }
     ],
-    "Metascore": "55",
-    "imdbRating": "6.7",
-    "imdbVotes": "241,330",
-    "imdbID": "tt0758752",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$32,367,005",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Edward Zwick"
+    ],
+    "Trailer": "https://www.youtube.com/watch?v=h6w7Dh-QxzY",
+    "TMDb_ID": 43347
 }

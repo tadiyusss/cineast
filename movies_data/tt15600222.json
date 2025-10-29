@@ -1,36 +1,81 @@
 {
     "Title": "An Action Hero",
     "Year": "2022",
-    "Rated": "N/A",
-    "Released": "02 Dec 2022",
-    "Runtime": "130 min",
-    "Genre": "Action, Comedy, Crime",
-    "Director": "Anirudh Iyer",
-    "Writer": "Anirudh Iyer, Neeraj Yadav",
-    "Actors": "Ayushmann Khurrana, Jaideep Ahlawat, Gautam Joglekar",
     "Plot": "A murder accusation turns a movie star's own life into an eccentric action thriller as he flees the country, with a vengeful politician hot on his heels.",
     "Language": "Hindi",
     "Country": "India, United Kingdom",
+    "Rated": "N/A",
+    "Runtime": "130 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Anirudh Iyer",
+    "Actors": "Ayushmann Khurrana, Jaideep Ahlawat, Gautam Joglekar",
     "Awards": "5 wins & 18 nominations",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNWUzNzljNjMtYTdiZS00MWQ2LWFkZWItYTM0MzVmZGFhYzNjXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
+    "imdbID": "tt15600222",
+    "imdbRating": "7.0",
+    "BoxOffice": "N/A",
+    "TMDb_Rating": 6.41,
+    "Poster_OMDb": "https://m.media-amazon.com/images/M/MV5BNWUzNzljNjMtYTdiZS00MWQ2LWFkZWItYTM0MzVmZGFhYzNjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Poster_TMDb": "https://image.tmdb.org/t/p/w500/92hQUSB4vqkOH97znKLD8YFheZB.jpg",
+    "Backdrops": [
+        "https://image.tmdb.org/t/p/w500/bkQZwtqHuRktHvaUG8KxAZG2rcZ.jpg",
+        "https://image.tmdb.org/t/p/w500/jiVxhE9gfX49yXff8PWSsRVdNwa.jpg",
+        "https://image.tmdb.org/t/p/w500/eKINLgmoFN29nuI4vBFBpQCAszz.jpg"
+    ],
+    "Cast": [
         {
-            "Source": "Internet Movie Database",
-            "Value": "7.0/10"
+            "name": "Ayushmann Khurrana",
+            "character": "Maanav",
+            "profile_url": "https://image.tmdb.org/t/p/w500/qbdclvnDkJxPX7OQqmMY7w9ekBP.jpg"
         },
         {
-            "Source": "Rotten Tomatoes",
-            "Value": "85%"
+            "name": "Jaideep Ahlawat",
+            "character": "Bhoora Solanki",
+            "profile_url": "https://image.tmdb.org/t/p/w500/uILn4y8EWbMdeu71laMsh8zHY0M.jpg"
+        },
+        {
+            "name": "Gautam Joglekar",
+            "character": "Masood Abraham Katkar",
+            "profile_url": "https://image.tmdb.org/t/p/w500/dbLFMscoRrvqROIjVW02pMm68hu.jpg"
+        },
+        {
+            "name": "Harsh Chhaya",
+            "character": "Roshan",
+            "profile_url": "https://image.tmdb.org/t/p/w500/ayZ78nVdSTRHcfnBMKSzAIdclvZ.jpg"
+        },
+        {
+            "name": "Neeraj Madhav",
+            "character": "Sai",
+            "profile_url": "https://image.tmdb.org/t/p/w500/vzFN3yyUEzEstVkMRnaI4lImrOp.jpg"
+        },
+        {
+            "name": "Jitender Hooda",
+            "character": "Daroga Roop Kumar",
+            "profile_url": null
+        },
+        {
+            "name": "Sumit Singh",
+            "character": "Vicky Solanki",
+            "profile_url": null
+        },
+        {
+            "name": "Sumit Gahlawat",
+            "character": "Inder (Vicky's friend)",
+            "profile_url": null
+        },
+        {
+            "name": "Vaquar Sheikh",
+            "character": "Kaadir",
+            "profile_url": null
+        },
+        {
+            "name": "Garima Jha",
+            "character": "News Anchor (24/7)",
+            "profile_url": null
         }
     ],
-    "Metascore": "N/A",
-    "imdbRating": "7.0",
-    "imdbVotes": "32,711",
-    "imdbID": "tt15600222",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "Directors": [
+        "Anirudh Iyer"
+    ],
+    "Trailer": null,
+    "TMDb_ID": 882826
 }
