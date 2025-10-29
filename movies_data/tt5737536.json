@@ -1,0 +1,40 @@
+{
+    "Title": "Future World",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "25 May 2018",
+    "Runtime": "88 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "James Franco, Bruce Thierry Cheung",
+    "Writer": "Bruce Thierry Cheung, Jeremy Craig Cheung, Jay Davis",
+    "Actors": "James Franco, Suki Waterhouse, Jeff Wahlberg",
+    "Plot": "A young boy searches a future world wasteland for a rumored cure for his dying mother.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWUwMjg4MjgtMmZmZi00NTQzLWFlNzQtOWRiMmVkNTRkNGJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "3.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "0%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "10/100"
+        }
+    ],
+    "Metascore": "10",
+    "imdbRating": "3.3",
+    "imdbVotes": "7,035",
+    "imdbID": "tt5737536",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

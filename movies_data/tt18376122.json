@@ -1,0 +1,40 @@
+{
+    "Title": "Pamela: A Love Story",
+    "Year": "2023",
+    "Rated": "TV-MA",
+    "Released": "31 Jan 2023",
+    "Runtime": "112 min",
+    "Genre": "Documentary, Biography",
+    "Director": "Ryan White",
+    "Writer": "N/A",
+    "Actors": "Pamela Anderson, Fran Drescher, Alexandra Paul",
+    "Plot": "Follows the life of pop culture icon Pamela Anderson, including never-before-seen archival footage and personal journals.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "Nominated for 2 Primetime Emmys. 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2M5YjJjYmItZTg1ZC00MTM3LThmOGQtZjlmMTYyMmNjY2FhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "7.2",
+    "imdbVotes": "13,155",
+    "imdbID": "tt18376122",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

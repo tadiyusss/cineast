@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const rect = container.getBoundingClientRect();
             const x = e.clientX - rect.left;
         const width = rect.width;
-        const edgeZone = 250; 
+        const edgeZone = 175; 
         const scrollSpeed = 10; 
 
 

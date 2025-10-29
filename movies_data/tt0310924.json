@@ -1,0 +1,36 @@
+{
+    "Title": "Crime Spree",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "16 Apr 2003",
+    "Runtime": "105 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Brad Mirman",
+    "Writer": "Brad Mirman",
+    "Actors": "Gérard Depardieu, Harvey Keitel, Johnny Hallyday",
+    "Plot": "A French gang of thieves flies over to Chicago for a one time job. However, things seem to get out of hand soon.",
+    "Language": "English, French, Spanish",
+    "Country": "United Kingdom, Canada",
+    "Awards": "1 win",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWIwOGE1YzYtNGJhYS00NzhjLTliMjgtNzUwYjZjYmVjZjNiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "33%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.4",
+    "imdbVotes": "5,713",
+    "imdbID": "tt0310924",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

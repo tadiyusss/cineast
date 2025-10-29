@@ -1,0 +1,40 @@
+{
+    "Title": "A Hero",
+    "Year": "2021",
+    "Rated": "PG-13",
+    "Released": "21 Jan 2022",
+    "Runtime": "127 min",
+    "Genre": "Drama",
+    "Director": "Asghar Farhadi",
+    "Writer": "Asghar Farhadi",
+    "Actors": "Amir Jadidi, Mohsen Tanabandeh, Sahar Goldoost",
+    "Plot": "Rahim is in prison because of a debt he was unable to repay. During a two-day leave, he tries to convince his creditor to withdraw his complaint against the payment of part of the sum. But things don't go as planned.",
+    "Language": "Persian",
+    "Country": "Iran, France",
+    "Awards": "18 wins & 42 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjMxNDFjN2ItYTllOC00ZDA1LTg4MDUtMjY5ZmE0ZjQ4Y2E2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "82/100"
+        }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.5",
+    "imdbVotes": "31,487",
+    "imdbID": "tt11777738",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

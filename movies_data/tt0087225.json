@@ -1,0 +1,36 @@
+{
+    "Title": "The Ewok Adventure",
+    "Year": "1984",
+    "Rated": "TV-G",
+    "Released": "25 Nov 1984",
+    "Runtime": "96 min",
+    "Genre": "Adventure, Family, Fantasy",
+    "Director": "John Korty",
+    "Writer": "George Lucas, Bob Carrau",
+    "Actors": "Eric Walker, Warwick Davis, Fionnula Flanagan",
+    "Plot": "Wicket the Ewok and his friends agree to help two shipwrecked human children, Mace and Cindel, on a quest to find their parents.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 Primetime Emmy. 1 win & 1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2E1MDRkMTUtOWFlMy00Y2U0LWJlNGEtMTc2NWU1Y2EwMzUwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "39%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.3",
+    "imdbVotes": "13,046",
+    "imdbID": "tt0087225",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

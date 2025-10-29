@@ -1,0 +1,40 @@
+{
+    "Title": "My Father the Hero",
+    "Year": "1994",
+    "Rated": "PG",
+    "Released": "04 Feb 1994",
+    "Runtime": "90 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Steve Miner",
+    "Writer": "Gérard Lauzier, Francis Veber, Charlie Peters",
+    "Actors": "Gérard Depardieu, Katherine Heigl, Dalton James",
+    "Plot": "A teenage girl on vacation in the Bahamas with her divorced father tries to impress a potential boyfriend by saying that her father is actually her lover.",
+    "Language": "English, French",
+    "Country": "France, United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2NiOWI2MTktMzBlOC00Y2IzLTg0MTctYjUwYTQwMTljYzQ0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "20%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "5.5",
+    "imdbVotes": "11,970",
+    "imdbID": "tt0110612",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$25,479,558",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

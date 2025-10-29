@@ -1,0 +1,36 @@
+{
+    "Title": "An American Crime",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "07 Dec 2007",
+    "Runtime": "98 min",
+    "Genre": "Biography, Crime, Drama",
+    "Director": "Tommy O'Haver",
+    "Writer": "Tommy O'Haver, Irene Turner",
+    "Actors": "Elliot Page, Hayley McFarland, Nick Searcy",
+    "Plot": "The true story of suburban housewife Gertrude Baniszewski, who kept a teenage girl locked in the basement of her Indiana home during the 1960s.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Primetime Emmy. 3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGExMjY3YzctY2Y1Yi00ZWU3LTg1ODktODAxNDQ1ZTAxMjIzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "40%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.2",
+    "imdbVotes": "38,430",
+    "imdbID": "tt0802948",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Book of Love",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "04 Feb 2022",
+    "Runtime": "106 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Analeine Cal y Mayor",
+    "Writer": "Analeine Cal y Mayor, Geoff Deane, David Quantick",
+    "Actors": "Sam Claflin, Remmie Milner, Antonia Clarke",
+    "Plot": "A British writer realizes that his novel is a success in Mexico because a peculiar translation of it.",
+    "Language": "English",
+    "Country": "United Kingdom, United States, Mexico",
+    "Awards": "1 win & 1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjYTdmZDktNzYyZC00MGRiLTkyNGUtYzQyYzgxNWZhODE4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "51%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "44/100"
+        }
+    ],
+    "Metascore": "44",
+    "imdbRating": "5.5",
+    "imdbVotes": "4,151",
+    "imdbID": "tt14014068",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Last Action Hero",
+    "Year": "1993",
+    "Rated": "PG-13",
+    "Released": "18 Jun 1993",
+    "Runtime": "130 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "John McTiernan",
+    "Writer": "Zak Penn, Adam Leff, Shane Black",
+    "Actors": "Arnold Schwarzenegger, F. Murray Abraham, Art Carney",
+    "Plot": "With the help of a magic ticket, a young movie fan is transported into the fictional world of his favorite action movie character.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 16 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGU2NWQyY2ItY2JiZS00ZDJhLWI0NDQtNjMyNWU3MDA1NTgzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "41%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "44/100"
+        }
+    ],
+    "Metascore": "44",
+    "imdbRating": "6.5",
+    "imdbVotes": "171,378",
+    "imdbID": "tt0107362",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$50,016,394",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

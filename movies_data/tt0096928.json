@@ -1,0 +1,40 @@
+{
+    "Title": "Bill & Ted's Excellent Adventure",
+    "Year": "1989",
+    "Rated": "PG",
+    "Released": "17 Feb 1989",
+    "Runtime": "90 min",
+    "Genre": "Adventure, Comedy, Music",
+    "Director": "Stephen Herek",
+    "Writer": "Chris Matheson, Ed Solomon",
+    "Actors": "Keanu Reeves, Alex Winter, George Carlin",
+    "Plot": "Two rock-'n-rolling teens, on the verge of failing their class, set out on a quest to make the ultimate school history report after being presented with a time machine.",
+    "Language": "English, French, German, Greek, Ancient (to 1453)",
+    "Country": "United States, Italy, Canada",
+    "Awards": "3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3Mjk5MzI3OF5BMl5BanBnXkFtZTcwMTY4MzcyNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.9",
+    "imdbVotes": "146,689",
+    "imdbID": "tt0096928",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$40,485,039",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

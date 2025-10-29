@@ -1,0 +1,40 @@
+{
+    "Title": "Love Sarah",
+    "Year": "2020",
+    "Rated": "Not Rated",
+    "Released": "15 Jan 2021",
+    "Runtime": "97 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Eliza Schroeder",
+    "Writer": "Jake Brunger, Eliza Schroeder, Mahalia Rimmer",
+    "Actors": "Celia Imrie, Shannon Tarbet, Shelley Conn",
+    "Plot": "A young woman wishes to fulfill her mother's dream of opening her own bakery in Notting Hill, London. To do this, she enlists the help of an old friend and her grandma.",
+    "Language": "English",
+    "Country": "United Kingdom",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzU3YjI4M2ItNDgwNi00NWFhLTkwMDAtNGEyNjk5NjZjOTM2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "6.2",
+    "imdbVotes": "4,039",
+    "imdbID": "tt9448932",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

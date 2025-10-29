@@ -1,0 +1,40 @@
+{
+    "Title": "Hero",
+    "Year": "1992",
+    "Rated": "PG-13",
+    "Released": "02 Oct 1992",
+    "Runtime": "119 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Stephen Frears",
+    "Writer": "Laura Ziskin, Alvin Sargent, David Webb Peoples",
+    "Actors": "Dustin Hoffman, Geena Davis, Andy Garcia",
+    "Plot": "A not-so-nice man rescues passengers from a crashed airliner, only to see someone else take credit.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWY2NDA0NjctMThiZi00NTI1LWFjODEtODlmZTdkMzJlYzc5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "67%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "6.5",
+    "imdbVotes": "24,193",
+    "imdbID": "tt0104412",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$19,507,345",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -17,56 +17,53 @@
 			<div class="space-y-2">
 				<div class="mx-auto max-w-7xl p-4 space-y-4">
 					<h4 class="text-lg font-semibold">Must Watch</h4>
-					<div class="flex items-center space-x-4 overflow-x-auto overflow-y-hidden no-scrollbar relative movie-scroll">
-						<template x-for="item in [1,2,3,4,5,6,7,8]">
-							<mc-vertical 
-								image="https://m.media-amazon.com/images/M/MV5BNWE5MGI3MDctMmU5Ni00YzI2LWEzMTQtZGIyZDA5MzQzNDBhXkEyXkFqcGc@._V1_SX300.jpg"
-								name="Guardians of the Galaxy"
-								year="2025"
-								genre="Sci-Fi"
-								duration="1h 30m"
-								rating="7.5"
-								description="lorem ipsum dolor amet"
-							></mc-vertical>
-						</template>
-					</div>
+					<div class="flex items-center space-x-4 overflow-x-auto overflow-y-hidden no-scrollbar relative movie-scroll"></div>
 				</div>
 
 				<div class="mx-auto max-w-7xl p-4 space-y-4">
 					<h4 class="text-lg font-semibold">Popular</h4>
-					<div class="flex items-center space-x-4 overflow-x-auto overflow-y-hidden no-scrollbar relative movie-scroll">
-						<template x-for="item in [1,2,3,4,5,6,7,8]">
-							<mc-vertical 
-								image="https://m.media-amazon.com/images/M/MV5BNWE5MGI3MDctMmU5Ni00YzI2LWEzMTQtZGIyZDA5MzQzNDBhXkEyXkFqcGc@._V1_SX300.jpg"
-								name="Guardians of the Galaxy"
-								year="2025"
-								genre="Sci-Fi"
-								duration="1h 30m"
-								rating="7.5"
-								description="lorem ipsum dolor amet"
-							></mc-vertical>
-						</template>
-					</div>
+					<div class="flex items-center space-x-4 overflow-x-auto overflow-y-hidden no-scrollbar relative movie-scroll"></div>
 				</div>
 
 				<div class="mx-auto max-w-7xl p-4 space-y-4">
 					<h4 class="text-lg font-semibold">Award Winning</h4>
-					<div class="flex items-center space-x-4 overflow-x-auto overflow-y-hidden no-scrollbar relative movie-scroll">
-						<template x-for="item in [1,2,3,4,5,6,7,8]">
-							<mc-vertical 
-								image="https://m.media-amazon.com/images/M/MV5BNWE5MGI3MDctMmU5Ni00YzI2LWEzMTQtZGIyZDA5MzQzNDBhXkEyXkFqcGc@._V1_SX300.jpg"
-								name="Guardians of the Galaxy"
-								year="2025"
-								genre="Sci-Fi"
-								duration="1h 30m"
-								rating="7.5"
-								description="lorem ipsum dolor amet"
-							></mc-vertical>
-						</template>
-					</div>
+					<div class="flex items-center space-x-4 overflow-x-auto overflow-y-hidden no-scrollbar relative movie-scroll"></div>
 				</div>
 			</div>
 		</main>
 		<script src="js/utils.js"></script>
+		<script>
+			const movies_containers = document.getElementsByClassName("movie-scroll")
+			fetch('movies_data/all_movies.json')
+				.then(response => response.json())
+				.then(data => {
+					const movieFiles = data.movies;
+					
+					for (let i = 0; i < movies_containers.length; i++) {
+						const shuffled = movieFiles.slice();
+						for (let k = shuffled.length - 1; k > 0; k--) {
+							const r = Math.floor(Math.random() * (k + 1));
+							[shuffled[k], shuffled[r]] = [shuffled[r], shuffled[k]];
+						}
+						const randomMovies = shuffled.slice(0, Math.min(15, shuffled.length));
+						randomMovies.forEach(movie => {
+							fetch(`movies_data/${movie}`)
+							.then(response => response.json())
+							.then(movieData => {
+								const movieCard = document.createElement("mc-vertical");
+								movieCard.setAttribute("image", movieData.Poster);
+								movieCard.setAttribute("name", movieData.Title);
+								movieCard.setAttribute("year", movieData.Year);
+								movieCard.setAttribute("genre", movieData.Genre);
+								movieCard.setAttribute("duration", movieData.Runtime);
+								movieCard.setAttribute("rating", movieData.Ratings[0].Value);
+								movieCard.setAttribute("description", movieData.Plot);
+								movieCard.setAttribute("link", "#");
+								movies_containers[i].appendChild(movieCard);
+							});
+						});
+					}
+				})
+		</script>
 	</body>
 </html>

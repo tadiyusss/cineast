@@ -1,0 +1,40 @@
+{
+    "Title": "Local Hero",
+    "Year": "1983",
+    "Rated": "PG",
+    "Released": "29 Apr 1983",
+    "Runtime": "111 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Bill Forsyth",
+    "Writer": "Bill Forsyth",
+    "Actors": "Burt Lancaster, Peter Riegert, Fulton Mackay",
+    "Plot": "An American oil company has plans for a new refinery and sends someone to Scotland to buy up an entire village, but things don't go as expected.",
+    "Language": "English, Russian, Japanese",
+    "Country": "United Kingdom",
+    "Awards": "Won 1 BAFTA Award4 wins & 6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjRmYWNlYWMtOTcxZS00YzU5LWEwZTctYjEzZWZlNmQxN2Y1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.3",
+    "imdbVotes": "28,808",
+    "imdbID": "tt0085859",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$5,895,761",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

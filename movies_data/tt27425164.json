@@ -1,0 +1,36 @@
+{
+    "Title": "War 2",
+    "Year": "2025",
+    "Rated": "Not Rated",
+    "Released": "14 Aug 2025",
+    "Runtime": "170 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Ayan Mukerji",
+    "Writer": "Aditya Chopra, Shridhar Raghavan, Abbas Tyrewala",
+    "Actors": "Hrithik Roshan, N.T. Rama Rao Jr., Kiara Advani",
+    "Plot": "Things get complicated when Kabir Dhaliwal, a secret agent, is accused of betraying his nation and his former batchmate Vikram is assigned the task of finding him.",
+    "Language": "Hindi, Telugu, Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2U0MGFkNzctOGI5OC00MzhhLWExYTctZjE5YjY3MzcwYjMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "27%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.6",
+    "imdbVotes": "30,186",
+    "imdbID": "tt27425164",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$3,087,065",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

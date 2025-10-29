@@ -1,0 +1,40 @@
+{
+    "Title": "True Crime",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "19 Mar 1999",
+    "Runtime": "127 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "Clint Eastwood",
+    "Writer": "Andrew Klavan, Larry Gross, Paul Brickman",
+    "Actors": "Clint Eastwood, Isaiah Washington, LisaGay Hamilton",
+    "Plot": "Can an over-the-hill journalist uncover the evidence that can prove a death row inmate's innocence just hours before his execution?",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTc0YmZlN2QtMTg5YS00Y2E1LTg2ZTYtNWQwMTZhZmZmYmI1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "56%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "6.6",
+    "imdbVotes": "39,192",
+    "imdbID": "tt0139668",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$16,649,768",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
