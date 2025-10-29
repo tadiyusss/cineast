@@ -3,34 +3,31 @@
         {
             "name": "Free",
             "price": "0.00",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, tempora quaerat. Sapiente, dolore quam. Sequi, recusandae debitis. Corporis consequuntur laborum natus, quod perferendis vitae aperiam sapiente, doloremque ipsam incidunt harum.",
+            "description": "Get started with basic access to our movie database. Discover popular films, view essential details, and stay updated with trending titles — all for free.",
             "features": [
-                "Feature 1",
-                "Feature 2",
-                "Feature 3",
-                "Feaeture 4"
+                "Basic movie details.",
+                "Poster and IMDb rating display",
+                "No account required"
             ]
         },
         {
             "name": "Advanced",
             "price": "130.00",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, tempora quaerat. Sapiente, dolore quam. Sequi, recusandae debitis. Corporis consequuntur laborum natus, quod perferendis vitae aperiam sapiente, doloremque ipsam incidunt harum.",
+            "description": "Unlock deeper insights into your favorite films. Dive into cast profiles, trailers, and behind-the-scenes information to enrich your movie discovery experience.",
             "features": [
-                "Feature 1",
-                "Feature 2",
-                "Feature 3",
-                "Feaeture 4"
+                "Everything in Free Plan",
+                "Watch official trailers",
+                "Access to movie snapshots and posters"
             ]
         },
         {
             "name": "Enthusiasts",
             "price": "250.00",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, tempora quaerat. Sapiente, dolore quam. Sequi, recusandae debitis. Corporis consequuntur laborum natus, quod perferendis vitae aperiam sapiente, doloremque ipsam incidunt harum.",
+            "description": "Experience the ultimate movie companion for cinephiles. Access award-winning analytics, personalized recommendations, and exclusive industry data.",
             "features": [
-                "Feature 1",
-                "Feature 2",
-                "Feature 3",
-                "Feaeture 4"
+                "Personalized movie recommendations",
+                "Ad-free experience",
+                "Early access to new features and beta tools"
             ]
         }
     ]

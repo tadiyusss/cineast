@@ -7,8 +7,7 @@
 		<script src="utils/tailwind.js"></script>
 		<script src="utils/alpine.js" defer></script>
 		<script src="components/navigation.js"></script>
-		<script src="components/actor-image.js"></script>
-		<script src="components/movie-card-full.js"></script>
+		<script src="components/pricing/p-card.js"></script>
 		<link rel="stylesheet" href="./css/fonts.css">
 	</head>
 	<body class="font-montserrat" x-data="{items: [1,2,3,4,5,6,7,8,9,10,11,12]}">
@@ -27,63 +26,7 @@
 					<h1 class="text-3xl font-semibold text-center">Our Pricing</h1>
 					<p class="text-center mx-auto text-gray-600 max-w-lg">Unlock more features, deeper insights, and exclusive content choose a plan that matches your passion for film.</p>
 				</div>
-				<div class="grid md:grid-cols-3 grid-cols-1 gap-4 max-w-5xl mx-auto">
-					<div class="border rounded shadow-sm p-4 space-y-4">
-						<h4>Free</h4>
-						<h3 class="text-4xl font-medium">₱0.00</h3>
-						<div class="space-y-2 py-4">
-							<h6 class="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h6>
-							<ul class="text-sm" x-data="{features: [1,2,3,4]}">
-								<template x-for="feature in features">
-									<li class="flex items-center space-x-2">
-										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-4 text-green-600">
-											<path fill-rule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clip-rule="evenodd" />
-										</svg>
-										<p x-text="'Feature ' + feature"></p>
-									</li>
-								</template>
-							</ul>
-						</div>
-						<button class="w-full border border-gray-300 rounded shadow-inner hover:bg-gray-100 shadow text-sm py-2 transition">Get Started with NAME</button>
-					</div>
-
-					<div class="border rounded shadow-sm p-4 space-y-4">
-						<h4>Free</h4>
-						<h3 class="text-4xl font-medium">₱0.00</h3>
-						<div class="space-y-2 py-4">
-							<h6 class="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h6>
-							<ul class="text-sm" x-data="{features: [1,2,3,4]}">
-								<template x-for="feature in features">
-									<li class="flex items-center space-x-2">
-										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-4 text-green-600">
-											<path fill-rule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clip-rule="evenodd" />
-										</svg>
-										<p x-text="'Feature ' + feature"></p>
-									</li>
-								</template>
-							</ul>
-						</div>
-						<button class="w-full border border-gray-300 rounded shadow-inner hover:bg-gray-100 shadow text-sm py-2 transition">Get Started with NAME</button>
-					</div>
-
-					<div class="border rounded shadow-sm p-4 space-y-4">
-						<h4>Free</h4>
-						<h3 class="text-4xl font-medium">₱0.00</h3>
-						<div class="space-y-2 py-4">
-							<h6 class="text-sm text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h6>
-							<ul class="text-sm" x-data="{features: [1,2,3,4]}">
-								<template x-for="feature in features">
-									<li class="flex items-center space-x-2">
-										<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-4 text-green-600">
-											<path fill-rule="evenodd" d="M10 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16Zm3.857-9.809a.75.75 0 0 0-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 1 0-1.06 1.061l2.5 2.5a.75.75 0 0 0 1.137-.089l4-5.5Z" clip-rule="evenodd" />
-										</svg>
-										<p x-text="'Feature ' + feature"></p>
-									</li>
-								</template>
-							</ul>
-						</div>
-						<button class="w-full border border-gray-300 rounded shadow-inner hover:bg-gray-100 shadow text-sm py-2 transition">Get Started with NAME</button>
-					</div>
+				<div class="grid md:grid-cols-3 grid-cols-1 gap-4 max-w-5xl mx-auto" id="features-container">
 				</div>
 			</div>
 			<div class="space-y-8 max-w-7xl p-4 mx-auto">
@@ -202,5 +145,21 @@
 				</div>
 			</div>
 		</main>
+		<script>
+			const features_container = document.getElementById('features-container');
+			fetch('features/features.json')
+			.then(response => response.json())
+			.then(data => {
+				data.features.forEach((plan, index) => {
+					plan_card = document.createElement("p-card");
+					plan_card.setAttribute("title", plan.name);
+					plan_card.setAttribute("price", plan.price);
+					plan_card.setAttribute("description", plan.description);
+					plan_card.setAttribute("features", plan.features);
+					features_container.appendChild(plan_card);
+
+				});
+			})
+		</script>
 	</body>
 </html>
