@@ -12,14 +12,13 @@
 		<link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
 		<script src="components/navigation.js"></script>
 		<style>
-			html {
-				scroll-behavior: smooth;
-			}
+			html { scroll-behavior: smooth; }
 		</style>
 	</head>
 	<body class="font-montserrat bg-white text-black">
 		<!-- Keep user's web component -->
 		<top-navigation></top-navigation>
+
 		<!-- PAGE WRAPPER -->
 		<main class="min-h-screen bg-gradient-to-b from-white to-gray-50">
 			<!-- HERO / HEADER STRIP -->
@@ -38,15 +37,27 @@
 								<span>Runtime</span>
 							</div>
 						</div>
-						<div class="flex items-center gap-3">
+
+						<div class="flex items-center gap-3 flex-wrap">
 							<span class="inline-flex items-center rounded-md bg-green-500 text-white text-xs font-semibold px-2.5 py-1 shadow">
 								<span id="movie-popularity">--</span>
 							</span>
 							<span class="text-[11px] text-gray-600">POPULARITY</span>
+
+							<!-- Already Watched button -->
+							<button id="watched-btn"
+								class="inline-flex items-center gap-2 rounded-lg border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-gray-900 hover:bg-gray-100 transition focus:outline-none focus:ring-2 focus:ring-gray-900/10"
+								type="button" aria-pressed="false">
+								<svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 opacity-75" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+									<path d="M20 6L9 17l-5-5" />
+								</svg>
+								<span class="label">Already Watched</span>
+							</button>
 						</div>
 					</div>
 				</div>
 			</section>
+
 			<!-- CONTENT GRID -->
 			<section class="relative">
 				<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
@@ -82,9 +93,16 @@
 										<dt class="text-gray-500">IMDB</dt>
 										<dd id="fact-imdb" class="font-medium text-gray-900">—</dd>
 									</div>
+
+									<!-- Watched row -->
+									<div class="col-span-2 grid grid-cols-3 items-center">
+										<dt class="text-gray-500">Watched</dt>
+										<dd id="fact-watched" class="col-span-2 font-medium text-gray-900">—</dd>
+									</div>
 								</dl>
 							</div>
 						</aside>
+
 						<!-- RIGHT COLUMN: Details -->
 						<div class="lg:col-span-8 space-y-8">
 							<!-- Genres & Plot -->
@@ -92,8 +110,9 @@
 								<div id="movie-genres" class="flex flex-wrap gap-2 mb-4">
 									<span class="px-4 py-1 bg-gray-800 rounded-full text-sm text-gray-300">Genre</span>
 								</div>
-								<p id="movie-plot" class="text-base sm:text-lg leading-7 text-gray-800"> Plot... </p>
+								<p id="movie-plot" class="text-base sm:text-lg leading-7 text-gray-800">Plot...</p>
 							</section>
+
 							<!-- Credits -->
 							<section class="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm">
 								<div class="space-y-4">
@@ -111,6 +130,7 @@
 									</div>
 								</div>
 							</section>
+
 							<!-- Trailer -->
 							<section id="trailer-section" class="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm hidden">
 								<h2 class="text-xl font-bold mb-3">Watch Trailer</h2>
@@ -118,27 +138,25 @@
 									<iframe id="movie-trailer" class="w-full h-[400px]" allowfullscreen></iframe>
 								</div>
 							</section>
+
 							<!-- Tabs: Photos / Cast -->
 							<section class="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm">
 								<div x-data="{ tab: 'photos' }">
 									<div class="flex items-center gap-2">
-										<button @click="tab='photos'" :class="tab==='photos' ? 'bg-gray-900 text-white' : 'bg-white text-gray-800'" class="px-4 py-2 rounded-full border border-gray-300 shadow-sm text-sm"> Photos </button>
-										<button @click="tab='cast'" :class="tab==='cast' ? 'bg-gray-900 text-white' : 'bg-white text-gray-800'" class="px-4 py-2 rounded-full border border-gray-300 shadow-sm text-sm"> Cast </button>
+										<button @click="tab='photos'" :class="tab==='photos' ? 'bg-gray-900 text-white' : 'bg-white text-gray-800'" class="px-4 py-2 rounded-full border border-gray-300 shadow-sm text-sm">Photos</button>
+										<button @click="tab='cast'" :class="tab==='cast' ? 'bg-gray-900 text-white' : 'bg-white text-gray-800'" class="px-4 py-2 rounded-full border border-gray-300 shadow-sm text-sm">Cast</button>
 									</div>
 									<!-- Photos Grid -->
 									<div x-show="tab==='photos'" x-transition class="mt-6">
-										<div id="movie-photos" class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-4">
-											<!-- populated by JS -->
-										</div>
+										<div id="movie-photos" class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-4"></div>
 									</div>
 									<!-- Cast Grid -->
 									<div x-show="tab==='cast'" x-transition class="mt-6">
-										<div id="movie-cast" class="grid grid-cols-2 sm:grid-cols-3 xl:grid-cols-4 gap-6">
-											<!-- populated by JS -->
-										</div>
+										<div id="movie-cast" class="grid grid-cols-2 sm:grid-cols-3 xl:grid-cols-4 gap-6"></div>
 									</div>
 								</div>
 							</section>
+
 							<!-- Comments (display-only) -->
 							<section class="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm" x-data="commentFeed()" x-init="seed()">
 								<h2 class="text-xl font-bold mb-4">Comments</h2>
@@ -166,33 +184,29 @@
 				</div>
 			</section>
 		</main>
+
 		<!-- Comments Alpine component (randomized, display-only) -->
 		<script>
 			function commentFeed() {
 				return {
 					comments: [],
 					seed() {
-						const names = ["Alex Rivera", "Jamie Chen", "Priya N.", "Marcus Lee", "Sofia Delgado", "Ibrahim K.", "Chloe Park", "Diego Alvarez", "Mina Patel", "Tomás Reyes", "Ella Brooks", "Hiro Tanaka"];
-						const texts = ["Loved the cinematography — some shots were stunning.", "Solid performances all around. The soundtrack was a vibe.", "Pacing dipped in the middle, but the finale made up for it.", "Not perfect, but definitely worth a watch with friends.", "The lead absolutely carried this. Award-worthy!", "Plot twists kept me guessing right up to the end.", "I wish the runtime were 20 minutes shorter, but still good.", "Production design was top-tier. Immersive world-building.", "Dialogue felt natural; the humor landed for me.", "I didn't expect to enjoy it this much — pleasant surprise!"];
-						const count = Math.floor(Math.random() * 4) + 5; // 5–8 comments
+						const names = ["Alex Rivera","Jamie Chen","Priya N.","Marcus Lee","Sofia Delgado","Ibrahim K.","Chloe Park","Diego Alvarez","Mina Patel","Tomás Reyes","Ella Brooks","Hiro Tanaka"];
+						const texts = ["Loved the cinematography — some shots were stunning.","Solid performances all around. The soundtrack was a vibe.","Pacing dipped in the middle, but the finale made up for it.","Not perfect, but definitely worth a watch with friends.","The lead absolutely carried this. Award-worthy!","Plot twists kept me guessing right up to the end.","I wish the runtime were 20 minutes shorter, but still good.","Production design was top-tier. Immersive world-building.","Dialogue felt natural; the humor landed for me.","I didn't expect to enjoy it this much — pleasant surprise!"];
+						const count = Math.floor(Math.random() * 4) + 5;
 						for (let i = 0; i < count; i++) {
 							const name = names[Math.floor(Math.random() * names.length)];
 							const text = texts[Math.floor(Math.random() * texts.length)];
 							const daysAgo = Math.floor(Math.random() * 30);
-							const date = new Date();
-							date.setDate(date.getDate() - daysAgo);
+							const date = new Date(); date.setDate(date.getDate() - daysAgo);
 							const initials = name.split(" ").map(w => w[0]).join("").toUpperCase().slice(0, 2);
-							this.comments.push({
-								name,
-								text,
-								time: date.toLocaleString(),
-								initials
-							});
+							this.comments.push({ name, text, time: date.toLocaleString(), initials });
 						}
 					}
 				};
 			}
 		</script>
+
 		<!-- Orientation helpers -->
 		<script>
 			function styleImageByOrientation(img, variant = 'side') {
@@ -200,10 +214,10 @@
 				const common = "rounded-lg shadow";
 				// Side images
 				const sideLandscape = "w-full h-40 sm:h-48 md:h-56 lg:h-48 xl:h-60 object-cover " + common;
-				const sidePortrait = "w-full h-60 sm:h-64 md:h-72 lg:h-64 xl:h-72 object-contain bg-gray-100 p-1 " + common;
+				const sidePortrait  = "w-full h-60 sm:h-64 md:h-72 lg:h-64 xl:h-72 object-contain bg-gray-100 p-1 " + common;
 				// Photo grid
 				const photoLandscape = "w-full h-56 object-cover rounded-lg shadow";
-				const photoPortrait = "w-full h-72 object-contain bg-gray-100 p-2 rounded-lg shadow";
+				const photoPortrait  = "w-full h-72 object-contain bg-gray-100 p-2 rounded-lg shadow";
 				if (variant === 'side') {
 					img.className = isPortrait ? sidePortrait : sideLandscape;
 				} else if (variant === 'photo') {
@@ -211,99 +225,185 @@
 				}
 			}
 		</script>
-		<!-- Dynamic data fetch (kept), with orientation-aware images + quick facts -->
+
+		<!-- Watched button helpers -->
+		<script>
+			const WATCHED_STORE_KEY = 'cineast_watched';
+
+			function getWatchedStore() {
+				try { return JSON.parse(localStorage.getItem(WATCHED_STORE_KEY)) || {}; }
+				catch { return {}; }
+			}
+			function setWatchedStore(obj) {
+				try { localStorage.setItem(WATCHED_STORE_KEY, JSON.stringify(obj)); }
+				catch { /* storage may be unavailable */ }
+			}
+			function formatWatchedDate(iso) {
+				try { return new Date(iso).toLocaleString(); } catch { return '—'; }
+			}
+			function applyWatchedUI(isWatched, ts) {
+				const btn = document.getElementById('watched-btn');
+				const label = btn?.querySelector('.label');
+				const fact = document.getElementById('fact-watched');
+				if (!btn || !label || !fact) return;
+
+				if (isWatched) {
+					btn.setAttribute('aria-pressed', 'true');
+					btn.dataset.state = 'on';
+					btn.className = "inline-flex items-center gap-2 rounded-lg border border-gray-900 bg-gray-900 px-3 py-2 text-sm font-medium text-white shadow transition focus:outline-none focus:ring-2 focus:ring-gray-900/20";
+					label.textContent = "Watched ✓";
+					fact.textContent = `Yes — ${formatWatchedDate(ts)}`;
+				} else {
+					btn.setAttribute('aria-pressed', 'false');
+					btn.dataset.state = 'off';
+					btn.className = "inline-flex items-center gap-2 rounded-lg border border-gray-300 bg-white px-3 py-2 text-sm font-medium text-gray-900 hover:bg-gray-100 transition focus:outline-none focus:ring-2 focus:ring-gray-900/10";
+					label.textContent = "Already Watched";
+					fact.textContent = "—";
+				}
+			}
+		</script>
+
+		<!-- Dynamic data fetch (kept), with orientation-aware images + quick facts + watched toggle -->
 		<script>
 			document.addEventListener("DOMContentLoaded", async () => {
-							const params = new URLSearchParams(window.location.search);
-							const filename = params.get("id");
-							if (!filename) return console.error("Missing ?id parameter");
-							try {
-								const res = await fetch(`movies_data/${filename}`);
-								if (!res.ok) throw new Error("Movie data not found");
-								const movie = await res.json();
-								// --- Title & Meta ---
-								document.getElementById("movie-title").textContent = movie.Title;
-								document.getElementById("movie-info").innerHTML = `
-          
-				<span>${movie.Year || "N/A"}</span>
-				<span>•</span>
-				<span>${movie.Rated || "N/A"}</span>
-				<span>•</span>
-				<span>${movie.Runtime || "N/A"}</span>`;
-								document.getElementById("movie-popularity").textContent = movie.TMDb_Rating ? (movie.TMDb_Rating * 10).toFixed(0) : "--";
-								// --- Poster ---
-								document.getElementById("hero-image").src = movie.Poster_TMDb || movie.Poster_OMDb;
-								// --- Side Images (orientation-aware) ---
-								const side = document.getElementById("side-images");
-								side.innerHTML = "";
-								(movie.Backdrops?.slice(1, 3) || []).forEach(src => {
-									const el = document.createElement("img");
-									el.alt = "Backdrop";
-									el.loading = "lazy";
-									el.src = src;
-									if (el.complete) styleImageByOrientation(el, "side");
-									else el.addEventListener("load", () => styleImageByOrientation(el, "side"));
-									side.appendChild(el);
-								});
-								// --- Genres ---
-								const genres = movie.Genre?.split(",") || [];
-								const genreContainer = document.getElementById("movie-genres");
-								genreContainer.innerHTML = "";
-								genres.forEach(g => {
-									const span = document.createElement("span");
-									span.className = "px-4 py-1 bg-gray-800 rounded-full text-sm text-gray-300";
-									span.textContent = g.trim();
-									genreContainer.appendChild(span);
-								});
-								// --- Plot ---
-								document.getElementById("movie-plot").textContent = movie.Plot;
-								// --- Credits ---
-								const directorsContainer = document.getElementById("movie-directors");
-								directorsContainer.innerHTML = (movie.Directors || []).map(d => `
-				<span class="text-blue-500 hover:underline cursor-pointer">${d}</span>`).join(" ");
-									const actorsContainer = document.getElementById("movie-actors");
-									const actors = movie.Actors?.split(",") || []; actorsContainer.innerHTML = actors.map(a => `
-				<span class="text-blue-500 hover:underline cursor-pointer">${a.trim()}</span>`).join(" ");
-										// --- Quick Facts fill-ins ---
-										document.getElementById("fact-released").textContent = movie.Released || "—"; document.getElementById("fact-language").textContent = movie.Language || "—"; document.getElementById("fact-genre").textContent = movie.Genre || "—"; document.getElementById("fact-imdb").textContent = movie.imdbRating || "—";
-										// --- Trailer ---
-										if (movie.Trailer) {
-											const trailer = document.getElementById("movie-trailer");
-											document.getElementById("trailer-section").classList.remove("hidden");
-											const videoId = movie.Trailer.includes("v=") ? movie.Trailer.split("v=")[1].split("&")[0] : movie.Trailer.split("/").pop();
-											trailer.src = `https://www.youtube.com/embed/${videoId}`;
-										}
-										// --- Photos (orientation-aware) ---
-										const photos = document.getElementById("movie-photos"); photos.innerHTML = "";
-										(movie.Backdrops || []).forEach(src => {
-											const wrapper = document.createElement("div");
-											const img = document.createElement("img");
-											img.alt = "Photo";
-											img.loading = "lazy";
-											img.src = src;
-											if (img.complete) styleImageByOrientation(img, "photo");
-											else img.addEventListener("load", () => styleImageByOrientation(img, "photo"));
-											wrapper.appendChild(img);
-											photos.appendChild(wrapper);
-										});
-										// --- Cast ---
-										const cast = document.getElementById("movie-cast"); cast.innerHTML = "";
-										(movie.Cast || []).forEach(actor => {
-											const div = document.createElement("div");
-											div.className = "flex flex-col items-center";
-											div.innerHTML = `
-            
-				<img src="${actor.profile_url || 'https://placehold.co/150x150'}"
-                 alt="${actor.name}" class="w-36 h-36 object-cover rounded-full mb-3 shadow">
-					<p class="font-semibold text-center">${actor.name}</p>
-					<p class="text-sm text-gray-500 text-center">${actor.character || ''}</p>`;
-											cast.appendChild(div);
-										});
-									}
-									catch (err) {
-										console.error("Error loading movie:", err);
-									}
-								});
+				const params = new URLSearchParams(window.location.search);
+				const filename = params.get("id");
+				if (!filename) return console.error("Missing ?id parameter");
+
+				// Initialize watched UI from store *before* network fetch completes
+				const storeBoot = getWatchedStore();
+				const entryBoot = storeBoot[filename];
+				applyWatchedUI(!!entryBoot, entryBoot?.ts);
+
+				// Toggle handler
+				const watchedBtn = document.getElementById('watched-btn');
+				watchedBtn?.addEventListener('click', () => {
+					const store = getWatchedStore();
+					const current = store[filename];
+					if (current && current.watched) {
+						// unwatch
+						delete store[filename];
+						setWatchedStore(store);
+						applyWatchedUI(false);
+					} else {
+						// mark watched with timestamp
+						const ts = new Date().toISOString();
+						store[filename] = { watched: true, ts };
+						setWatchedStore(store);
+						applyWatchedUI(true, ts);
+					}
+				});
+
+				try {
+					const res = await fetch(`movies_data/${filename}`);
+					if (!res.ok) throw new Error("Movie data not found");
+					const movie = await res.json();
+
+					// --- Title & Meta ---
+					document.getElementById("movie-title").textContent = movie.Title;
+					document.getElementById("movie-info").innerHTML = `
+						<span>${movie.Year || "N/A"}</span>
+						<span>•</span>
+						<span>${movie.Rated || "N/A"}</span>
+						<span>•</span>
+						<span>${movie.Runtime || "N/A"}</span>`;
+					document.getElementById("movie-popularity").textContent = movie.TMDb_Rating ? (movie.TMDb_Rating * 10).toFixed(0) : "--";
+
+					// --- Poster ---
+					document.getElementById("hero-image").src = movie.Poster_TMDb || movie.Poster_OMDb;
+
+					// --- Side Images (orientation-aware) ---
+					const side = document.getElementById("side-images");
+					side.innerHTML = "";
+					(movie.Backdrops?.slice(1, 3) || []).forEach(src => {
+						const el = document.createElement("img");
+						el.alt = "Backdrop";
+						el.loading = "lazy";
+						el.src = src;
+						if (el.complete) styleImageByOrientation(el, "side");
+						else el.addEventListener("load", () => styleImageByOrientation(el, "side"));
+						side.appendChild(el);
+					});
+
+					// --- Genres ---
+					const genres = movie.Genre?.split(",") || [];
+					const genreContainer = document.getElementById("movie-genres");
+					genreContainer.innerHTML = "";
+					genres.forEach(g => {
+						const span = document.createElement("span");
+						span.className = "px-4 py-1 bg-gray-800 rounded-full text-sm text-gray-300";
+						span.textContent = g.trim();
+						genreContainer.appendChild(span);
+					});
+
+					// --- Plot ---
+					document.getElementById("movie-plot").textContent = movie.Plot;
+
+					// --- Credits ---
+					const directorsContainer = document.getElementById("movie-directors");
+					directorsContainer.innerHTML = (movie.Directors || [])
+						.map(d => `<span class="text-blue-500 hover:underline cursor-pointer">${d}</span>`)
+						.join(" ");
+					const actorsContainer = document.getElementById("movie-actors");
+					const actors = movie.Actors?.split(",") || [];
+					actorsContainer.innerHTML = actors
+						.map(a => `<span class="text-blue-500 hover:underline cursor-pointer">${a.trim()}</span>`)
+						.join(" ");
+
+					// --- Quick Facts fill-ins ---
+					document.getElementById("fact-released").textContent = movie.Released || "—";
+					document.getElementById("fact-language").textContent = movie.Language || "—";
+					document.getElementById("fact-genre").textContent = movie.Genre || "—";
+					document.getElementById("fact-imdb").textContent = movie.imdbRating || "—";
+
+					// Re-apply watched UI in case we want to display a nicer date format after locale is ready
+					const store = getWatchedStore();
+					const entry = store[filename];
+					applyWatchedUI(!!entry, entry?.ts);
+
+					// --- Trailer ---
+					if (movie.Trailer) {
+						const trailer = document.getElementById("movie-trailer");
+						document.getElementById("trailer-section").classList.remove("hidden");
+						const videoId = movie.Trailer.includes("v=")
+							? movie.Trailer.split("v=")[1].split("&")[0]
+							: movie.Trailer.split("/").pop();
+						trailer.src = `https://www.youtube.com/embed/${videoId}`;
+					}
+
+					// --- Photos (orientation-aware) ---
+					const photos = document.getElementById("movie-photos");
+					photos.innerHTML = "";
+					(movie.Backdrops || []).forEach(src => {
+						const wrapper = document.createElement("div");
+						const img = document.createElement("img");
+						img.alt = "Photo";
+						img.loading = "lazy";
+						img.src = src;
+						if (img.complete) styleImageByOrientation(img, "photo");
+						else img.addEventListener("load", () => styleImageByOrientation(img, "photo"));
+						wrapper.appendChild(img);
+						photos.appendChild(wrapper);
+					});
+
+					// --- Cast ---
+					const cast = document.getElementById("movie-cast");
+					cast.innerHTML = "";
+					(movie.Cast || []).forEach(actor => {
+						const div = document.createElement("div");
+						div.className = "flex flex-col items-center";
+						div.innerHTML = `
+							<img src="${actor.profile_url || 'https://placehold.co/150x150'}"
+								 alt="${actor.name}" class="w-36 h-36 object-cover rounded-full mb-3 shadow">
+							<p class="font-semibold text-center">${actor.name}</p>
+							<p class="text-sm text-gray-500 text-center">${actor.character || ''}</p>`;
+						cast.appendChild(div);
+					});
+
+				} catch (err) {
+					console.error("Error loading movie:", err);
+				}
+			});
 		</script>
 	</body>
 </html>
