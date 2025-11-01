@@ -1,172 +1,120 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Checkout - Movie Subscription</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="components/navigation.js"></script>
-  </head>
-  <body class="bg-gray-50 text-gray-900">
-    <top-navigation></top-navigation>
-
-    <div class="max-w-6xl mx-auto p-8">
-      <!-- Header -->
-      <h1 class="text-2xl font-semibold mb-6">Checkout</h1>
-      <div class="grid grid-cols-3 gap-6">
-        <!-- Left Column -->
-        <div class="col-span-2 space-y-6">
-          <!-- Subscription Info -->
-          <div class="bg-white border rounded-lg shadow-sm p-6">
-            <h2 class="text-lg font-semibold mb-4">Subscription Info</h2>
-            <div class="grid grid-cols-3 gap-4 text-sm">
-              <div>
-                <p class="text-gray-500">Full Name</p>
-                <input
-                  id="fullname"
-                  type="text"
-                  class="px-2 py-1 border border-gray-300 rounded-lg w-full focus:outline-none focus:ring-1 focus:ring-gray-400"
-                  placeholder="e.g. Juan Dela Cruz"
-                />
-              </div>
-              <div>
-                <p class="text-gray-500">Email</p>
-                <input
-                  id="email"
-                  type="text"
-                  class="px-2 py-1 border border-gray-300 rounded-lg w-full focus:outline-none focus:ring-1 focus:ring-gray-400"
-                  placeholder="e.g. juan.delacruz@email.com"
-                />
-              </div>
-              <div>
-                <p class="text-gray-500">Phone Number</p>
-                <input
-                  id="phone"
-                  type="text"
-                  class="px-2 py-1 border border-gray-300 rounded-lg w-full focus:outline-none focus:ring-1 focus:ring-gray-400"
-                  placeholder="e.g. +63 912 345 6789"
-                />
-              </div>
-            </div>
-
-            <!-- Duration of Subscription -->
-            <div class="mt-4 text-sm">
-              <p class="text-gray-500 mb-1">Duration of Subscription (in months)</p>
-              <input
-                id="durationInput"
-                type="number"
-                min="1"
-                step="1"
-                class="border border-gray-300 rounded-lg p-2 w-full focus:outline-none focus:ring-1 focus:ring-gray-400"
-                placeholder="Enter number of months (whole number)"
-              />
-            </div>
-          </div>
-
-          <!-- Payment Detail -->
-          <div class="bg-white border rounded-lg shadow-sm p-6">
-            <h2 class="text-lg font-semibold mb-4">Payment Detail</h2>
-            <div class="space-y-4">
-              <select
-                id="payment"
-                name="payment"
-                class="border border-gray-300 rounded-lg p-2 w-full focus:outline-none focus:ring-1 focus:ring-gray-400"
-              >
-                <option>Select Payment Method</option>
-                <option>GCash Payment</option>
-                <option>Card Payment</option>
-                <option>PayMaya Payment</option>
-              </select>
-            </div>
-          </div>
-
-          <!-- Combined Policy Section -->
-          <div class="bg-white border rounded-lg shadow-sm p-6 space-y-4">
-            <h2 class="text-lg font-semibold mb-2">Terms & Conditions</h2>
-            <p class="text-sm text-gray-700">
-              By proceeding with this payment, you agree that your subscription will begin immediately after successful processing. 
-              The subscription fee is non-transferable and must be paid in full before access is granted. 
-              Users are responsible for ensuring the accuracy of their provided information and payment details. 
-              Any misuse, sharing of account credentials, or violation of platform guidelines may result in suspension without refund.
-            </p>
-
-            <h2 class="text-lg font-semibold mb-2">Cancellation Policy</h2>
-            <p class="text-sm text-gray-700">
-              You may cancel your subscription within seven (7) days of your initial payment for a full refund. 
-              After this period, cancellations will not be eligible for refunds, but access will remain active until the end of your billing cycle. 
-              To cancel, please contact our support team at <span class="text-blue-600">support@cineast.com</span>.
-            </p>
-          </div>
-        </div>
-
-        <!-- Right Column -->
-        <div class="space-y-6">
-          <!-- Summary -->
-          <div class="bg-white border rounded-lg shadow-sm p-6">
-            <h2 class="text-lg font-semibold mb-4">Summary</h2>
-            <div class="space-y-3 text-sm">
-              <div class="flex justify-between">
-                <p class="text-gray-500">Plan</p>
-                <p class="font-medium">Premium</p>
-              </div>
-              <div class="flex justify-between">
-                <p class="text-gray-500">Duration</p>
-                <p id="summaryDuration" class="font-medium">0 Month</p>
-              </div>
-              <div class="flex justify-between">
-                <p class="text-gray-500">Price</p>
-                <p id="summaryPrice" class="font-medium">₱0</p>
-              </div>
-              <hr />
-              <div class="flex justify-between text-base font-semibold">
-                <p>Total</p>
-                <p id="summaryTotal">₱0</p>
-              </div>
-            </div>
-          </div>
-
-          <!-- Terms Confirmation -->
-          <div class="bg-white border rounded-lg shadow-sm p-6 space-y-4">
-            <label class="flex items-start space-x-2 text-sm">
-              <input type="checkbox" class="mt-1 w-4 h-4 border-gray-300 rounded" />
-              <span>
-                I have read and agree to the Terms & Conditions and Cancellation Policy stated above.
-              </span>
-            </label>
-
-            <button class="w-full bg-gray-900 text-white py-2 rounded-lg hover:bg-gray-800 transition">
-              Pay for Subscription
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Script: Duration & Total Computation -->
-    <script>
-      const durationInput = document.getElementById("durationInput");
-      const summaryDuration = document.getElementById("summaryDuration");
-      const summaryPrice = document.getElementById("summaryPrice");
-      const summaryTotal = document.getElementById("summaryTotal");
-
-      const pricePerMonth = 499;
-
-      durationInput.addEventListener("input", function () {
-        let duration = parseInt(this.value);
-
-        // Prevent non-integer and negative input
-        if (isNaN(duration) || duration < 1) {
-          summaryDuration.textContent = "0 Month";
-          summaryPrice.textContent = "₱0";
-          summaryTotal.textContent = "₱0";
-          return;
-        }
-
-        let total = duration * pricePerMonth;
-        summaryDuration.textContent = `${duration} Month${duration > 1 ? "s" : ""}`;
-        summaryPrice.textContent = `₱${pricePerMonth}`;
-        summaryTotal.textContent = `₱${total.toLocaleString()}`;
-      });
-    </script>
-  </body>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Checkout - Movie Subscription</title>
+		<script src="https://cdn.tailwindcss.com"></script>
+		<script src="components/navigation.js"></script>
+	</head>
+	<body class="bg-gray-50 text-gray-900">
+		<top-navigation></top-navigation>
+		<div class="max-w-6xl mx-auto p-8">
+			<!-- Header -->
+			<h1 class="text-2xl font-semibold mb-6">Checkout</h1>
+			<form method="POST" action="done.html" class="grid grid-cols-3 gap-6">
+				<!-- Left Column -->
+				<div class="col-span-2 space-y-6">
+					<!-- Subscription Info -->
+					<div class="bg-white border rounded-lg shadow-sm p-6">
+						<h2 class="text-lg font-semibold mb-4">Subscription Info</h2>
+						<div class="grid grid-cols-3 gap-4 text-sm">
+							<div>
+								<p class="text-gray-500">Full Name</p>
+								<input required id="fullname" type="text" class="px-2 py-1 border border-gray-300 rounded-lg w-full focus:outline-none focus:ring-1 focus:ring-gray-400" placeholder="e.g. Juan Dela Cruz" />
+							</div>
+							<div>
+								<p class="text-gray-500">Email</p>
+								<input required id="email" type="text" class="px-2 py-1 border border-gray-300 rounded-lg w-full focus:outline-none focus:ring-1 focus:ring-gray-400" placeholder="e.g. juan.delacruz@email.com" />
+							</div>
+							<div>
+								<p class="text-gray-500">Phone Number</p>
+								<input required id="phone" type="text" class="px-2 py-1 border border-gray-300 rounded-lg w-full focus:outline-none focus:ring-1 focus:ring-gray-400" placeholder="e.g. +63 912 345 6789" />
+							</div>
+						</div>
+						<!-- Duration of Subscription -->
+						<div class="mt-4 text-sm">
+							<p class="text-gray-500 mb-1">Duration of Subscription (in months)</p>
+							<input required id="durationInput" type="number" min="1" step="1" class="border border-gray-300 rounded-lg p-2 w-full focus:outline-none focus:ring-1 focus:ring-gray-400" placeholder="Enter number of months (whole number)" />
+						</div>
+					</div>
+					<!-- Payment Detail -->
+					<div class="bg-white border rounded-lg shadow-sm p-6">
+						<h2 class="text-lg font-semibold mb-4">Payment Detail</h2>
+						<div class="space-y-4">
+							<select id="payment" name="payment" class="border border-gray-300 rounded-lg p-2 w-full focus:outline-none focus:ring-1 focus:ring-gray-400">
+								<option>Select Payment Method</option>
+								<option>GCash Payment</option>
+								<option>Card Payment</option>
+								<option>PayMaya Payment</option>
+							</select>
+						</div>
+					</div>
+					<!-- Combined Policy Section -->
+					<div class="bg-white border rounded-lg shadow-sm p-6 space-y-4">
+						<h2 class="text-lg font-semibold mb-2">Terms & Conditions</h2>
+						<p class="text-sm text-gray-700"> By proceeding with this payment, you agree that your subscription will begin immediately after successful processing. The subscription fee is non-transferable and must be paid in full before access is granted. Users are responsible for ensuring the accuracy of their provided information and payment details. Any misuse, sharing of account credentials, or violation of platform guidelines may result in suspension without refund. </p>
+						<h2 class="text-lg font-semibold mb-2">Cancellation Policy</h2>
+						<p class="text-sm text-gray-700"> You may cancel your subscription within seven (7) days of your initial payment for a full refund. After this period, cancellations will not be eligible for refunds, but access will remain active until the end of your billing cycle. To cancel, please contact our support team at <span class="text-blue-600">support@cineast.com</span>. </p>
+					</div>
+				</div>
+				<!-- Right Column -->
+				<div class="space-y-6">
+					<!-- Summary -->
+					<div class="bg-white border rounded-lg shadow-sm p-6">
+						<h2 class="text-lg font-semibold mb-4">Summary</h2>
+						<div class="space-y-3 text-sm">
+							<div class="flex justify-between">
+								<p class="text-gray-500">Plan</p>
+								<p class="font-medium">Premium</p>
+							</div>
+							<div class="flex justify-between">
+								<p class="text-gray-500">Duration</p>
+								<p id="summaryDuration" class="font-medium">0 Month</p>
+							</div>
+							<div class="flex justify-between">
+								<p class="text-gray-500">Price</p>
+								<p id="summaryPrice" class="font-medium">₱0</p>
+							</div>
+							<hr />
+							<div class="flex justify-between text-base font-semibold">
+								<p>Total</p>
+								<p id="summaryTotal">₱0</p>
+							</div>
+						</div>
+					</div>
+					<!-- Terms Confirmation -->
+					<div class="bg-white border rounded-lg shadow-sm p-6 space-y-4">
+						<label class="flex items-start space-x-2 text-sm">
+							<input required type="checkbox" class="mt-1 w-4 h-4 border-gray-300 rounded" />
+							<span> I have read and agree to the Terms & Conditions and Cancellation Policy stated above. </span>
+						</label>
+						<button class="w-full bg-gray-900 text-white py-2 rounded-lg hover:bg-gray-800 transition"> Pay for Subscription </button>
+					</div>
+				</div>
+			</form>
+		</div>
+		<!-- Script: Duration & Total Computation -->
+		<script>
+			const durationInput = document.getElementById("durationInput");
+			const summaryDuration = document.getElementById("summaryDuration");
+			const summaryPrice = document.getElementById("summaryPrice");
+			const summaryTotal = document.getElementById("summaryTotal");
+			const pricePerMonth = 499;
+			durationInput.addEventListener("input", function() {
+				let duration = parseInt(this.value);
+				// Prevent non-integer and negative input
+				if (isNaN(duration) || duration < 1) {
+					summaryDuration.textContent = "0 Month";
+					summaryPrice.textContent = "₱0";
+					summaryTotal.textContent = "₱0";
+					return;
+				}
+				let total = duration * pricePerMonth;
+				summaryDuration.textContent = `${duration} Month${duration > 1 ? "s" : ""}`;
+				summaryPrice.textContent = `₱${pricePerMonth}`;
+				summaryTotal.textContent = `₱${total.toLocaleString()}`;
+			});
+		</script>
+	</body>
 </html>
