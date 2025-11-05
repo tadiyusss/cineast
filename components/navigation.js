@@ -18,6 +18,7 @@ class SiteHeader extends HTMLElement {
                     <ul class="flex flex-col md:flex-row md:space-x-4 space-y-2 md:space-y-0">
                         <li><a href="index.html">Home</a></li>
                         <li><a href="movie_list.html">Movies</a></li>
+                        <li><a href="actors_page.html">Actors</a></li>
                         <li><a href="login.html">Login</a></li>
                     </ul>
                 </ul>
